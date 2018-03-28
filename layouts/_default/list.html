@@ -1,0 +1,19 @@
+{{ define "main" }}
+  <section class="section">
+    <div class="container">
+      <h1 class="title">
+        Hello World
+      </h1>
+      <p class="subtitle">
+        My first website with <strong>Bulma</strong>!
+      </p>
+    </div>
+  </section>
+  <h1 class="title">Posts from the List</h1>
+  {{ range .Data.Pages }}
+    <article>
+      <h2 class="subtitle">{{ .Title }}</h2>
+      {{ .Summary }}
+    </article>
+  {{ end }}
+{{ end }}
