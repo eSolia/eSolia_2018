@@ -11,6 +11,8 @@
   </head>
   <body>
     <!-- Code that all your templates share, like a header -->
+    {{ block "nav" . }}
+    {{ end }}
     {{ block "main" . }}
       <!-- The part of the page that begins to differ between templates -->
     {{ end }}
