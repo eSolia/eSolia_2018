@@ -1,3 +1,362 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "http://esolia.com/"
+DefaultContentLanguage = "en"
+copyright = "This work is copyright. All rights reserved by eSolia Inc."
+canonifyurls = "false"
+MetaDataFormat = "yaml"
+enableMissingTranslationPlaceholders = "true"
+ISO8601 = "2006-01-02T15:04:05JST"
+
+[author]
+    name = "Rick Cogley"
+
+[permalinks]
+    # Optional. Change the permalink format for the 'post' content type.
+    # The format shown here is the same one Jekyll/Octopress uses by default.
+    post = "/:section/:slug"
+
+[Taxonomies]
+    tag = "tags"
+    topic = "topics"
+    series = "series"
+
+[blackfriday]
+    plainIdAnchors = true
+
+[imaging]
+# Default resample filter used for resizing. Default is Box,
+# a simple and fast averaging filter appropriate for downscaling.
+# See https://github.com/disintegration/imaging
+    resampleFilter = "box"
+# JPEG quality setting. Default is 75.
+    quality = 80
+
+[params.navigation]
+help  = "Help"
+
+[Languages]
+[Languages.en]
+baseURL = "http://esolia.com/"
+title = "eSolia Inc."
+languageName = "English"
+weight = 1
+# For RSS only, apparently
+languageCode = "en-US"
+
+
+[Languages.en.params]
+    linkedin = "english-link"
+    locale = "en-US"
+    alternatelocales = ["ja-JP"]
+    description = "Website of eSolia Inc. - a Tokyo-based IT Management and support firm."
+    keywords = ["Japan","ICT","IT","Tokyo","Greater Tokyo","Kanto","IT","Management","Support","Outsourcing","Helpdesk","Website","Project Management","Consulting","Development","Operations"]
+    author = "Team eSolia"
+    accountableperson = "Rick Cogley"
+    entityname = "eSolia Inc."
+    # Used when a given page doesn't set its own.
+    defaultDescription = "Content by eSolia Inc."
+    defaultKeywords = "eSolia"
+    ISO8601 = "2006-01-02T15:04:05JST"
+    googleAnalytics = "UA-1040233-7"
+
+[[languages.en.menu.side]]
+    name = "About eSolia"
+    identifier = "en_esolia"
+    weight = 5
+
+[[languages.en.menu.side]]
+    name = "Outsourcing"
+    identifier = "en_outsourcing"
+    weight = 10
+
+[[languages.en.menu.side]]
+    name = "Process"
+    identifier = "proc"
+    weight = 30
+    url = "/process"
+    parent = "en_outsourcing"
+
+[[languages.en.menu.side]]
+    name = "Consulting"
+    identifier = "en_consulting"
+    weight = 15
+
+[[languages.en.menu.side]]
+    name = "Infrastructure"
+    identifier = "en_infra"
+    weight = 20
+
+[[languages.en.menu.side]]
+    name = "Cloud System"
+    identifier = "en_cloudsystem"
+    weight = 25
+
+[[languages.en.menu.side]]
+    name = "Solutions Focus"
+    identifier = "en_solutionsfocus"
+    weight = 30
+
+[[menu.side]]
+    name = "Success Stories"
+    identifier = "en_successstories"
+    weight = 40
+
+[[languages.en.menu.side]]
+    name = "Topics"
+    identifier = "en_topics"
+    weight = 111
+
+[[languages.en.menu.side]]
+    name = "All Topics"
+    identifier = "en_alltopics"
+    url = "/topics"
+    parent = "topics"
+    weight = 1
+
+[[languages.en.menu.side]]
+    name = "All Tags"
+    identifier = "en_alltags"
+    url = "/tags"
+    parent = "topics"
+    weight = 2
+
+[[languages.en.menu.side]]
+    name = "About eSolia"
+    identifier = "en_aboutesolia"
+    url = "/topics/esolia"
+    parent = "topics"
+    weight = 10
+
+[[languages.en.menu.side]]
+    name = "Services"
+    identifier = "en_ourservices"
+    weight = 20
+    url = "/topics/services"
+    parent = "topics"
+
+[[languages.en.menu.side]]
+    name = "Telephone"
+    identifier = "en_telephonetopic"
+    weight = 30
+    url = "/topics/telephone"
+    parent = "topics"
+
+[[languages.en.menu.side]]
+    name = "Tools"
+    identifier = "en_tools"
+    weight = 222
+
+[[languages.en.menu.side]]
+    name = "Zerobin"
+    identifier = "en_zerobin"
+    url = "https://zerobin.esolia.com"
+    post = "_blank"
+    parent = "tools"
+    weight = 22
+
+[[languages.en.menu.side]]
+    name = "eSolia Connect"
+    identifier = "en_connect"
+    url = "http://connect.esolia.com"
+    post = "_blank"
+    parent = "tools"
+    weight = 33
+
+[[languages.en.menu.detailfooter1]]
+    name = "All Topics"
+    identifier = "en_topics"
+    url = "/topics"
+    weight = 55
+
+[[languages.en.menu.homefooter2]]
+    name = "Zerobin"
+    identifier = "en_zerobin"
+    url = "https://zerobin.esolia.com"
+    post = "_blank"
+    weight = 22
+
+[[languages.en.menu.homefooter2]]
+    name = "eSolia Connect"
+    identifier = "en_connect"
+    url = "http://connect.esolia.com"
+    post = "_blank"
+    weight = 33
+
+[[languages.en.menu.homefooter2]]
+    name = "All Topics"
+    identifier = "en_topics"
+    url = "/topics"
+    weight = 44
+
+[[languages.en.menu.homefooter2]]
+    name = "All Tags"
+    identifier = "en_tags"
+    url = "/tags"
+    weight = 55
+
+[Languages.ja]
+baseURL = "http://esolia.co.jp/"
+title = "イソリア"
+languageName = "日本語"
+weight = 2
+# For RSS only, apparently
+languageCode = "ja"
+hasCJKLanguage = "true"
+
+[Languages.ja.params]
+    linkedin = "リンクドイン"
+    locale = "ja-JP"
+    alternatelocales = ["en-US"]
+    description = "東京をベースにしたITマネージメントやサポート会社、株式会社イソリアのウェブサイト"
+    keywords = ["東京","東京近郊","都内","23区","ICT","IT","バイリンガル","サポート","アウトソーシング","外注","ヘルプデスク","ウェブサイト","マネージメント","コンサルティング","開発","統括","日本"]
+    author = "チーム イソリア"
+    accountableperson = "コブレー ジェームズ"
+    entityname = "株式会社イソリア"
+    # Used when a given page doesn't set its own.
+    defaultDescription = "このコンテンツはイソリアの提供でお送りいたします。"
+    defaultKeywords = "イソリア"
+    ISO8601 = "2006-01-02T15:04:05JST"
+    googleAnalytics = "UA-1040233-8"
+
+[Languages.ja.navigation]
+help  = "ヘルプ"
+
+[[languages.ja.menu.side]]
+    name = "イソリアについて"
+    identifier = "ja_esolia"
+    weight = 5
+
+[[languages.ja.menu.side]]
+    name = "アウトソーシング"
+    identifier = "ja_outsourcing"
+    weight = 10
+
+[[languages.ja.menu.side]]
+    name = "プロセス"
+    identifier = "ja_proc"
+    weight = 30
+    url = "/process"
+    parent = "outsourcing"
+
+[[languages.ja.menu.side]]
+    name = "コンサルティング"
+    identifier = "ja_consulting"
+    weight = 15
+
+[[languages.ja.menu.side]]
+    name = "インフラストラクチャ"
+    identifier = "ja_infra"
+    weight = 20
+
+[[languages.ja.menu.side]]
+    name = "クラウド システム"
+    identifier = "ja_cloudsystem"
+    weight = 25
+
+[[languages.ja.menu.side]]
+    name = "ソリューション フォーカス"
+    identifier = "ja_solutionsfocus"
+    weight = 30
+
+[[languages.ja.menu.side]]
+    name = "成功事例"
+    identifier = "ja_successstories"
+    weight = 40
+
+[[languages.ja.menu.side]]
+    name = "トピック"
+    identifier = "ja_topics"
+    weight = 111
+
+[[languages.ja.menu.side]]
+    name = "全トピック一覧"
+    identifier = "ja_alltopics"
+    url = "/topics"
+    parent = "topics"
+    weight = 1
+
+[[languages.ja.menu.side]]
+    name = "全タグ一覧"
+    identifier = "ja_alltags"
+    url = "/tags"
+    parent = "topics"
+    weight = 2
+
+[[languages.ja.menu.side]]
+    name = "イソリアについて"
+    identifier = "ja_aboutesolia"
+    url = "/topics/イソリア"
+    parent = "topics"
+    weight = 10
+
+[[languages.ja.menu.side]]
+    name = "サービス"
+    identifier = "ja_ourservices"
+    weight = 20
+    url = "/topics/サービス"
+    parent = "topics"
+
+[[languages.ja.menu.side]]
+    name = "電話"
+    identifier = "ja_telephonetopic"
+    weight = 30
+    url = "/topics/電話"
+    parent = "topics"
+
+[[languages.ja.menu.side]]
+    name = "便利ツール"
+    identifier = "ja_tools"
+    weight = 222
+
+[[languages.ja.menu.side]]
+    name = "ゼロビン"
+    identifier = "ja_zerobin"
+    url = "https://zerobin.esolia.com/?language=jp"
+    post = "_blank"
+    parent = "tools"
+    weight = 22
+
+[[languages.ja.menu.side]]
+    name = "イソリア コネクト"
+    identifier = "ja_connect"
+    url = "http://connect.esolia.com"
+    post = "_blank"
+    parent = "tools"
+    weight = 33
+
+[[languages.ja.menu.detailfooter1]]
+    name = "全てのトピック一覧"
+    identifier = "ja_topics"
+    url = "/topics"
+    weight = 55
+
+[[languages.ja.menu.homefooter2]]
+    name = "ゼロビン"
+    identifier = "ja_zerobin"
+    url = "https://zerobin.esolia.com/?language=jp"
+    post = "_blank"
+    weight = 22
+
+[[languages.ja.menu.homefooter2]]
+    name = "イソリア コネクト"
+    identifier = "ja_connect"
+    url = "http://connect.esolia.com"
+    post = "_blank"
+    weight = 33
+
+[[languages.ja.menu.homefooter2]]
+    name = "全てのトピック一覧"
+    identifier = "ja_topics"
+    url = "/topics"
+    weight = 44
+
+[[languages.ja.menu.homefooter2]]
+    name = "全てのタグ一覧"
+    identifier = "ja_tags"
+    url = "/tags"
+    weight = 55
+
+
+
+
+
+
