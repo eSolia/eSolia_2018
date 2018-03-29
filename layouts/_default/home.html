@@ -5,17 +5,17 @@
     {{- partial "nav1.html" . -}}
 {{ end }}
 {{ define "main" }}
-   <section class="hero is-medium is-primary is-bold">
+   <section class="hero is-medium hero-bg-atagotunnel">
       <div class="hero-body">
         <div class="container">
           <div class="columns">
             <div class="column is-8-desktop is-offset-2-desktop">
-              <h1 class="title is-2 is-spaced">
+              <h1 class="title is-2 is-spaced has-text-white">
                 {{ .Title }}
               </h1>
-              <h2 class="subtitle is-4">
+              <h2 class="subtitle is-4 has-text-white">
                   {{ .Content }}
-                  Congratulations! You're running the <strong>Bulma start</strong> project.
+                  Congratulations! You're running the <strong class="has-text-white">Bulma start</strong> project.
                   <br>
                   It includes everything you need to <strong>build your own website</strong> with Bulma.
               </h2>
