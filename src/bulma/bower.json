@@ -34,6 +34,23 @@
   "private": true,
   "dependencies": {
     "bulma": "^0.6.2",
-    "bulma-extensions": "^1.0.13"
+    "bulma-extensions": "^1.0.14",
+    "bulma-calendar": "^1.1.10",
+    "bulma-timeline": "^2.0.1",
+    "bulma-switch": "^1.0.1",
+    "bulma-pricingtable": "^1.0.0",
+    "bulma-divider": "^1.0.1",
+    "bulma-carousel": "^1.0.12",
+    "bulma-checkradio": "^1.0.1",
+    "bulma-iconpicker": "^1.0.1",
+    "bulma-pageloader": "^1.0.1",
+    "bulma-tooltip": "^1.0.4",
+    "bulma-tagsinput": "^1.0.7",
+    "bulma-accordion": "^1.0.1",
+    "bulma-ribbon": "^1.0.2",
+    "bulma-quickview": "^1.0.1",
+    "bulma-steps": "^1.0.2",
+    "bulma-slider": "^1.0.4",
+    "bulma-badge": "^1.0.1"
   }
 }

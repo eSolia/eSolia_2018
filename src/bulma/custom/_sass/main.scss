@@ -7,7 +7,7 @@
 
 
 // 1. Import the initial variables
-@import "../../node_modules/bulma/sass/utilities/initial-variables";
+@import "../../bower_components/bulma/sass/utilities/initial-variables";
 
 // 2. Set your own initial variables
 // Update the blue shade, used for links
@@ -26,7 +26,25 @@ $primary-invert: $pink-invert;
 // 4. Import the rest of Bulma
 
 // Don't need the extension for bulma.sass, just bulma
-@import "../../node_modules/bulma/bulma";
+@import "../../bower_components/bulma/bulma";
+// Also import extensions
+// @import "../../bower_components/bulma-accordion/dist/bulma-accordion";
+@import "../../bower_components/bulma-badge/dist/bulma-badge";
+@import "../../bower_components/bulma-calendar/dist/bulma-calendar";
+@import "../../bower_components/bulma-carousel/dist/bulma-carousel";
+@import "../../bower_components/bulma-checkradio/dist/bulma-checkradio";
+@import "../../bower_components/bulma-divider/dist/bulma-divider";
+@import "../../bower_components/bulma-iconpicker/dist/bulma-iconpicker";
+@import "../../bower_components/bulma-pageloader/dist/bulma-pageloader";
+// @import "../../bower_components/bulma-pricingtable/dist/bulma-pricingtable";
+@import "../../bower_components/bulma-quickview/dist/bulma-quickview";
+@import "../../bower_components/bulma-ribbon/dist/bulma-ribbon";
+@import "../../bower_components/bulma-slider/dist/bulma-slider";
+@import "../../bower_components/bulma-steps/dist/bulma-steps";
+@import "../../bower_components/bulma-switch/dist/bulma-switch";
+@import "../../bower_components/bulma-tagsinput/dist/bulma-tagsinput";
+@import "../../bower_components/bulma-timeline/dist/bulma-timeline";
+@import "../../bower_components/bulma-tooltip/dist/bulma-tooltip";
 
 // CUSTOM CSS
 html { background-color: $green;}
