@@ -6,8 +6,9 @@
 // Just uncomment the following block to see the result.
 
 
-// 1. Import the initial variables
+// 1. Import the initial variables and functions, so you can override
 @import "../../bower_components/bulma/sass/utilities/initial-variables";
+@import "../../bower_components/bulma/sass/utilities/functions";
 
 // 2. Set your own initial variables
 // Update the blue shade, used for links
@@ -16,14 +17,32 @@ $blue: #06bcef;
 $pink: #ff8080;
 $pink-invert: #fff;
 // Update the sans-serif font family
-$family-sans-serif: "Helvetica", "Arial", sans-serif;
+$family-sans-serif: "ryo-gothic-plusn", "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+$family-monospace: "source-code-pro", "monospace";
 
 // 3. Set the derived variables
 // Use the new pink as the primary color
 $primary: $pink;
 $primary-invert: $pink-invert;
 
-// 4. Import the rest of Bulma
+// 4. Setup your Custom Colors
+$linkedin: #0077b5;
+$linkedin-invert: findColorInvert($linkedin);
+$twitter: #55acee;
+$twitter-invert: findColorInvert($twitter);
+$github: #333;
+$github-invert: findColorInvert($github);
+
+// 5. Add new color variables to the color map.
+@import "../../bower_components/bulma/sass/utilities/derived-variables";
+$addColors: (
+  "twitter":($twitter, $twitter-invert),
+  "linkedin": ($linkedin, $linkedin-invert),
+  "github": ($github, $github-invert)
+);
+$colors: map-merge($colors, $addColors);
+
+// 6. Import the rest of Bulma
 
 // Don't need the extension for bulma.sass, just bulma
 @import "../../bower_components/bulma/bulma";
@@ -47,7 +66,7 @@ $primary-invert: $pink-invert;
 @import "../../bower_components/bulma-tooltip/dist/bulma-tooltip";
 
 // CUSTOM CSS
-html { background-color: $green;}
+html { background-color: $grey-darker;}
 
 strong {
    color: inherit;
