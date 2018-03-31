@@ -13,6 +13,7 @@ ISO8601 = "2006-01-02T15:04:05JST"
     # Optional. Change the permalink format for the 'post' content type.
     # The format shown here is the same one Jekyll/Octopress uses by default.
     post = "/:section/:slug"
+    page = "/:slug"
 
 [Taxonomies]
     tag = "tags"
