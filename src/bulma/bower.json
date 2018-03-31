@@ -51,6 +51,8 @@
     "bulma-quickview": "^1.0.1",
     "bulma-steps": "^1.0.2",
     "bulma-slider": "^1.0.4",
-    "bulma-badge": "^1.0.1"
+    "bulma-badge": "^1.0.1",
+    "bulmajs": "bulma.js#^0.1.0",
+    "jQuery": "^3.3.1"
   }
 }

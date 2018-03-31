@@ -13,7 +13,7 @@
 // @codekit-prepend "../../bower_components/bulma-slider/dist/bulma-slider.js";
 // @codekit-prepend "../../bower_components/bulma-steps/dist/bulma-steps.js";
 // @codekit-prepend "../../bower_components/bulma-switch/dist/bulma-switch.js";
-// @codekit-prepend "../../bower_components/bulma-tagsinput/dist/bulma-tagsinput.js";
+// at codekit - prepend "../../bower_components/bulma-tagsinput/dist/bulma-tagsinput.js";
 // @codekit-prepend "../../bower_components/bulma-timeline/dist/bulma-timeline.js";
 // @codekit-prepend "../../bower_components/bulma-tooltip/dist/bulma-tooltip.js";
 
@@ -21,6 +21,7 @@ document.addEventListener('DOMContentLoaded', () => {
   console.log('Hello Bulma!');
 });
 
+// Mobile Hamburger Menu
 document.addEventListener('DOMContentLoaded', function () {
 
   // Get all "navbar-burger" elements
@@ -45,4 +46,18 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   }
 
+});
+
+// Modal
+document.addEventListener('DOMContentLoaded', function () {
+  var buttons = Array.from(document.getElementsByClassName('modal-button'));
+
+  for (var i = 0; i < buttons.length; i++) {
+    var button = buttons[i];
+    var target = document.querySelector(button.dataset.target);
+
+    button.addEventListener("click", function(e) {
+      target.classList.toggle('is-active');
+    }, false);
+  }
 });
