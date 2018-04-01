@@ -5688,6 +5688,16 @@
 		"oAP": "\/bower_components\/jQuery\/test\/xhtml.php",
 		"oF": 0
 		},
+	"\/custom\/_images\/Cogley-Banner-JR-Totsuka-Bridge-2-mono.jpg": {
+		"ft": 16384,
+		"iS": 347385,
+		"oA": 0,
+		"oAP": "\/custom\/_images\/Cogley-Banner-JR-Totsuka-Bridge-2-mono.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/custom\/_javascript\/main.js": {
 		"ft": 64,
 		"ma": 1,
