@@ -40,6 +40,17 @@
           <a href="/search" data-show="quickview" data-target="quickviewDefault">
             <span class="icon"><i class="fas fa-cog has-text-warning"></i></span>
           </a>
+          {{ if .IsTranslated }}
+          {{ range .Translations }}
+          <a class="button is-small is-danger is-rounded" href="{{ .Permalink }}">{{ .Site.Language.LanguageName }}</a>
+          {{ end }}
+          {{ else }}
+          {{ if eq .Site.Language.Lang "en" }}
+          <a class="button is-small is-danger is-rounded" href="/">日本語</a>
+          {{ else }}
+          <a class="button is-small is-danger is-rounded" href="/">English</a>
+          {{ end }}
+          {{ end }}
         </div>
       </div>
     </div>

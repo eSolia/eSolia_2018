@@ -1,3 +1,6 @@
+[langName]
+other = "日本語"
+
 [wordCount]
 other = "合計 {{ .WordCount }} 数の単語"
 
