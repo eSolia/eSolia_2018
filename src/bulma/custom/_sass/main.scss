@@ -65,6 +65,9 @@ $colors: map-merge($colors, $addColors);
 @import "../../bower_components/bulma-timeline/dist/bulma-timeline";
 @import "../../bower_components/bulma-tooltip/dist/bulma-tooltip";
 
+// Custom extension
+@import "/Users/rcogley/dev/eSolia_2018/src/bulma/custom/_sass/_spacing";
+
 // CUSTOM CSS
 html { background-color: $grey-darker;}
 

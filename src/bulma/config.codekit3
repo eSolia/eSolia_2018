@@ -5708,6 +5708,19 @@
 		"sC": 3,
 		"tS": 1
 		},
+	"\/custom\/_sass\/_spacing.scss": {
+		"aP": 1,
+		"bl": 1,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "\/custom\/_sass\/_spacing.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
 	"\/custom\/_sass\/main.scss": {
 		"aP": 1,
 		"bl": 1,
