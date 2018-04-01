@@ -20,7 +20,7 @@ aliases:
 menu:
   main:
     Name: 成功事例
-    Weight: 50
+    Weight: 40
     Identifier: success_index_ja
     Url: /success-stories
 ---

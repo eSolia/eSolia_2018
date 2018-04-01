@@ -1,4 +1,4 @@
-baseURL = "http://esolia.com/"
+baseURL = "https://esolia.com/"
 DefaultContentLanguage = "en"
 copyright = "This work is copyright. All rights reserved by eSolia Inc."
 canonifyurls = "false"
@@ -34,17 +34,16 @@ ISO8601 = "2006-01-02T15:04:05JST"
 [params.navigation]
 help  = "Help"
 
-[Languages]
-[Languages.en]
-baseURL = "http://esolia.com/"
+[languages]
+[languages.en]
+baseURL = "https://esolia.com/"
 title = "eSolia Inc."
 languageName = "English"
 weight = 1
 # For RSS only, apparently
 languageCode = "en-US"
 
-
-[Languages.en.params]
+[languages.en.params]
     linkedin = "english-link"
     locale = "en-US"
     alternatelocales = ["ja-JP"]
@@ -58,6 +57,26 @@ languageCode = "en-US"
     defaultKeywords = "eSolia"
     ISO8601 = "2006-01-02T15:04:05JST"
     googleAnalytics = "UA-1040233-7"
+
+[[languages.en.menu.main]]
+    name = "News"
+    weight = 50
+    identifier = "news_index_en"
+    url = "/post"
+
+[[languages.en.menu.main]]
+    name = "All Topics"
+    weight = 10
+    parent = "news_index_en"
+    identifier = "topicslist_en"
+    url = "/topics"
+
+[[languages.en.menu.main]]
+    name = "All Tags"
+    weight = 20
+    parent = "news_index_en"
+    identifier = "tagslist_en"
+    url = "/tags"
 
 [[languages.en.menu.side]]
     name = "About eSolia"
@@ -194,8 +213,8 @@ languageCode = "en-US"
     url = "/tags"
     weight = 55
 
-[Languages.ja]
-baseURL = "http://esolia.co.jp/"
+[languages.ja]
+baseURL = "https://esolia.co.jp/"
 title = "イソリア"
 languageName = "日本語"
 weight = 2
@@ -203,7 +222,7 @@ weight = 2
 languageCode = "ja"
 hasCJKLanguage = "true"
 
-[Languages.ja.params]
+[languages.ja.params]
     linkedin = "リンクドイン"
     locale = "ja-JP"
     alternatelocales = ["en-US"]
@@ -218,8 +237,28 @@ hasCJKLanguage = "true"
     ISO8601 = "2006-01-02T15:04:05JST"
     googleAnalytics = "UA-1040233-8"
 
-[Languages.ja.navigation]
+[languages.ja.navigation]
 help  = "ヘルプ"
+
+[[languages.ja.menu.main]]
+    name = "ニュース"
+    weight = 50
+    identifier = "news_index_ja"
+    url = "/post"
+
+[[languages.ja.menu.main]]
+    name = "全トピック一覧"
+    weight = 10
+    parent = "news_index_ja"
+    identifier = "topicslist_ja"
+    url = "/topics"
+
+[[languages.ja.menu.main]]
+    name = "全タグ一覧"
+    weight = 20
+    parent = "news_index_ja"
+    identifier = "tagslist_ja"
+    url = "/tags"
 
 [[languages.ja.menu.side]]
     name = "イソリアについて"
@@ -355,9 +394,4 @@ help  = "ヘルプ"
     identifier = "ja_tags"
     url = "/tags"
     weight = 55
-
-
-
-
-
 

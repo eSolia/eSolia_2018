@@ -20,7 +20,7 @@ aliases:
 menu:
   main:
     Name: Success
-    Weight: 10
+    Weight: 40
     Identifier: success_index_en
     Url: /success-stories
 ---

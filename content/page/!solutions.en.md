@@ -27,7 +27,7 @@ aliases:
 menu:
   main:
     Name: Solutions
-    Weight: 10
+    Weight: 30
     Identifier: solutions_index_en
     Url: /solutions
 ---
