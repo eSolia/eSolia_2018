@@ -17,6 +17,12 @@ images:
   - /img/eSolia-Chicklet-Color-1024px.png
 aliases:
   - /concept
+menu:
+  main:
+    Name: イソリアのついて
+    Weight: 10
+    Identifier: about_index_ja
+    Url: /about-us
 ---
 
 ## イソリアでシステムインフラを強化する

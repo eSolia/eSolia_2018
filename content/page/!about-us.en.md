@@ -17,6 +17,12 @@ images:
   - /img/eSolia-Chicklet-Color-1024px.png
 aliases:
   - /concept
+menu:
+  main:
+    Name: About
+    Weight: 10
+    Identifier: about_index_en
+    Url: /about-us
 ---
 
 ## Foundations take root with eSolia
