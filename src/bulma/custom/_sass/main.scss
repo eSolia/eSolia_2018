@@ -82,5 +82,7 @@ $backgrounds: (bg-totsukabridge: '/img/Cogley-Banner-JR-Totsuka-Bridge-2-mono.jp
   .hero-#{$key} {
     @extend .hero;
     background-image: url('#{$image}');
+    background-size: cover !important;
   }
 }
+
