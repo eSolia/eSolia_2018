@@ -69,13 +69,16 @@ $colors: map-merge($colors, $addColors);
 @import "/Users/rcogley/dev/eSolia_2018/src/bulma/custom/_sass/_spacing";
 
 // CUSTOM CSS
+// set background color of pages
 html { background-color: $grey-darker;}
 
+// try to fix strong not inheriting color
 strong {
    color: inherit;
    font-weight: $strong-weight;
    }
 
+// set hero backgrounds
 $backgrounds: (bg-totsukabridge: '/img/Cogley-Banner-JR-Totsuka-Bridge-2-mono.jpg', bg-templecolumn: '/img/eSolia-Cogley-Azabudai-to-Atago-Tokyo-20131031-5318b.jpg', bg-atagotunnel: '/img/eSolia-Cogley-Azabudai-to-Atago-Tokyo-20131031-5355b.jpg', bg-networkswitch: '/img/eSolia-Cogley-Network-Switch-1.jpg');
 
 @each $key, $image in $backgrounds {
@@ -85,4 +88,21 @@ $backgrounds: (bg-totsukabridge: '/img/Cogley-Banner-JR-Totsuka-Bridge-2-mono.jp
     background-size: cover !important;
   }
 }
+
+// Shade for blocks from dansup on github
+.is-shaded {
+    animation: flyintoright .4s backwards;
+    background: $grey-darker;
+    box-shadow: rgba(0, 0, 0, .1) 0 1px 0;
+    border-radius: 4px;
+    display: inline-block;
+    margin: 1px;
+    position: relative;
+    transition: all .2s ease-in-out;
+}
+.is-shaded:hover {
+    box-shadow: 0 1px 2px rgba(255, 255, 255, .13), 0 1px 1px rgba(255, 255, 255, .19);
+}
+
+
 
