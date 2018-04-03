@@ -1,7 +1,23 @@
 {{ define "title" }}
   {{ .Title }} &ndash; {{ .Site.Title }}
 {{ end }}
+{{ define "nav" }}
+    {{- partial "nav1.html" . -}}
+{{ end }}
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
-  {{ .Content }}
+<div class="columns content">
+  <div class="column is-narrow">
+    <div class="box" style="width: 250px;">
+      <p class="title is-5">Sidebar</p>
+      <p class="subtitle">This column is only 200px wide.</p>
+    </div>
+  </div>
+  <div class="column">
+    <div class="box">
+      <p class="title is-5"><h1>{{ .Title }}</h1></p>
+      <p class="subtitle">This column will take up the remaining space available.</p>
+      {{ .Content }}
+    </div>
+  </div>
+</div>
 {{ end }}
