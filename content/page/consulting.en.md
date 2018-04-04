@@ -40,6 +40,11 @@ menu:
     Parent: services_index_en
     Identifier: consulting_en
     Url: /consulting
+  consulting:
+    Name: Consulting
+    Weight: 10
+    Identifier: conconsulting_en
+    url: /consulting
 ---
 
 eSolia consulting is all about leveraging professional expertise to skillfully define problems, pinpoint client capacities and weaknesses apolitically, create practical and reasonable action plans, and have an influential involvement in their implementations. The results of any consulting process should be real improvements - not just the latest fad or program.

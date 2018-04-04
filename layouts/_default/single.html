@@ -23,7 +23,17 @@
        {{ end }}
         </ul>
 
-
+      {{- $currentPage := . -}}
+       {{ range .Site.Menus.consulting }}
+         <a class="is-hoverable{{ if $currentPage.IsMenuCurrent "consulting" . }} is-active{{ end }}" href="{{ .URL | absLangURL }}"><p class="menu-label has-text-info">{{ .Name }}</p></a>
+          <ul class="menu-list">
+          {{ if .HasChildren }}
+          {{ range .Children }}
+            <li><a class="is-hoverable{{ if $currentPage.IsMenuCurrent "consulting" . }} is-active{{ end }}" href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
+          {{ end }}
+          {{ end }}
+       {{ end }}
+        </ul>
 
 
 

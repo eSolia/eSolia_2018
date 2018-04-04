@@ -46,6 +46,12 @@ menu:
     Identifier: management
     Url: /management
     Parent: consulting
+  consulting:
+    Name: Management
+    Weight: 10
+    Parent: conconsulting_en
+    Identifier: conmanagement_en
+    url: /management
 ---
 
 ## Management by eSolia
