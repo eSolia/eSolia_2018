@@ -8,7 +8,7 @@ slug: management
 subtitle: Coordination for success
 description: Interim or ongoing IT management services, on- or off-site. Successful coordination for all your local or global projects. - from eSolia Inc.
 weight: 10
-menusection: Consulting
+type: Consulting
 alternatelocales:
   - ja-JP
 tags:

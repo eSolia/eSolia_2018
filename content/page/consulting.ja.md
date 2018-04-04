@@ -6,6 +6,7 @@ draft: false
 slug: consulting
 subtitle: 我々の知識と技術に頼ってください
 weight: 20
+type: Consulting
 alternatelocales:
   - en-US
 tags:

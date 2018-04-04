@@ -6,6 +6,7 @@ draft: false
 slug: consulting
 subtitle: Leverage Our Professional Expertise
 weight: 20
+type: Consulting
 alternatelocales:
   - ja-JP
 tags:

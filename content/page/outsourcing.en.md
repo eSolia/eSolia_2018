@@ -6,6 +6,7 @@ draft: false
 slug: outsourcing
 subtitle: Leverage Our Professional Expertise
 weight: 20
+type: Outsourcing
 alternatelocales:
   - ja-JP
 tags:
