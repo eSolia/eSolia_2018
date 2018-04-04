@@ -30,13 +30,20 @@ formcheckboxes:
   - Project management for software projects
   - Project management for infrastructure projects
   - Interim Management
+series:
+  - outsourcing
 menu:
   main:
     Name: Outsourcing
     Weight: 10
     Parent: services_index_en
     Identifier: outsourcing_en
-    Url: /oursourcing
+    Url: /outsourcing
+  outsourcing:
+    Name: Outsourcing
+    Weight: 10
+    Identifier: osoutsourcing_en
+    url: /outsourcing
 ---
 
 <small>

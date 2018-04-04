@@ -24,6 +24,7 @@ tags:
 series:
   - top1
   - ninki1
+  - outsourcing
 topics:
   - Services
   - Outsourcing
@@ -42,12 +43,12 @@ formcheckboxes:
   - ITIL and COBIT
 gallery_id: 6159786672282286673
 menu:
-  side:
+  outsourcing:
     Name: Helpdesk
     Weight: 10
-    Identifier: helpdesk
+    Parent: osoutsourcing_en
+    Identifier: oshelpdesk_en
     Url: /helpdesk
-    Parent: outsourcing
 ---
 
 ## Wisdom of the Masses

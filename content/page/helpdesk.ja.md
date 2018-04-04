@@ -25,6 +25,7 @@ tags:
 series:
   - top1
   - ninki1
+  - outsourcing
 topics:
   - サービス
   - アウトソーシング
@@ -49,6 +50,12 @@ menu:
     Identifier: helpdesk
     Url: /helpdesk
     Parent: outsourcing
+  outsourcing:
+    Name: ヘルプデスク
+    Weight: 10
+    Parent: osoutsourcing_ja
+    Identifier: oshelpdesk_ja
+    Url: /helpdesk
 ---
 
 ## 大衆の知

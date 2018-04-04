@@ -104,5 +104,30 @@ $backgrounds: (bg-totsukabridge: '/img/Cogley-Banner-JR-Totsuka-Bridge-2-mono.jp
     box-shadow: 0 1px 2px rgba(255, 255, 255, .13), 0 1px 1px rgba(255, 255, 255, .19);
 }
 
+// Inner page sidebar
+.is-sidebar-menu {
+  padding: 2.5rem;
+  background: $grey-dark;
+  li {
+    a {
+      color: $white;
+    }
+  }
+}
 
+.columns {
+  &.is-fullheight {
+    min-height: calc(100vh - ( #{$navbar-height} - .75rem ) );
+    max-height: calc(100vh - ( #{$navbar-height} - .75rem ) );
+    display: flex;
+    flex-direction: row;
+    justify-content: stretch;
+    .column {
+      overflow-y: auto;
+    }
+  }
+}
 
+.is-main-content {
+  background: $grey-lighter;
+}

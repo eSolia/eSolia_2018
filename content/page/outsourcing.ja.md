@@ -32,13 +32,20 @@ formcheckboxes:
   - トレーニング
   - ウェブサイト デザイン
   - プロセス
+series:
+  - outsourcing
 menu:
   main:
     Name: アウトソーシング
     Weight: 10
     Parent: services_index_ja
     Identifier: outsourcing_ja
-    Url: /oursourcing
+    Url: /outsourcing
+  outsourcing:
+    Name: アウトソーシング
+    Weight: 10
+    Identifier: osoutsourcing_ja
+    url: /outsourcing
 ---
 
 イソリアのアウトソーシング・サービスを導入された場合、イソリア ツールやフレームワークと最新技術に精通したバイリンガルなプロフェッショナルによって提供されるサポート・エンジニアリング・導入サービスメニューを存分にご利用頂くことが可能となります。

@@ -5,14 +5,40 @@
     {{- partial "nav1.html" . -}}
 {{ end }}
 {{ define "main" }}
-<div class="columns content">
-  <div class="column is-narrow">
-    <div class="box" style="width: 250px;">
-      <p class="title is-5">Sidebar</p>
-      <p class="subtitle">This column is only 200px wide.</p>
-    </div>
+<div class="columns content is-fullheight">
+  <div class="column is-3 is-sidebar-menu is-hidden-mobile">
+
+     <aside class="menu">
+
+
+        {{- $currentPage := . -}}
+       {{ range .Site.Menus.outsourcing }}
+         <a class="is-hoverable{{ if $currentPage.IsMenuCurrent "outsourcing" . }} is-active{{ end }}" href="{{ .URL | absLangURL }}"><p class="menu-label has-text-info">{{ .Name }}</p></a>
+          <ul class="menu-list">
+          {{ if .HasChildren }}
+          {{ range .Children }}
+            <li><a class="is-hoverable{{ if $currentPage.IsMenuCurrent "outsourcing" . }} is-active{{ end }}" href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
+          {{ end }}
+          {{ end }}
+       {{ end }}
+        </ul>
+
+
+
+
+
+
+        <p class="menu-label has-text-info">Tags</p>
+       <div class="tags">
+       {{ range .Params.tags }}
+        <span class="tag is-rounded is-light"><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></span>
+       {{ end }}
+       </div>
+
+    </aside>
+
   </div>
-  <div class="column">
+  <div class="column is-main-content">
     <div class="box">
       <p class="title is-5"><h1>{{ .Title }}</h1></p>
       <p class="subtitle">This column will take up the remaining space available.</p>
@@ -21,3 +47,7 @@
   </div>
 </div>
 {{ end }}
+{{ define "footer" }}
+    {{- partial "footer1.html" . -}}
+{{ end }}
+
