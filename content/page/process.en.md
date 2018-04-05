@@ -8,7 +8,7 @@ slug: process
 subtitle: Relief for your Many Runaway Processes
 description: Skillful Process Management of Projects, Procurement, Asset Mgt, Compliance, Upgrade or any other IT or business processes. - from eSolia Inc.
 weight: 30
-menusection: Outsourcing
+layout: services
 alternatelocales:
   - ja-JP
 tags:
@@ -44,12 +44,12 @@ formcheckboxes:
   - Recycling Management
 gallery_id: 6159794668058542529
 menu:
-  side:
+  services:
     Name: Process
     Weight: 30
-    Identifier: process
     Url: /process
-    Parent: consulting
+    Parent: conconsulting_en
+    Identifier: conproc_en
 ---
 
 ## Double-edged IT

@@ -6,7 +6,7 @@ draft: false
 slug: outsourcing
 subtitle: 我々の知識と技術に頼ってください
 weight: 20
-type: Outsourcing
+layout: services
 alternatelocales:
   - en-US
 tags:
@@ -38,13 +38,13 @@ series:
 menu:
   main:
     Name: アウトソーシング
-    Weight: 10
+    Weight: 20
     Parent: services_index_ja
     Identifier: outsourcing_ja
     Url: /outsourcing
-  outsourcing:
+  services:
     Name: アウトソーシング
-    Weight: 10
+    Weight: 20
     Identifier: osoutsourcing_ja
     url: /outsourcing
 ---

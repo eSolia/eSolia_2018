@@ -8,7 +8,7 @@ slug: office-moves
 subtitle: The Dramatic Before & After
 description: Full support for office moves, new office setup, upgrades or internal move management - from eSolia Inc.
 weight: 10
-menusection: Infrastructure
+layout: services
 alternatelocales:
   - ja-JP
 tags:
@@ -52,12 +52,12 @@ aliases:
   - /office-setup
   - /office-move
 menu:
-  side:
+  services:
     Name: Office Moves
     Weight: 10
     Identifier: officemoves
     Url: /office-moves
-    Parent: infra
+    Parent: seinfrastructure_en
 ---
 
 ## Sleepless Nights before an Office Move

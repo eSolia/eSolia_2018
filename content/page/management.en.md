@@ -8,7 +8,7 @@ slug: management
 subtitle: Coordination for success
 description: Interim or ongoing IT management services, on- or off-site. Successful coordination for all your local or global projects. - from eSolia Inc.
 weight: 10
-type: Consulting
+layout: services
 alternatelocales:
   - ja-JP
 tags:
@@ -40,13 +40,7 @@ formcheckboxes:
   - Ongoing IT support management
 gallery_id: 6159792188653157249
 menu:
-  side:
-    Name: Management
-    Weight: 10
-    Identifier: management
-    Url: /management
-    Parent: consulting
-  consulting:
+  services:
     Name: Management
     Weight: 10
     Parent: conconsulting_en

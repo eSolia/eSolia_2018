@@ -8,7 +8,7 @@ slug: helpdesk
 subtitle: Bilingual service via phone and remote
 description: User support questions answered quickly and completely by our bilingual professionals, with knowledge stored in our internal helpdesk operations database. - from eSolia Inc.
 weight: 10
-type: Outsourcing
+layout: services
 alternatelocales:
   - ja-JP
 tags:
@@ -43,7 +43,7 @@ formcheckboxes:
   - ITIL and COBIT
 gallery_id: 6159786672282286673
 menu:
-  outsourcing:
+  services:
     Name: Helpdesk
     Weight: 10
     Parent: osoutsourcing_en

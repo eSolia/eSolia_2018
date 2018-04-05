@@ -6,7 +6,7 @@ draft: false
 slug: consulting
 subtitle: Leverage Our Professional Expertise
 weight: 20
-type: Consulting
+layout: services
 alternatelocales:
   - ja-JP
 tags:
@@ -37,11 +37,11 @@ formcheckboxes:
 menu:
   main:
     Name: Consulting
-    Weight: 20
+    Weight: 10
     Parent: services_index_en
     Identifier: consulting_en
     Url: /consulting
-  consulting:
+  services:
     Name: Consulting
     Weight: 10
     Identifier: conconsulting_en

@@ -8,7 +8,7 @@ slug: management
 subtitle: 多様なITプロジェクトをバイリンガルにてサポート
 description: イソリア マネージメント - 多種多様なプロジェクトを多方面、多言語でのサポートを実現
 weight: 10
-type: Consulting
+layout: services
 alternatelocales:
   - en-US
 tags:
@@ -46,6 +46,12 @@ menu:
     Identifier: management
     Url: /management
     Parent: consulting
+  services:
+    Name: マネージメント
+    Weight: 10
+    Parent: conconsulting_ja
+    Identifier: conmanagement_ja
+    url: /management
 ---
 
 ## イソリアによるマネージメント

@@ -8,7 +8,7 @@ slug: office-moves
 subtitle: オフィス構築から小規模なレイアウト変更までオーダーメイドでサポート
 description: イソリアのオフィス構築サービス - 新規オフィスの立ち上げから、オフィスリロケーション、レイアウト変更、移転後のアフターサポートに至るまでの全サポート、ITヘッドオフィスとのバイリガルコーディネーションも対応致します。
 weight: 10
-menusection: Infrastructure
+layout: services
 alternatelocales:
   - en-US
 tags:
@@ -44,12 +44,12 @@ aliases:
   - /office-setup
   - /office-move
 menu:
-  side:
+  services:
     Name: オフィス移転
     Weight: 10
     Identifier: officemoves
     Url: /office-moves
-    Parent: infra
+    Parent: seinfrastructure_ja
 ---
 ## 引っ越し前の眠れぬ夜
 

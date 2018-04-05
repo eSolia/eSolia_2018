@@ -52,12 +52,11 @@ menu:
     Parent: services_index_en
     Identifier: infrastructure_en
     Url: /infrastructure
-  side:
+  services:
     Name: Infrastructure
     Weight: 30
-    Identifier: infrastructure
+    Identifier: seinfrastructure_en
     Url: /infrastructure
-    Parent: infra
 ---
 
 ## What's "Infrastructure"

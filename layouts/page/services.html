@@ -11,19 +11,18 @@
      <aside class="menu">
 
 
-      {{- $currentPage := . -}}
-      {{ with .Params.type }}
-       {{ range (index $.Site.Menus .) }}
-         <a class="is-hoverable{{ if $currentPage.IsMenuCurrent "outsourcing" . }} is-active{{ end }}" href="{{ .URL | absLangURL }}"><p class="menu-label has-text-info">{{ .Name }}</p></a>
+  {{- $currentPage := . -}}
+       {{ range .Site.Menus.services }}
+         <a class="is-hoverable{{ if $currentPage.IsMenuCurrent "services" . }} is-active{{ end }}" href="{{ .URL | absLangURL }}"><p class="menu-label has-text-info">{{ .Name }}</p></a>
           <ul class="menu-list">
           {{ if .HasChildren }}
           {{ range .Children }}
-            <li><a class="is-hoverable{{ if $currentPage.IsMenuCurrent "outsourcing" . }} is-active{{ end }}" href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
+            <li><a class="is-hoverable{{ if $currentPage.IsMenuCurrent "services" . }} is-active{{ end }}" href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
           {{ end }}
           {{ end }}
+          </ul>
        {{ end }}
-        </ul>
-        {{ end }}
+
 
 
         <p class="menu-label has-text-info">Tags</p>
@@ -39,7 +38,7 @@
   <div class="column is-main-content">
     <div class="box">
       <p class="title is-5"><h1>{{ .Title }}</h1></p>
-      <p class="subtitle">This column will take up the remaining space available.</p>
+      <p class="subtitle is-italic">{{ .Params.subtitle }}</p>
       {{ .Content }}
     </div>
   </div>

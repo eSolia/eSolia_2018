@@ -6,7 +6,7 @@ draft: false
 slug: outsourcing
 subtitle: Leverage Our Professional Expertise
 weight: 20
-type: Outsourcing
+layout: services
 alternatelocales:
   - ja-JP
 tags:
@@ -36,13 +36,13 @@ series:
 menu:
   main:
     Name: Outsourcing
-    Weight: 10
+    Weight: 20
     Parent: services_index_en
     Identifier: outsourcing_en
     Url: /outsourcing
-  outsourcing:
+  services:
     Name: Outsourcing
-    Weight: 10
+    Weight: 20
     Identifier: osoutsourcing_en
     url: /outsourcing
 ---

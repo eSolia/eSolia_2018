@@ -9,7 +9,7 @@ slug: infrastructure
 subtitle: 戦略的なITインフラストラクチャの提案、実現
 description: イソリアから - 機能と目的を実現させる為のITインフラストラクチャ実装。汎用的なものから新技術を備えた機器まで堅実に。
 weight: 30
-menusection: Infrastructure
+layout: services
 alternatelocales:
   - en-US
 tags:
@@ -50,12 +50,11 @@ menu:
     Parent: services_index_ja
     Identifier: infrastructure_ja
     Url: /infrastructure
-  side:
+  services:
     Name: インフラストラクチャ
     Weight: 30
-    Identifier: infrastructure
+    Identifier: seinfrastructure_ja
     Url: /infrastructure
-    Parent: infra
 ---
 
 ## インフラストラクチャとは

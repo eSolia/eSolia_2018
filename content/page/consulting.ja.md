@@ -6,7 +6,7 @@ draft: false
 slug: consulting
 subtitle: 我々の知識と技術に頼ってください
 weight: 20
-type: Consulting
+layout: services
 alternatelocales:
   - en-US
 tags:
@@ -37,10 +37,15 @@ formcheckboxes:
 menu:
   main:
     Name: コンサルティング
-    Weight: 20
+    Weight: 10
     Parent: services_index_ja
     Identifier: consulting_ja
     Url: /consulting
+  services:
+    Name: コンサルティング
+    Weight: 10
+    Identifier: conconsulting_ja
+    url: /consulting
 ---
 
 イソリアのコンサルティングサービスは、専門プロフェッショナルにより実現します：
