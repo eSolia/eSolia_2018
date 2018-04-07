@@ -1,3 +1,4 @@
+{{ "<!-- ENTERING partial nav1.html -->" | safeHTML }}
 <nav class="navbar is-info">
   <div class="navbar-brand">
     <a class="navbar-item" href="{{ .Site.BaseURL }}">
@@ -37,7 +38,7 @@
           <a href="/search">
             <span class="icon"><i class="fas fa-search has-text-warning"></i></span>
           </a>
-          <a class="has-margin-r-xs" href="/search" data-show="quickview" data-target="quickviewDefault">
+          <a class="has-margin-r-xs" data-show="quickview" data-target="quickviewDefault">
             <span class="icon"><i class="fas fa-cog has-text-warning"></i></span>
           </a>
           {{ if .IsTranslated }}
@@ -57,3 +58,4 @@
 
   </div>
 </nav>
+{{ "<!-- LEAVING partial nav1.html -->" | safeHTML }}

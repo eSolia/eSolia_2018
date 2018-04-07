@@ -9,21 +9,17 @@
   <div class="column is-3 is-sidebar-menu is-hidden-mobile">
 
      <aside class="menu">
-
-
-      {{- $currentPage := . -}}
-      {{ with .Params.type }}
-       {{ range (index $.Site.Menus .) }}
-         <a class="is-hoverable{{ if $currentPage.IsMenuCurrent "outsourcing" . }} is-active{{ end }}" href="{{ .URL | absLangURL }}"><p class="menu-label has-text-info">{{ .Name }}</p></a>
+       {{- $currentPage := . -}}
+       {{ range .Site.Menus.services }}
+         <a class="is-hoverable{{ if $currentPage.IsMenuCurrent "services" . }} is-active{{ end }}" href="{{ .URL | absLangURL }}"><p class="menu-label has-text-info">{{ .Name }}</p></a>
           <ul class="menu-list">
           {{ if .HasChildren }}
           {{ range .Children }}
-            <li><a class="is-hoverable{{ if $currentPage.IsMenuCurrent "outsourcing" . }} is-active{{ end }}" href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
+            <li><a class="is-hoverable{{ if $currentPage.IsMenuCurrent "services" . }} is-active{{ end }}" href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
           {{ end }}
           {{ end }}
+          </ul>
        {{ end }}
-        </ul>
-        {{ end }}
 
 
         <p class="menu-label has-text-info">Tags</p>
@@ -44,6 +40,9 @@
     </div>
   </div>
 </div>
+{{ end }}
+{{ define "modals" }}
+    {{- partial "modal1.html" . -}}
 {{ end }}
 {{ define "footer" }}
     {{- partial "footer1.html" . -}}

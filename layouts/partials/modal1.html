@@ -1,0 +1,33 @@
+{{ "<!-- ENTERING partial modal1.html -->" | safeHTML }}
+    <div id="quickviewDefault" class="quickview">
+      <header class="quickview-header">
+        <p class="title">eSolia Tools</p>
+        <span class="delete" data-dismiss="quickview"></span>
+      </header>
+      <div class="quickview-body">
+        <div class="quickview-block">
+          Tools like Zerobin, eSolia Connect, SItemap <br>
+          Contact Info<br>
+        </div>
+      </div>
+      <footer class="quickview-footer">
+      </footer>
+    </div>
+    <div class="modal" id="modal">
+      <div class="modal-background"></div>
+      <div class="modal-card">
+        <header class="modal-card-head">
+          <p class="modal-card-title">Modal title</p>
+          <button class="delete modal-button" data-target="#modal" aria-label="close"></button>
+        </header>
+        <section class="modal-card-body">
+          <!-- Content ... -->
+          Stuff
+        </section>
+        <footer class="modal-card-foot">
+          <button class="button is-success">Save changes</button>
+          <button class="button modal-button" data-target="#modal">Cancel</button>
+        </footer>
+      </div>
+    </div>
+{{ "<!-- LEAVING partial modal1.html -->" | safeHTML }}
