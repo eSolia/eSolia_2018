@@ -39,6 +39,11 @@ menu:
     Weight: 20
     Identifier: services_index_ja
     Url: /services
+  solutionsother:
+    Name: サービス
+    Weight: 10
+    Identifier: solotherservices_ja
+    Url: /services
 ---
 
 貴社のビジネスとITの課題に対して、実践的且つ現実的で、将来に向けた持続性のあるソリューションを提案・導入することが、私達の使命です。

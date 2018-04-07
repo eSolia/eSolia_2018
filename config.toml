@@ -70,6 +70,12 @@ languageCode = "en-US"
     identifier = "svcothersnews_en"
     url = "/post"
 
+[[languages.en.menu.solutionsother]]
+    name = "News"
+    weight = 30
+    identifier = "solothernews_en"
+    url = "/post"
+
 [[languages.en.menu.main]]
     name = "All Topics"
     weight = 10
@@ -256,6 +262,12 @@ help  = "ヘルプ"
     name = "ニュース"
     weight = 30
     identifier = "svcothersnews_ja"
+    url = "/post"
+
+[[languages.ja.menu.solutionsother]]
+    name = "ニュース"
+    weight = 30
+    identifier = "solothernews_ja"
     url = "/post"
 
 [[languages.ja.menu.main]]

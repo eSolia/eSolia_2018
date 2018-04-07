@@ -8,7 +8,7 @@ slug: japan-expat-home-setup
 subtitle: ... for Japan Expats
 description: If you're new to Japan and Nihongo, or just not so confident about dealing with Japan telecomm carriers or your building superintendent, leave it to eSolia bilingual IT professionals to arrange and connect your home computer system in Japan.
 weight: 20
-menusection: Solutions-Focus
+layout: solutions
 alternatelocales:
   - ja-JP
 tags:
@@ -56,12 +56,12 @@ menu:
     Parent: solutions_index_en
     Identifier: expathomesetup_en
     Url: /japan-expat-home-setup
-  side:
+  solutions:
     Name: Expat Home Setup
-    Weight: 20
-    Identifier: japan-expat-home-setup
+    Weight: 30
+    Parent: solsideindex_en
+    Identifier: solsideexpat_en
     Url: /japan-expat-home-setup
-    Parent: solutionsfocus
 ---
 
 <small>

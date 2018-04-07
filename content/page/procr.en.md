@@ -8,7 +8,7 @@ slug: procr
 subtitle: VoIP Call Recording Never Sounded So Good
 description: IP Phone system recording via multi-function "PROcr", useful for training, compliance, customer service scenarios - from eSolia Inc and Powered by SIP Print.
 weight: 10
-menusection: Solutions-Focus
+layout: solutions
 alternatelocales:
   - ja-JP
 tags:
@@ -52,12 +52,12 @@ menu:
     Parent: solutions_index_en
     Identifier: procr_en
     Url: /procr
-  side:
-    Name: PROcr
-    Weight: 10
-    Identifier: procr
+  solutions:
+    Name: PROcr Recording
+    Weight: 20
+    Parent: solsideindex_en
+    Identifier: solsideprocr_en
     Url: /procr
-    Parent: solutionsfocus
 ---
 
 <small>

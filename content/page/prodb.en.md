@@ -8,7 +8,7 @@ slug: prodb
 subtitle: It's Rock Solid
 description: Rapid development of your business operations database in eSolia PROdb cloud database. General software development projects. - from eSolia Inc.
 weight: 40
-menusection: Cloud-System
+layout: solutions
 alternatelocales:
   - ja-JP
 tags:
@@ -54,12 +54,12 @@ menu:
     Parent: solutions_index_en
     Identifier: prodb_en
     Url: /prodb
-  side:
+  solutions:
     Name: PROdb Database
-    Weight: 40
-    Identifier: prodb
+    Weight: 10
+    Parent: solsideindex_en
+    Identifier: solsideprodb_en
     Url: /prodb
-    Parent: cloudsystem
 ---
 
 ## Still Running on Spreadsheets?

@@ -8,7 +8,7 @@ slug: prodb
 subtitle: 時代はクラウド、社内のあらゆる情報管理はセキュアなPROdbで
 description: イソリアから - 急速に変化し続ける社内データベースはイソリアのPROdbにて一括管理。その他ソフトウェア開発も
 weight: 40
-menusection: Cloud-System
+layout: solutions
 alternatelocales:
   - en-US
 tags:
@@ -52,12 +52,12 @@ menu:
     Parent: solutions_index_ja
     Identifier: prodb_ja
     Url: /prodb
-  side:
-    Name: PROdbデータベース
-    Weight: 40
-    Identifier: prodb
+  solutions:
+    Name: PROdb クラウド
+    Weight: 10
+    Parent: solsideindex_ja
+    Identifier: solsideprodb_ja
     Url: /prodb
-    Parent: cloudsystem
 ---
 
 ## Excelでの管理に飽きた方へ

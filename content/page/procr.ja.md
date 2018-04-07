@@ -8,7 +8,7 @@ slug: procr
 subtitle: 多機能レコーディング PROcrで通話録音、コールセンターの質や顧客満足度を飛躍的にアップ
 description: イソリアからPROcrという名の多機能電話レコーディングシステム、パワード・バイ・SIP Print。トレーニング、ケーススタディ、コンプライアンスもこれ一台で様々なビジネスシーンの録音や応用が可能に。
 weight: 10
-menusection: Solutions-Focus
+layout: solutions
 alternatelocales:
   - en-US
 tags:
@@ -57,12 +57,12 @@ menu:
     Parent: solutions_index_ja
     Identifier: procr_jas
     Url: /procr
-  side:
-    Name: PROcr
-    Weight: 10
-    Identifier: procr
+  solutions:
+    Name: PROcr 通話録音
+    Weight: 20
+    Parent: solsideindex_ja
+    Identifier: solsideprocr_ja
     Url: /procr
-    Parent: solutionsfocus
 ---
 
 <small>

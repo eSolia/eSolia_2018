@@ -28,6 +28,11 @@ menu:
     Weight: 20
     Identifier: svcothersuccesses_en
     Url: /success-stories 
+  solutionsother:
+    Name: Successes
+    Weight: 20
+    Identifier: solothersuccesses_en
+    Url: /success-stories
 ---
 
 ## Rely on eSolia for Japan Project Success

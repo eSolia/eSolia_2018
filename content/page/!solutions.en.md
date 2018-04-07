@@ -6,6 +6,7 @@ draft: false
 slug: solutions
 subtitle: Focused Solutions
 weight: 30
+layout: solutions
 alternatelocales:
   - ja-JP
 tags:
@@ -30,11 +31,16 @@ menu:
     Weight: 30
     Identifier: solutions_index_en
     Url: /solutions
+  solutions:
+    Name: Solutions
+    Weight: 10
+    Identifier: solsideindex_en
+    Url: /solutions    
   servicesother:
     Name: Solutions
     Weight: 10
     Identifier: svcothersolutions_en
-    Url: /solutions  
+    Url: /solutions
 ---
 
 eSolia provides focused solutions using a combination of specific methods, software, and hardware. While we are "agnostic" in terms of pushing certain solutions and will gladly utilize whatever solutions clients would like, we have some suggestions of high quality solutions we believe are good.

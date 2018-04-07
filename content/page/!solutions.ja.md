@@ -6,6 +6,7 @@ draft: false
 slug: solutions
 subtitle: ソリューションに集中
 weight: 30
+layout: solutions
 alternatelocales:
   - en-US
 tags:
@@ -30,6 +31,11 @@ menu:
     Weight: 30
     Identifier: solutions_index_ja
     Url: /solutions
+  solutions:
+    Name: ソリューション
+    Weight: 10
+    Identifier: solsideindex_ja
+    Url: /solutions  
   servicesother:
     Name: ソリューション
     Weight: 10

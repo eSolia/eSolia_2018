@@ -8,7 +8,7 @@ subtitle: ... 自宅パソコンシステム購入や設定
 slug: japan-expat-home-setup
 description: 日本に来たばかりで日本語に慣れていない方、または、日本のテレコムキャリアやお住いの管理会社とのやり取りに自信のない方、イソリアのバイリンガルITプロフェッショナルはそんなあなたをお助けすることが可能です。
 weight: 20
-menusection: Solutions-Focus
+layout: solutions
 alternatelocales:
   - en-US
 tags:
@@ -59,12 +59,12 @@ menu:
     Parent: solutions_index_ja
     Identifier: expathomesetup_ja
     Url: /japan-expat-home-setup
-  side:
+  solutions:
     Name: 自宅パソコン設定
     Weight: 20
-    Identifier: japan-expat-home-setup
+    Parent: solsideindex_ja
+    Identifier: solsideexpat_ja
     Url: /japan-expat-home-setup
-    Parent: solutionsfocus
 ---
 
 <small>
