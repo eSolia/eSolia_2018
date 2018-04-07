@@ -7,7 +7,7 @@ slug: success-story_datacenter-refresh-and-ups-upgrade
 title: Datacenter Refresh and UPS Upgrade
 subtitle: at a Major US Law Firm
 description: Provision of project management and engineering for a Tokyo data center, upgrading APC Symmetra to the latest Symmetra LX. - from eSolia Inc.
-menusection: Success-Stories
+layout: successes
 alternatelocales:
   - ja-JP
 tags:
@@ -39,12 +39,12 @@ menu:
     Parent: success_index_en
     Identifier: successdcrefreshandupsupgrade_en
     Url: /success-story_datacenter-refresh-and-ups-upgrade
-  side:
+  successes:
     Name: DC & UPS Upgrade
     Identifier: dcrefreshandupsupgrade
     Url: /success-story_datacenter-refresh-and-ups-upgrade
-    Parent: successstories
-    Weight: 10000
+    Parent: sucsideindex_en
+    Weight: 10
 ---
 
 ## Project Background

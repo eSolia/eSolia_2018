@@ -7,7 +7,7 @@ slug: success-story_m-and-a-due-diligence-and-erp-assessment
 title: アメリカ市場参入における企業買収段階のITデューデリジェンス
 subtitle: 釣り具メーカーにて
 description: イソリアから - 釣具メーカがアメリカ国内販売会社を買収する為のIT関連デューデリジェンスに対するコンサルティング業務提供。
-menusection: Success-Stories
+layout: successes
 alternatelocales:
   - en-US
 tags:
@@ -40,12 +40,12 @@ menu:
     Parent: success_index_ja
     Identifier: successmandaduediligence_ja
     Url: /success-story_m-and-a-due-diligence-and-erp-assessment
-  side:
+  successes:
     Name: 買収合併ERP確認
-    Identifier: mandaduediligenceanderp
+    Identifier: mandaduediligenceanderp_ja
     Url: /success-story_m-and-a-due-diligence-and-erp-assessment
-    Parent: successstories
-    Weight: 10100
+    Parent: sucsideindex_ja
+    Weight: 40
 ---
 
 ## プロジェクトのバックグランド

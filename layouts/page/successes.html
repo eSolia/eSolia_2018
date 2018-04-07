@@ -1,0 +1,56 @@
+{{ define "title" }}
+  {{ .Title }} &ndash; {{ .Site.Title }}
+{{ end }}
+{{ define "nav" }}
+    {{- partial "nav1.html" . -}}
+{{ end }}
+{{ define "main" }}
+<div class="columns content is-fullheight">
+  <div class="column is-3 is-sidebar-menu is-hidden-mobile">
+
+     <aside class="menu">
+       {{- $currentPage := . -}}
+       {{ range .Site.Menus.successes }}
+         <a class="is-hoverable{{ if $currentPage.IsMenuCurrent "successes" . }} is-active{{ end }}" href="{{ .URL | absLangURL }}"><p class="menu-label has-text-info">{{ .Name }}</p></a>
+          <ul class="menu-list">
+          {{ if .HasChildren }}
+          {{ range .Children }}
+            <li><a class="is-hoverable{{ if $currentPage.IsMenuCurrent "successes" . }} is-active{{ end }}" href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
+          {{ end }}
+          {{ end }}
+          </ul>
+       {{ end }}
+       {{- $currentPage := . -}}
+         <a class="is-hoverable"><p class="menu-label has-text-info">{{ i18n "other" | safeHTML }}</p></a>
+          <ul class="menu-list">
+       　　{{ range .Site.Menus.successesother }}
+            <li><a class="is-hoverable{{ if $currentPage.IsMenuCurrent "successesother" . }} is-active{{ end }}" href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
+          {{ end }}
+          </ul>
+
+       <p class="menu-label has-text-info">Tags</p>
+       <div class="tags">
+       {{ range .Params.tags }}
+        <span class="tag is-rounded is-light"><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></span>
+       {{ end }}
+       </div>
+
+    </aside>
+
+  </div>
+  <div class="column is-main-content">
+    <div class="box">
+      <p class="title is-5"><h1>{{ .Title }}</h1></p>
+      <p class="subtitle is-italic">{{ .Params.subtitle }}</p>
+      {{ .Content }}
+    </div>
+  </div>
+</div>
+{{ end }}
+{{ define "modals" }}
+    {{- partial "modal1.html" . -}}
+{{ end }}
+{{ define "footer" }}
+    {{- partial "footer1.html" . -}}
+{{ end }}
+

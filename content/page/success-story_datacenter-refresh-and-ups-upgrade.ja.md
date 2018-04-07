@@ -7,7 +7,7 @@ slug: success-story_datacenter-refresh-and-ups-upgrade
 title: データーセンター刷新及びUPSアップグレード
 subtitle: 外資系弁護士事務所にて
 description: イソリアから - 東京データセンターにて、プロジェクト管理とエンジニアリングを実施し、APCSymmetraを最新型LXモデルへのアップグレード。
-menusection: Success-Stories
+layout: successes
 alternatelocales:
   - en-US
 tags:
@@ -40,12 +40,12 @@ menu:
     Parent: success_index_ja
     Identifier: successdcrefreshandupsupgrade_ja
     Url: /success-story_datacenter-refresh-and-ups-upgrade
-  side:
+  successes:
     Name: 大型UPSアップグレード
     Identifier: dcrefreshandupsupgrade
     Url: /success-story_datacenter-refresh-and-ups-upgrade
-    Parent: successstories
-    Weight: 10000
+    Parent: sucsideindex_ja
+    Weight: 10
 ---
 
 ## プロジェクトのバックグランド

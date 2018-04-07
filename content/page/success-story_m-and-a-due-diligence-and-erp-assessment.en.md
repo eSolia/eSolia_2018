@@ -7,7 +7,7 @@ slug: success-story_m-and-a-due-diligence-and-erp-assessment
 title: M&A Due Diligence and ERP Confirmation
 subtitle: at a Marine Products Maker
 description: Provision of consulting for IT due diligence for a Marine Products maker acquiring a subsidiary in the US - ERP and IT system and process discovery and reporting. - from eSolia Inc.
-menusection: Success-Stories
+layout: successes
 alternatelocales:
   - ja-JP
 tags:
@@ -39,12 +39,12 @@ menu:
     Parent: success_index_en
     Identifier: successmandaduediligence_en
     Url: /success-story_m-and-a-due-diligence-and-erp-assessment
-  side:
+  successes:
     Name: M&A ERP Assess
-    Identifier: mandaduediligenceanderp
+    Identifier: mandaduediligenceanderp_en¥
     Url: /success-story_m-and-a-due-diligence-and-erp-assessment
-    Parent: successstories
-    Weight: 10100
+    Parent: sucsideindex_en
+    Weight: 40
 ---
 
 ## Project Background

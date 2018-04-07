@@ -7,7 +7,7 @@ slug: success-story_erp-rollout-project
 title: ERP Project Rollout
 subtitle: at a Large Optical Maker
 description: Provision of Project Management for ERP rollout through all phases to the successful go-live. - from eSolia Inc.
-menusection: Success-Stories
+layout: successes
 alternatelocales:
   - ja-JP
 tags:
@@ -45,12 +45,12 @@ menu:
     Parent: success_index_en
     Identifier: successerprollout_en
     Url: /success-story_erp-rollout-project
-  side:
+  successes:
     Name: ERP rollout
-    Identifier: erprollout1
+    Identifier: erprollout1_en
     Url: /success-story_erp-rollout-project
-    Parent: successstories
-    Weight: 9999
+    Parent: sucsideindex_en
+    Weight: 20
 ---
 
 ## Project Background

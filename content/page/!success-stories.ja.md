@@ -6,6 +6,7 @@ draft: false
 slug: success-stories
 subtitle: プロジェクトを成功させたいならイソリアにお任せください
 weight: 50
+layout: successes
 alternatelocales:
   - en-US
 tags:
@@ -32,6 +33,11 @@ menu:
     Name: 成功事例
     Weight: 20
     Identifier: solothersuccesses_ja
+    Url: /success-stories
+  successes:
+    Name: 成功事例
+    Weight: 10
+    Identifier: sucsideindex_ja
     Url: /success-stories
 ---
 

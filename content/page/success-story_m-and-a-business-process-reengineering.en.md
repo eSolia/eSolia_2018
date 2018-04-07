@@ -7,7 +7,7 @@ slug: success-story_m-and-a-business-process-reengineering-bpr
 title: M&A-related BPR Business Process Re-engineering
 subtitle: at a Major Hearing Aid Manufacturer
 description: Provision of Project Management for consulting for business process re-engineering effort, a IT technology refresh, and an inventory management database development project, at a hearing aid maker factory in Japan. - from eSolia Inc.
-menusection: Success-Stories
+layout: successes
 alternatelocales:
   - ja-JP
 tags:
@@ -37,12 +37,12 @@ menu:
     Parent: success_index_en
     Identifier: successfactorybpr_en
     Url: /success-story_m-and-a-business-process-reengineering-bpr
-  side:
+  successes:
     Name: BPR for factory
-    Identifier: factorybpr1
+    Identifier: factorybpr1_en
     Url: /success-story_m-and-a-business-process-reengineering-bpr
-    Parent: successstories
-    Weight: 10200
+    Parent: sucsideindex_en
+    Weight: 30
 ---
 
 ## Project Background

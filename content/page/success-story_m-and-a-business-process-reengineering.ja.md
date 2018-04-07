@@ -7,7 +7,7 @@ slug: success-story_m-and-a-business-process-reengineering-bpr
 title: 合併によるIT統合 BPR
 subtitle: 大手補聴器メーカーにて
 description: イソリアから - 外資系企業1社と日系企業2社による合併 (M&A) により発生したIT統合・BPR（ビジネスプロセス再編）、在庫管理及びEDI開発を行う為、プロジェクトマネージメント・IT／BPR コンサルティング・サポート各サービスの提供。
-menusection: Success-Stories
+layout: successes
 alternatelocales:
   - en-US
 tags:
@@ -38,12 +38,12 @@ menu:
     Parent: success_index_ja
     Identifier: successfactorybpr_ja
     Url: /success-story_m-and-a-business-process-reengineering-bpr
-  side:
+  successes:
     Name: 工場のBPR
-    Identifier: factorybpr1
+    Identifier: factorybpr1_ja
     Url: /success-story_m-and-a-business-process-reengineering-bpr
-    Parent: successstories
-    Weight: 10200
+    Parent: sucsideindex_ja
+    Weight: 30
 ---
 
 ## プロジェクト バックグランド

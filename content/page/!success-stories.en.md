@@ -6,6 +6,7 @@ draft: false
 slug: success-stories
 subtitle: Rely on eSolia for Japan Project Success
 weight: 50
+layout: successes
 alternatelocales:
   - ja-JP
 tags:
@@ -32,6 +33,11 @@ menu:
     Name: Successes
     Weight: 20
     Identifier: solothersuccesses_en
+    Url: /success-stories
+  successes:
+    Name: Successes
+    Weight: 10
+    Identifier: sucsideindex_en
     Url: /success-stories
 ---
 

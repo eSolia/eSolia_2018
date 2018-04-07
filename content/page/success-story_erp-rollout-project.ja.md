@@ -7,7 +7,7 @@ slug: success-story_erp-rollout-project
 title: ERP展開プロジェクト
 subtitle: オプティカル メーカーにて
 description: イソリアから - ERP プロジェクト管理の提供、全フェーズに関わり成功へと導きました。
-menusection: Success-Stories
+layout: successes
 alternatelocales:
   - en-US
 tags:
@@ -45,12 +45,12 @@ menu:
     Parent: success_index_ja
     Identifier: successerprollout_ja
     Url: /success-story_erp-rollout-project
-  side:
+  successes:
     Name: ERP 展開
-    Identifier: erprollout1
+    Identifier: erprollout1_ja
     Url: /success-story_erp-rollout-project
-    Parent: successstories
-    Weight: 9999
+    Parent: sucsideindex_ja
+    Weight: 20
 ---
 
 ## プロジェクトのバックグランド
