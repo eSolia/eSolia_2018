@@ -76,6 +76,12 @@ languageCode = "en-US"
     identifier = "solothernews_en"
     url = "/post"
 
+[[languages.en.menu.successesother]]
+    name = "News"
+    weight = 40
+    identifier = "sucothernews_en"
+    url = "/post"
+
 [[languages.en.menu.main]]
     name = "All Topics"
     weight = 10
@@ -268,6 +274,12 @@ help  = "ヘルプ"
     name = "ニュース"
     weight = 30
     identifier = "solothernews_ja"
+    url = "/post"
+
+[[languages.ja.menu.successesother]]
+    name = "ニュース"
+    weight = 40
+    identifier = "sucothernews_ja"
     url = "/post"
 
 [[languages.ja.menu.main]]

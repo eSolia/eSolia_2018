@@ -41,6 +41,11 @@ menu:
     Weight: 10
     Identifier: svcothersolutions_en
     Url: /solutions
+  successesother:
+    Name: Solutions
+    Weight: 20
+    Identifier: sucothersolutions_en
+    Url: /solutions
 ---
 
 eSolia provides focused solutions using a combination of specific methods, software, and hardware. While we are "agnostic" in terms of pushing certain solutions and will gladly utilize whatever solutions clients would like, we have some suggestions of high quality solutions we believe are good.

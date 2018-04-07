@@ -44,6 +44,11 @@ menu:
     Weight: 10
     Identifier: solotherservices_en
     Url: /services
+  successesother:
+    Name: Services
+    Weight: 10
+    Identifier: sucotherservices_en
+    Url: /services
 ---
 
 When you engage a professional services firm, getting your problem solved is the first thing on your mind, not the firm's history or philosophy, or the latest fad. Designing and implementing practical, realistic and future-proof solutions for your business and IT problems is the most important thing the professionals at eSolia do.
