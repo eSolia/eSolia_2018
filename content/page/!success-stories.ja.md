@@ -23,6 +23,11 @@ menu:
     Weight: 40
     Identifier: success_index_ja
     Url: /success-stories
+  servicesother:
+    Name: 成功事例
+    Weight: 20
+    Identifier: svcothersuccesses_ja
+    Url: /success-stories 
 ---
 
 ## プロジェクトを成功させたいならイソリアにお任せください

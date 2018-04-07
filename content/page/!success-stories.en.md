@@ -23,6 +23,11 @@ menu:
     Weight: 40
     Identifier: success_index_en
     Url: /success-stories
+  servicesother:
+    Name: Successes
+    Weight: 20
+    Identifier: svcothersuccesses_en
+    Url: /success-stories 
 ---
 
 ## Rely on eSolia for Japan Project Success

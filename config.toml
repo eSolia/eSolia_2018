@@ -64,6 +64,12 @@ languageCode = "en-US"
     identifier = "news_index_en"
     url = "/post"
 
+[[languages.en.menu.servicesother]]
+    name = "News"
+    weight = 30
+    identifier = "svcothersnews_en"
+    url = "/post"
+
 [[languages.en.menu.main]]
     name = "All Topics"
     weight = 10
@@ -244,6 +250,12 @@ help  = "ヘルプ"
     name = "ニュース"
     weight = 50
     identifier = "news_index_ja"
+    url = "/post"
+
+[[languages.ja.menu.servicesother]]
+    name = "ニュース"
+    weight = 30
+    identifier = "svcothersnews_ja"
     url = "/post"
 
 [[languages.ja.menu.main]]
