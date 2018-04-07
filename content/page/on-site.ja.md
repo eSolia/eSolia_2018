@@ -8,7 +8,7 @@ slug: on-site
 subtitle: ITトラブルを定期訪問や常駐型など様々な形態で出張サポート
 description: イソリアから - 面倒なシステム管理、度重なるユーザサポート、複雑なトラブルシューティングは経験豊富なエンジニアがオンサイトにてサポート致します
 weight: 20
-menusection: Outsourcing
+layout: services
 alternatelocales:
   - en-US
 tags:
@@ -41,12 +41,12 @@ formcheckboxes:
 - システム管理
 gallery_id: 6159793756174882513
 menu:
-  side:
+  services:
     Name: オンサイト
     Weight: 20
-    Identifier: on-site
+    Parent: osoutsourcing_ja    
+    Identifier: osonsite_ja
     Url: /on-site
-    Parent: outsourcing
 ---
 
 ## イソリア <wbr><nobr>オンサイト サービス</nobr>

@@ -8,7 +8,7 @@ slug: telephone
 subtitle: IP電話、クラウド型電話サービスでビジネスの効率化を
 description: イソリアから - 私たちは、近代的で優れた電話システムをご提案することでお客様のコストを削減し、生産効率を高めます。クラウド型電話サービスが利用可能に。
 weight: 20
-menusection: Infrastructure
+layout: services
 alternatelocales:
   - en-US
 tags:
@@ -47,12 +47,12 @@ aliases:
   - /openuc
 gallery_id: 6160784839246541201
 menu:
-  side:
+  services:
     Name: IP電話
-    Weight: 20
-    Identifier: telephone
+    Weight: 30
     Url: /telephone
-    Parent: infra
+    Identifier: setel_ja
+    Parent: seinfrastructure_ja
 ---
 
 ## 電話線からLAN線へ
@@ -68,10 +68,11 @@ menu:
       <li class="white-text">トレニーング</li>
       <li class="white-text">運用及びメンテナンス</li>
     </ol>
+    <br>
 </div>
 
-**オールドスタイルPBXの交換を検討しませんか？**
-
+**オールドスタイルPBXの交換を検討しませんか？**  
+  
 新たな電話システムやIP PBXシステム、SkypeやGoogleVoiceなどを含めた「VoIP」の導入にご興味はありますか？
 イソリアは既存システムからの乗り換えでも、新規のシステム設計であっても、必要な機能を備えたの最新のIP PBX、またはユニファイドコミュニケーション（UC）システムをご提案いたします。
 

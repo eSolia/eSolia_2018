@@ -8,7 +8,7 @@ slug: localization
 subtitle: Not Machine Translation
 description: Don't do your localization "by machine"; hire eSolia to do it right. Our native speakers will localize your documents and apps to perfection. - from eSolia Inc.
 weight: 60
-menusection: Outsourcing
+layout: services
 alternatelocales:
   - ja-JP
 tags:
@@ -46,12 +46,12 @@ formcheckboxes:
   - Japanese language tone
 gallery_id: 6159789128838188721
 menu:
-  side:
+  services:
     Name: Localization
     Weight: 60
-    Identifier: localization
     Url: /localization
-    Parent: outsourcing
+    Parent: osoutsourcing_en
+    Identifier: oslocalization_en
 ---
 
 ## Really? A Machine Translation?

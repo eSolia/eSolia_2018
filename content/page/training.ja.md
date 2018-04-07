@@ -9,7 +9,7 @@ slug: training
 subtitle: ITオリエンテーションから専門的なトレーニングまで幅広く対応
 description: イソリアから - 迷える新入社員に実用的なＩＴオリエンテーションを作成。初歩的ものから専門的なトレーニングまで。
 weight: 40
-menusection: Outsourcing
+layout: services
 alternatelocales:
   - en-US
 tags:
@@ -42,12 +42,12 @@ formcheckboxes:
   - ユーザーオリエンテーション
 gallery_id: 6160196852058139841
 menu:
-  side:
+  services:
     Name: トレーニング
     Weight: 40
-    Identifier: training
     Url: /training
-    Parent: outsourcing
+    Parent: osoutsourcing_ja
+    Identifier: ostraining_ja
 ---
 
 ## トレーニングに投資してみるのも一手です

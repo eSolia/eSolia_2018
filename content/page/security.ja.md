@@ -8,7 +8,7 @@ slug: security
 subtitle: セキュリティ強化、ITコンプライアンス確立、リスク回避で心もセキュアに
 description: イソリアから - コンプライアンスやセキュリティの信頼性監査、強固なセキュリティをソフト＆ハードにて実装。システムも心もセキュアに。
 weight: 50
-menusection: Infrastructure
+layout: services
 alternatelocales:
   - en-US
 tags:
@@ -44,12 +44,12 @@ formcheckboxes:
   - セキュリティシステム
 gallery_id: 6159797483836960817
 menu:
-  side:
+  services:
     Name: セキュリティ
     Weight: 50
-    Identifier: security
     Url: /security
-    Parent: infra
+    Identifier: sesec_ja
+    Parent: seinfrastructure_ja
 ---
 ## 鍵の種類から鍵の掛け方まで
 

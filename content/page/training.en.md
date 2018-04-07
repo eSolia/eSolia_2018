@@ -8,7 +8,7 @@ slug: training
 subtitle: By experienced practitioners
 description: Effective new-hire orientation, software and technical training. Training course development and delivery. - from eSolia Inc.
 weight: 40
-menusection: Outsourcing
+layout: services
 alternatelocales:
   - ja-JP
 tags:
@@ -39,12 +39,12 @@ formcheckboxes:
   - User orientation
 gallery_id: 6160196852058139841
 menu:
-  side:
+  services:
     Name: Training
     Weight: 40
-    Identifier: training
     Url: /training
-    Parent: outsourcing
+    Parent: osoutsourcing_en
+    Identifier: ostraining_en
 ---
 
 ## Training is the Best Investment

@@ -8,7 +8,7 @@ slug: telephone
 subtitle: IP Telephone Systems with modern features and functions, from eSolia
 description: Implement a superior, modern and full-featured unified communications IP telephone system, to reduce your costs and increase your efficiency. Cloud phone subscription service available. - from eSolia Inc.
 weight: 20
-menusection: Infrastructure
+layout: services
 alternatelocales:
   - ja-JP
 tags:
@@ -46,12 +46,12 @@ aliases:
   - /openuc
 gallery_id: 6160784839246541201
 menu:
-  side:
+  services:
     Name: Telephone
     Weight: 20
-    Identifier: telephone
     Url: /telephone
-    Parent: infra
+    Identifier: setel_en
+    Parent: seinfrastructure_en
 ---
 
 ## Business Telephone Systems
@@ -67,6 +67,7 @@ menu:
       <li class="white-text">Training</li>
       <li class="white-text">Maintenance</li>
     </ol>
+<br>
 </div>
 
 **Isn't it Time?** ...that you seriously considered replacing your aging and old-fashioned PBX? If you are in the market for a new Telephone or IP PBX System or have interest in "Voice Over IP" thinking about the benefits of something like Skype or Google Voice, eSolia will implement a modern telephone system for you: a full-featured, IP PBX or Unified Communications system.

@@ -8,7 +8,7 @@ slug: security
 subtitle: An inconvenient, necessary evil
 description: Security assessment, program & infrastructure implementation, compliance auditing, and remediation for your peace of mind. - from eSolia Inc.
 weight: 50
-menusection: Infrastructure
+layout: services
 alternatelocales:
   - ja-JP
 tags:
@@ -46,12 +46,12 @@ formcheckboxes:
   - Security Systems
 gallery_id: 6159797483836960817
 menu:
-  side:
+  services:
     Name: Security
     Weight: 50
-    Identifier: security
     Url: /security
-    Parent: infra
+    Identifier: sesec_en
+    Parent: seinfrastructure_en
 ---
 
 ## Introduction

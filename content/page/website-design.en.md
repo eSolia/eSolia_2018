@@ -8,7 +8,7 @@ slug: website-design
 subtitle: Doing Right by your Business
 description: Modern, standards-based website design that benefits your business, whether starting from zero, or localizing an existing website. - from eSolia Inc.
 weight: 55
-menusection: Outsourcing
+layout: services
 alternatelocales:
   - ja-JP
 tags:
@@ -47,12 +47,12 @@ formcheckboxes:
   - CMS
 gallery_id: 6159750630075916305
 menu:
-  side:
+  services:
     Name: Website Design
     Weight: 55
-    Identifier: website-design
     Url: /website-design
-    Parent: outsourcing
+    Parent: osoutsourcing_en
+    Identifier: oswebdesign_en
 ---
 
 ## Your Website Design is Integral to Your Business

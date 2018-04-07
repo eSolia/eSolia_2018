@@ -50,8 +50,8 @@ menu:
     Name: プロセス
     Weight: 30
     Url: /process
-    Parent: conconsulting_ja
-    Identifier: conproc_ja
+    Parent: osoutsourcing_ja
+    Identifier: osproc_ja
 ---
 
 ## IT管理に怯えるなかれ

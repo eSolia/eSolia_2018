@@ -48,8 +48,8 @@ menu:
     Name: Process
     Weight: 30
     Url: /process
-    Parent: conconsulting_en
-    Identifier: conproc_en
+    Parent: osoutsourcing_en
+    Identifier: osproc_en
 ---
 
 ## Double-edged IT

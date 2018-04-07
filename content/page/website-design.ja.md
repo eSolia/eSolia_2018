@@ -8,7 +8,7 @@ slug: website-design
 subtitle: 新規も既存も多言語でもウェブサイト構築のデザインをサポート
 description: イソリアから - 新時代と貴社目的に合ったウェブサイト デザインの構築を。新規、既存、多言語でもどうぞ。
 weight: 55
-menusection: Outsourcing
+layout: services
 alternatelocales:
   - en-US
 tags:
@@ -48,12 +48,12 @@ formcheckboxes:
   - CMS構築
 gallery_id: 6159750630075916305
 menu:
-  side:
-    Name: ウェブサイト デザイン
+  services:
+    Name: ウェブ デザイン
     Weight: 55
-    Identifier: website-design
     Url: /website-design
-    Parent: outsourcing
+    Parent: osoutsourcing_ja
+    Identifier: oswebdesign_ja
 ---
 
 ## そのサイトがないと<wbr><nobr>話にならない！</nobr>
