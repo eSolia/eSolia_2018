@@ -6,6 +6,7 @@ draft: false
 slug: about-us
 subtitle: 御社のビジネス向上のための強い基盤作りをお約束します
 weight: 10
+layout: about
 alternatelocales:
   - en-US
 tags:

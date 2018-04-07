@@ -8,7 +8,7 @@ slug: info-request
 subtitle: About eSolia Services
 weight: 10
 warning: sales
-menusection: eSolia
+layout: about
 alternatelocales:
   - ja-JP
 tags:

@@ -18,7 +18,7 @@ topics:
   - イソリア
   - eSolia
 type: aboutpage
-menusection: eSolia
+layout: about
 images:
   - /img/eSolia-Chicklet-Color-1024px.png
 aliases:

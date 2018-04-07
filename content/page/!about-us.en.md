@@ -6,6 +6,7 @@ draft: false
 slug: about-us
 subtitle: Strong Foundations for your Business Commitments
 weight: 10
+layout: about
 alternatelocales:
   - ja-JP
 tags:
