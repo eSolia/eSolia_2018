@@ -34,12 +34,12 @@ menu:
     Parent: about_index_en
     Identifier: esoliaemployment_en
     Url: /employment
-  side:
+  aboutside:
     Name: Employment
     Weight: 40
-    Identifier: employment
+    Parent: aboutsideindex_en
+    Identifier: aboutsideemp_en
     Url: /employment
-    Parent: esolia
   homefooter1:
     Name: Employment
     Weight: 40

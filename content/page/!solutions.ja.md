@@ -46,6 +46,11 @@ menu:
     Weight: 20
     Identifier: sucothersolutions_ja
     Url: /solutions
+  aboutother:
+    Name: ソリューション
+    Weight: 20
+    Identifier: aboutothersolutions_ja
+    Url: /solutions
 ---
 
 日本語 eSolia provides focused solutions using a combination of specific methods, software, and hardware. While we are "agnostic" in terms of pushing certain solutions and will gladly utilize whatever solutions clients would like, we have some suggestions of high quality solutions we believe are good.

@@ -49,6 +49,11 @@ menu:
     Weight: 10
     Identifier: sucotherservices_ja
     Url: /services
+  aboutother:
+    Name: サービス
+    Weight: 10
+    Identifier: aboutotherservices_ja
+    Url: /services
 ---
 
 貴社のビジネスとITの課題に対して、実践的且つ現実的で、将来に向けた持続性のあるソリューションを提案・導入することが、私達の使命です。

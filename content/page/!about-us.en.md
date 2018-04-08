@@ -24,6 +24,11 @@ menu:
     Weight: 10
     Identifier: about_index_en
     Url: /about-us
+  aboutside:
+    Name: About
+    Weight: 10
+    Identifier: aboutsideindex_en
+    Url: /about-us
 ---
 
 ## Foundations take root with eSolia

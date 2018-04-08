@@ -20,7 +20,6 @@ tags:
   - Difference
 topics:
   - eSolia
-type: aboutpage
 layout: about
 images:
   - /img/eSolia-Chicklet-Color-1024px.png
@@ -49,12 +48,12 @@ menu:
     Parent: about_index_en
     Identifier: whyesolia_en
     Url: /why-esolia
-  side:
+  aboutside:
     Name: Why eSolia?
     Weight: 30
-    Identifier: why-esolia
+    Parent: aboutsideindex_en
+    Identifier: aboutsidewhy_en
     Url: /why-esolia
-    Parent: esolia
 ---
 
 ## Our Mandate

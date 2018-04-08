@@ -18,7 +18,6 @@ subtitle: 当ウェブサイトへ<wbr><nobr>お越しいただいた皆様へ</
 topics:
   - イソリア
   - eSolia
-type: aboutpage
 layout: about
 images:
   - /img/eSolia-Chicklet-Color-1024px.png
@@ -31,12 +30,12 @@ menu:
     Parent: about_index_ja
     Identifier: msgfromesolia_ja
     Url: /message-from-esolia
-  side:
+  aboutside:
     Name: ご挨拶
     Weight: 25
-    Identifier: message-from-esolia
+    Parent: aboutsideindex_ja
+    Identifier: aboutsidemsg_ja
     Url: /message-from-esolia
-    Parent: esolia
   homefooter1:
     Name: ご挨拶
     Weight: 20

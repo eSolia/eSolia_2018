@@ -22,7 +22,6 @@ tags:
 topics:
   - イソリア
   - eSolia
-type: aboutpage
 layout: about
 images:
   - /img/eSolia-Chicklet-Color-1024px.png
@@ -51,12 +50,12 @@ menu:
     Parent: about_index_ja
     Identifier: whyesolia_ja
     Url: /why-esolia
-  side:
+  aboutside:
     Name: 何故イソリアか?
     Weight: 30
-    Identifier: why-esolia
+    Parent: aboutsideindex_ja
+    Identifier: aboutsidewhy_ja
     Url: /why-esolia
-    Parent: esolia
 ---
 
 ## 私たちの使命

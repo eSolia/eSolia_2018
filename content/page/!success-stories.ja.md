@@ -34,6 +34,11 @@ menu:
     Weight: 20
     Identifier: solothersuccesses_ja
     Url: /success-stories
+  aboutother:
+    Name: 成功事例
+    Weight: 20
+    Identifier: aboutothersuccesses_ja
+    Url: /success-stories
   successes:
     Name: 成功事例
     Weight: 10

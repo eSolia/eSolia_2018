@@ -7,6 +7,7 @@ draft: false
 slug: about
 subtitle: 会社案内
 weight: 10
+layout: about
 alternatelocales:
   - en-US
 tags:
@@ -18,8 +19,6 @@ title: イソリアについて
 topics:
   - イソリア
   - eSolia
-type: aboutpage
-layout: about
 images:
   - /img/eSolia-Chicklet-Color-1024px.png
 aliases:
@@ -32,12 +31,12 @@ menu:
     Parent: about_index_ja
     Identifier: basic_info_ja
     Url: /about
-  side:
+  aboutside:
     Name: 会社概要
     Weight: 10
-    Identifier: about
+    Parent: aboutsideindex_ja    
+    Identifier: aboutsidebasic_ja
     Url: /about
-    Parent: esolia
   detailfooter1:
     Name: 会社概要
     Weight: 10

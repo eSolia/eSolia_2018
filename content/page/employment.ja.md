@@ -37,12 +37,12 @@ menu:
     Parent: about_index_ja
     Identifier: esoliaemployment_ja
     Url: /employment
-  side:
+  aboutside:
     Name: 採用情報
     Weight: 40
-    Identifier: employment
+    Parent: aboutsideindex_ja
+    Identifier: aboutsideemp_ja
     Url: /employment
-    Parent: esolia
   homefooter1:
     Name: 採用情報
     Weight: 40

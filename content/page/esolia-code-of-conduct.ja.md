@@ -17,7 +17,6 @@ tags:
 topics:
   - イソリア
   - eSolia
-type: aboutpage
 layout: about
 images:
   - /img/eSolia-Chicklet-Color-1024px.png
@@ -30,12 +29,12 @@ menu:
     Parent: about_index_ja
     Identifier: esoliacodeofconduct_ja
     Url: /esolia-code-of-conduct
-  side:
+  aboutside:
     Name: 行動規範
     Weight: 35
-    Identifier: esolia-code-of-conduct
+    Parent: aboutsideindex_ja
+    Identifier: aboutsidecode_ja
     Url: /esolia-code-of-conduct
-    Parent: esolia
 ---
 
 イソリアでは、コンサルティング及びエンジニアリング・サービス業務において、高品質で質の高いパフォーマンスを提供し、クライアントとの信頼関係を促進する為に、以下の行動規範を定めています。

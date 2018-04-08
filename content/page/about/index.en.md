@@ -7,6 +7,7 @@ draft: false
 slug: about
 subtitle: Basic Information
 weight: 10
+layout: about
 alternatelocales:
   - ja-JP
 tags:
@@ -18,8 +19,6 @@ tags:
 title: About eSolia Inc.
 topics:
   - eSolia
-type: aboutpage
-layout: about
 images:
   - /img/eSolia-Chicklet-Color-1024px.png
 aliases:
@@ -30,14 +29,14 @@ menu:
     Name: Basic Info
     Weight: 10
     Parent: about_index_en
-    Identifier: basic_info_en
+    Identifier: basicinfo_en
     Url: /about
-  side:
+  aboutside:
     Name: Basic Info
     Weight: 10
-    Identifier: en_about_page
+    Parent: aboutsideindex_en    
+    Identifier: aboutsidebasic_en
     Url: /about
-    Parent: en_esolia
   detailfooter1:
     Name: About
     Weight: 10

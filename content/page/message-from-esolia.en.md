@@ -18,7 +18,6 @@ title: Message from eSolia
 subtitle: To our Clients and Visitors
 topics:
   - eSolia
-type: aboutpage
 layout: about
 images:
   - /img/eSolia-Chicklet-Color-1024px.png
@@ -31,12 +30,12 @@ menu:
     Parent: about_index_en
     Identifier: msgfromesolia_en
     Url: /message-from-esolia
-  side:
+  aboutside:
     Name: Message from eSolia
     Weight: 25
-    Identifier: message-from-esolia
+    Parent: aboutsideindex_en
+    Identifier: aboutsidemsg_en
     Url: /message-from-esolia
-    Parent: esolia
   homefooter1:
     Name: Message
     Weight: 20

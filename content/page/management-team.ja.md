@@ -22,7 +22,6 @@ titlewbr: マネージメント<wbr><nobr>チーム</nobr>
 topics:
   - eSolia
   - イソリア
-type: aboutpage
 layout: about
 images:
   - /img/eSolia-CEO-Rick-Cogley.jpg
@@ -34,12 +33,12 @@ menu:
     Parent: about_index_ja
     Identifier: mgtteam_ja
     Url: /management-team
-  side:
-    Name: マネージメントチーム
+  aboutside:
+    Name: マネージメント
     Weight: 20
-    Identifier: management-team
+    Parent: aboutsideindex_ja    
+    Identifier: aboutsidemgtteam_ja
     Url: /management-team
-    Parent: esolia
 ---
 
 ### 代表取締役社長 <wbr><nobr>ジェームズ R. コグレー</nobr>

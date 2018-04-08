@@ -45,12 +45,12 @@ menu:
     Parent: about_index_ja
     Identifier: esoliainforequest_ja
     Url: /info-request
-  side:
+  aboutside:
     Name: お問い合わせ
     Weight: 45
-    Identifier: info-request
+    Parent: aboutsideindex_ja
+    Identifier: aboutsideinforeq_ja
     Url: /info-request
-    Parent: esolia
   detailfooter1:
     Name: お問い合わせ
     Weight: 10
@@ -66,4 +66,3 @@ menu:
 イソリアに興味をお持ちいただきまして誠にありがとうございます。
 他に何か質問や資料請求等が御座いましたら、下記のお問い合わせフォームをご記入ください。各ページのフォームも合わせてご利用ください。
 お問い合わせに関しては速やかにご返信に致します。
-また、メールでのお問い合わせはこちらへ<info@esolia.co.jp>。

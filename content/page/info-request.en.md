@@ -43,12 +43,12 @@ menu:
     Parent: about_index_en
     Identifier: esoliainforequest_en
     Url: /info-request
-  side:
+  aboutside:
     Name: Info Request
     Weight: 45
-    Identifier: info-request
+    Parent: aboutsideindex_en
+    Identifier: aboutsideinforeq_en
     Url: /info-request
-    Parent: esolia
   detailfooter1:
     Name: Info Request
     Weight: 10
@@ -63,4 +63,4 @@ menu:
 
 ## Thank You
 
-Thank you sincerely for your interest. If you have a general enquiry about eSolia services, please use the below form to ask your questions or request more information, or use the form provided on each service page. It is our pleasure to be of service, and we will respond as quickly as practical. Feel free to contact us via <info@esolia.co.jp> if you prefer email.
+Thank you sincerely for your interest. If you have a general enquiry about eSolia services or solutions, please use the below form to ask your questions or request more information, or use the form provided on each separate information page. It is our pleasure to be of service, and we will respond as quickly as practical. 

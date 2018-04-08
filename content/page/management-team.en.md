@@ -21,7 +21,6 @@ tags:
 title: Management Team
 topics:
   - eSolia
-type: aboutpage
 layout: about
 images:
   - /img/eSolia-CEO-Rick-Cogley.jpg
@@ -33,12 +32,12 @@ menu:
     Parent: about_index_en
     Identifier: mgtteam_en
     Url: /management-team
-  side:
+  aboutside:
     Name: Management Team
     Weight: 20
-    Identifier: management-team
+    Parent: aboutsideindex_en    
+    Identifier: aboutsidemgtteam_en
     Url: /management-team
-    Parent: esolia
 ---
 
 ## Principals

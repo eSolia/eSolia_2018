@@ -17,7 +17,6 @@ tags:
   - Standard of Behavior
 topics:
   - eSolia
-type: aboutpage
 layout: about
 images:
   - /img/eSolia-Chicklet-Color-1024px.png
@@ -30,12 +29,12 @@ menu:
     Parent: about_index_en
     Identifier: esoliacodeofconduct_en
     Url: /esolia-code-of-conduct
-  side:
+  aboutside:
     Name: Code of Conduct
     Weight: 35
-    Identifier: esolia-code-of-conduct
+    Parent: aboutsideindex_en
+    Identifier: aboutsidecode_en
     Url: /esolia-code-of-conduct
-    Parent: esolia
 ---
 
 In order to promote the highest quality of performance in our consulting and engineering practices, and to facilitate equitable and satisfactory client relationships, eSolia has developed the following "code of conduct", or standards of good practice to which our professionals ascribe.

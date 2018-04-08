@@ -24,6 +24,11 @@ menu:
     Weight: 10
     Identifier: about_index_ja
     Url: /about-us
+  aboutside:
+    Name: イソリアのついて
+    Weight: 10
+    Identifier: aboutsideindex_ja
+    Url: /about-us
 ---
 
 ## イソリアでシステムインフラを強化する
