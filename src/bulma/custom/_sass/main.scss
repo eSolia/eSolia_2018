@@ -33,9 +33,14 @@ $twitter-invert: findColorInvert($twitter);
 $github: #333;
 $github-invert: findColorInvert($github);
 
+$grey-dark2:    hsl(0, 0%, 27%) !default
+$grey-dark2-invert: findColorInvert($grey-dark2);
+
+
 // 5. Add new color variables to the color map.
 @import "../../bower_components/bulma/sass/utilities/derived-variables";
 $addColors: (
+  "grey-dark2":($grey-dark2, $grey-dark2-invert),
   "twitter":($twitter, $twitter-invert),
   "linkedin": ($linkedin, $linkedin-invert),
   "github": ($github, $github-invert)
@@ -106,7 +111,8 @@ $backgrounds: (bg-totsukabridge: '/img/Cogley-Banner-JR-Totsuka-Bridge-2-mono.jp
 
 // Inner page sidebar
 .is-sidebar-menu {
-  padding: 2.5rem;
+  padding: 1.8rem 0rem 1.5rem 1.5rem;
+  line-height: 1rem;
   background: $grey-dark;
   li {
     a {
@@ -130,4 +136,66 @@ $backgrounds: (bg-totsukabridge: '/img/Cogley-Banner-JR-Totsuka-Bridge-2-mono.jp
 
 .is-main-content {
   background: $grey-lighter;
+  background-image: url("/img/background4.png");
+}
+
+
+// Menu Tweaking
+
+// edited
+.menu-list {
+  line-height: 1.15;
+}
+
+.menu-list a {
+  // border-radius: 2px;
+  // color: #4a4a4a;
+  // display: block;
+  // padding: 0.5em 0.75em;
+  padding: 0.5em .5em;
+}
+
+.menu-list a:hover {
+  background-color: whitesmoke;
+  color: #363636;
+  border-left: 4px solid $info;
+}
+
+// edited color
+.menu-list a.is-active {
+  background-color: $info;
+  color: #fff;
+  border-left: 4px solid $white;
+}
+
+.menu-list li ul {
+  border-left: 1px solid #dbdbdb;
+  margin: 0.75em;
+  // margin: 1.75em;
+  padding-left: 0.75em;
+  // padding-left: .1em;
+}
+
+// edited font-size, bgcolor, padd
+.menu-label {
+  color: #7a7a7a;
+  font-size: 0.9em;
+  background-color: $grey-dark2;
+  padding: .5em 1em .5em 1em;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  border-radius: 2px;
+}
+
+.menu-label:not(:first-child) {
+  margin-top: 1em;
+}
+
+.menu-label:not(:last-child) {
+  margin-bottom: 1em;
+}
+
+.menu-label:hover {
+  background-color: $grey-lighter;
+  border-left: 4px solid $info;
 }
