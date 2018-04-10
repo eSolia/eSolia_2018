@@ -12,18 +12,18 @@
 
 // 2. Set your own initial variables
 // Update the blue shade, used for links
-$blue: #06bcef;
+// $blue: #06bcef;
 // Add pink and its invert
-$pink: #ff8080;
-$pink-invert: #fff;
+// $pink: #ff8080;
+// $pink-invert: #fff;
 // Update the sans-serif font family
 $family-sans-serif: "ryo-gothic-plusn", "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 $family-monospace: "source-code-pro", "monospace";
 
 // 3. Set the derived variables
 // Use the new pink as the primary color
-$primary: $pink;
-$primary-invert: $pink-invert;
+// $primary: $pink;
+// $primary-invert: $pink-invert;
 
 // 4. Setup your Custom Colors
 $linkedin: #0077b5;
@@ -198,4 +198,10 @@ $backgrounds: (bg-totsukabridge: '/img/Cogley-Banner-JR-Totsuka-Bridge-2-mono.jp
 .menu-label:hover {
   background-color: $grey-lighter;
   border-left: 4px solid $info;
+}
+
+// List
+.list-has-no-style {
+  padding-left: 0;
+  list-style: none;
 }
