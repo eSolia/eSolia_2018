@@ -54,6 +54,48 @@ We have confidence that our team of experienced professionals with a wide-range 
 
 ## 5 Steps to Success
 
+<ul class="steps">
+  <li class="step-item is-completed is-primary list-has-no-style">
+    <div class="step-marker">1</div>
+    <div class="step-details is-primary is-completed">
+      <p class="step-title is-size-6">Agree</p>
+      <p class="is-italic has-text-weight-light is-size-7">What and how.</p>
+    </div>
+  </li>
+  <li class="step-item is-completed is-info list-has-no-style">
+    <div class="step-marker">2</div>
+    <div class="step-details">
+      <p class="step-title is-size-6">Discover</p>
+      <p class="is-italic has-text-weight-light is-size-7">Identify the problem and perform analysis.</p>
+    </div>
+  </li>
+  <li class="step-item is-completed is-warning list-has-no-style">
+    <div class="step-marker">3</div>
+    <div class="step-details">
+      <p class="step-title is-size-6">Feedback</p>
+      <p class="is-italic has-text-weight-light is-size-7">Report feedback and plan actions.</p>
+    </div>
+  </li>
+  <li class="step-item is-completed is-danger list-has-no-style">
+    <div class="step-marker">
+      <span class="icon">4</span>
+    </div>
+    <div class="step-details">
+      <p class="step-title is-size-6">Implement</p>
+      <p class="is-italic has-text-weight-light is-size-7">Implement the plans.</p>
+    </div>
+  </li>
+    <li class="step-item is-completed is-success list-has-no-style">
+    <div class="step-marker">
+      <span class="icon">5</span>
+    </div>
+    <div class="step-details">
+      <p class="step-title is-size-6">Recycle</p>
+      <p class="is-italic has-text-weight-light is-size-7">Discuss and decide what's next.</p>
+    </div>
+  </li>
+</ul>
+
 Here are more details for the five steps that must be completed in any successful consulting engagement -
 
 ### Agreement:
@@ -62,7 +104,7 @@ The first step in the consulting process allows us to come to a clear understand
 
 ### Discovery:
 
-Discovery is the bulk of the consulting engagement, where the key dialogue occurs that allows us to act as a catalyst to convince our clients to take action. Here, we identify the problem clearly focussing on both the presenting and root challenges, select problem dimensions to study, pick engagement team members, decide data collection methods, and then collect, filter and summarize the data. Finally, an analysis of the data is performed to prepare for the next step.
+Discovery is the bulk of the consulting engagement, where the key dialogue occurs that allows us to act as a catalyst to convince our clients to take action. Here, we identify the problem clearly focusing on both the presenting and root challenges, select problem dimensions to study, pick engagement team members, decide data collection methods, and then collect, filter and summarize the data. Finally, an analysis of the data is performed to prepare for the next step.
 
 ### Feedback:
 
@@ -77,3 +119,4 @@ The Implementation step is where we assist our clients in implementing the plans
 The final step is to perform a "post-mortem" on the engagement to decide if there is anything else that needs solved, whether to extend, recycle or terminate. At this stage, we feel a certain success if our client can solve related problems independently, the next time around.
 
 Please use the form below to contact us for more information.
+

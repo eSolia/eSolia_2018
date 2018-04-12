@@ -29,6 +29,7 @@ tags:
   - Go
   - Humans.txt
   - Markdown
+  - Bulma
 topics:
   - Site
 images:
@@ -119,3 +120,4 @@ Sites don't always properly acknowledge contributions, but believe us, _every si
 Finally, thanks also to team eSolia for the many hours working on content.  
 
 _Now to get back to business!_
+
