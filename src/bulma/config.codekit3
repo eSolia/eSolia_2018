@@ -7,7 +7,7 @@
 		"uuidString": "DEB47D16-B68B-4562-81FA-58E80D9BC336"
 		}
 	],
-"creatorBuild": "26330",
+"creatorBuild": "26680",
 "files": {
 	"\/bower.json": {
 		"ft": 524288,
@@ -4770,6 +4770,7 @@
 	"\/bower_components\/jQuery\/test\/data\/1x1.jpg": {
 		"ft": 16384,
 		"iS": 693,
+		"jF": 0,
 		"oA": 2,
 		"oAP": "\/bower_components\/jQuery\/test\/data\/1x1.jpg",
 		"oF": 0,
@@ -5691,6 +5692,7 @@
 	"\/custom\/_images\/Cogley-Banner-JR-Totsuka-Bridge-2-mono.jpg": {
 		"ft": 16384,
 		"iS": 347385,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/custom\/_images\/Cogley-Banner-JR-Totsuka-Bridge-2-mono.jpg",
 		"oF": 0,
@@ -5765,7 +5767,8 @@
 	"creationDate": 543974065,
 	"displayValue": "bulma",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "brackets_gray"
+	"iconImageName": "brackets_gray",
+	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -7568,6 +7571,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 2,
+		"outputFormat": 0,
 		"quality": 89
 		},
 	"languageDefaultsJS": {
