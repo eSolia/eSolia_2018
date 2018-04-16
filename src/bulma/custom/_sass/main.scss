@@ -25,6 +25,9 @@ $family-monospace: "source-code-pro", "monospace";
 // $primary: $pink;
 // $primary-invert: $pink-invert;
 
+// Top Nav Tweak
+$navbar-box-shadow-color: $grey-lighter !default;
+
 // 4. Setup your Custom Colors
 $linkedin: #0077b5;
 $linkedin-invert: findColorInvert($linkedin);
@@ -52,7 +55,7 @@ $colors: map-merge($colors, $addColors);
 // Don't need the extension for bulma.sass, just bulma
 @import "../../bower_components/bulma/bulma";
 // Also import extensions
-// @import "../../bower_components/bulma-accordion/dist/bulma-accordion";
+@import "../../bower_components/bulma-accordion/dist/bulma-accordion";
 @import "../../bower_components/bulma-badge/dist/bulma-badge";
 @import "../../bower_components/bulma-calendar/dist/bulma-calendar";
 @import "../../bower_components/bulma-carousel/dist/bulma-carousel";
@@ -60,22 +63,28 @@ $colors: map-merge($colors, $addColors);
 @import "../../bower_components/bulma-divider/dist/bulma-divider";
 @import "../../bower_components/bulma-iconpicker/dist/bulma-iconpicker";
 @import "../../bower_components/bulma-pageloader/dist/bulma-pageloader";
-// @import "../../bower_components/bulma-pricingtable/dist/bulma-pricingtable";
+@import "../../bower_components/bulma-pricingtable/dist/bulma-pricingtable";
 @import "../../bower_components/bulma-quickview/dist/bulma-quickview";
 @import "../../bower_components/bulma-ribbon/dist/bulma-ribbon";
 @import "../../bower_components/bulma-slider/dist/bulma-slider";
 @import "../../bower_components/bulma-steps/dist/bulma-steps";
 @import "../../bower_components/bulma-switch/dist/bulma-switch";
-// @import "../../bower_components/bulma-tagsinput/dist/bulma-tagsinput";
+@import "../../bower_components/bulma-tagsinput/dist/bulma-tagsinput";
 @import "../../bower_components/bulma-timeline/dist/bulma-timeline";
 @import "../../bower_components/bulma-tooltip/dist/bulma-tooltip";
 
-// Custom extension
-@import "/Users/rcogley/dev/eSolia_2018/src/bulma/custom/_sass/_spacing";
+// Custom extension　/Users/rcogley/dev/eSolia_2018/src/bulma/custom/_sass/
+@import "_spacing";
 
 // CUSTOM CSS
 // set background color of pages
 html { background-color: $grey-darker;}
+
+// set max width of paragraphs for ease of reading
+p,ul,ol,table {
+    max-width: 38em;
+    // margin: auto;
+}
 
 // try to fix strong not inheriting color
 strong {
@@ -138,7 +147,6 @@ $backgrounds: (bg-totsukabridge: '/img/Cogley-Banner-JR-Totsuka-Bridge-2-mono.jp
   background: $grey-lighter;
   background-image: url("/img/background4.png");
 }
-
 
 // Menu Tweaking
 
