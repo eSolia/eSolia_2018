@@ -15,9 +15,6 @@
               </h1>
               <h2 class="subtitle is-4 has-text-white">
                   {{ .Content }}
-                  Congratulations! You're running the <strong class="has-text-white">Bulma start</strong> project.
-                  <br>
-                  It includes everything you need to <strong>build your own website</strong> with Bulma.
               </h2>
 
               <button class="button is-primary" data-show="quickview" data-target="quickviewDefault">Show quickview</button>
@@ -51,30 +48,30 @@
       </svg>
 
     </section>
-    <section class="section">
+    <section class="section has-margin-l-xl has-margin-r-xl">
     <div class="tile is-ancestor">
         <div class="tile is-parent is-shaded">
           <article class="tile is-child box notification is-info">
             <p class="title">One</p>
-            <p class="subtitle">Subtitle</p>
+            <p class="subtitle">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam semper diam at erat pulvinar, at pulvinar felis blandit. Vestibulum volutpat tellus diam, consequat gravida libero rhoncus ut. Morbi maximus, leo sit amet vehicula eleifend, nunc dui porta orci, quis semper odio felis ut quam.</p>
           </article>
         </div>
         <div class="tile is-parent">
           <article class="tile is-child box">
             <p class="title">Two</p>
-            <p class="subtitle">Subtitle</p>
+            <p class="subtitle">Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
           </article>
         </div>
         <div class="tile is-parent">
           <article class="tile is-child box">
             <p class="title">Three</p>
-            <p class="subtitle">Subtitle</p>
+            <p class="subtitle">Etiam semper diam at erat pulvinar, at pulvinar felis blandit. Vestibulum volutpat tellus diam, consequat gravida libero rhoncus ut. Morbi maximus, leo sit amet vehicula eleifend, nunc dui porta orci, quis semper odio felis ut quam.</p>
           </article>
         </div>
         <div class="tile is-parent">
           <article class="tile is-child box">
             <p class="title">Four</p>
-            <p class="subtitle">Subtitle</p>
+            <p class="subtitle">Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
           </article>
         </div>
       </div>
@@ -142,11 +139,10 @@
         <div class="tile is-parent">
           <article class="tile is-child box">
             <div class="content">
-              <p class="title">Eleven</p>
-              <p class="subtitle">Subtitle</p>
+              <p class="title">{{ i18n "compName" }}</p>
+              <p class="subtitle">{{ i18n "strongfoundations" }}</p>
               <div class="content">
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam semper diam at erat pulvinar, at pulvinar felis blandit. Vestibulum volutpat tellus diam, consequat gravida libero rhoncus ut. Morbi maximus, leo sit amet vehicula eleifend, nunc dui porta orci, quis semper odio felis ut quam.</p>
-                <p>Integer sollicitudin, tortor a mattis commodo, velit urna rhoncus erat, vitae congue lectus dolor consequat libero. Donec leo ligula, maximus et pellentesque sed, gravida a metus. Cras ullamcorper a nunc ac porta. Aliquam ut aliquet lacus, quis faucibus libero. Quisque non semper leo.</p>
+                <p>{{ i18n "toplongblurb" | safeHTML }}</p>
               </div>
             </div>
           </article>
@@ -227,7 +223,7 @@
  -->
 
     <section class="section is-marginless notification is-danger">
-      <div class="columns is-centered">
+      <div class="columns is-centered  has-margin-l-xl has-margin-r-xl">
         <div class="column">
           <div class="card">
             <header class="card-header">
