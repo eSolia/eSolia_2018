@@ -37,6 +37,8 @@ menu:
     Parent: success_index_en
     Identifier: successfactorybpr_en
     Url: /success-story_m-and-a-business-process-reengineering-bpr
+    Pre: fa-flag-checkered
+    Post: M&A driven process and IT revamp
   successes:
     Name: BPR for factory
     Identifier: factorybpr1_en

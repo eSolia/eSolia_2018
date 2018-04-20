@@ -59,6 +59,8 @@ menu:
     Parent: solutions_index_ja
     Identifier: expathomesetup_ja
     Url: /japan-expat-home-setup
+    Pre: fa-lightbulb
+    Post: 来日外国人向けのサービス
   solutions:
     Name: 自宅パソコン設定
     Weight: 20

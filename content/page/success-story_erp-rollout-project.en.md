@@ -45,6 +45,8 @@ menu:
     Parent: success_index_en
     Identifier: successerprollout_en
     Url: /success-story_erp-rollout-project
+    Pre: fa-flag-checkered
+    Post: Challenging project brings efficiencies
   successes:
     Name: ERP rollout
     Identifier: erprollout1_en

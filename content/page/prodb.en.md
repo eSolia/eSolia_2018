@@ -54,6 +54,8 @@ menu:
     Parent: solutions_index_en
     Identifier: prodb_en
     Url: /prodb
+    Pre: fa-lightbulb
+    Post: Secure, Rock-Solid Cloud Database
   solutions:
     Name: PROdb Database
     Weight: 10

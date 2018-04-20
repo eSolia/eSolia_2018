@@ -35,11 +35,13 @@ aliases:
   - /resources/success-stories/marine-products-maker/
 menu:
   main:
-    Name: 買収合併ERP確認
+    Name: ERP及びプロセス確認
     Weight: 40
     Parent: success_index_ja
     Identifier: successmandaduediligence_ja
     Url: /success-story_m-and-a-due-diligence-and-erp-assessment
+    Pre: fa-flag-checkered
+    Post: 買収合併前デューディリジェンス
   successes:
     Name: 買収合併ERP確認
     Identifier: mandaduediligenceanderp_ja

@@ -52,6 +52,8 @@ menu:
     Parent: solutions_index_ja
     Identifier: prodb_ja
     Url: /prodb
+    Pre: fa-lightbulb
+    Post: セキュア且つ高信頼性、クラウド型DB
   solutions:
     Name: PROdb クラウド
     Weight: 10

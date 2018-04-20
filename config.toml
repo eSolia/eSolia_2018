@@ -94,6 +94,8 @@ languageCode = "en-US"
     parent = "news_index_en"
     identifier = "topicslist_en"
     url = "/topics"
+    pre = "fa-fire"
+    post = "Major Topical Content Groupings"
 
 [[languages.en.menu.main]]
     name = "All Tags"
@@ -101,6 +103,8 @@ languageCode = "en-US"
     parent = "news_index_en"
     identifier = "tagslist_en"
     url = "/tags"
+    pre = "fa-tags"
+    post = "Contents Keywords for Searching"
 
 [[languages.en.menu.side]]
     name = "About eSolia"
@@ -300,6 +304,8 @@ help  = "ヘルプ"
     parent = "news_index_ja"
     identifier = "topicslist_ja"
     url = "/topics"
+    pre = "fa-fire"
+    post = "コンテンツの主要な分類"
 
 [[languages.ja.menu.main]]
     name = "全タグ一覧"
@@ -307,6 +313,8 @@ help  = "ヘルプ"
     parent = "news_index_ja"
     identifier = "tagslist_ja"
     url = "/tags"
+    pre = "fa-tags"
+    post = "コンテンツのキーワード"
 
 [[languages.ja.menu.side]]
     name = "イソリアについて"

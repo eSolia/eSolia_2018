@@ -38,6 +38,8 @@ menu:
     Parent: success_index_ja
     Identifier: successfactorybpr_ja
     Url: /success-story_m-and-a-business-process-reengineering-bpr
+    Pre: fa-flag-checkered
+    Post: 合併に沿ってプロセスとITのやり直し
   successes:
     Name: 工場のBPR
     Identifier: factorybpr1_ja

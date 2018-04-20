@@ -41,6 +41,8 @@ menu:
     Parent: services_index_ja
     Identifier: consulting_ja
     Url: /consulting
+    Pre: fa-cogs
+    Post: 我々の知識と技術に頼ってください
   services:
     Name: コンサルティング
     Weight: 10

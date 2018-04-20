@@ -52,6 +52,8 @@ menu:
     Parent: services_index_en
     Identifier: infrastructure_en
     Url: /infrastructure
+    Pre: fa-cogs
+    Post: Handling the nuts and bolts
   services:
     Name: Infrastructure
     Weight: 30

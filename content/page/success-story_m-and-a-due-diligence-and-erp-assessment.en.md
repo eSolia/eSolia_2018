@@ -34,11 +34,13 @@ aliases:
   - /resources/success-stories/marine-products-maker/
 menu:
   main:
-    Name: M&A ERP Assess
+    Name: ERP and Process Discovery
     Weight: 40
     Parent: success_index_en
     Identifier: successmandaduediligence_en
     Url: /success-story_m-and-a-due-diligence-and-erp-assessment
+    Pre: fa-flag-checkered
+    Post: Pre-M&A Due Diligence
   successes:
     Name: M&A ERP Assess
     Identifier: mandaduediligenceanderp_en¥

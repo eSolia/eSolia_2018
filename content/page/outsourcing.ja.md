@@ -42,6 +42,8 @@ menu:
     Parent: services_index_ja
     Identifier: outsourcing_ja
     Url: /outsourcing
+    Pre: fa-cogs
+    Post: サービスの継続性を今すぐに
   services:
     Name: アウトソーシング
     Weight: 20

@@ -40,6 +40,8 @@ menu:
     Parent: services_index_en
     Identifier: outsourcing_en
     Url: /outsourcing
+    Pre: fa-cogs
+    Post: Immediate Service Continuity
   services:
     Name: Outsourcing
     Weight: 20

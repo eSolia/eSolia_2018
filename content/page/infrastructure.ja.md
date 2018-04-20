@@ -50,6 +50,8 @@ menu:
     Parent: services_index_ja
     Identifier: infrastructure_ja
     Url: /infrastructure
+    Pre: fa-cogs
+    Post: ITの基板・基礎も任せてください
   services:
     Name: インフラストラクチャ
     Weight: 30

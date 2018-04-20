@@ -39,6 +39,8 @@ menu:
     Parent: success_index_en
     Identifier: successdcrefreshandupsupgrade_en
     Url: /success-story_datacenter-refresh-and-ups-upgrade
+    Pre: fa-flag-checkered
+    Post: High-pressure weekend project
   successes:
     Name: DC & UPS Upgrade
     Identifier: dcrefreshandupsupgrade

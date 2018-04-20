@@ -41,6 +41,8 @@ menu:
     Parent: services_index_en
     Identifier: consulting_en
     Url: /consulting
+    Pre: fa-cogs
+    Post: Leverage our Expertise
   services:
     Name: Consulting
     Weight: 10

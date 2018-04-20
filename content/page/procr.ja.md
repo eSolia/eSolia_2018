@@ -57,6 +57,8 @@ menu:
     Parent: solutions_index_ja
     Identifier: procr_jas
     Url: /procr
+    Pre: fa-lightbulb
+    Post: IP電話、コールセンター禄話の為に
   solutions:
     Name: PROcr 通話録音
     Weight: 20

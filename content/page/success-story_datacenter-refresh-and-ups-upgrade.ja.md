@@ -40,6 +40,8 @@ menu:
     Parent: success_index_ja
     Identifier: successdcrefreshandupsupgrade_ja
     Url: /success-story_datacenter-refresh-and-ups-upgrade
+    Pre: fa-flag-checkered
+    Post: プレッシャーな週末
   successes:
     Name: 大型UPSアップグレード
     Identifier: dcrefreshandupsupgrade

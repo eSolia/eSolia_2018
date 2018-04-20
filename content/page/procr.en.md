@@ -52,6 +52,8 @@ menu:
     Parent: solutions_index_en
     Identifier: procr_en
     Url: /procr
+    Pre: fa-lightbulb
+    Post: For your IP Phone System
   solutions:
     Name: PROcr Recording
     Weight: 20

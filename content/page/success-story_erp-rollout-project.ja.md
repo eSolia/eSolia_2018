@@ -45,6 +45,8 @@ menu:
     Parent: success_index_ja
     Identifier: successerprollout_ja
     Url: /success-story_erp-rollout-project
+    Pre: fa-flag-checkered
+    Post: チャレンジ導入で効率アップ
   successes:
     Name: ERP 展開
     Identifier: erprollout1_ja
