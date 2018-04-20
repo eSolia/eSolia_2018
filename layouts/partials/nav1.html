@@ -1,5 +1,5 @@
 {{ "<!-- ENTERING partial nav1.html -->" | safeHTML }}
-<nav class="navbar is-primary">
+<nav class="navbar is-primary has-shadow is-spaced">
   <div class="navbar-brand">
     <a class="navbar-item" href="{{ .Site.BaseURL }}">
       <img src="/img/eSolia Logo - White Opt 1206.png" alt="eSolia Logo" >
@@ -13,18 +13,33 @@
 
   <div class="navbar-menu" id="navMenu">
     <div class="navbar-start">
+      {{ if not .IsHome }}
       <a class="navbar-item" href="{{ .Site.BaseURL }}">
         <span class="icon"><i class="fas fa-home has-text-warning"></i></span>
       </a>
+      {{ end }}
       {{- $currentPage := . -}}
       {{- range .Site.Menus.main }}
-
       <div class="navbar-item is-hoverable{{ if .HasChildren }} has-dropdown{{ end }}">
         <a class="navbar-link{{ if $currentPage.HasMenuCurrent "main" . }} is-active{{ end }}" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
           {{ if .HasChildren -}}
           <div class="navbar-dropdown is-boxed">
-            {{ range .Children -}}
-            <a class="navbar-item{{ if $currentPage.IsMenuCurrent "main" . }} is-active{{ end }}" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+            {{ $list := ( .Children ) }}
+            {{ $len := ( len $list ) }}
+            {{ range $index, $element := $list -}}
+              <a class="navbar-item{{ if $currentPage.IsMenuCurrent "main" . }} is-active{{ end }}" href="{{ .URL | absLangURL }}">
+                <span>
+                <span class="icon has-text-primary">
+                  <i class="fas {{ .Pre }}"></i>
+                </span>
+                <strong>{{ .Name }}</strong>
+                <br>
+                <span class="has-padding-m">{{ .Post }}</span>
+                </span>
+              </a>
+              {{ if ne (add $index 1) $len }}
+              <hr class="navbar-divider">
+              {{ end }}
             {{ end }}
           </div>
           {{ end }}
