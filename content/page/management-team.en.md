@@ -32,6 +32,8 @@ menu:
     Parent: about_index_en
     Identifier: mgtteam_en
     Url: /management-team
+    Pre: fa-bullhorn
+    Post: About eSolia principals Cogley and Fukuoka
   aboutside:
     Name: Management Team
     Weight: 20

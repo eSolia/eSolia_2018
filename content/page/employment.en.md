@@ -34,6 +34,8 @@ menu:
     Parent: about_index_en
     Identifier: esoliaemployment_en
     Url: /employment
+    Pre: fa-users
+    Post: Be part of team eSolia?
   aboutside:
     Name: Employment
     Weight: 40

@@ -48,6 +48,8 @@ menu:
     Parent: about_index_en
     Identifier: whyesolia_en
     Url: /why-esolia
+    Pre: fa-question
+    Post: Mandate, Values, Processes, Practices, Tools
   aboutside:
     Name: Why eSolia?
     Weight: 30

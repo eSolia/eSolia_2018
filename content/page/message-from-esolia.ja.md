@@ -30,6 +30,8 @@ menu:
     Parent: about_index_ja
     Identifier: msgfromesolia_ja
     Url: /message-from-esolia
+    Pre: fa-comment-dots
+    Post: 虎ノ門からの手紙
   aboutside:
     Name: ご挨拶
     Weight: 25

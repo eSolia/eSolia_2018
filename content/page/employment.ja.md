@@ -37,6 +37,8 @@ menu:
     Parent: about_index_ja
     Identifier: esoliaemployment_ja
     Url: /employment
+    Pre: fa-users
+    Post: 一緒に成長しませんか?
   aboutside:
     Name: 採用情報
     Weight: 40

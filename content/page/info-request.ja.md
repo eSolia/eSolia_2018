@@ -45,6 +45,8 @@ menu:
     Parent: about_index_ja
     Identifier: esoliainforequest_ja
     Url: /info-request
+    Pre: fa-check
+    Post: 気軽にお聞きください
   aboutside:
     Name: お問い合わせ
     Weight: 45

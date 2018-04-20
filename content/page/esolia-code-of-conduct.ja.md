@@ -29,6 +29,8 @@ menu:
     Parent: about_index_ja
     Identifier: esoliacodeofconduct_ja
     Url: /esolia-code-of-conduct
+    Pre: fa-compass
+    Post: 我々の誓い及び行動規範
   aboutside:
     Name: 行動規範
     Weight: 35

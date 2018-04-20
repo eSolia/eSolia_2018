@@ -30,6 +30,8 @@ menu:
     Parent: about_index_en
     Identifier: msgfromesolia_en
     Url: /message-from-esolia
+    Pre: fa-comment-dots
+    Post: Greetings and eSolia Background
   aboutside:
     Name: Message from eSolia
     Weight: 25

@@ -43,6 +43,8 @@ menu:
     Parent: about_index_en
     Identifier: esoliainforequest_en
     Url: /info-request
+    Pre: fa-check
+    Post: Get more information
   aboutside:
     Name: Info Request
     Weight: 45

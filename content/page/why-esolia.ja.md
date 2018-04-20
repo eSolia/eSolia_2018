@@ -50,6 +50,8 @@ menu:
     Parent: about_index_ja
     Identifier: whyesolia_ja
     Url: /why-esolia
+    Pre: fa-question
+    Post: 使命、価値、プロセス、活動、ツール
   aboutside:
     Name: 何故イソリアか?
     Weight: 30

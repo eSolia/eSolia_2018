@@ -29,6 +29,8 @@ menu:
     Parent: about_index_en
     Identifier: esoliacodeofconduct_en
     Url: /esolia-code-of-conduct
+    Pre: fa-compass
+    Post: Our pledge and promise
   aboutside:
     Name: Code of Conduct
     Weight: 35

@@ -33,6 +33,8 @@ menu:
     Parent: about_index_ja
     Identifier: mgtteam_ja
     Url: /management-team
+    Pre: fa-bullhorn
+    Post: イソリア マネージメント チームのご紹介
   aboutside:
     Name: マネージメント
     Weight: 20

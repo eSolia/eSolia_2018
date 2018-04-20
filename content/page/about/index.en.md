@@ -31,6 +31,8 @@ menu:
     Parent: about_index_en
     Identifier: basicinfo_en
     Url: /about
+    Pre: fa-info-circle
+    Post: Basic information about eSolia Inc
   aboutside:
     Name: Basic Info
     Weight: 10

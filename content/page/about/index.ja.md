@@ -31,6 +31,8 @@ menu:
     Parent: about_index_ja
     Identifier: basic_info_ja
     Url: /about
+    Pre: fa-info-circle
+    Post: 株式会社イソリアの基礎的な情報
   aboutside:
     Name: 会社概要
     Weight: 10
