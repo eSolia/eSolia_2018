@@ -5,7 +5,7 @@ publishdate: 2012-01-10T00:05:19.000Z
 description: イソリア - お問い合わせフォーム
 draft: false
 slug: info-request
-subtitle: イソリアのサービスについて
+subtitle: イソリアのサービスやソリューションについて
 weight: 10
 warning: sales
 layout: about
@@ -66,5 +66,12 @@ menu:
 ---
 
 イソリアに興味をお持ちいただきまして誠にありがとうございます。
-他に何か質問や資料請求等が御座いましたら、下記のお問い合わせフォームをご記入ください。各ページのフォームも合わせてご利用ください。
+他に何か質問や資料請求等が御座いましたら、下記のお問い合わせフォームをご記入ください。
 お問い合わせに関しては速やかにご返信に致します。
+
+<p>
+<script
+  src="https://pro.dbflex.net/secure/embed.js"
+  data-url="/wr-79586/db/15331/webtorecord.aspx?t=79586"></script>
+</p>
+
