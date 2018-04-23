@@ -1,0 +1,76 @@
+{{ "<!-- ENTERING partial navhome.html -->" | safeHTML }}
+<nav class="navbar is-esolia-blue-0 has-shadow is-spaced">
+  <div class="navbar-brand">
+    <a class="navbar-item" href="{{ .Site.BaseURL }}">
+      <img src="/img/eSolia Logo - White Opt 1206.png" alt="eSolia Logo" >
+    </a>
+    <div class="navbar-burger burger" data-target="navMenu">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+  </div>
+
+  <div class="navbar-menu" id="navMenu">
+    <div class="navbar-start">
+      {{ if not .IsHome }}
+      <a class="navbar-item" href="{{ .Site.BaseURL }}">
+        <span class="icon"><i class="fas fa-home has-text-warning"></i></span>
+      </a>
+      {{ end }}
+      {{- $currentPage := . -}}
+      {{- range .Site.Menus.main }}
+      <div class="navbar-item is-hoverable{{ if .HasChildren }} has-dropdown{{ end }}">
+        <a class="navbar-link{{ if $currentPage.HasMenuCurrent "main" . }} is-active{{ end }}" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+          {{ if .HasChildren -}}
+          <div class="navbar-dropdown is-boxed">
+            {{ $list := ( .Children ) }}
+            {{ $len := ( len $list ) }}
+            {{ range $index, $element := $list -}}
+              <a class="navbar-item{{ if $currentPage.IsMenuCurrent "main" . }} is-active{{ end }}" href="{{ .URL | absLangURL }}">
+                <span>
+                <span class="icon has-text-primary">
+                  <i class="fas {{ .Pre }}"></i>
+                </span>
+                <strong>{{ .Name }}</strong>
+                <br>
+                <span class="has-padding-m">{{ .Post }}</span>
+                </span>
+              </a>
+              {{ if ne (add $index 1) $len }}
+              <hr class="navbar-divider">
+              {{ end }}
+            {{ end }}
+          </div>
+          {{ end }}
+      </div>
+      {{- end }}
+    </div>
+
+    <div class="navbar-end">
+      <div class="navbar-item">
+        <div class="field is-grouped">
+          <a href="/search">
+            <span class="icon"><i class="fas fa-search has-text-warning"></i></span>
+          </a>
+          <a class="has-margin-r-s has-margin-l-s" data-show="quickview" data-target="quickviewDefault">
+            <span class="icon"><i class="fas fa-cog has-text-warning"></i></span>
+          </a>
+          {{ if .IsTranslated }}
+          {{ range .Translations }}
+          <a class="button is-small is-esolia-yellow-0 is-rounded" href="{{ .Permalink }}">{{ .Site.Language.LanguageName }}</a>
+          {{ end }}
+          {{ else }}
+          {{ if eq .Site.Language.Lang "en" }}
+          <a class="button is-small is-esolia-yellow-0 is-rounded" href="/">日本語</a>
+          {{ else }}
+          <a class="button is-small is-esolia-yellow-0 is-rounded" href="/">English</a>
+          {{ end }}
+          {{ end }}
+        </div>
+      </div>
+    </div>
+
+  </div>
+</nav>
+{{ "<!-- LEAVING partial navhome.html -->" | safeHTML }}
