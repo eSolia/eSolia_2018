@@ -2,7 +2,7 @@
   {{ .Title }} &ndash; {{ .Site.Title }}
 {{ end }}
 {{ define "nav" }}
-    {{- partial "nav1.html" . -}}
+    {{- partial "nav1.html" (dict "context" . "navbgcolor" "is-esolia-yellow-0" "langswcolor" "is-esolia-blue-1") -}}
 {{ end }}
 {{ define "main" }}
 <div class="columns is-fullheight is-gapless">

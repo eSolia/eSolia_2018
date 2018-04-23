@@ -16,6 +16,7 @@
 // Add pink and its invert
 // $pink: #ff8080;
 // $pink-invert: #fff;
+
 // Update the sans-serif font family
 $family-sans-serif: "ryo-gothic-plusn", "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 $family-monospace: "source-code-pro", "monospace";
@@ -39,6 +40,46 @@ $github-invert: findColorInvert($github);
 $grey-dark2:    hsl(0, 0%, 27%) !default
 $grey-dark2-invert: findColorInvert($grey-dark2);
 
+$esolia-yellow-4: #6A4600;
+$esolia-yellow-4-invert: findColorInvert($esolia-yellow-4);
+$esolia-yellow-3: #9C6700;
+$esolia-yellow-3-invert: findColorInvert($esolia-yellow-3);
+$esolia-yellow-2: #F7A300;
+$esolia-yellow-2-invert: findColorInvert($esolia-yellow-2);
+$esolia-yellow-1: #FFA900;
+$esolia-yellow-1-invert: findColorInvert($esolia-yellow-1);
+$esolia-yellow-0: #C88400;	// Main Complement color */
+$esolia-yellow-0-invert: findColorInvert($esolia-yellow-0);	// Main Complement color invert */
+$esolia-secondary-2-4: #326000;
+$esolia-secondary-2-4-invert: findColorInvert($esolia-secondary-2-4);
+$esolia-secondary-2-3: #4A8D00;
+$esolia-secondary-2-3-invert: findColorInvert($esolia-secondary-2-3);
+$esolia-secondary-2-2: #74DF00;
+$esolia-secondary-2-2-invert: findColorInvert($esolia-secondary-2-2);
+$esolia-secondary-2-1: #80F600;
+$esolia-secondary-2-1-invert: findColorInvert($esolia-secondary-2-1);
+$esolia-secondary-2-0: #5EB500;	// Main Secondary color (2) */
+$esolia-secondary-2-0-invert: findColorInvert($esolia-secondary-2-0); // Main Secondary color (2) invert */
+$esolia-secondary-1-4: #5D0022;
+$esolia-secondary-1-4-invert: findColorInvert($esolia-secondary-1-4);
+$esolia-secondary-1-3: #880032;
+$esolia-secondary-1-3-invert: findColorInvert($esolia-secondary-1-3);
+$esolia-secondary-1-2: #D70050;
+$esolia-secondary-1-2-invert: findColorInvert($esolia-secondary-1-2);
+$esolia-secondary-1-1: #F3005A;
+$esolia-secondary-1-1-invert: findColorInvert($esolia-secondary-1-1);
+$esolia-secondary-1-0: #AE0040;	// Main Secondary color (1) */
+$esolia-secondary-1-0-invert: findColorInvert($esolia-secondary-1-0); // Main Secondary color (1) invert */
+$esolia-blue-4: #000A49;
+$esolia-blue-4-invert: findColorInvert($esolia-blue-4);
+$esolia-blue-3: #000F6B;
+$esolia-blue-3-invert: findColorInvert($esolia-blue-3);
+$esolia-blue-2: #0017A9;
+$esolia-blue-2-invert: findColorInvert($esolia-blue-2);
+$esolia-blue-1: #0120E1;
+$esolia-blue-1-invert: findColorInvert($esolia-blue-1);
+$esolia-blue-0: #001389;	// Main Primary color */
+$esolia-blue-0-invert: findColorInvert($esolia-blue-0); // Main Primary color invert */
 
 // 5. Add new color variables to the color map.
 @import "../../bower_components/bulma/sass/utilities/derived-variables";
@@ -46,7 +87,27 @@ $addColors: (
   "grey-dark2":($grey-dark2, $grey-dark2-invert),
   "twitter":($twitter, $twitter-invert),
   "linkedin": ($linkedin, $linkedin-invert),
-  "github": ($github, $github-invert)
+  "github": ($github, $github-invert),
+  "esolia-blue-0": ($esolia-blue-0,$esolia-blue-0-invert),
+  "esolia-blue-1": ($esolia-blue-1,$esolia-blue-1-invert),
+  "esolia-blue-2": ($esolia-blue-2,$esolia-blue-2-invert),
+  "esolia-blue-3": ($esolia-blue-3,$esolia-blue-3-invert),
+  "esolia-blue-4": ($esolia-blue-4,$esolia-blue-4-invert),
+  "esolia-secondary-1-0": ($esolia-secondary-1-0,$esolia-secondary-1-0-invert),
+  "esolia-secondary-1-1": ($esolia-secondary-1-1,$esolia-secondary-1-1-invert),
+  "esolia-secondary-1-2": ($esolia-secondary-1-2,$esolia-secondary-1-2-invert),
+  "esolia-secondary-1-3": ($esolia-secondary-1-3,$esolia-secondary-1-3-invert),
+  "esolia-secondary-1-4": ($esolia-secondary-1-4,$esolia-secondary-1-4-invert),
+  "esolia-secondary-2-0": ($esolia-secondary-2-0,$esolia-secondary-2-0-invert),
+  "esolia-secondary-2-1": ($esolia-secondary-2-1,$esolia-secondary-2-1-invert),
+  "esolia-secondary-2-2": ($esolia-secondary-2-2,$esolia-secondary-2-2-invert),
+  "esolia-secondary-2-3": ($esolia-secondary-2-3,$esolia-secondary-2-3-invert),
+  "esolia-secondary-2-4": ($esolia-secondary-2-4,$esolia-secondary-2-4-invert),
+  "esolia-yellow-0": ($esolia-yellow-0,$esolia-yellow-0-invert),
+  "esolia-yellow-1": ($esolia-yellow-1,$esolia-yellow-1-invert),
+  "esolia-yellow-2": ($esolia-yellow-2,$esolia-yellow-2-invert),
+  "esolia-yellow-3": ($esolia-yellow-3,$esolia-yellow-3-invert),
+  "esolia-yellow-4": ($esolia-yellow-4,$esolia-yellow-4-invert)
 );
 $colors: map-merge($colors, $addColors);
 

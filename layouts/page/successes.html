@@ -2,12 +2,13 @@
   {{ .Title }} &ndash; {{ .Site.Title }}
 {{ end }}
 {{ define "nav" }}
-    {{- partial "nav1.html" . -}}
+    {{- partial "nav1.html" (dict "context" . "navbgcolor" "is-esolia-secondary-1-0" "langswcolor" "is-esolia-yellow-0") -}}
 {{ end }}
 {{ define "main" }}
 <div class="columns is-fullheight is-gapless">
   <div class="column is-3 is-sidebar-menu is-hidden-mobile">
      <aside class="menu content has-padding-t-m has-padding-l-m">
+
        {{- $currentPage := . -}}
        {{ range .Site.Menus.successes }}
          <a class="is-hoverable{{ if $currentPage.IsMenuCurrent "successes" . }} is-active{{ end }}" href="{{ .URL | absLangURL }}"><p class="menu-label has-text-info">{{ .Name }}</p></a>
@@ -52,4 +53,5 @@
 {{ define "footer" }}
     {{- partial "footer1.html" . -}}
 {{ end }}
+
 
