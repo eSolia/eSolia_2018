@@ -245,6 +245,101 @@ $backgrounds: (bg-totsukabridge: '/img/Cogley-Banner-JR-Totsuka-Bridge-2-mono.jp
   // padding-left: .1em;
 }
 
+.menu-list-about {
+  line-height: 1.15;
+}
+
+.menu-list-about a {
+  border-radius: 2px;
+  color: #4a4a4a;
+  display: block;
+  padding: 0.5em 0.75em;
+  padding: 0.5em .5em;
+}
+
+.menu-list-about a:hover {
+  background-color: whitesmoke;
+  color: #363636;
+  border-left: 4px solid $esolia-yellow-1;
+}
+
+.menu-list-about a.is-active {
+  background-color: $esolia-yellow-1;
+  color: #fff;
+  border-left: 4px solid $white;
+}
+
+.menu-list-about li ul {
+  border-left: 1px solid $esolia-yellow-1;
+  margin: 0.75em;
+  margin: 1.75em;
+  padding-left: 0.75em;
+  padding-left: .1em;
+}
+// service and solution
+.menu-list-svcsol {
+  line-height: 1.15;
+}
+
+.menu-list-svcsol a {
+  border-radius: 2px;
+  color: #4a4a4a;
+  display: block;
+  padding: 0.5em 0.75em;
+  padding: 0.5em .5em;
+}
+
+.menu-list-svcsol a:hover {
+  background-color: whitesmoke;
+  color: #363636;
+  border-left: 4px solid $esolia-secondary-2-0;
+}
+
+.menu-list-svcsol a.is-active {
+  background-color: $esolia-secondary-2-0;
+  color: #fff;
+  border-left: 4px solid $white;
+}
+
+.menu-list-svcsol li ul {
+  border-left: 1px solid $esolia-secondary-2-0;
+  margin: 0.75em;
+  margin: 1.75em;
+  padding-left: 0.75em;
+  padding-left: .1em;
+}
+// success
+.menu-list-success {
+  line-height: 1.15;
+}
+
+.menu-list-success a {
+  border-radius: 2px;
+  color: #4a4a4a;
+  display: block;
+  padding: 0.5em 0.75em;
+  padding: 0.5em .5em;
+}
+
+.menu-list-success a:hover {
+  background-color: whitesmoke;
+  color: #363636;
+  border-left: 4px solid $esolia-secondary-1-0;
+}
+
+.menu-list-success a.is-active {
+  background-color: $esolia-secondary-1-0;
+  color: #fff;
+  border-left: 4px solid $white;
+}
+
+.menu-list-success li ul {
+  border-left: 1px solid $esolia-secondary-1-0;
+  margin: 0.75em;
+  margin: 1.75em;
+  padding-left: 0.75em;
+  padding-left: .1em;
+}
 // edited font-size, bgcolor, padd
 .menu-label {
   color: #7a7a7a;
@@ -266,12 +361,12 @@ $backgrounds: (bg-totsukabridge: '/img/Cogley-Banner-JR-Totsuka-Bridge-2-mono.jp
 
 .menu-label:hover {
   background-color: $grey-lighter;
-  border-left: 4px solid $info;
+  border-left: 4px solid $white;
 }
 
 a.is-active > .menu-label {
   background-color: $grey-lighter;
-  border-left: 4px solid $info;
+  border-left: 4px solid $white;
 }
 
 // List

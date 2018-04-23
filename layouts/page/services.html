@@ -2,7 +2,7 @@
   {{ .Title }} &ndash; {{ .Site.Title }}
 {{ end }}
 {{ define "nav" }}
-    {{- partial "nav1.html" (dict "context" . "navbgcolor" "is-esolia-secondary-2-0" "langswcolor" "is-esolia-yellow-0") -}}
+    {{- partial "nav1.html" (dict "context" . "navbgcolor" "is-esolia-secondary-2-0" "langswcolor" "is-esolia-yellow-0" "naviconcolor" "has-text-esolia-blue-0" "menuiconcolor" "has-text-esolia-secondary-2-1") -}}
 {{ end }}
 {{ define "main" }}
 <div class="columns is-fullheight is-gapless">
@@ -10,8 +10,8 @@
      <aside class="menu content has-padding-t-m has-padding-l-m">
        {{- $currentPage := . -}}
        {{ range .Site.Menus.services }}
-         <a class="is-hoverable{{ if $currentPage.IsMenuCurrent "services" . }} is-active{{ end }}" href="{{ .URL | absLangURL }}"><p class="menu-label has-text-info">{{ .Name }}</p></a>
-          <ul class="menu-list">
+         <a class="is-hoverable{{ if $currentPage.IsMenuCurrent "services" . }} is-active{{ end }}" href="{{ .URL | absLangURL }}"><p class="menu-label has-text-esolia-secondary-2-0">{{ .Name }}</p></a>
+          <ul class="menu-list-svcsol">
           {{ if .HasChildren }}
           {{ range .Children }}
             <li><a class="is-hoverable{{ if $currentPage.IsMenuCurrent "services" . }} is-active{{ end }}" href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
@@ -20,14 +20,14 @@
           </ul>
        {{ end }}
        {{- $currentPage := . -}}
-         <a class="is-hoverable"><p class="menu-label has-text-info">{{ i18n "other" | safeHTML }}</p></a>
-          <ul class="menu-list">
+         <a class="is-hoverable"><p class="menu-label has-text-esolia-secondary-2-0">{{ i18n "other" | safeHTML }}</p></a>
+          <ul class="menu-list-svcsol">
        　　{{ range .Site.Menus.servicesother }}
             <li><a class="is-hoverable{{ if $currentPage.IsMenuCurrent "servicesother" . }} is-active{{ end }}" href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
           {{ end }}
           </ul>
 
-       <p class="menu-label has-text-info">Tags</p>
+       <p class="menu-label has-text-esolia-secondary-2-0">Tags</p>
        <div class="tags has-margin-l">
        {{ range .Params.tags }}
         <span class="tag is-rounded is-light"><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></span>

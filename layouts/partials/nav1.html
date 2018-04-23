@@ -15,10 +15,11 @@
     <div class="navbar-start">
       {{ if not .context.IsHome }}
       <a class="navbar-item" href="{{ .context.Site.BaseURL }}">
-        <span class="icon"><i class="fas fa-home has-text-warning"></i></span>
+        <span class="icon"><i class="fas fa-home {{ .naviconcolor }}"></i></span>
       </a>
       {{ end }}
       {{- $currentPage := .context -}}
+      {{- $dropiconcolor := .menuiconcolor -}}
       {{- range .context.Site.Menus.main }}
       <div class="navbar-item is-hoverable{{ if .HasChildren }} has-dropdown{{ end }}">
         <a class="navbar-link{{ if $currentPage.HasMenuCurrent "main" . }} is-active{{ end }}" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
@@ -29,7 +30,7 @@
             {{ range $index, $element := $list -}}
               <a class="navbar-item{{ if $currentPage.IsMenuCurrent "main" . }} is-active{{ end }}" href="{{ .URL | absLangURL }}">
                 <span>
-                <span class="icon has-text-primary">
+                <span class="icon {{ $dropiconcolor }}">
                   <i class="fas {{ .Pre }}"></i>
                 </span>
                 <strong>{{ .Name }}</strong>
@@ -51,10 +52,10 @@
       <div class="navbar-item">
         <div class="field is-grouped">
           <a href="/search">
-            <span class="icon"><i class="fas fa-search has-text-warning"></i></span>
+            <span class="icon"><i class="fas fa-search {{ .naviconcolor }}"></i></span>
           </a>
           <a class="has-margin-r-s has-margin-l-s" data-show="quickview" data-target="quickviewDefault">
-            <span class="icon"><i class="fas fa-cog has-text-warning"></i></span>
+            <span class="icon"><i class="fas fa-cog {{ .naviconcolor }}"></i></span>
           </a>
           {{ if .context.IsTranslated }}
           {{ range .context.Translations }}
