@@ -19,20 +19,6 @@ topics:
   - eSolia
 images:
   - /img/eSolia-Chicklet-Color-1024px.png
-formcheckboxes:
-  - Office move
-  - Helpdesk
-  - Infrastructure
-  - Localization
-  - Management
-  - On-site support
-  - Cloud database PROdb
-  - Telephone
-  - Project Management
-  - Security
-  - Training
-  - Website Design
-  - Process
 aliases:
   - /request-info
   - /esolia-info-request
@@ -65,7 +51,7 @@ menu:
 
 ## Thank You
 
-Thank you sincerely for your interest. If you have a general enquiry about eSolia services or solutions, please use the below form to ask your questions or request more information. It is our pleasure to be of service, and we will respond as quickly as practical. 
+Thank you sincerely for your interest. Please use the below form to make an enquiry about eSolia services or solutions, to ask questions, or to request more information. It is our pleasure to be of service, and we will respond as quickly as practical. 
 
 <p>
 <script

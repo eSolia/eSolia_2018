@@ -42,6 +42,9 @@
         <p class="title is-5"><h1>{{ .Title }}</h1></p>
         <p class="subtitle is-italic">{{ .Params.subtitle }}</p>
         {{ .Content }}
+        {{ if isset .Params "formcheckboxes" }}
+          {{- partial "form-moreinfo.html" . -}}
+        {{ end }}
       </div>
   </div>
 </div>
