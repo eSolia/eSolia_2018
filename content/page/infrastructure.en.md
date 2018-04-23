@@ -8,7 +8,7 @@ slug: infrastructure
 subtitle: The 'nuts and bolts' of any office IT system
 description: Perfect implementation to spec and standards; regular IT infrastructure or technology refreshes, performed with aplomb. - from eSolia Inc.
 weight: 30
-menusection: Infrastructure
+layout: services
 alternatelocales:
   - ja-JP
 tags:
@@ -63,10 +63,11 @@ menu:
 
 ## What's "Infrastructure"
 
-Companies define "infrastructure" differently, but mostly it includes all the basics from the facility to the network and servers, that make an IT system work. Starting with the office space itself, eSolia considers the electrical and HVAC capacity, access to data and telephone lines, your building's physical structure in whether it has a raised floor and so on.
-
-<div class="esolia-card-panel deep-purple darken-4 z-depth-1">
-  <h4 class="center green-text text-accent-3">From Server Room to Walls and Floors</h4>
+<div class="card notification is-warning is-hidden-mobile is-pulled-right has-margin-l-l has-margin-b-l has-margin-r-l">
+  <div class="card-content">
+    <h4 class="title">
+      From Server Room to Walls and Floors
+    </h4>
     <ol>
       <li class="white-text">Electricity, Phone, LAN Cable</li>
       <li class="white-text">Network Switch, Router Upgrades</li>
@@ -74,7 +75,25 @@ Companies define "infrastructure" differently, but mostly it includes all the ba
       <li class="white-text">Virtualization</li>
       <li class="white-text">HVAC and Office Furnishings</li>
     </ol>
+  </div>
 </div>
+
+<div class="card notification is-warning is-hidden-tablet">
+  <div class="card-content">
+    <p class="has-text-weight-bold">
+      From Server Room to Walls and Floors
+    </p>
+    <ol class="is-size-6">
+      <li class="white-text">Electricity, Phone, LAN Cable</li>
+      <li class="white-text">Network Switch, Router Upgrades</li>
+      <li class="white-text">Server Design and Settings</li>
+      <li class="white-text">Virtualization</li>
+      <li class="white-text">HVAC and Office Furnishings</li>
+    </ol>
+  </div>
+</div>
+
+Companies define "infrastructure" differently, but mostly it includes all the basics from the facility to the network and servers, that make an IT system work. Starting with the office space itself, eSolia considers the electrical and HVAC capacity, access to data and telephone lines, your building's physical structure in whether it has a raised floor and so on.
 
 Next is the design of the on- or off-site data center, or sometimes both, where the equipment is to be housed. We must consider its access to independent electrical lines and cooling, security, access routes from there to the rest of the site.
 
