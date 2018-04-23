@@ -115,4 +115,4 @@ As mentioned elsewhere, we have sets of tools developed over years of experience
 * Source code management
 * Physical tools for engineering jobs
 
-Interested in getting our help? Please contact us today using the form below.
+Interested in getting our help? Please [contact us today](/info-request/).
