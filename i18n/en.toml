@@ -220,8 +220,11 @@ other = "Why eSolia?"
 [topsectionwwd]
 other = "What We Do"
 
+[topsectionwwdsub]
+other = "Wide Ranging IT"
+
 [topsectionwwdtext]
-other = "eSolia's professional staff handles a wide range of IT activities, from infrastructure, operations, development, to management and governance. You're sure to find that we can cover your needs, and we'll do so following your directives, standards and mandate."
+other = "eSolia's professional staff handles a wide range of IT activities, from infrastructure, operations, development, to management and governance. <br><br>You're sure to find that we can cover your needs, and we'll do so following your directives, standards and mandate."
 
 [topslogan]
 other = "Bilingual IT <nobr><wbr>Outsourcing <wbr>Service</nobr>"
@@ -323,7 +326,7 @@ other = "Modern, standards-based websites that benefit your business, whether st
 other = "Others"
 
 [toplongblurb]
-other = "eSolia is an Information Technology management firm based in Tokyo, that has been providing high-quality business-focused consulting, project and outsourcing services since 1999.<br><br>We serve a variety of blue-chip foreign and Japanese organizations in Japan, the Asia Pacific region and around the world. We are a globally-minded organization that focuses on the challenges of multi-cultural, multi-language environments, and have a successful track record in handling complex high-pressure projects.<br><br>We have the confidence to find solutions for all your system and process challenges.<br<br>>At eSolia, we build on strong foundations – let us develop a long-term relationship together."
+other = "eSolia is an Information Technology management firm based in Tokyo, that has been providing high-quality business-focused consulting, project and outsourcing services since 1999.<br><br>We serve a variety of blue-chip foreign and Japanese organizations in Japan, the Asia Pacific region and around the world. We are a globally-minded organization that focuses on the challenges of multi-cultural, multi-language environments, and have a successful track record in handling complex high-pressure projects.<br><br>We have the confidence to find solutions for all your system and process challenges.<br><br>At eSolia, we build on strong foundations – let us develop a long-term relationship together."
 
 [strongfoundations]
 other = "Strong Foundations"

@@ -70,15 +70,15 @@ $esolia-secondary-1-1: #F3005A;
 $esolia-secondary-1-1-invert: findColorInvert($esolia-secondary-1-1);
 $esolia-secondary-1-0: #AE0040;	// Main Secondary color (1) */
 $esolia-secondary-1-0-invert: findColorInvert($esolia-secondary-1-0); // Main Secondary color (1) invert */
-$esolia-blue-4: #000A49;
+$esolia-blue-4: #002744;
 $esolia-blue-4-invert: findColorInvert($esolia-blue-4);
-$esolia-blue-3: #000F6B;
+$esolia-blue-3: #003965;
 $esolia-blue-3-invert: findColorInvert($esolia-blue-3);
-$esolia-blue-2: #0017A9;
+$esolia-blue-2: #005A9F;
 $esolia-blue-2-invert: findColorInvert($esolia-blue-2);
-$esolia-blue-1: #0120E1;
+$esolia-blue-1: #017DDD;
 $esolia-blue-1-invert: findColorInvert($esolia-blue-1);
-$esolia-blue-0: #001389;	// Main Primary color */
+$esolia-blue-0: #004980;	// Main Primary color */
 $esolia-blue-0-invert: findColorInvert($esolia-blue-0); // Main Primary color invert */
 
 // 5. Add new color variables to the color map.
@@ -373,4 +373,31 @@ a.is-active > .menu-label {
 .list-has-no-style {
   padding-left: 0;
   list-style: none;
+}
+
+table.fs-grid {
+font-size: 1.1rem;
+}
+// table.fs-grid {
+// font: normal 11px/12px "Hiragino Kaku Gothic ProN", sans-serif;
+// }
+
+table.fs-grid caption {
+display: none;
+}
+table.fs-grid tbody.fs-tfoot {
+display: none;
+}
+#hideheader table.fs-grid thead {
+display: none;
+}
+table.fs-grid>tbody.fs-groupfoot, table.fs-grid>tbody.fs-grouphead span:nth-child(2)  {
+display: none;
+}
+table.fs-grid p.a {
+color: #39CCCC;
+text-decoration: none;
+}
+table.fs-grid a:hover {
+color: #357edd;
 }
