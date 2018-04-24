@@ -61,16 +61,13 @@ menu:
 
 ## インフラストラクチャとは
 
-<div class="esolia-card-panel deep-purple darken-4 z-depth-1">
-  <h4 class="center green-text text-accent-3">サーバルームから床下、壁でも何処へでも</h4>
-    <ol>
-      <li class="white-text">電気、電話、LAN配線</li>
-      <li class="white-text">ネットワークスイッチ、ルーター等のアップグレード</li>
-      <li class="white-text">各種サーバの設定・構築</li>
-      <li class="white-text">ヴァーチャライゼーション</li>
-      <li class="white-text">冷暖房やオフィス内の設備</li>
-    </ol>
-</div>
+{{< punchlist title="サーバルームから床下、壁でも何処へでも" bgcolor="is-esolia-blue-1">}}
+1. 電気、電話、LAN配線
+1. ネットワークスイッチ、ルーター等の更新
+1. 各種サーバの設定・構築
+1. ヴァーチャライゼーション
+1. 冷暖房やオフィス内の設備
+{{< /punchlist >}}
 
 企業によって“インフラ”の定義が異なる事が多いですが、基本的にネットワーク、サーバー、施設などITシステムが動作するための基盤のことをいいます。
 

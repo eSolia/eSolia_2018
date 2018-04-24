@@ -1,0 +1,14 @@
+<div class="card notification {{ .Get "bgcolor" }} is-hidden-mobile is-pulled-right has-padding-xs has-margin-l-l has-margin-b-m has-margin-r-l">
+  <div class="card-content">
+    <h4 class="title">{{ .Get "title" }}</h4>
+      {{ .Inner | markdownify }}
+  </div>
+</div>
+<div class="card notification {{ .Get "bgcolor" }} is-hidden-tablet has-padding-xs">
+  <div class="card-content">
+    <p class="has-text-weight-bold">{{ .Get "title" }}</p>
+    <div class="is-size-6">
+      {{ .Inner | markdownify }}
+    </div>
+  </div>
+</div>

@@ -63,35 +63,13 @@ menu:
 
 ## What's "Infrastructure"
 
-<div class="card notification is-warning is-hidden-mobile is-pulled-right has-margin-l-l has-margin-b-l has-margin-r-l">
-  <div class="card-content">
-    <h4 class="title">
-      From Server Room to Walls and Floors
-    </h4>
-    <ol>
-      <li class="white-text">Electricity, Phone, LAN Cable</li>
-      <li class="white-text">Network Switch, Router Upgrades</li>
-      <li class="white-text">Server Design and Settings</li>
-      <li class="white-text">Virtualization</li>
-      <li class="white-text">HVAC and Office Furnishings</li>
-    </ol>
-  </div>
-</div>
-
-<div class="card notification is-warning is-hidden-tablet">
-  <div class="card-content">
-    <p class="has-text-weight-bold">
-      From Server Room to Walls and Floors
-    </p>
-    <ol class="is-size-6">
-      <li class="white-text">Electricity, Phone, LAN Cable</li>
-      <li class="white-text">Network Switch, Router Upgrades</li>
-      <li class="white-text">Server Design and Settings</li>
-      <li class="white-text">Virtualization</li>
-      <li class="white-text">HVAC and Office Furnishings</li>
-    </ol>
-  </div>
-</div>
+{{< punchlist title="From Server Room to Walls and Floors" bgcolor="is-esolia-blue-1">}}
+1. Electricity, Phone, LAN Cable
+1. Network Switch, Router Upgrades
+1. Server Design and Settings
+1. Virtualization
+1. HVAC and Office Furnishings
+{{< /punchlist >}}
 
 Companies define "infrastructure" differently, but mostly it includes all the basics from the facility to the network and servers, that make an IT system work. Starting with the office space itself, eSolia considers the electrical and HVAC capacity, access to data and telephone lines, your building's physical structure in whether it has a raised floor and so on.
 
