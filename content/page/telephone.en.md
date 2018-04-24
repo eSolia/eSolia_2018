@@ -56,19 +56,15 @@ menu:
 
 ## Business Telephone Systems
 
-<div class="esolia-card-panel blue darken-4 z-depth-1">
-  <h4 class="center green-text text-accent-3">PROCESS</h4>
-    <ol>
-      <li class="white-text">Document current vs future</li>
-      <li class="white-text">Agree configuration and project scope</li>
-      <li class="white-text">Quotes and Contracting</li>
-      <li class="white-text">Orders and Configuration</li>
-      <li class="white-text">Site Installation</li>
-      <li class="white-text">Training</li>
-      <li class="white-text">Maintenance</li>
-    </ol>
-<br>
-</div>
+{{< punchlist title="Process" bgcolor="is-esolia-yellow-4">}}
+1. Document current vs future
+1. Agree configuration and project scope
+1. Quotes and Contracting
+1. Orders and Configuration
+1. Site Installation
+1. Training
+1. Maintenance
+{{< /punchlist >}}
 
 **Isn't it Time?** ...that you seriously considered replacing your aging and old-fashioned PBX? If you are in the market for a new Telephone or IP PBX System or have interest in "Voice Over IP" thinking about the benefits of something like Skype or Google Voice, eSolia will implement a modern telephone system for you: a full-featured, IP PBX or Unified Communications system.
 

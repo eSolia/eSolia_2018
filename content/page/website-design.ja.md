@@ -62,16 +62,13 @@ menu:
 
 ### 理想を現実に
 
-<div class="esolia-card-panel pink darken-4 z-depth-1">
-  <h4 class="center green-text text-accent-3">WEB DESIGN PROCESS</h4>
-    <ol>
-      <li class="white-text"><em>プラン</em> - 契約書、必要条件、構成、役割、インフラ<</li>
-      <li class="white-text"><em>デザイン</em> - フレームワーク、モックアップ、レビュー</li>
-      <li class="white-text"><em>開発</em> - 開発環境、ページ種別、カスタマイズ、コンテンツ、テスト</li>
-      <li class="white-text"><em>着手</em> - 最終テスト、再表示、手直し、引き渡し</li>
-      <li class="white-text"><em>メンテナンス</em> - 編集、パッチ適用、バックアップ、アップグレード</li>
-    </ol>
-</div>
+{{< punchlist title="ウェブデザイン段取り" bgcolor="is-esolia-yellow-2">}}
+1. プラン - 契約書、必要条件、構成、役割、インフラ<
+1. デザイン - フレームワーク、モックアップ、レビュー
+1. 開発 - 開発環境、ページ種別、カスタマイズ、コンテンツ、テスト
+1. 着手 - 最終テスト、再表示、手直し、引き渡し
+1. メンテナンス - 編集、パッチ適用、バックアップ、アップグレード
+{{< /punchlist >}}
 
 私たちのWebデザインチームは、ゼロから日本語のサイトを作成する事も既存のサイトを日本でのビジネス向けにローカライズする事も可能です。その際にはあなたのビジョンやアイデンティティ、および要件に細心の注意を払い、ニーズに合わせた広範囲の包括的なサービスを提供いたします。
 

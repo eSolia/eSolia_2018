@@ -65,17 +65,14 @@ menu:
 
 ## ローカライゼーションとは何か？
 
-<div class="esolia-card-panel cyan darken-4 z-depth-1">
-  <h4 class="center green-text text-accent-3">キーポイント</h4>
-    <ul>
-      <li class="white-text">ネイティブによる翻訳</li>
-      <li class="white-text">日本的な言い回し</li>
-      <li class="white-text">読みやすい文面</li>
-      <li class="white-text">色彩</li>
-      <li class="white-text">日本独自の決済法の理解</li>
-      <li class="white-text">細部へのこだわり</li>
-    </ul>
-</div>
+{{< punchlist title="キーポイント" bgcolor="is-esolia-blue-3">}}
+1. ネイティブによる翻訳
+1. 日本的な言い回し
+1. 読みやすい文面
+1. 色彩
+1. 日本独自の決済法の理解
+1. 細部へのこだわり
+{{< /punchlist >}}
 
 見る人々にスムーズに内容を理解させ、魅力を感じさせるには、_御社すべての資料を日本の風土に適合させる_ という考え方をしなくてはなりません。
 

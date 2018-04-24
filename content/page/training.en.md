@@ -49,18 +49,15 @@ menu:
 
 ## Training is the Best Investment
 
-<div class="esolia-card-panel teal darken-4 z-depth-1">
-  <h4 class="center green-text text-accent-3">BOOKING PROCESS</h4>
-    <ol>
-      <li class="white-text">Agree requirements, any customization</li>
-      <li class="white-text">New contract, or, agree scope under existing contract</li>
-      <li class="white-text">Preparation</li>
-      <li class="white-text">Training Delivery</li>
-      <li class="white-text">Training Followup</li>
-    </ol>
-</div>
-
 eSolia delivers training to help our clients maximize their technology investment, increase productivity, reduce support costs and motivate employees.
+
+{{< punchlist title="Booking Process" bgcolor="is-esolia-secondary-1-1">}}
+1. Agree requirements, any customization
+1. New contract, or, agree scope under existing contract
+1. Preparation
+1. Training Delivery
+1. Training Followup
+{{< /punchlist >}}
 
 Although most training courses comprise similar basic elements, not all training is the same. eSolia's training is designed to meet the specific needs of each customer, and is delivered in a flexible manner by experienced trainers and technical professionals.
 

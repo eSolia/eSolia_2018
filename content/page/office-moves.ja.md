@@ -55,16 +55,13 @@ menu:
 
 引っ越しとは肉体的にも精神的にも非常にしんどい作業です。オフィスの移転となれば尚更でしょう。周りを見渡してみれば一目瞭然。机やファイル、オフィス用品だけでなくPCやモニタ、プリンタを全て移動すると思うと気が遠くなります。
 
-<div class="esolia-card-panel blue darken-4 z-depth-1">
-  <h4 class="center green-text text-accent-3">主にどんな対応が出来ますか？</h4>
-    <ol>
-      <li class="white-text">オフィスの立ち上げ</li>
-      <li class="white-text">引っ越し全般</li>
-      <li class="white-text">レイアウト変更</li>
-      <li class="white-text">チーム間や関係各所との連携</li>
-      <li class="white-text">機器の移動・動作テスト</li>
-    </ol>
-</div>
+{{< punchlist title="主にどんな対応が出来ますか？" bgcolor="is-esolia-secondary-1-3">}}
+1. オフィスの立ち上げ
+1. 引っ越し全般
+1. レイアウト変更
+1. チーム間や関係各所との連携
+1. 機器の移動・動作テスト
+{{< /punchlist >}}
 
 それに加えシステムラックやケーブル配線、機器の設置、またそれらを移転後も問題なく再稼動させる必要があります。デッドラインやコストの事も忘れる事はできません。完了するまでは安らかな夜は訪れないでしょう。
 

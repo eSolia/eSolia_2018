@@ -60,17 +60,14 @@ If you are considering or performing a localization of an application, website o
 
 ## What is Japanese Localization?
 
-<div class="esolia-card-panel cyan darken-4 z-depth-1">
-  <h4 class="center green-text text-accent-3">KEY POINTS</h4>
-    <ul>
-      <li class="white-text">Native translations</li>
-      <li class="white-text">Cultural tone</li>
-      <li class="white-text">Type faces</li>
-      <li class="white-text">Colors</li>
-      <li class="white-text">Payment methods</li>
-      <li class="white-text">Attention to detail</li>
-    </ul>
-</div>
+{{< punchlist title="Key Points" bgcolor="is-esolia-blue-3">}}
+1. Native translations
+1. Cultural tone
+1. Type faces
+1. Colors
+1. Payment methods
+1. Attention to detail
+{{< /punchlist >}}
 
 To be attractive to Japanese clients, you should get used to the idea of _adapting all aspects of your materials to Japan_.
 

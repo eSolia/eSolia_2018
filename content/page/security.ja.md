@@ -63,25 +63,22 @@ menu:
 
 ## セキュリティの査定
 
+{{< punchlist title="セキュリティ査定" bgcolor="is-esolia-blue-2">}}
+1. 初期調査
+1. 既存セキュリティの確認
+1. 実用性の調査
+1. 脆弱性分析
+1. 脅威の明確化
+1. セキュリティ査定・提案
+1. 災害リスクの軽減
+{{< /punchlist >}}
+
 イソリアは様々な業種の企業様にてセキュリティルールを遵守してきた経験から、
 包括的なセキュリティから日次単位まで、様々なセキュリティの査定をお手伝いさせていただきます。
 
 ### イソリア流　システム護身術
 
 イソリアのセキュリティサポートプログラムについてご紹介いたします。
-
-<div class="esolia-card-panel blue-grey darken-4 z-depth-1">
-  <h4 class="center green-text text-accent-3">セキュリティ査定</h4>
-    <ol>
-      <li class="white-text">初期調査</li>
-      <li class="white-text">既存セキュリティの確認</li>
-      <li class="white-text">実用性の調査</li>
-      <li class="white-text">脆弱性分析</li>
-      <li class="white-text">脅威の明確化</li>
-      <li class="white-text">セキュリティ査定・提案</li>
-      <li class="white-text">災害リスクの軽減</li>
-    </ol>
-</div>
 
 * _セキュリティ管理_ - グローバルポリシー遵守、手順、役割や責任、方針や変更履歴管理などの包括的なセキュリティ管理。
 * _物理的なセキュリティ_ - オフィスや機密エリアへの物理的なアクセスをALSOKやSECOMと連携して管理。また、立地の査定。

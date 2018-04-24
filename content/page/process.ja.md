@@ -60,16 +60,13 @@ menu:
 
 ### プロセス撃退法
 
-<div class="esolia-card-panel pink darken-4 z-depth-1">
-  <h4 class="center green-text text-accent-3">依頼の頻度の高いカテゴリ</h4>
-    <ol>
-      <li class="white-text">プロジェクトの管理</li>
-      <li class="white-text">サーバー・データセンターの管理</li>
-      <li class="white-text">コンプライアンスの管理</li>
-      <li class="white-text">資産の管理</li>
-      <li class="white-text">ライセンスや保証の管理</li>
-    </ol>
-</div>
+{{< punchlist title="依頼の頻度の高いカテゴリ" bgcolor="is-esolia-blue-0">}}
+1. プロジェクトの管理
+1. サーバー・データセンターの管理
+1. コンプライアンスの管理
+1. 資産の管理
+1. ライセンスや保証の管理
+{{< /punchlist >}}
 
 日々複雑化するプロセスを当社の洗練されたプロシージャ且つ、貴社の希望に極力沿ったメソッドで対応いたします。
 

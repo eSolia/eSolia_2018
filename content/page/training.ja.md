@@ -52,20 +52,16 @@ menu:
 
 ## トレーニングに投資してみるのも一手です
 
-<div class="esolia-card-panel teal darken-4 z-depth-1">
-  <h4 class="center green-text text-accent-3">段取り</h4>
-    <ol>
-      <li class="white-text">必須項目の確認、カスタマイズの有無</li>
-      <li class="white-text">新規の契約、又は既存のサポート</li>
-      <li class="white-text">準備</li>
-      <li class="white-text">トレーニングの実施</li>
-      <li class="white-text">フォローアップ</li>
-    </ol>
-</div>
-
 多忙な社内でのITトレーニング。時として疎かになりがちではないでしょうか？
 直接的に利益を生み出すものではないと為、多くの場合は簡単に済ませてしまうものです。
 
+{{< punchlist title="段取り" bgcolor="is-esolia-secondary-1-1">}}
+1. 必須項目の確認、カスタマイズの有無
+1. 新規の契約、又は既存のサポート
+1. 準備
+1. トレーニングの実施
+1. フォローアップ
+{{< /punchlist >}}
 
 本来備わっている技術を最大限に利用させる事による生産性の向上、サポートコストの削減、結果的に社員のモチベーションを上げる。
 実はITトレーニングとこれら要因は密な関わりを持っている事をご存じでしょうか。

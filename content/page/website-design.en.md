@@ -61,16 +61,13 @@ menu:
 
 ### What Web Design Services does eSolia Provide?
 
-<div class="esolia-card-panel pink darken-4 z-depth-1">
-  <h4 class="center green-text text-accent-3">WEB DESIGN PROCESS</h4>
-    <ol>
-      <li class="white-text"><em>Planning</em> - Contract, Requirements, Structure, Roles, Infra</li>
-      <li class="white-text"><em>Design</em> - Framework, Mockup, Review</li>
-      <li class="white-text"><em>Development</em> - Environment, Page Types, Customization, Content, Test</li>
-      <li class="white-text"><em>Launch</em> - Final Test, Unhide, Polish, Handoff</li>
-      <li class="white-text"><em>Maintain</em> - Edits, Patching, Backup, Upgrade</li>
-    </ol>
-</div>
+{{< punchlist title="Web Design Process" bgcolor="is-esolia-yellow-2">}}
+1. _Planning_ - Contract, Requirements, Structure, Roles, Infra
+1. _Design_ - Framework, Mockup, Review
+1. _Development_ - Environment, Page Types, Customization, Content, Test
+1. _Launch_ - Final Test, Unhide, Polish, Handoff
+1. _Maintain_ - Edits, Patching, Backup, Upgrade
+{{< /punchlist >}}
 
 eSolia's web design team can create a Japan site from scratch, or [localize](/localization) an existing site, for success in Japan. We adjust to your needs, paying close attention to your vision, identity and requirements, and delivering a wide range of complementary services:
 

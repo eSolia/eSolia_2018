@@ -64,16 +64,13 @@ menu:
 
 ## イソリアの知
 
-<div class="esolia-card-panel indigo darken-4 z-depth-1">
-  <h4 class="center green-text text-accent-3">よくあるサポートの流れ</h4>
-    <ol>
-      <li class="white-text">メール・電話での対応</li>
-      <li class="white-text">切り分け・確認</li>
-      <li class="white-text">データベースからの情報検索</li>
-      <li class="white-text">トラブルシュート・リモートサポート</li>
-      <li class="white-text">データ・結果収集</li>
-    </ol>
-</div>
+{{< punchlist title="よくあるヘルプデスク サポートの流れ" bgcolor="is-esolia-secondary-1-1">}}
+1. メール・電話での対応
+1. 切り分け・確認
+1. データベースからの情報検索
+1. トラブル対応
+1. データ・結果収集
+{{< /punchlist >}}
 
 イソリアのヘルプデスクはIT全般の問題に加え、ソフトウェアやハードウェアに関する質問や故障切り分けの対応などをメールでの問い合わせやコールセンター対応にて幅広くサポートしております。また現代には欠かせない遠隔サポートを利用して実際にその場にいるかの様に状況を把握する事が出来るシステムも用意されています。イソリアにはそれらを全て一人で対応出来るエンジニアがいるわけではありません。過去にサポートしてきた経験や情報を一人で駆使する事は至難の業でしょう。
 

@@ -57,19 +57,15 @@ menu:
 
 ## 電話線からLAN線へ
 
-<div class="esolia-card-panel blue darken-4 z-depth-1">
-  <h4 class="center green-text text-accent-3">導入までのプロセス</h4>
-    <ol>
-      <li class="white-text">現状と要望の調査</li>
-      <li class="white-text">導入提案と確認</li>
-      <li class="white-text">見積及び契約</li>
-      <li class="white-text">オーダーとセットアップ</li>
-      <li class="white-text">システム導入</li>
-      <li class="white-text">トレニーング</li>
-      <li class="white-text">運用及びメンテナンス</li>
-    </ol>
-    <br>
-</div>
+{{< punchlist title="導入までのプロセス" bgcolor="is-esolia-yellow-4">}}
+1. 現状と要望の調査
+1. 導入提案と確認
+1. 見積及び契約
+1. オーダーとセットアップ
+1. システム導入
+1. トレニーング
+1. 運用及びメンテナンス
+{{< /punchlist >}}
 
 **オールドスタイルPBXの交換を検討しませんか？**  
   

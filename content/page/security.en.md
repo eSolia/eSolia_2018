@@ -66,18 +66,15 @@ eSolia can assess and implement a comprehensive or partial security program acro
 
 The following are eSolia's focus areas for a comprehensive security program:
 
-<div class="esolia-card-panel blue-grey darken-4 z-depth-1">
-  <h4 class="center green-text text-accent-3">ASSESSING SECURITY</h4>
-    <ol>
-      <li class="white-text">First-pass Overview</li>
-      <li class="white-text">Review Current Situation</li>
-      <li class="white-text">Identify Security Gaps</li>
-      <li class="white-text">Vulnerability Test</li>
-      <li class="white-text">Document Threats</li>
-      <li class="white-text">Review Findings & Recommendations</li>
-      <li class="white-text">Remediate Together to Mitigate Risk</li>
-    </ol>
-</div>
+{{< punchlist title="Assessing Security" bgcolor="is-esolia-blue-2">}}
+1. First-pass Overview
+1. Review Current Situation
+1. Identify Security Gaps
+1. Vulnerability Test
+1. Document Threats
+1. Review Findings & Recommendations
+1. Remediate Together to Mitigate Risk
+{{< /punchlist >}}
 
 * _Security Administration_ - all the administrative aspects of security, including information security organization, policies, procedures, roles and responsibilities, awareness, change controls.
 * _Physical Security_ - access control at your facilities, using imported systems such as Honeywell, or well-regarded domestic systems such as ALSOK or SECOM. Location analysis would be performed to give the best result.

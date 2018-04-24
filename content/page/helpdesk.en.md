@@ -57,17 +57,14 @@ You have a sudden thought, search the Internet for a quick answer, and get a rea
 
 ## Wisdom of eSolia
 
-<div class="esolia-card-panel indigo darken-4 z-depth-1">
-  <h4 class="center green-text text-accent-3">Typical Support Flows</h4>
-    <ol>
-      <li class="white-text">Mail or Phone Support</li>
-      <li class="white-text">Confirmation and Triage</li>
-      <li class="white-text">Internal Database Search</li>
-      <li class="white-text">Troubleshooting or Remote Support</li>
-      <li class="white-text">Data Collection</li>
-      <li class="white-text">Results Documentation</li>
-    </ol>
-</div>
+{{< punchlist title="Typical Support Flows" bgcolor="is-esolia-secondary-1-1">}}
+1. Mail or Phone Support
+1. Confirmation and Triage
+1. Internal Database Search
+1. Troubleshooting, Direct or Remote 
+1. Data Collection
+1. Results Documentation
+{{< /punchlist >}}
 
 In addition to general IT troubleshooting knowledge, the eSolia Helpdesk service has a wide range of experience in software and hardware questions, problem analysis, troubleshooting, via email or telephone. Also, we take advantage of modern remote support technology to provide support from our call center to your location. It's almost like being there.
 
