@@ -1,10 +1,10 @@
 ---
 date: 2015-05-09T00:05:19.000Z
 publishdate: 2012-01-10T00:05:19.000Z
-description: eSolia Focus - A Focus on Our Solutions to Meet Your Multi-cultural, Project or System Challenges
+description: eSolia Solutions Help Face Your Multi-cultural, Project or System Challenges
 draft: false
 slug: solutions
-subtitle: Focused Solutions
+subtitle: Focused to Meet Your Challenges
 weight: 30
 layout: solutions
 alternatelocales:
@@ -12,7 +12,7 @@ alternatelocales:
 tags:
   - focus
   - product
-title: Focus on Solutions
+title: eSolia Solutions
 topics:
   - Summary
 showtopics:
@@ -21,7 +21,7 @@ images:
   - /img/eSolia-Chicklet-Color-1024px.png
 formcheckboxes:
   - SIP Print
-  - PBXL
+  - Denphone
   - Watchguard
 aliases:
   - /focus
@@ -55,5 +55,4 @@ menu:
 
 eSolia provides focused solutions using a combination of specific methods, software, and hardware. While we are "agnostic" in terms of pushing certain solutions and will gladly utilize whatever solutions clients would like, we have some suggestions of high quality solutions we believe are good.
 
-Here are some examples:
-<br>
+Please visit the links in the sidebar. 

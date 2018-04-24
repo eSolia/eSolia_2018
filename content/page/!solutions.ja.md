@@ -1,10 +1,10 @@
 ---
 date: 2015-05-09T00:05:19.000Z
 publishdate: 2012-01-10T00:05:19.000Z
-description: イソリア フォーカス - 日本語 A Focus on Our Solutions to Meet Your Multi-cultural, Project or System Challenges
+description: システム、プロジェクト、他国語チャレンジに、イソリア ソリューションで、ジャストミート
 draft: false
 slug: solutions
-subtitle: ソリューションに集中
+subtitle: 御社のチャレンジに、ジャストミート
 weight: 30
 layout: solutions
 alternatelocales:
@@ -12,7 +12,7 @@ alternatelocales:
 tags:
   - フォーカス
   - 製品
-title: イソリア フォーカス
+title: イソリア ソリューション
 topics:
   - Summary
 showtopics:
@@ -21,8 +21,13 @@ images:
   - /img/eSolia-Chicklet-Color-1024px.png
 formcheckboxes:
   - SIP Print 電話録音
-  - PBXL クラウド電話サービス
+  - Denphone クラウド電話サービス
+  - デンフォン クラウド電話サービス
   - ウオッチガード
+  - PROdb
+  - クラウド型データベース
+  - 来日する外国人
+  - ホーム パソコン 設定
 aliases:
   - /focus
 menu:
@@ -53,7 +58,6 @@ menu:
     Url: /solutions
 ---
 
-日本語 eSolia provides focused solutions using a combination of specific methods, software, and hardware. While we are "agnostic" in terms of pushing certain solutions and will gladly utilize whatever solutions clients would like, we have some suggestions of high quality solutions we believe are good.
+弊社は、ソフト、ハード、方法を上手くブレンドした形で、様々なソリューションを提供しております。メーカーの色に染まっておらず、お客様ご指定のソリューションがなければ、良い物ご提案できます。
 
-Here are some examples:
-<br>
+左記サイドバーメニューのリンクをご覧ください。
