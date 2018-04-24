@@ -65,16 +65,13 @@ menu:
 
 ## プロジェクトの成功は貴社の成功へ
 
-<div class="esolia-card-panel purple darken-4 z-depth-1">
-  <h4 class="center green-text text-accent-3">何故PMか?</h4>
-    <ol>
-      <li class="white-text">企業の戦略目標を着実に実現化</li>
-      <li class="white-text">正確な提出物の管理</li>
-      <li class="white-text">バイアスに囚われない公平性</li>
-      <li class="white-text">透明性重視</li>
-      <li class="white-text">資産保護</li>
-    </ol>
-</div>
+{{< punchlist title="何故PMか?" bgcolor="is-esolia-yellow-2">}}
+1. 企業の戦略目標を着実に実現化
+1. 正確な提出物の管理
+1. バイアスに囚われない公平性
+1. 透明性重視
+1. 資産保護
+{{< /punchlist >}}
 
 イソリアは 1999年の設立以来、フォーチュン誌に掲載されたフォーチュン500社を含む外資系・日系企業等、様々なお客様の重要プロジェクトを遂行してまいりました。
 

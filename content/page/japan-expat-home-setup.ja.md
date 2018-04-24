@@ -83,17 +83,14 @@ menu:
 
 日本に来たばかりで日本語に慣れていない方、または、日本のテレコムキャリアやお住いの管理会社とのやり取りに自信のない方、イソリアのバイリンガルITプロフェッショナルはそんなあなたをお助けすることが可能です。当社は、[1999年以来ビジネスを展開](/about/)しており、日本という新天地にいらっしゃる方向けにパソコン関連の作業をお助け致します。
 
-## イソリア家庭用パソコンシステムサービス
+{{< punchlist title="作業前のご用意:" bgcolor="is-esolia-blue-0">}}
+1. インストール用プロブラム
+1. ソフトライセンス番号
+1. 必要なパスワード
+1. 事前にデータバックアップを行う
+{{< /punchlist >}}
 
-<div class="esolia-card-panel light-blue darken-4 z-depth-1">
-  <h4 class="center green-text text-accent-3">作業の前に:</h4>
-    <ol>
-      <li class="white-text">インストール用プロブラム</li>
-      <li class="white-text">ソフトライセンス番号</li>
-      <li class="white-text">必要なパスワード</li>
-      <li class="white-text">事前にデータバックアップを行う</li>
-    </ol>
-</div>
+## イソリア家庭用パソコンシステムサービス
 
 イソリアteamITMSバイリンガルエンジニアは日本での家庭用パソコンシステムに関連する下記のような作業を行っております。
 

@@ -68,6 +68,14 @@ menu:
 
 If you're still running your business on spreadsheets, perhaps you've noticed that consolidations or reconciliations can get rather complex and error-prone. If the cost and time of converting a spreadsheet to a proper database has put you off in the past, please consider having us convert your sheets into our flexible and professionally-run _cloud database_, PROdb.
 
+{{< punchlist title="Benefits" bgcolor="is-esolia-secondary-1-3">}}
+1. Pay-as-you-go Pricing
+1. Speedy Development
+1. Near-real-time Changes
+1. Quick Problem Resolution
+1. Worldwide Availability
+{{< /punchlist >}}
+
 PROdb is our proven, rock-solid hosted database platform, which makes normally complex database setup and maintenance comparatively quick and easy.
 
 As we become familiar with your business processes, we can put these into databases in PROdb, allowing you to capture transactions, manage workflow, and ultimately, manage your business.
@@ -101,17 +109,6 @@ Here is a small sample of what our cloud database platform provides as part of t
 * Entry forms can be designed to "morph" as data is selected - for instance, a different form can be shown depending upon a data selection.
 * Data can easily be searched from views or forms.
 * Backups are taken automatically.
-
-<div class="esolia-card-panel deep-purple darken-4 z-depth-1">
-  <h4 class="center green-text text-accent-3">BENEFITS</h4>
-    <ul>
-      <li class="white-text">Pay-as-you-go Pricing</li>
-      <li class="white-text">Speedy Development</li>
-      <li class="white-text">Near-real-time Changes</li>
-      <li class="white-text">Quick Problem Resolution</li>
-      <li class="white-text">Worldwide Availability</li>
-    </ul>
-</div>
 
 And many more features, as well.
 

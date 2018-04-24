@@ -80,15 +80,12 @@ If you're new to Japan and its language, or even if you're simply not so confide
 
 ## eSolia Home Computer System Services
 
-<div class="esolia-card-panel light-blue darken-4 z-depth-1">
-  <h4 class="center green-text text-accent-3">Be Prepared:</h4>
-    <ol>
-      <li class="white-text">Software Installers</li>
-      <li class="white-text">Software License Numbers</li>
-      <li class="white-text">Any Needed Passwords</li>
-      <li class="white-text">Data Backed Up</li>
-    </ol>
-</div>
+{{< punchlist title="Be Prepared:" bgcolor="is-esolia-blue-0">}}
+1. Software installers
+1. Software license numbers
+1. Any needed passwords
+1. Data is backed up
+{{< /punchlist >}}
 
 eSolia's teamITMS bilingual engineers can handle a range of activities related to your Japan home computer system, including:
 

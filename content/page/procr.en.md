@@ -73,6 +73,16 @@ menu:
 
 Whatever the size of your organization - from a small professional corporation to a large enterprise - you chose to deploy a VoIP communications system for the capital and operational cost savings and the productivity advantages for your users.
 
+{{< punchlist title="Call Recording For:" bgcolor="is-esolia-yellow-1">}}
+1. Call Centers
+1. Financial Services
+1. Legal Services
+1. Emergency Services
+1. Law Enforcement
+1. Educational Institutions
+1. State and Local Government
+{{< /punchlist >}}
+
 Now you are looking to add a call recording option to your system to either address legal mandates or increase operational effectiveness.
 
 But what you find are simplistic PC-based handset tools or expensive choices that require complex integration, significant maintenance and specialized IT support. Until now ...
@@ -80,19 +90,6 @@ But what you find are simplistic PC-based handset tools or expensive choices tha
 ### Enter PROcr
 
 **PROcr** call recording is just like your phone system: _easy to install, easy to operate and easy to afford_.
-
-<div class="esolia-card-panel blue-grey darken-4 z-depth-1">
-  <h4 class="center green-text text-accent-3">Call Recording For:</h4>
-    <ol>
-      <li class="white-text">Call Centers</li>
-      <li class="white-text">Financial Services</li>
-      <li class="white-text">Legal Services</li>
-      <li class="white-text">Emergency Services</li>
-      <li class="white-text">Law Enforcement</li>
-      <li class="white-text">Educational Institutions</li>
-      <li class="white-text">State and Local Government</li>
-    </ol>
-</div>
 
 Three versions are available, allowing for efficient scalability.
 

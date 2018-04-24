@@ -59,16 +59,13 @@ menu:
 
 Project management is the art of closely coupling tasks with actions, managing budget and schedule quality to ensure there are no problems with overages or slippages, and, ensuring that clients are getting their expected return on investment regarding the project’s agreed deliverables.
 
-<div class="esolia-card-panel purple darken-4 z-depth-1">
-  <h4 class="center green-text text-accent-3">Why PM?</h4>
-    <ol>
-      <li class="white-text">Enables controlled, step-by-step progress</li>
-      <li class="white-text">Control of requirement delivery</li>
-      <li class="white-text">Reduction of politics and bias</li>
-      <li class="white-text">Emphasis on transparency</li>
-      <li class="white-text">Protect investment</li>
-    </ol>
-</div>
+{{< punchlist title="Why PM?" bgcolor="is-esolia-yellow-2">}}
+1. Enables controlled, step-by-step progress
+1. Control of requirement delivery
+1. Reduction of politics and bias
+1. Emphasis on transparency
+1. Protect investment
+{{< /punchlist >}}
 
 All this happens, while the PM maintains the required administrative project structures, plans, and operational momentum.
 
