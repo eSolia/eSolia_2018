@@ -16,7 +16,8 @@ tags:
   - クラウドフォン
   - VoIP
   - テレフォニー
-  - PBXL
+  - Denphone
+  - デンフォン
   - PBX
   - 交換機
   - ビジネスフォン
@@ -57,7 +58,7 @@ menu:
 
 ## 電話線からLAN線へ
 
-{{< punchlist title="導入までのプロセス" bgcolor="is-esolia-yellow-4">}}
+{{< punchlist title="導入までのプロセス" bgcolor="is-esolia-yellow-3">}}
 1. 現状と要望の調査
 1. 導入提案と確認
 1. 見積及び契約
@@ -86,42 +87,22 @@ menu:
 * 企業レベルの拡張性または相互運用性を考慮し、利便性を求めている
 * ボイスメール、自動音声案内、自動転送、スピードダイヤル、通話転送、会議ブリッジ、保留音楽、一時保留（コールパーク）などのあらゆる最新機能に加えて、UC、ACD、またはIVRなどの高度な機能も検討している
 
-### 安心と安定のPBXLサービスを
+### 安心と安定のDenphoneサービスを
 
-<div class="card">
-  <div class="card-image waves-effect waves-block waves-light">
-    <img class="activator" src="/img/eSolia-Post-Slider-Office-Moves-01.jpg">
-  </div>
-  <div class="card-content">
-    <span class="card-title activator grey-text text-darken-4">PBXL <i class="mdi-navigation-more-vert right green-text text-accent-3"></i></span>
-  </div>
-  <div class="card-reveal">
-    <span class="card-title grey-text text-darken-4">PBXLについて <i class="mdi-navigation-close right red-text text-accent-3"></i></span>
-    <p>PBXLは、日本でいちはやくクラウド型コミュニケーションサービスを提供するなど、通信ソリューションのパイオニア的な会社です。</p><p>通信の先進国であるアメリカとの強いコネクションを持ち、高い技術を持ったバイリンガルスタッフが常駐。
-最先端技術の提供だけでなく、ご要望に合わせた柔軟な対応と、「全てを任せられる」安心感をこころがけています。
-あなたのワークスタイルを、「もっと便利に、もっと自由に」。</p>
-  </div>
-</div>
+<img class="activator" src="/img/eSolia-Post-Slider-Office-Moves-01.jpg">
 
-イソリアはPBXLとパートナーシップを持ち、クラウド型IP電話システムを高い技術と共にお客様に提供してます。
+イソリアはDenphoneとパートナーシップを持ち、クラウド型IP電話システムを高い技術と共にお客様に提供してます。
 
-<figure class="image-container">
-<img class="materialboxed right responsive-img" width="200" data-caption="イソリアのパートナーのPBXLロゴ" alt="PBXLのロゴ画像" src="/img/pbxl-logo.png" >
-</figure>
+> デンフォン株式会社はオフィスIP電話システムやビデオ会議システム、IT基盤ソリューションを企業様のご予算・ニーズに応じたオーダーメイドのご提供する事を専門とするITSP企業 (Internet Telephony Service Provider) です。Digium, ポリコム, snom, シスコシステムズといったグローバルトップ企業とのパートナー提携を締結している弊社は、お客様のITプログラムに合わせたソリューションを提供し、長期的な投資保護を支援いたします。
 
-PBXLの“クラウド電話”サービスは、デスクフォンとスマートフォン（iPhone・Android）から、「いつでも・どこでも」アクセス可能な最先端な電話システムの導入を実現してます。
+#### デンフォンの主なサービス
 
-PBXLサービスで実現可能なソリューション:
+1. IP-PBX電話システム(Asteriskベース)、コールセンターシステム、CRMと電話システムとのインテグレーション
+2. ビデオ会議システム (Polycom製品 / Cisco製品)
+3. 電話番号(東京03、横浜045、大阪06、050)のご提供
+4. IP電話機・インターフェイスカードの販売
+5. ITサポートヘルプデスク・ITオンサイトサービス
 
-* PBX本体不要な多機能を備えた、すぐ使える電話システム
-* スマートフォン、BYOD (Bring Your Own Device)：私用端末の業務利用
-* 通信コスト削減：日本を含む 22 カ国への通話かけ放題オプション
-* 事業継続計画 BCP (Business Continuity Plan)サポート
-* 転送機能：不在の場合は自動的にスマホや他のスタッフに転送
-* コールパーク機能：通話を保留にし別の電話機からそのコールに応答
-* 簡単に会議が開ける電話会議/３者通話：通話中に新たに別の人を呼び出し3人で同時に会話可能
-* コールピックアップ(代理応答)：他の人の電話に代理で応答できる機能
-* メールでFAX受信：モバイル端末でFAXをメールで添付ファイルとして受信可能
-* 着信拒否 DND (Do Not Disturb)：忙しくて電話に出られない時に
 
-詳細は、下記フォームにご記入いただき、「送信」ボタンをクリックください。
+
+

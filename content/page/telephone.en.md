@@ -16,7 +16,7 @@ tags:
   - Phone
   - VoIP
   - Telephony
-  - PBXL
+  - Denphone
   - PBX
   - IP PBX
   - IP Phone
@@ -56,7 +56,7 @@ menu:
 
 ## Business Telephone Systems
 
-{{< punchlist title="Process" bgcolor="is-esolia-yellow-4">}}
+{{< punchlist title="Process" bgcolor="is-esolia-yellow-3">}}
 1. Document current vs future
 1. Agree configuration and project scope
 1. Quotes and Contracting
@@ -81,40 +81,18 @@ Consider a modern IP phone system if:
 * you desire ease-of-use combined with enterprise level scalability or interoperability.
 * you require all the modern features such as voicemail, auto-attendant, follow-me, speed dial, call forwarding, conference bridge, music on hold, call park, as well as advanced features such as unified communications, ACD or IVR.
 
-### Turnkey Cloud Phone Service
+### Denphone Turnkey Cloud Phone Service
 
-<div class="card">
-  <div class="card-image waves-effect waves-block waves-light">
-    <img class="activator" src="/img/eSolia-Post-Slider-Office-Moves-01.jpg">
-  </div>
-  <div class="card-content">
-    <span class="card-title activator grey-text text-darken-4">PBXL <i class="mdi-navigation-more-vert right green-text text-accent-3"></i></span>
-  </div>
-  <div class="card-reveal">
-    <span class="card-title grey-text text-darken-4">About PBXL <i class="mdi-navigation-close right red-text text-accent-3"></i></span>
-    <p>Established 2006, and licensed by the Ministry of Internal Affairs and Communications, PBXL is a pioneer in creating innovative cloud-based communication solutions in Japan.</p><p>PBXL is focused on delivering the best possible customer experience, with friendly, expert staff who are here for you every step of the way, from installation through to day-to-day operations. We’ll help you build a happier, more productive workforce and leverage the power of open collaboration and mobile staff.</p>
-  </div>
-</div>
+<img class="activator" src="/img/eSolia-Post-Slider-Office-Moves-01.jpg">
 
-eSolia partners with PBXL, a leading provider of cloud IP phone systems, to provide our clients with the best subscription IP phone service available.
+eSolia partners with Denphone, a leading provider of cloud IP phone systems, to provide our clients with the best subscription IP phone service available.
 
-<figure class="image-container">
-<img class="materialboxed right responsive-img" width="200" data-caption="eSolia Partner PBXL's Logo" alt="Graphic of PBXL Logo" src="/img/pbxl-logo.png" >
-</figure>
+> Denphone provides a wide range of telephony, video conferencing and IT infrastructure solutions. Our solutions include office phone systems, desktop and meeting room video conferencing systems, Japan call termination, telephone help desk outsourcing, CMS integration and more. Based in Tokyo, we work closely with both Japanese and multinational clients to implement turn-key solutions that meet needs, provide solid returns on investment and increase productivity. Being partnered with global leaders including Digium, KVH, Polycom, snom, Grandstream, and Cisco Systems enables us to provide solutions that fit within your IT program and protect your investment over the long term. We are Japan's leading provider of open PC based VoIP Telephone PBX systems.
 
-The PBXL "Cloud Phone" service empowers companies with a fully featured, modern phone system that you can access from anywhere, anytime, whether from desk phones in your office, or from an iPhone or Android smart phone.
+#### Primary Denphone Services
 
-Some of the highlights of what you get with the PBXL service:
-
-* Turnkey full-featured phone solution, with no premise PBX device needed
-* Smartphone integration and "BYOD" or 'bring your own device' capability
-* Communications cost reduction, including an "all you can call" option plan, for 22 countries
-* Support for your "BCP", or 'business continuity plan'
-* Call forwarding, to help you stay reachable even when you're away
-* Call parking, to let you place a call on hold, then retrieve it anywhere
-* 3-way conference calling, to let you easily connect people in a group call
-* Call pickup, letting you take control of calls on other lines
-* Fax2Email, to receive inbound faxes on your mobile or pickup
-* "DND" or 'do not disturb' feature, to let you schedule your downtime
-
-Request more info using the form below, and join a list of satisfied customers.
+1. IP-PBX Systems (Asterisk-based), Call Center Systems, Integrating CRM Systems with Phone Systems
+1. Video-conferencing Systems (Polycom, Cisco)
+1. Telephone Number Provision (Tokyo 03, Yokohama 045, Osaka 06, 050, others)
+1. IP Phone Hardware, Interface Card Sales
+1. Support Helpdesk and Onsite Service
