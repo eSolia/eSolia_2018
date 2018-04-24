@@ -37,7 +37,7 @@ images:
   - /img/eSolia-Post-Slider-Telephone-05.jpg
   - /img/eSolia-Chicklet-Color-1024px.png
 formcheckboxes:
-  - PBXLクラウド型電話サービス
+  - デンフォン クラウド型電話サービス
   - 電話システムアップグレード
   - IP電話システム
   - ボイス オーバー IP (Voice over IP, VoIP)

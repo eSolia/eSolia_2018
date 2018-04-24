@@ -35,7 +35,7 @@ images:
   - /img/eSolia-Post-Slider-Telephone-05.jpg
   - /img/eSolia-Chicklet-Color-1024px.png
 formcheckboxes:
-  - PBXL cloud phone service
+  - Denphone cloud phone service
   - Phone system upgrade
   - IP phone system
   - Voice over IP
