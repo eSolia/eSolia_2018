@@ -204,7 +204,7 @@ languageCode = "en-US"
 [[languages.en.menu.side]]
     name = "eSolia Connect"
     identifier = "en_connect"
-    url = "http://connect.esolia.com"
+    url = "https://esolia.screenconnect.com"
     post = "_blank"
     parent = "tools"
     weight = 33
@@ -225,7 +225,7 @@ languageCode = "en-US"
 [[languages.en.menu.homefooter2]]
     name = "eSolia Connect"
     identifier = "en_connect"
-    url = "http://connect.esolia.com"
+    url = "https://esolia.screenconnect.com"
     post = "_blank"
     weight = 33
 
@@ -414,7 +414,7 @@ help  = "ヘルプ"
 [[languages.ja.menu.side]]
     name = "イソリア コネクト"
     identifier = "ja_connect"
-    url = "http://connect.esolia.com"
+    url = "https://esolia.screenconnect.com"
     post = "_blank"
     parent = "tools"
     weight = 33
@@ -435,7 +435,7 @@ help  = "ヘルプ"
 [[languages.ja.menu.homefooter2]]
     name = "イソリア コネクト"
     identifier = "ja_connect"
-    url = "http://connect.esolia.com"
+    url = "https://esolia.screenconnect.com"
     post = "_blank"
     weight = 33
 
