@@ -215,30 +215,34 @@ languageCode = "en-US"
     url = "/topics"
     weight = 55
 
-[[languages.en.menu.homefooter2]]
+[[languages.en.menu.toolslist]]
     name = "Zerobin"
     identifier = "en_zerobin"
     url = "https://zerobin.esolia.com"
+    pre = "Zerobin is..."
     post = "_blank"
     weight = 22
 
-[[languages.en.menu.homefooter2]]
+[[languages.en.menu.toolslist]]
     name = "eSolia Connect"
     identifier = "en_connect"
     url = "https://esolia.screenconnect.com"
+    pre = "eSolia Connect is..."
     post = "_blank"
     weight = 33
 
-[[languages.en.menu.homefooter2]]
+[[languages.en.menu.toolslist]]
     name = "All Topics"
     identifier = "en_topics"
     url = "/topics"
+    pre = "All the topics..."
     weight = 44
 
-[[languages.en.menu.homefooter2]]
+[[languages.en.menu.toolslist]]
     name = "All Tags"
     identifier = "en_tags"
     url = "/tags"
+    pre = "All the tags..."
     weight = 55
 
 [languages.ja]
@@ -425,29 +429,33 @@ help  = "ヘルプ"
     url = "/topics"
     weight = 55
 
-[[languages.ja.menu.homefooter2]]
+[[languages.ja.menu.toolslist]]
     name = "ゼロビン"
     identifier = "ja_zerobin"
     url = "https://zerobin.esolia.com/?language=jp"
+    pre = "ゼロビンとは..."
     post = "_blank"
     weight = 22
 
-[[languages.ja.menu.homefooter2]]
+[[languages.ja.menu.toolslist]]
     name = "イソリア コネクト"
     identifier = "ja_connect"
     url = "https://esolia.screenconnect.com"
+    pre = "イソリアコネクトとは..."
     post = "_blank"
     weight = 33
 
-[[languages.ja.menu.homefooter2]]
+[[languages.ja.menu.toolslist]]
     name = "全てのトピック一覧"
     identifier = "ja_topics"
     url = "/topics"
+    pre = "全てのトピック"
     weight = 44
 
-[[languages.ja.menu.homefooter2]]
+[[languages.ja.menu.toolslist]]
     name = "全てのタグ一覧"
     identifier = "ja_tags"
     url = "/tags"
+    pre = "全てのタグ"
     weight = 55
 

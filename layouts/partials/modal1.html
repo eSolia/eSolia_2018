@@ -1,15 +1,26 @@
 {{ "<!-- ENTERING partial modal1.html -->" | safeHTML }}
     <div id="quickviewDefault" class="quickview">
       <header class="quickview-header">
-        <p class="title">{{ i18n "footerlinks4title" }}</p>
+        <p class="title">{{ i18n "esoliatoolstitle" }}</p>
         <span class="delete" data-dismiss="quickview"></span>
       </header>
       <div class="quickview-body">
         <div class="quickview-block">
           <div class="has-padding-l">
               <ul class="">
-                {{ range .Site.Menus.homefooter2 }}
-                <li><a class="link" href="{{ .URL }}">{{ .Name }}</a></li>
+                {{ range .Site.Menus.toolslist }}
+                <li><a class="link" href="{{ .URL }}" target="{{ .Post }}">
+
+                <span>
+                <span class="icon has-text-esolia-blue-0">
+                  <i class="fas fa-cog"></i>
+                </span>
+                <strong>{{ .Name }}</strong>
+                <br>
+                <span class="has-padding-m">{{ .Pre }}</span>
+                </span>
+
+                </a></li>
                 {{ end }}
               </ul>
           </div>

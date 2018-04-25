@@ -32,11 +32,12 @@ menu:
     Weight: 60
     Identifier: sitemap
     Url: /sitemap
-  homefooter2:
+  toolslist:
     Name: サイトマップ
     Weight: 60
     Identifier: sitemap
     Url: /sitemap
+    Pre: "Sitemap とは..."
 ---
 
 イソリアに興味をお持ちいただきまして誠にありがとうございます。下記の一覧からお探しくださるか、

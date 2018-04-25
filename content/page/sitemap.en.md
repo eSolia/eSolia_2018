@@ -32,11 +32,12 @@ menu:
     Weight: 60
     Identifier: sitemap
     Url: /sitemap
-  homefooter2:
+  toolslist:
     Name: Sitemap
     Weight: 60
     Identifier: sitemap
     Url: /sitemap
+    Pre: "Sitemap is..."
 ---
 
 Thank you sincerely for your interest. Please browse the links below for the content that interests you, or, if you have a general enquiry about eSolia services, please use our [general information request form](/info-request/) or the form found on many pages. This sitemap is available in the [standard](/sitemap.xml) and [geo](/geo-sitemap.xml) formats understandable by search engine crawlers, as well.
