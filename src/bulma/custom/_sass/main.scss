@@ -81,10 +81,20 @@ $esolia-blue-1-invert: findColorInvert($esolia-blue-1);
 $esolia-blue-0: #004980;	// Main Primary color */
 $esolia-blue-0-invert: findColorInvert($esolia-blue-0); // Main Primary color invert */
 
-// Setup link color
+// Link colors
 
-$link: $esolia-secondary-2-4 !default;
+$link: $esolia-secondary-2-3 !default
+$link-invert: $esolia-secondary-2-3-invert !default
+$link-visited: $esolia-secondary-1-3 !default
 
+$link-hover: $esolia-yellow-3 !default
+$link-hover-border: $grey-dark !default
+
+$link-focus: $esolia-yellow-4 !default
+$link-focus-border: $esolia-blue-0 !default
+
+$link-active: $esolia-yellow-1 !default
+$link-active-border: $esolia-blue-1 !default
 
 // 5. Add new color variables to the color map.
 @import "../../bower_components/bulma/sass/utilities/derived-variables";
@@ -404,5 +414,5 @@ color: $link;
 text-decoration: none;
 }
 table.fs-grid div.markup p a:hover {
-color: $esolia-yellow-0;
+color: $link-hover;
 }
