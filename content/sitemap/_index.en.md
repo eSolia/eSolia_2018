@@ -7,7 +7,6 @@ draft: false
 slug: sitemap
 title: Sitemap
 subtitle: ... for your browsing pleasure
-type: siteindex
 weight: 10
 alternatelocales:
   - ja-JP

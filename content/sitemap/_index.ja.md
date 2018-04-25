@@ -7,7 +7,6 @@ draft: false
 slug: sitemap
 title: サイトマップ
 subtitle: ... をご閲覧ください
-type: siteindex
 weight: 10
 alternatelocales:
   - en-US
