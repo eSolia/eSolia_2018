@@ -23,9 +23,6 @@ tags:
   - Compliance
   - Legal
   - Call Center
-series:
-  - top1
-  - top2
 topics:
   - Solutions Focus
   - Telephone

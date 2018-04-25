@@ -28,9 +28,6 @@ tags:
   - G.711
   - G.722(HD)
   - G.729
-series:
-  - top1
-  - top2
 topics:
   - ソリューション フォーカス
   - 電話
