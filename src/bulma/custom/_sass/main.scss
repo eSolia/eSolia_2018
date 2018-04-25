@@ -384,15 +384,26 @@ a.is-active > .menu-label {
   border-left: 4px solid $white;
 }
 
-// List
+// List Format
 .list-has-no-style {
   padding-left: 0;
   list-style: none;
 }
 
+div.content > ul li.link a {
+color: $link;
+text-decoration: none;
+}
+div.content > ul li.link a:hover {
+color: $link-hover;
+}
+
+// PROdb Table Format
+
 table.fs-grid {
 font-size: 1.1rem;
 }
+
 // table.fs-grid {
 // font: normal 11px/12px "Hiragino Kaku Gothic ProN", sans-serif;
 // }

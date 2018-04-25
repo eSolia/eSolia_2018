@@ -1,6 +1,21 @@
 [compName]
 other = "イソリア"
 
+[hqAddress1]
+other = "〒105-0003 東京都港区、"
+
+[hqAddress2]
+other = "西新橋2-2-2、澤ビルディング6F"
+
+[hqAddress]
+other = "〒105-0003 東京都港区、西新橋2-2-2、澤ビルディング6F"
+
+[eSoliaContacts]
+other = "株式会社イソリア 連絡先情報"
+
+[eSoliaContactsMore]
+other = "弊社サービスやソリューションに関する初めてのお問い合わせは、[このページから](/info-request/)、よろしくお願い致します。"
+
 [langName]
 other = "日本語"
 
@@ -23,7 +38,7 @@ other = "飯倉のお寺、コグレー リック作"
 other = "江ノ島と富士山、コグレー リック作"
 
 [footerallrightsreserved]
-other = "eSolia Inc., All Rights Reserved."
+other = "株式会社イソリア All Rights Reserved."
 
 [footerlinks1title]
 other = "一般"
@@ -44,7 +59,7 @@ other = "最新"
 other = "ソーシャルメディアでつながりましょう。私たちの最新のブログもご覧ください。"
 
 [footerlinks4title]
-other = "ツール"
+other = "イソリア ツール"
 
 [footerlinks5title]
 other = "フォーカス"
@@ -128,10 +143,10 @@ other = "奥付"
 other = "ライセンス"
 
 [genlatestfeature]
-other = "最新おすすめ"
+other = "おすすめ コンテンツ"
 
 [genlatestposts]
-other = "最新プロ ブログ"
+other = "最新インフォーメーション"
 
 [genmoreinfo]
 other = "つづきを読む"
@@ -212,7 +227,7 @@ other = "ラベル"
 other = "イソリアにお任せください"
 
 [topsectioncus]
-other = "お問い合わせ"
+other = "弊社連絡先"
 
 [topsectionwhy]
 other = "なぜイソリアか？"

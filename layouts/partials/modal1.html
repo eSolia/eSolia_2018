@@ -1,33 +1,61 @@
 {{ "<!-- ENTERING partial modal1.html -->" | safeHTML }}
     <div id="quickviewDefault" class="quickview">
       <header class="quickview-header">
-        <p class="title">eSolia Tools</p>
+        <p class="title">{{ i18n "footerlinks4title" }}</p>
         <span class="delete" data-dismiss="quickview"></span>
       </header>
       <div class="quickview-body">
         <div class="quickview-block">
-          Tools like Zerobin, eSolia Connect, SItemap <br>
-          Contact Info<br>
+          <div class="has-padding-l">
+              <ul class="">
+                {{ range .Site.Menus.homefooter2 }}
+                <li><a class="link" href="{{ .URL }}">{{ .Name }}</a></li>
+                {{ end }}
+              </ul>
+          </div>
+
+          <br>
         </div>
       </div>
       <footer class="quickview-footer">
       </footer>
     </div>
+
     <div class="modal" id="modal">
       <div class="modal-background"></div>
       <div class="modal-card">
         <header class="modal-card-head">
-          <p class="modal-card-title">Modal title</p>
+          <p class="modal-card-title">{{ i18n "topsectioncus" }}</p>
           <button class="delete modal-button" data-target="#modal" aria-label="close"></button>
         </header>
         <section class="modal-card-body">
           <!-- Content ... -->
-          Stuff
+          <div itemscope itemtype="http://schema.org/LocalBusiness">
+            <h3 class="subtitle" itemprop="name">{{ i18n "eSoliaContacts" }}</h3>
+            <p class="is-italic">{{ i18n "hqAddress1" }}</p>
+            <p class="is-italic">{{ i18n "hqAddress2" }}</p>
+            <strong>Tel:</strong>&nbsp;
+              <span itemprop="telephone">
+                <a href="tel:+81362733510" class="link">+81-3-6273-3510</a>
+              </span>
+              <br>
+            <strong>Fax:</strong>&nbsp;
+              <span itemprop="fax">
+                <a href="fax:+81335933511" class="link">+81-3-3593-3511</a>
+              </span>
+              <br><br>
+            <p class="is-italic">{{ i18n "eSoliaContactsMore" |markdownify }}</p>
+            <br>
+          </div>
+
+          <br>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3241.377084474057!2d139.75146199999998!3d35.667716!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188b933eb5098d%3A0xb799ee788fa28eb7!2seSolia+Inc.!5e0!3m2!1sen!2sjp!4v1434536695719" width="600" height="450" frameborder="0" style="border:0"></iframe>
         </section>
         <footer class="modal-card-foot">
-          <button class="button is-success">Save changes</button>
           <button class="button modal-button" data-target="#modal">Cancel</button>
         </footer>
       </div>
     </div>
 {{ "<!-- LEAVING partial modal1.html -->" | safeHTML }}
+
+

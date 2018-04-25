@@ -1,6 +1,21 @@
 [compName]
 other = "eSolia"
 
+[hqAddress1]
+other = "Sawa Bldg. 6F, Nishi-Shimbashi 2-2-2"
+
+[hqAddress2]
+other = "Minato-ku, Tokyo, Japan 105-0003"
+
+[hqAddress]
+other = "Sawa Bldg. 6F, Nishi-Shimbashi 2-2-2, Minato-ku, Tokyo, Japan 105-0003"
+
+[eSoliaContacts]
+other = "eSolia Inc. Contact Points"
+
+[eSoliaContactsMore]
+other = "For first-time questions about eSolia's specific services, please contact us via the form [on this page](/info-request/)."
+
 [langName]
 other = "English"
 
@@ -44,7 +59,7 @@ other = "Latest"
 other = "Connect with us on social media, or see our latest posts."
 
 [footerlinks4title]
-other = "Tools"
+other = "eSolia Tools"
 
 [footerlinks5title]
 other = "Focus"
@@ -128,10 +143,10 @@ other = "Colophon"
 other = "License"
 
 [genlatestfeature]
-other = "Latest Features"
+other = "Featured Content"
 
 [genlatestposts]
-other = "Latest Pro Blog"
+other = "Latest Information"
 
 [genmoreinfo]
 other = "More Info"
