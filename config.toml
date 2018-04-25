@@ -219,7 +219,7 @@ languageCode = "en-US"
     name = "Zerobin"
     identifier = "en_zerobin"
     url = "https://zerobin.esolia.com"
-    pre = "Zerobin is..."
+    pre = "eSolia Zerobin is a secure paste service, built upon Seb Sauvage's ZEROBIN system, an opensource 'pastebin' where the server has zero knowledge of pasted data. Data is encrypted and decrypted in the browser using 256-bit AES."
     post = "_blank"
     weight = 22
 
@@ -227,7 +227,7 @@ languageCode = "en-US"
     name = "eSolia Connect"
     identifier = "en_connect"
     url = "https://esolia.screenconnect.com"
-    pre = "eSolia Connect is..."
+    pre = "eSolia Connect is a remote-access solution, that lets our professionals easily connect to your system and perform secure, remote support."
     post = "_blank"
     weight = 33
 
@@ -235,14 +235,14 @@ languageCode = "en-US"
     name = "All Topics"
     identifier = "en_topics"
     url = "/topics"
-    pre = "All the topics..."
+    pre = "All the topic groupings on this site."
     weight = 44
 
 [[languages.en.menu.toolslist]]
     name = "All Tags"
     identifier = "en_tags"
     url = "/tags"
-    pre = "All the tags..."
+    pre = "All the content tags on this site."
     weight = 55
 
 [languages.ja]
@@ -433,7 +433,7 @@ help  = "ヘルプ"
     name = "ゼロビン"
     identifier = "ja_zerobin"
     url = "https://zerobin.esolia.com/?language=jp"
-    pre = "ゼロビンとは..."
+    pre = "ゼロビンとは、セブソーバッジュ氏の'Zerobin'を元に立てた、イソリア セキュアー ペースト サービスです。サーバー側では、暗号化する文字列の元の形を全く知る事が出来ず、あなたのデータは、ブラウザーの中で256ビットAES方式で暗号化されるので安心できます。"
     post = "_blank"
     weight = 22
 
@@ -441,21 +441,21 @@ help  = "ヘルプ"
     name = "イソリア コネクト"
     identifier = "ja_connect"
     url = "https://esolia.screenconnect.com"
-    pre = "イソリアコネクトとは..."
+    pre = "イソリアコネクトとは、弊社が使っている遠隔操作ソリューションで、セキュアー且つスピーディーに、お客様のシステムに接続することを可能にします。"
     post = "_blank"
     weight = 33
 
 [[languages.ja.menu.toolslist]]
-    name = "全てのトピック一覧"
+    name = "全トピック"
     identifier = "ja_topics"
     url = "/topics"
-    pre = "全てのトピック"
+    pre = "全てのトピックを閲覧出来ます。"
     weight = 44
 
 [[languages.ja.menu.toolslist]]
-    name = "全てのタグ一覧"
+    name = "全タグ"
     identifier = "ja_tags"
     url = "/tags"
-    pre = "全てのタグ"
+    pre = "全てのタグを閲覧出来ます。"
     weight = 55
 
