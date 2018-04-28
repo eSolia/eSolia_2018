@@ -29,6 +29,13 @@ images:
   - /img/eSolia-Post-Slider-Onsite-02.jpg
   - /img/eSolia-Post-Slider-Onsite-03.jpg
   - /img/eSolia-Chicklet-Color-1024px.png
+resources:
+  - src: eSolia-Post-Slider-Onsite-01.jpg
+    title: PC setup and upgrade
+  - src: eSolia-Post-Slider-Onsite-02.jpg
+    title: Server rack mount
+  - src: eSolia-Post-Slider-Onsite-03.jpg
+    title: eSolia Professionals
 formcheckboxes:
   - Regular visits
   - On-demand

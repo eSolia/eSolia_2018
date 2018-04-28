@@ -32,6 +32,13 @@ images:
   - /img/eSolia-Post-Slider-Onsite-02.jpg
   - /img/eSolia-Post-Slider-Onsite-03.jpg
   - /img/eSolia-Chicklet-Color-1024px.png
+resources:
+  - src: eSolia-Post-Slider-Onsite-01.jpg
+    title: PCの設定、アップグレード
+  - src: eSolia-Post-Slider-Onsite-02.jpg
+    title: サーバーのラックマウント
+  - src: eSolia-Post-Slider-Onsite-03.jpg
+    title: イソリアのプロフェッショナル
 formcheckboxes:
 - 定期訪問
 - 常駐
