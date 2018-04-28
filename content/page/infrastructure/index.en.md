@@ -34,6 +34,17 @@ images:
   - /img/eSolia-Post-Slider-Infra-04.jpg
   - /img/eSolia-Post-Slider-Infra-05.jpg
   - /img/eSolia-Chicklet-Color-1024px.png
+resources:
+  - src: eSolia-Post-Slider-Infra-01.jpg
+    title: System rack
+  - src: eSolia-Post-Slider-Infra-02.jpg
+    title: IP phone
+  - src: eSolia-Post-Slider-Infra-03.jpg
+    title: Structured cable patch
+  - src: eSolia-Post-Slider-Infra-04.jpg
+    title: Cabling floor box
+  - src: eSolia-Post-Slider-Infra-05.jpg
+    title: Rack base install
 formcheckboxes:
   - Standards
   - Specifications

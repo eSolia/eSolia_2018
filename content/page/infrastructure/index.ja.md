@@ -28,10 +28,23 @@ topics:
   - サービス
   - インフラストラクチャ
 images:
-  - /img/eSolia-Post-Slider-Onsite-01.png
-  - /img/eSolia-Post-Slider-Onsite-02.png
-  - /img/eSolia-Post-Slider-Onsite-03.png
+  - /img/eSolia-Post-Slider-Infra-01.jpg
+  - /img/eSolia-Post-Slider-Infra-02.jpg
+  - /img/eSolia-Post-Slider-Infra-03.jpg
+  - /img/eSolia-Post-Slider-Infra-04.jpg
+  - /img/eSolia-Post-Slider-Infra-05.jpg  
   - /img/eSolia-Chicklet-Color-1024px.png
+resources:
+  - src: eSolia-Post-Slider-Infra-01.jpg
+    title: システムラック
+  - src: eSolia-Post-Slider-Infra-02.jpg
+    title: IP フォン
+  - src: eSolia-Post-Slider-Infra-03.jpg
+    title: 配線パッチ
+  - src: eSolia-Post-Slider-Infra-04.jpg
+    title: 配線ロゼット
+  - src: eSolia-Post-Slider-Infra-05.jpg
+    title: ラックチャネルベースインストール
 formcheckboxes:
   - 基準・規格・仕様の標準化
   - テクノロジー更新
