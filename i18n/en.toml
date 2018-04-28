@@ -98,10 +98,10 @@ other = "Sales?"
 other = "If you are selling something, please do not use this form to tell us about it."
 
 [gen404message]
-other = "Thanks for visiting. You've reached our 404 page, meaning the content you tried to access cannot be found. Use the site search feature, or scan the below list of site taxonomies and click through to something of interest."
+other = "Thank you for visiting our site. This is our 404 page, meaning the content you tried to access cannot be found. Scan the below list of links and click through to something of interest, use our [search feature](/search), or fill out our [general information request form](/info-request/) to make inquiries. "
 
 [gen404subtitle]
-other = "Page Not Found"
+other = "An Error Has Occurred"
 
 [genfeature]
 other = "Featured"
