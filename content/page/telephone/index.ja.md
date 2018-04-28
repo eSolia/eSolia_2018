@@ -36,6 +36,17 @@ images:
   - /img/eSolia-Post-Slider-Telephone-04.jpg
   - /img/eSolia-Post-Slider-Telephone-05.jpg
   - /img/eSolia-Chicklet-Color-1024px.png
+resources:
+  - src: eSolia-Post-Slider-Telephone-01.jpg
+    title: IP フォンシステム設定
+  - src: eSolia-Post-Slider-Telephone-02.jpg
+    title: 会議室用IP電話
+  - src: eSolia-Post-Slider-Telephone-03.jpg
+    title: IPフォンとパッチコード
+  - src: eSolia-Post-Slider-Telephone-04.jpg
+    title: 配線パッチ
+  - src: eSolia-Post-Slider-Telephone-05.jpg
+    title: 新IPデスクフォン配布
 formcheckboxes:
   - デンフォン クラウド型電話サービス
   - 電話システムアップグレード

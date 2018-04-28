@@ -34,6 +34,17 @@ images:
   - /img/eSolia-Post-Slider-Telephone-04.jpg
   - /img/eSolia-Post-Slider-Telephone-05.jpg
   - /img/eSolia-Chicklet-Color-1024px.png
+resources:
+  - src: eSolia-Post-Slider-Telephone-01.jpg
+    title: IP Phone System Setup
+  - src: eSolia-Post-Slider-Telephone-02.jpg
+    title: IP Conference Phone
+  - src: eSolia-Post-Slider-Telephone-03.jpg
+    title: IP Phone and Patch Cord
+  - src: eSolia-Post-Slider-Telephone-04.jpg
+    title: Cabling Patch
+  - src: eSolia-Post-Slider-Telephone-05.jpg
+    title: IP Desk Phone Setup
 formcheckboxes:
   - Denphone cloud phone service
   - Phone system upgrade
