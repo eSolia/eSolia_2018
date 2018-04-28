@@ -29,6 +29,13 @@ images:
   - /img/eSolia-Post-Slider-Management-02.png
   - /img/eSolia-Post-Slider-Management-03.png
   - /img/eSolia-Chicklet-Color-1024px.png
+resources:
+  - src: eSolia-Post-Slider-Management-01.png
+    title: ハッキリとして指導
+  - src: eSolia-Post-Slider-Management-02.png
+    title: 簡潔なドキュメント
+  - src: eSolia-Post-Slider-Management-03.png
+    title: エキスパートによるコミュニケーション
 formcheckboxes:
   - プロジェクト進捗管理
   - 多言語対応

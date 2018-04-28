@@ -36,6 +36,13 @@ images:
   - /img/eSolia-Post-Slider-Localization-02.jpg
   - /img/eSolia-Post-Slider-Localization-03.jpg
   - /img/eSolia-Chicklet-Color-1024px.png
+resources: 
+  - src: eSolia-Post-Slider-Localization-01.jpg
+    title: "'Interesting' localization example 1"
+  - src: eSolia-Post-Slider-Localization-02.jpg
+    title: "'Interesting' localization example 2"
+  - src: eSolia-Post-Slider-Localization-03.jpg
+    title: Unique local English example
 formcheckboxes:
   - Application localization
   - Document localization

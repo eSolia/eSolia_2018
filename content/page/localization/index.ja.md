@@ -41,6 +41,13 @@ images:
   - /img/eSolia-Post-Slider-Localization-02.jpg
   - /img/eSolia-Post-Slider-Localization-03.jpg
   - /img/eSolia-Chicklet-Color-1024px.png
+resources:
+  - src: eSolia-Post-Slider-Localization-01.jpg
+    title: ちょっと可笑しなローカライズその1
+  - src: eSolia-Post-Slider-Localization-02.jpg
+    title: ちょっと可笑しなローカライズその2
+  - src: eSolia-Post-Slider-Localization-03.jpg
+    title: 独特な日本の英語
 formcheckboxes:
   - アプリケーションのローカライゼーション
   - 文書のローカライゼーション
@@ -59,7 +66,7 @@ menu:
     Identifier: oslocalization_ja
 ---
 
-## 頼るな危険　翻訳サイト
+## 頼るな危険　翻訳サイト　
 
 海外にて作成されたアプリケーション、ウェブサイトや文書をローカライズされる場合、翻訳サイトによる直訳では資料として役に立たない事はご存じかと思います。また、両言語を話せる非ネイティブスピーカーによる直訳でもほぼ意味がなく、これにより時には御社の評判にダメージを与えてしまう事もあります。こういった直訳だけでは、見込顧客が御社の表現されたい内容を理解できずにそのまま見過ごしてしまう事もあるでしょう。ではどのようなローカライゼーションが必要になるのでしょうか。
 
