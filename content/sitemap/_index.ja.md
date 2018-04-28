@@ -6,7 +6,7 @@ description: イソリアのサイトマップ - 全コンテンツのリンク�
 draft: false
 slug: sitemap
 title: サイトマップ
-subtitle: ... をご閲覧ください
+subtitle: 本サイトのコンテンツをタグやトピックで閲覧出来ます
 weight: 10
 alternatelocales:
   - en-US
@@ -36,10 +36,12 @@ menu:
     Weight: 60
     Identifier: sitemap
     Url: /sitemap
-    Pre: "Sitemap とは..."
+    Pre: "タグやトピック別の全ページ一覧。"
 ---
 
 イソリアに興味をお持ちいただきまして誠にありがとうございます。下記の一覧からお探しくださるか、
-[一般お問い合わせフォーム](/info-request/)及び各ページのお問い合わせフォームも合わせてご利用ください。
+[一般お問い合わせフォーム](/info-request/)をご利用ください。
+
 等サイトマップは、サーチエンジンが理解する[標準](/sitemap.xml)形式も[geo](/geo-sitemap.xml)形式もご用意しております。
+
 ご検討のほど、どうぞよろしくお願いします。

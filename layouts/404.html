@@ -34,38 +34,26 @@
   <div class="column is-main-content">
       <div class="box content is-medium has-margin-m has-padding-l-xl has-padding-b-xxl">
         <p class="title is-5"><h1>{{ .Title }}</h1></p>
-        <p class="subtitle is-italic">{{ .Params.subtitle }}</p>
-        {{ .Content }}
+        <p class="subtitle is-italic">{{ i18n "gen404subtitle" }}</p>
+        {{ i18n "gen404message" | markdownify }}
 
+    <ul>
+    {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
+      <li><a class="link dim" href="/{{ $taxonomyname | urlize }}"><h2 class="dark-green">{{ $taxonomyname }}</h2></a>
+        <ul>
+          {{ range $key, $value := $taxonomy }}
+          <li><h3>{{ $key }}</h3></li>
+            <ul>
+              {{ range $value.Pages }}
+              <li hugo-nav="{{ .RelPermalink }}"><a class="link dim dark-pink" href="{{ .Permalink}}"><em>{{ .LinkTitle }}</em></a></li>
+              {{ end }}
+            </ul>
+          {{ end }}
+        </ul>
+      </li>
+    {{ end }}
+    </ul>
 
-      <div class="columns">
-        <div class="column">
-          <h2>{{ i18n "tags" }}</h2>
-          <ul class="is-size-6">
-              {{ range $key, $taxonomy := .Site.Taxonomies.tags }}
-              <li class="list-has-no-style is-italic has-text-esolia-yellow-4"> {{ $key }}</li>
-              <ul>
-                  {{ range $taxonomy.Pages }}
-                  <li hugo-nav="{{ .RelPermalink}}"><a href="{{ .Permalink}}"> {{ .LinkTitle }} </a> </li>
-                  {{ end }}
-              </ul>
-              {{ end }}
-          </ul>
-        </div>
-        <div class="column">
-          <h2>{{ i18n "topics" }}</h2>
-          <ul class="is-size-6">
-              {{ range $key, $taxonomy := .Site.Taxonomies.topics }}
-              <li class="list-has-no-style is-italic has-text-esolia-yellow-4"> {{ $key }}</li>
-              <ul>
-                  {{ range $taxonomy.Pages }}
-                  <li hugo-nav="{{ .RelPermalink}}"><a href="{{ .Permalink}}"> {{ .LinkTitle }} </a> </li>
-                  {{ end }}
-              </ul>
-              {{ end }}
-          </ul>
-        </div>
-      </div>
 
 
         {{ if isset .Params "formcheckboxes" }}
