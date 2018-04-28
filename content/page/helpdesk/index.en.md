@@ -34,11 +34,11 @@ images:
   - /img/eSolia-Post-Slider-Helpdesk-03.jpg
   - /img/eSolia-Chicklet-Color-1024px.png
 resources:
-  - src: img/eSolia-Post-Slider-Helpdesk-01.png
+  - src: eSolia-Post-Slider-Helpdesk-01.png
     title: PROdb New Ticket Screen
-  - src: img/eSolia-Post-Slider-Helpdesk-02.png
+  - src: eSolia-Post-Slider-Helpdesk-02.png
     title: eSolia Remote Access Solution
-  - src: img/eSolia-Post-Slider-Helpdesk-03.jpg
+  - src: eSolia-Post-Slider-Helpdesk-03.jpg
     title: Helpdesk Desk Area
 formcheckboxes:
   - Phone support

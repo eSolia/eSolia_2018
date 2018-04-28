@@ -2,14 +2,14 @@
 
 <h2>{{ i18n "gengalleryname" }}</h2>
 
-{{ with .Page.Resources.Match "img/eSolia-Post-Slider*" }}
-<div class="carousel carousel-animated carousel-animate-slide" data-autoplay="true">
+{{ with .Page.Resources.Match "eSolia-Post-Slider*" }}
+<div class="carousel carousel-animated carousel-animate-slide" data-autoplay="true" data-delay="7500">
   <div class="carousel-container">
     {{ range . }}
-    {{ $galpic := .Resize "800x" }}
+    {{ $scaled := .Resize "800x" }}
     <div class="carousel-item has-background">
-      <img class="is-background" src="{{ $galpic.RelPermalink }}" alt="eSolia Gallery Screenshot or Photo"/>
-      <div class="title is-size-5">{{ .Title }}</div>
+      <img class="is-background" src="{{ $scaled.RelPermalink }}" alt="eSolia Gallery Screenshot or Photo"/>
+      <div class="title is-size-6 is-italic has-text-esolia-blue-3">{{ .Title }}</div>
     </div>
     {{ end }}
 
