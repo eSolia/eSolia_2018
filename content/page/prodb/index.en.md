@@ -36,8 +36,27 @@ images:
   - /img/eSolia-Post-Slider-PROdb-06.png
   - /img/eSolia-Post-Slider-PROdb-07.png
   - /img/eSolia-Post-Slider-PROdb-08.png
-  - /img/eSolia-Post-Slider-PROdb-09.png  
+  - /img/eSolia-Post-Slider-PROdb-09.png 
   - /img/eSolia-Chicklet-Color-1024px.png
+resources:
+  - src: eSolia-Post-Slider-PROdb-01.png
+    title: PROdb welcome dash
+  - src: eSolia-Post-Slider-PROdb-02.png
+    title: PROdb new data form
+  - src: eSolia-Post-Slider-PROdb-03.png
+    title: PROdb data list such as Hospitals
+  - src: eSolia-Post-Slider-PROdb-04.png
+    title: PROdb flexible data views
+  - src: eSolia-Post-Slider-PROdb-05.png
+    title: PROdb charts and graphs
+  - src: eSolia-Post-Slider-PROdb-06.png
+    title: PROdb flexible search
+  - src: eSolia-Post-Slider-PROdb-07.png
+    title: PROdb data access via RSS feed and email
+  - src: eSolia-Post-Slider-PROdb-08.png
+    title: PROdb data view subscription
+  - src: eSolia-Post-Slider-PROdb-09.png
+    title: PROdb setup-side logging and data import
 formcheckboxes:
   - Spreadsheet conversion
   - Access anywhere

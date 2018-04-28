@@ -36,6 +36,25 @@ images:
   - /img/eSolia-Post-Slider-PROdb-08.png
   - /img/eSolia-Post-Slider-PROdb-09.png  
   - /img/eSolia-Chicklet-Color-1024px.png
+resources:
+  - src: eSolia-Post-Slider-PROdb-01.png
+    title: PROdb ウエルカムダッシュボード
+  - src: eSolia-Post-Slider-PROdb-02.png
+    title: PROdb 新規データフォーム
+  - src: eSolia-Post-Slider-PROdb-03.png
+    title: PROdb データレコード表示 (病院)
+  - src: eSolia-Post-Slider-PROdb-04.png
+    title: PROdb 様々なデータ一覧
+  - src: eSolia-Post-Slider-PROdb-05.png
+    title: PROdb チャート
+  - src: eSolia-Post-Slider-PROdb-06.png
+    title: PROdb 柔軟な検索
+  - src: eSolia-Post-Slider-PROdb-07.png
+    title: PROdb メールやRSSのデータアクセス
+  - src: eSolia-Post-Slider-PROdb-08.png
+    title: PROdb データ一覧の定期的サブスクリプション
+  - src: eSolia-Post-Slider-PROdb-09.png
+    title: PROdb 管理画面にてログやデータ読み込み
 formcheckboxes:
   - 表計算ソフトからの脱却
   - クラウドアクセス
