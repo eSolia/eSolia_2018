@@ -35,6 +35,15 @@ images:
   - /img/eSolia-Post-Slider-Security-03.jpg
   - /img/eSolia-Post-Slider-Security-04.jpg  
   - /img/eSolia-Chicklet-Color-1024px.png
+resources:
+  - src: eSolia-Post-Slider-Security-01.jpg
+    title: Earthquake-proof rack install
+  - src: eSolia-Post-Slider-Security-02.jpg
+    title: Security panel setup
+  - src: eSolia-Post-Slider-Security-03.jpg
+    title: Security panel
+  - src: eSolia-Post-Slider-Security-04.jpg 
+    title: Physical security
 formcheckboxes:
   - Assessment
   - Disaster Recovery

@@ -33,6 +33,15 @@ images:
   - /img/eSolia-Post-Slider-Security-03.jpg
   - /img/eSolia-Post-Slider-Security-04.jpg  
   - /img/eSolia-Chicklet-Color-1024px.png
+resources:
+  - src: eSolia-Post-Slider-Security-01.jpg
+    title: 耐震システムラック
+  - src: eSolia-Post-Slider-Security-02.jpg
+    title: セキュリティパネル導入設定
+  - src: eSolia-Post-Slider-Security-03.jpg
+    title: セキュリティパネル
+  - src: eSolia-Post-Slider-Security-04.jpg 
+    title: 物理セキュリティ
 formcheckboxes:
   - 評価
   - 災害復旧
