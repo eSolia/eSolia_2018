@@ -32,6 +32,11 @@ images:
   - /img/eSolia-Post-Slider-Training-02.jpg
   - /img/eSolia-Post-Slider-Training-03.jpg
   - /img/eSolia-Chicklet-Color-1024px.png
+resources:
+  - src: eSolia-Post-Slider-Training-01.jpg
+    title: afd
+  - src: eSolia-Post-Slider-Training-02.jpg
+  - src: eSolia-Post-Slider-Training-03.jpg
 formcheckboxes:
   - IT engineer training
   - End user training

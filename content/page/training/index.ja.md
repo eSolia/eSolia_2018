@@ -35,6 +35,13 @@ images:
   - /img/eSolia-Post-Slider-Training-02.jpg
   - /img/eSolia-Post-Slider-Training-03.jpg
   - /img/eSolia-Chicklet-Color-1024px.png
+resources:
+  - src: eSolia-Post-Slider-Training-01.jpg
+    title: Mac 口座
+  - src: eSolia-Post-Slider-Training-02.jpg
+    title: セミナー
+  - src: eSolia-Post-Slider-Training-03.jpg
+    title: トレーニング会議室
 formcheckboxes:
   - ITエンジニアリングトレーニング
   - エンドユーザートレーニング
