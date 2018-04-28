@@ -35,6 +35,17 @@ images:
   - /img/eSolia-Post-Slider-Office-Moves-04.jpg
   - /img/eSolia-Post-Slider-Office-Moves-05.jpg
   - /img/eSolia-Chicklet-Color-1024px.png
+resources:
+  - src: eSolia-Post-Slider-Office-Moves-01.jpg
+    title: IP Desk Phone
+  - src: eSolia-Post-Slider-Office-Moves-02.jpg
+    title: Network Setup in Structured Rack
+  - src: eSolia-Post-Slider-Office-Moves-03.jpg
+    title: Patch panel rear with installed cable
+  - src: eSolia-Post-Slider-Office-Moves-04.jpg
+    title: New furniture
+  - src: eSolia-Post-Slider-Office-Moves-05.jpg
+    title: Furniture move
 formcheckboxes:
   - New Office
   - Japan Office

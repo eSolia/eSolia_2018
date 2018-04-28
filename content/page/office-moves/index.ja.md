@@ -32,6 +32,17 @@ images:
   - /img/eSolia-Post-Slider-Office-Moves-04.jpg
   - /img/eSolia-Post-Slider-Office-Moves-05.jpg
   - /img/eSolia-Chicklet-Color-1024px.png
+resources:
+  - src: eSolia-Post-Slider-Office-Moves-01.jpg
+    title: IP デスクフォン
+  - src: eSolia-Post-Slider-Office-Moves-02.jpg
+    title: システムラックにてネットワークセットアップ
+  - src: eSolia-Post-Slider-Office-Moves-03.jpg
+    title: 配線インストール済みパッチパネル裏
+  - src: eSolia-Post-Slider-Office-Moves-04.jpg
+    title: 新什器
+  - src: eSolia-Post-Slider-Office-Moves-05.jpg
+    title: 什器の移動
 formcheckboxes:
   - 新規オフィス
   - 社内移転
