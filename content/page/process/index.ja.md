@@ -34,6 +34,13 @@ images:
   - /img/eSolia-Post-Slider-Process-02.png
   - /img/eSolia-Post-Slider-Process-03.png
   - /img/eSolia-Chicklet-Color-1024px.png
+resources:
+  - src: eSolia-Post-Slider-Process-01.png
+    title: 新規プロジェクトスケジュール
+  - src: eSolia-Post-Slider-Process-02.png
+    title: 新規プロジェクトバジェット
+  - src: eSolia-Post-Slider-Process-03.png
+    title: 関連契約のトラッキング
 formcheckboxes:
 - プロジェクト管理
 - 購買管理

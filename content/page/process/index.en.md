@@ -33,6 +33,13 @@ images:
   - /img/eSolia-Post-Slider-Process-02.png
   - /img/eSolia-Post-Slider-Process-03.png
   - /img/eSolia-Chicklet-Color-1024px.png
+resources:
+  - src: eSolia-Post-Slider-Process-01.png
+    title: New project schedule
+  - src: eSolia-Post-Slider-Process-02.png
+    title: New project budget
+  - src: eSolia-Post-Slider-Process-03.png
+    title: Supporting agreement tracking
 formcheckboxes:
   - Project Management
   - Procurement Management
