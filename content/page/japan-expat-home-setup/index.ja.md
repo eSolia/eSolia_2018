@@ -40,6 +40,13 @@ images:
   - /img/eSolia-Post-Slider-Home-Setup-02.jpg
   - /img/eSolia-Post-Slider-Home-Setup-03.jpg
   - /img/eSolia-Chicklet-Color-1024px.png
+resources:
+  - src: eSolia-Post-Slider-Home-Setup-01.jpg
+    title: ブロードバンドルーター
+  - src: eSolia-Post-Slider-Home-Setup-02.jpg
+    title: マンションファイバー端末
+  - src: eSolia-Post-Slider-Home-Setup-03.jpg
+    title: ONU機器
 formcheckboxes:
   - 自宅パソコン設定
   - 自宅マック設定

@@ -37,6 +37,13 @@ images:
   - /img/eSolia-Post-Slider-Home-Setup-02.jpg
   - /img/eSolia-Post-Slider-Home-Setup-03.jpg
   - /img/eSolia-Chicklet-Color-1024px.png
+resources:
+  - src: eSolia-Post-Slider-Home-Setup-01.jpg
+    title: Broadband router
+  - src: eSolia-Post-Slider-Home-Setup-02.jpg
+    title: Fiber terminal board
+  - src: eSolia-Post-Slider-Home-Setup-03.jpg
+    title: ONU
 formcheckboxes:
   - PC Setup
   - Mac Setup
