@@ -39,6 +39,15 @@ images:
   - /img/eSolia-Post-Slider-SIP-Print-02.jpg
   - /img/eSolia-Post-Slider-SIP-Print-01.png
   - /img/eSolia-Chicklet-Color-1024px.png
+resources:
+  - src: eSolia-Post-Slider-SIP-Print-01.png
+    title: 様々なプラットフォームをサポート
+  - src: eSolia-Post-Slider-SIP-Print-02.jpg
+    title: SIP-Print インターフェース
+  - src: eSolia-Post-Slider-SIP-Print-03.png
+    title: SIP-Print コールセンター
+  - src: eSolia-Post-Slider-SIP-Print-04.jpg
+    title: SIP-Print ハードウエア
 formcheckboxes:
   - コールセンター エイジェント通話録音
   - エイジェント評価

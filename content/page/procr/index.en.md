@@ -34,6 +34,15 @@ images:
   - /img/eSolia-Post-Slider-SIP-Print-02.jpg
   - /img/eSolia-Post-Slider-SIP-Print-01.png
   - /img/eSolia-Chicklet-Color-1024px.png
+resources:
+  - src: eSolia-Post-Slider-SIP-Print-01.png
+    title: Supported Platforms
+  - src: eSolia-Post-Slider-SIP-Print-02.jpg
+    title: SIP-Print UI
+  - src: eSolia-Post-Slider-SIP-Print-03.png
+    title: SIP-Print Callcenter
+  - src: eSolia-Post-Slider-SIP-Print-04.jpg
+    title: SIP-Print Hardware
 formcheckboxes:
   - Call Center Agent Recording
   - Agent Scoring
