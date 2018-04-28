@@ -34,6 +34,15 @@ images:
   - /img/eSolia-Post-Slider-Project-Management-03.png
   - /img/eSolia-Post-Slider-Project-Management-04.png
   - /img/eSolia-Chicklet-Color-1024px.png
+resources:
+  - src: eSolia-Post-Slider-Project-Management-01.png
+    title: eSolia プロジェクト スケジュール
+  - src: eSolia-Post-Slider-Project-Management-02.png
+    title: eSolia プロジェクト バジェット
+  - src: eSolia-Post-Slider-Project-Management-03.png
+    title: eSolia プロジェクトマターズ一覧（リスク、前提、変更など）
+  - src: eSolia-Post-Slider-Project-Management-04.png
+    title: eSolia プロジェクトリポート
 formcheckboxes:
   - プロジェクト トラッキング
   - プロジェクトの立て直し

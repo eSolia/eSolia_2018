@@ -32,6 +32,15 @@ images:
   - /img/eSolia-Post-Slider-Project-Management-03.png
   - /img/eSolia-Post-Slider-Project-Management-04.png
   - /img/eSolia-Chicklet-Color-1024px.png
+resources:
+  - src: eSolia-Post-Slider-Project-Management-01.png
+    title: eSolia Project Schedule
+  - src: eSolia-Post-Slider-Project-Management-02.png
+    title: eSolia Project Budget
+  - src: eSolia-Post-Slider-Project-Management-03.png
+    title: eSolia Project Matters such as Risks or Changes
+  - src: eSolia-Post-Slider-Project-Management-04.png
+    title: eSolia Project Reports
 formcheckboxes:
   - Project tracking
   - Project rescue
