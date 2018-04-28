@@ -98,9 +98,9 @@ menu:
 * 企業レベルの拡張性または相互運用性を考慮し、利便性を求めている
 * ボイスメール、自動音声案内、自動転送、スピードダイヤル、通話転送、会議ブリッジ、保留音楽、一時保留（コールパーク）などのあらゆる最新機能に加えて、UC、ACD、またはIVRなどの高度な機能も検討している
 
-### 安心と安定のDenphoneサービスを
+{{< figure "IP-Desk-Phone.jpg" Resize "500x" Photo "IP デスクフォン" >}}
 
-<img class="activator" src="/img/eSolia-Post-Slider-Office-Moves-01.jpg">
+### 安心と安定のDenphoneサービスを
 
 イソリアはDenphoneとパートナーシップを持ち、クラウド型IP電話システムを高い技術と共にお客様に提供してます。
 

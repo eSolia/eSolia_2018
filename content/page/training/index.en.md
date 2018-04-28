@@ -34,9 +34,11 @@ images:
   - /img/eSolia-Chicklet-Color-1024px.png
 resources:
   - src: eSolia-Post-Slider-Training-01.jpg
-    title: afd
+    title: Mac Training
   - src: eSolia-Post-Slider-Training-02.jpg
+    title: Seminar
   - src: eSolia-Post-Slider-Training-03.jpg
+    title: Training Facilities
 formcheckboxes:
   - IT engineer training
   - End user training

@@ -66,9 +66,7 @@ _When you need assistance with **IT and user support in Japan**, outsource with 
 
 Whether your needs are simple or complex, eSolia professionals can offer you controlled expert assistance with your IT matters, or take full management responsibility over part or all of your IT operations.
 
-<figure class="image-container">
-<img class="materialboxed responsive-img" width="500" data-caption="eSolia's solutions for your challenges" alt="Graphic with eSolia's solutions for your challenges" src="/img/eSolia-Post-Our-Solutions-Your-Challenges-2.png" >
-</figure>
+{{< figure "eSolia-Post-Our-Solutions-Your-Challenges-2.png" Resize "400x" Photo "eSolia's solutions for your challenges" >}}
 
 ## Why should you outsource?
 
@@ -76,7 +74,7 @@ One of the primary benefits is service continuity - hired or contracted individu
 
 eSolia's support and engineering team "teamITMS" is focused on providing you with best practices for consistent quality engineering and support - leaving you more time to focus on your business.
 
-### <i class="material-icons small">done</i> Outsourcing Benefits
+### Outsourcing Benefits
 
 * **Service continuity** - full ongoing maintenance of the outsourced operation's agreed service level.
 * **Access to eSolia teamITMS** - experienced expert professionals with a wide range of skills.
@@ -84,6 +82,5 @@ eSolia's support and engineering team "teamITMS" is focused on providing you wit
 * **Focus** - eSolia outsourcing allows decision-makers to concentrate on their business.
 * **TCO Reduction** - total cost of ownership is reduced when you outsource your IT operations.
 
-<figure class="image-container">
-<img class="materialboxed responsive-img" width="500" data-caption="Benefits for eSolia Outsourcing" alt="Graphic with eSolia's outsourcing benefits" src="/img/eSolia-Post-Outsource-Benefits-en.gif" >
-</figure>
+{{< figure "eSolia-Post-Outsource-Benefits-en.gif" Resize "500x" Photo "eSolia Skills" >}}
+

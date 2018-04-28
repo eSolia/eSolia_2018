@@ -92,9 +92,9 @@ Consider a modern IP phone system if:
 * you desire ease-of-use combined with enterprise level scalability or interoperability.
 * you require all the modern features such as voicemail, auto-attendant, follow-me, speed dial, call forwarding, conference bridge, music on hold, call park, as well as advanced features such as unified communications, ACD or IVR.
 
-### Denphone Turnkey Cloud Phone Service
+{{< figure "IP-Desk-Phone.jpg" Resize "500x" Photo "IP Desk Phone" >}}
 
-<img class="activator" src="/img/eSolia-Post-Slider-Office-Moves-01.jpg">
+### Denphone Turnkey Cloud Phone Service
 
 eSolia partners with Denphone, a leading provider of cloud IP phone systems, to provide our clients with the best subscription IP phone service available.
 
