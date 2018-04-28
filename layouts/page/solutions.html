@@ -45,6 +45,9 @@
         {{ if isset .Params "formcheckboxes" }}
           {{- partial "form-moreinfo.html" . -}}
         {{ end }}
+        {{if isset .Params "gallery_id" }}
+           {{ partial "gallery.html" . }}
+        {{ end }}
       </div>
   </div>
 </div>
