@@ -157,7 +157,7 @@ $colors: map-merge($colors, $addColors);
 html { background-color: $grey-darker;}
 
 // set max width of paragraphs for ease of reading
-p,ul,ol,table,blockquote,span,small {
+p,ul,ol,table,blockquote,span,small,div.carousel {
     max-width: 38em;
     // margin: auto;
 }

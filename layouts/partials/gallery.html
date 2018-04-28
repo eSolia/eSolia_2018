@@ -1,0 +1,28 @@
+{{ "<!-- ENTERING partial gallery.html -->" | safeHTML }}
+
+<h2>{{ i18n "gengalleryname" }}</h2>
+
+{{ with .Page.Resources.Match "img/eSolia-Post-Slider*" }}
+<div class="carousel carousel-animated carousel-animate-slide" data-autoplay="true">
+  <div class="carousel-container">
+    {{ range . }}
+    {{ $galpic := .Resize "800x" }}
+    <div class="carousel-item has-background">
+      <img class="is-background" src="{{ $galpic.RelPermalink }}" alt="eSolia Gallery Screenshot or Photo"/>
+      <div class="title">{{ .Title }}</div>
+    </div>
+    {{ end }}
+
+  </div>
+  <div class="carousel-navigation is-overlay">
+    <div class="carousel-nav-left">
+      <i class="fa fa-chevron-left" aria-hidden="true"></i>
+    </div>
+    <div class="carousel-nav-right">
+      <i class="fa fa-chevron-right" aria-hidden="true"></i>
+    </div>
+  </div>
+</div>
+{{ end }}
+
+{{ "<!-- LEAVING partial gallery.html -->" | safeHTML }}
