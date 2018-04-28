@@ -33,8 +33,14 @@ images:
   - /img/eSolia-Post-Slider-Helpdesk-01.png
   - /img/eSolia-Post-Slider-Helpdesk-02.png
   - /img/eSolia-Post-Slider-Helpdesk-03.jpg
-  - /img/eSolia-Post-Slider-Helpdesk-04.jpg
   - /img/eSolia-Chicklet-Color-1024px.png
+resources:
+  - src: img/eSolia-Post-Slider-Helpdesk-01.png
+    title: PROdb 新規チケット画面
+  - src: img/eSolia-Post-Slider-Helpdesk-02.png
+    title: イソリアの遠隔操作ソリューション
+  - src: img/eSolia-Post-Slider-Helpdesk-03.jpg
+    title: ヘルプデスク エリア
 formcheckboxes:
   - 電話でのサポート
   - リモートサポート

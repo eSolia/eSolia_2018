@@ -9,7 +9,7 @@
     {{ $galpic := .Resize "800x" }}
     <div class="carousel-item has-background">
       <img class="is-background" src="{{ $galpic.RelPermalink }}" alt="eSolia Gallery Screenshot or Photo"/>
-      <div class="title">{{ .Title }}</div>
+      <div class="title is-size-5">{{ .Title }}</div>
     </div>
     {{ end }}
 

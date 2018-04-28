@@ -32,8 +32,14 @@ images:
   - /img/eSolia-Post-Slider-Helpdesk-01.png
   - /img/eSolia-Post-Slider-Helpdesk-02.png
   - /img/eSolia-Post-Slider-Helpdesk-03.jpg
-  - /img/eSolia-Post-Slider-Helpdesk-04.jpg
   - /img/eSolia-Chicklet-Color-1024px.png
+resources:
+  - src: img/eSolia-Post-Slider-Helpdesk-01.png
+    title: PROdb New Ticket Screen
+  - src: img/eSolia-Post-Slider-Helpdesk-02.png
+    title: eSolia Remote Access Solution
+  - src: img/eSolia-Post-Slider-Helpdesk-03.jpg
+    title: Helpdesk Desk Area
 formcheckboxes:
   - Phone support
   - Remote support
@@ -81,3 +87,6 @@ But all of this is not done by just a single engineer. In fact, expecting one pe
 * Recovery for mistaken data deletion, backups and restorations.
 * Update management provided, for OS upgrades, bug-fix, anti-virus and security patches.
 * Special processing for urgent or high-impact requests.
+
+
+
