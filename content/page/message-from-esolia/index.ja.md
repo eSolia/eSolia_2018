@@ -57,4 +57,4 @@ menu:
 
 **_株式会社イソリア_**  
 
-<iframe src="https://player.vimeo.com/video/78135284" width="700" height="393" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/78135284" width="600" height="336" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

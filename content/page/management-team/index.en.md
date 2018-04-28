@@ -47,8 +47,8 @@ eSolia's Management Team comprises Rick Cogley and Takumi Fukuoka, who have been
 
 ### Rick Cogley, CEO
 
-<figure class="image-container">
-<img class="materialboxed right responsive-img z-depth-1" width="200" data-caption="Rick Cogley, eSolia CEO" alt="Photo of Rick Cogley, eSolia CEO (photo by Takumi Fukuoka)" src="/img/eSolia-CEO-Rick-Cogley.jpg" >
+<figure class="">
+<img class="is-pulled-right has-padding-m" width="200" data-caption="Rick Cogley, eSolia CEO" alt="Photo of Rick Cogley, eSolia CEO (photo by Takumi Fukuoka)" src="/img/eSolia-CEO-Rick-Cogley.jpg" >
 </figure>
 
 James Rickard Cogley has been working in the consulting and support industry in Japan, since 1990. He specializes in bilingual (Japanese - English) consulting, project management, and general management, and has focused his career on M&A-related IT migrations and merges, market entry assistance, IT department reorganization and interim turnaround management, cloud technology implementation, standards-based (COBIT, ITIL) governance implementation, and large corporate compliance projects.
@@ -61,8 +61,8 @@ Cogley's goal is to develop eSolia into a global consultancy, focused on providi
 
 ### Takumi Fukuoka, COO
 
-<figure class="image-container">
-<img class="materialboxed right responsive-img z-depth-1" width="200" data-caption="Takumi Fukuoka, eSolia COO (Rick Cogley Photo)" alt="Photo of Takumi Fukuoka, eSolia COO (Rick Cogley Photo)" src="/img/eSolia-COO-Takumi-Fukuoka.jpg" >
+<figure class="">
+<img class="is-pulled-right has-padding-m" width="200" data-caption="Takumi Fukuoka, eSolia COO (Rick Cogley Photo)" alt="Photo of Takumi Fukuoka, eSolia COO (Rick Cogley Photo)" src="/img/eSolia-COO-Takumi-Fukuoka.jpg" >
 </figure>
 
 Takumi Fukuoka started his career in IT, joining a software development company based in Tokyo in 1994. There, he developed primarily logistics and accounting systems. He then joined PTS Co. Ltd., (acquired in 1999 by Datacraft Asia (now Dimension Data)), and focused his career on system implementations, support and project management.

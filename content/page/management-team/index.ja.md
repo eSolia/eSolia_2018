@@ -45,8 +45,8 @@ menu:
 
 ### 代表取締役社長 <wbr><nobr>ジェームズ R. コグレー</nobr>
 
-<figure class="image-container">
-<img class="materialboxed right responsive-img z-depth-1" width="200" data-caption="代表取締役社長 リック コグレー、CEO" alt="代表取締役社長 リック コグレー、CEO (写真：福岡 琢巳)" src="/img/eSolia-CEO-Rick-Cogley.jpg" >
+<figure class="">
+<img class="is-pulled-right has-padding-m" width="200" data-caption="代表取締役社長 リック コグレー、CEO" alt="代表取締役社長 リック コグレー、CEO (写真：福岡 琢巳)" src="/img/eSolia-CEO-Rick-Cogley.jpg" >
 </figure>
 
 ジェームズ・リカード・コグレーは、1990年より、日本でコンサルティング＆サポート分野で、バイリンガルな（日本語-英語）コンサルティング、プロジェクトマネジメント、ジェネラルマネジメントを専門としております。
@@ -72,8 +72,8 @@ Allegheny Collegeのアドバイザーが東京大学の薬学教授をコグレ
 
 ### 代表取締役副社長 <wbr><nobr>福岡 琢巳</nobr>
 
-<figure class="image-container">
-<img class="materialboxed right responsive-img z-depth-1" width="200" data-caption="取締役副社長 福岡 琢巳、COO (写真：リック コグレー)" alt="取締役副社長 福岡 琢巳、COO の写真 (写真：リック コグレー)" src="/img/eSolia-COO-Takumi-Fukuoka.jpg" >
+<figure class="">
+<img class="is-pulled-right has-padding-m" width="200" data-caption="取締役副社長 福岡 琢巳、COO (写真：リック コグレー)" alt="取締役副社長 福岡 琢巳、COO の写真 (写真：リック コグレー)" src="/img/eSolia-COO-Takumi-Fukuoka.jpg" >
 </figure>
 
 1994年ソフトウェア開発会社に入社し、主に物流・経理システムの開発に従事。その後、株式会社PTS（1999年Datacraft Asia（現Dimension Data）に買収）に入社後、システム導入・サポート、プロジェクトマネージメント業務に従事。

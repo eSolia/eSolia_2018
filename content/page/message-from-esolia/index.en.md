@@ -56,4 +56,4 @@ We want to foster and grow long-term relationships with our clients, and help th
 Sincerely,  
 **_eSolia Inc._**
 
-<iframe src="https://player.vimeo.com/video/78135284" width="700" height="393" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/78135284" width="600" height="336" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

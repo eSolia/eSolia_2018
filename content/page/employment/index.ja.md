@@ -54,8 +54,8 @@ menu:
 
 ## 求めている人材の特長とは?
 
-<figure class="image-container">
-<img class="materialboxed right responsive-img z-depth-1" width="300" data-caption="eSolia Consults" alt="eSolia Consults" src="/img/eSolia-Post-Slider-Management-02.png" >
+<figure class="">
+<img class="is-pulled-right has-padding-r-m has-padding-l-m has-padding-b-l" width="300" data-caption="eSolia Consults" alt="eSolia Consults" src="/img/eSolia-Post-Slider-Management-02.png" >
 </figure>
 
 イソリアの社員は才能豊かなITのプロフェッショナルです。優れたバイリンガルの社員がIT関連の課題に対してクリエイティブなソリューションを見つけるよう努力し、問題を解決します。

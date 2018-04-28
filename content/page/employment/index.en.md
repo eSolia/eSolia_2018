@@ -51,8 +51,8 @@ menu:
 
 ## What Kind of People?
 
-<figure class="image-container">
-<img class="materialboxed right responsive-img z-depth-1" width="300" data-caption="eSolia Consults" alt="eSolia Consults" src="/img/eSolia-Post-Slider-Management-02.png" >
+<figure class="">
+<img class="is-pulled-right has-padding-r-m has-padding-l-m has-padding-b-l" width="300" data-caption="eSolia Consults" alt="eSolia Consults" src="/img/eSolia-Post-Slider-Management-02.png" >
 </figure>
 
 eSolia people are talented, multilingual and multicultural IT professionals. We are problem-solvers dedicated to finding creative solutions to your IT issues.
