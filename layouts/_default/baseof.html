@@ -11,6 +11,16 @@
     <script type='text/javascript' src='/js/main.min.js'></script>
     <script src="https://use.typekit.net/fwz4gtk.js"></script>
     <script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+  {{ if .IsPage }}
+  {{if isset .Params "inforequest" }}
+    <script src="https://pro.dbflex.net/secure/db/55438/res.aspx/captcha.js"></script>
+    <script src="https://www.google.com/recaptcha/api.js?onload=tryInitCaptcha&render=explicit&hl=en"></script>
+  {{ end }}
+  {{ end }}
+
+
+
   </head>
   <body>
     <!-- Code that all your templates share, like a header -->

@@ -5,6 +5,7 @@ publishdate: 2012-01-10T00:05:19.000Z
 description: eSolia Information Request - form for prospective clients to request more information.
 draft: false
 slug: info-request
+inforequest: true
 subtitle: About eSolia Services and Solutions
 weight: 10
 warning: sales
@@ -56,5 +57,9 @@ Thank you sincerely for your interest. Please use the below form to make an enqu
 <p>
 <script
   src="https://pro.dbflex.net/secure/embed.js"
-  data-url="/wr-79586/db/15331/webtorecord.aspx?t=79586"></script>
+  data-url="/wr-79586/db/15331/webtorecord.aspx?t=79586"
+  data-onload="webFormLoaded">
+</script>
 </p>
+
+

@@ -5,6 +5,7 @@ publishdate: 2012-01-10T00:05:19.000Z
 description: イソリア - お問い合わせフォーム
 draft: false
 slug: info-request
+inforequest: true
 subtitle: イソリアのサービスやソリューションについて
 weight: 10
 warning: sales
@@ -57,6 +58,8 @@ menu:
 <p>
 <script
   src="https://pro.dbflex.net/secure/embed.js"
-  data-url="/wr-79586/db/15331/webtorecord.aspx?t=79586"></script>
+  data-url="/wr-79586/db/15331/webtorecord.aspx?t=79586"
+  data-onload="webFormLoaded">
+</script>
 </p>
 
