@@ -52,6 +52,11 @@ menu:
 ---
 
 ### ビジョン
+
+<figure class="">
+<img class="is-pulled-right has-padding-m" width="200" data-caption="イソリアロゴ" alt="イソリアロゴ画像" src="/img/eSolia-Chicklet-Color-1024px.png" >
+</figure>
+
 イソリアが掲げるITサービスのビジョンは、ITアウトソーシング・ビジネスのマーケットリーダーとして、ビジネス・文化・即時性に対する強い認識を持ち、「分かりやすく」且つ「他の手本となる」ITサービスをお客様に提供することです。
 
 イソリアはプロフェッショナルとして、「倫理」「プロフェッショナリズム」「完全性」において高水準を保ちます。また特定の機器製造メーカーと提携関係を持たないことによって、考えられる限りの幅広い選択肢の中からお客様にとって最適なサービスを提案いたします。
@@ -68,7 +73,7 @@ menu:
     <hr>
   </div>
   <div class="col s12 m4"><strong>お問い合わせ</strong></div>
-  <div class="col s12 m8"><a href="/info-request">お問合せフォーム</a>又は<a href="mailto:info@esolia.co.jp">info@esolia.co.jp</a>までどうぞ。
+  <div class="col s12 m8">弊社サービスに関する<a href="/info-request">お問合せフォーム</a>又は<a href="mailto:info@esolia.co.jp">info@esolia.co.jp</a>までどうぞ。
     <hr>
   </div>
   <div class="col s12 m4"><strong>役員</strong></div>
