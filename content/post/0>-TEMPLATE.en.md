@@ -4,6 +4,7 @@ authorkey: esolia
 date: 2015-07-07T08:45:15+09:00
 publishdate: 2015-07-07T08:45:15+09:00
 draft: true
+noindex: true
 slug: make-this-the-same-as-the-file-name-without-extension
 title: This is the Title
 subtitle: and this is the subtitle
