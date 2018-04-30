@@ -23,6 +23,8 @@ aliases:
   - /16th-anniversary-and-new-website
 ---
 
+{{< blogbox >}}
+
 ## Thank you
 
 eSolia turns 16 this 7th July 2015, and we'd like to extend a big thank you for your continual support and patronage since we founded eSolia in 1999. It really has been sweet.

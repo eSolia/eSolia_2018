@@ -360,3 +360,9 @@ other = "Enter Search Term"
 
 [readmore]
 other = "Read More"
+
+[blogboxauthor]
+other = "Author(s)"
+
+[blogboxdate]
+other = "Date"

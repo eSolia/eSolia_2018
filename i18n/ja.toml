@@ -360,3 +360,9 @@ other = "検索するテキストをご記入してください"
 
 [readmore]
 other = "続いて読む"
+
+[blogboxauthor]
+other = "著者"
+
+[blogboxdate]
+other = "日付"

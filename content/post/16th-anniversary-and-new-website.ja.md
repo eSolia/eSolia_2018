@@ -19,10 +19,12 @@ titlewbr: 創業１６周年、<wbr><nobr>ウェブサイトリニューアル</
 topics:
   - アナウンス
 authors:
-  - eSolia
+  - イソリア
 images:
   - /img/eSolia-Chicklet-Color-1024px.png
 ---
+
+{{< blogbox >}}
 
 ## お陰様で
 
