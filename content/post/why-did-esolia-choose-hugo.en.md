@@ -29,6 +29,8 @@ images:
   - /img/eSolia-Chicklet-Color-1024px.png  
 ---
 
+{{< blogbox >}}
+
 ## The History
 
 eSolia has used various systems to generate and publish our websites over the years. We've used several standalone website "builder" apps that you run on a local PC or Mac, such as Microsoft's FrontPage, IBM Home Page Builder, Macromedia DreamWeaver and Realmac RapidWeaver. And we've used a couple of server-side CMS systems as well: WordPress, Drupal, Typo3.

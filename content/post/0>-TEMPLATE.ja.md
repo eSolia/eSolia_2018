@@ -52,7 +52,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
    * Start with the slug, making it the same as the filename.
    * Keep "draft" set to true until ready to publish. Update draft and the dates at the same time.
    * Date and PublishDate are the same at first. If you edit after publishing, update the Date.
-   * Update author and authorkey as, for example, Hideaki Horiuchi and hideakihoriuchi respectively.
+   * Update author and authorkey as, for example, Hanako Sato and hanakosato respectively.
    * Also put the full name version of the Author in the authors array.
    * Remember SEO is determined by Title, Subtitle, Description, Tags, and the key phrase near the top of the article.
    * Topics should be high level and limited. Details can go in Tags, but we should limit the major topics. Look at others to compare.

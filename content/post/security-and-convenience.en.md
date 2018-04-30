@@ -1,6 +1,6 @@
 ---
-authorkey: hideakihoriuchi
-author: Hideaki Horiuchi
+authorkey: esolia
+author: eSolia
 date: 2015-07-07T14:46:15+09:00
 publishdate: 2015-07-06T08:46:15+09:00
 description: Security and Convenience - a blog post on eSolia.pro from eSolia Inc.
@@ -16,11 +16,13 @@ tags:
 topics:
   - Security
 authors:
-  - Hideaki Horiuchi
+  - eSolia
 images:
   - /img/eSolia-Post-Security-vs-Convenience.png
   - /img/eSolia-Chicklet-Color-1024px.png
 ---
+
+{{< blogbox >}}
 
 ## Intro
 

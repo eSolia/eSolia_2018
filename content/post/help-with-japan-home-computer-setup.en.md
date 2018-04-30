@@ -30,6 +30,8 @@ images:
   - /img/eSolia-Chicklet-Color-1024px.png  
 ---
 
+{{< blogbox >}}
+
 ## Are you "Fresh off the boat"?
 
 If you're new to Japan and having some trouble with the language and just getting around, why not try eSolia's **Home Computer Setup** service for expats in Japan.

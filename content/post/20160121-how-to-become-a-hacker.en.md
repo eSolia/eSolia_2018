@@ -1,6 +1,6 @@
 ---
-authorkey: hideakihoriuchi
-author: Hideaki Horiuchi
+authorkey: esolia
+author: eSolia
 date: 2016-01-21T14:12:15+09:00
 publishdate: 2016-01-21T14:12:15+09:00
 draft: true
@@ -18,10 +18,12 @@ tags:
 topics:
   - Training
 authors:
-  - Hideaki Horiuchi
+  - eSolia
 images:
   - /img/eSolia-Chicklet-Color-1024px.png
 ---
+
+{{< blogbox >}}
 
 # How to become a Great Hacker
 

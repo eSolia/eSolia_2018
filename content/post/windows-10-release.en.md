@@ -1,6 +1,6 @@
 ---
-authorkey: hideakihoriuchi
-author: Hideaki Horiuchi
+authorkey: esolia
+author: eSolia
 date: 2015-07-21T14:00:15+09:00
 publishdate: 2015-07-21T14:00:15+09:00
 description: Windows 10 Release - a blog post on eSolia.pro from eSolia Inc.
@@ -21,11 +21,13 @@ title: Windows 10 Release
 topics:
   - Software
 authors:
-  - Hideaki Horiuchi
+  - eSolia
 images:
   - /img/eSolia-Post-Windows-10_orange.jpg
   - /img/eSolia-Chicklet-Color-1024px.png
 ---
+
+{{< blogbox >}}
 
 ## Start of Distribution
 

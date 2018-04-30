@@ -1,6 +1,6 @@
 ---
-authorkey: hideakihoriuchi
-author: Hideaki Horiuchi
+authorkey: esolia
+author: イソリア
 date: 2015-07-21T14:00:15+09:00
 publishdate: 2015-07-21T14:00:15+09:00
 description: イソリアから、eSolia.proのブログポスト、Windows 10 リリース
@@ -22,11 +22,13 @@ titlewbr: Windows 10<wbr><nobr>にむけて</nobr>
 topics:
   - ソフトウェア
 authors:
-  - Hideaki Horiuchi
+  - イソリア
 images:
   - /img/eSolia-Post-Windows-10_orange.jpg
   - /img/eSolia-Chicklet-Color-1024px.png
 ---
+
+{{< blogbox >}}
 
 ## 配布の開始
 

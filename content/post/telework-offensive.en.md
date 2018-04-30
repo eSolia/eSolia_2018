@@ -28,6 +28,8 @@ images:
   - /img/eSolia-Chicklet-Color-1024px.png
 ---
 
+{{< blogbox >}}
+
 ## What is "Telework"?
 
 **Telework** is what we call telecommuting in Japan. The Ministry of Internal Affairs and Communications in Japan defines it as follows:

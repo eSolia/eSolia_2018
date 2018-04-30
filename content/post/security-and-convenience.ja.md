@@ -1,6 +1,6 @@
 ---
-authorkey: hideakihoriuchi
-author: Hideaki Horiuchi
+authorkey: esolia
+author: イソリア
 date: 2015-07-07T14:46:15+09:00
 publishdate: 2015-07-06T08:46:15+09:00
 description: イソリアから、eSolia.proのブログポスト、セキュリティと利便性
@@ -17,11 +17,13 @@ titlewbr: セキュリティと<wbr><nobr>利便性</nobr>
 topics:
   - セキュリティ
 authors:
-  - Hideaki Horiuchi
+  - イソリア
 images:
   - /img/eSolia-Post-Security-vs-Convenience.png
   - /img/eSolia-Chicklet-Color-1024px.png
 ---
+
+{{< blogbox >}}
 
 ## はじめに
 近年さまざまなクラウド化が進み、いつでもどこでも仕事ができる環境が増えている。いつの時代も利便性は常にセキュリティと相反し、一方を高めれば一方に影響が出るものだ。今後クラウドサービスを検討するにあたりＩＴはどのような判断をしていく必要があるだろうか。

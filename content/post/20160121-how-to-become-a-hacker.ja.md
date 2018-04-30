@@ -1,6 +1,6 @@
 ---
-authorkey: hideakihoriuchi
-author: Hideaki Horiuchi
+authorkey: esolia
+author: イソリア
 date: 2016-01-21T14:12:15+09:00
 publishdate: 2016-01-21T14:12:15+09:00
 draft: true
@@ -18,10 +18,12 @@ tags:
 topics:
   - トレーニング
 authors:
-  - Hideaki Horiuchi
+  - イソリア
 images:
   - /img/eSolia-Chicklet-Color-1024px.png
 ---
+
+{{< blogbox >}}
 
 ## ハッカーになる方法
 

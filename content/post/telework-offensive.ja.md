@@ -27,6 +27,8 @@ images:
   - /img/eSolia-Chicklet-Color-1024px.png
 ---
 
+{{< blogbox >}}
+
 ## テレワークとは
 
 **テレワークとは**　「tele = 離れた所」と「work = 働く」をあわせた造語、日本語です。[一般社団法人テレワーク協会](http://www.japan-telework.or.jp/intro/tw_about.html "一般社団法人テレワーク協会")では下記のように定義しています。

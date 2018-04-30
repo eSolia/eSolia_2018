@@ -28,6 +28,8 @@ images:
   - /img/eSolia-Chicklet-Color-1024px.png
 ---
 
+{{< blogbox >}}
+
 ## A Business Trip Trap
 
 <figure class="image-container">

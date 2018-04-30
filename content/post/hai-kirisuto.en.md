@@ -21,6 +21,8 @@ images:
 - /img/eSolia-Chicklet-Color-1024px.png
 ---
 
+{{< blogbox >}}
+
 ## 『はいキリスト』
 
 This Pose Alist

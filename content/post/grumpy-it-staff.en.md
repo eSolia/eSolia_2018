@@ -25,6 +25,8 @@ images:
   - /img/eSolia-Chicklet-Color-1024px.png
 ---
 
+{{< blogbox >}}
+
 ## That famous line from "IT Crowd"
 
 <figure class="image-container">

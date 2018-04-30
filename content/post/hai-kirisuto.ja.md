@@ -21,6 +21,8 @@ images:
 - /img/eSolia-Chicklet-Color-1024px.png
 ---
 
+{{< blogbox >}}
+
 ## 『はいキリスト』
 
 まるで信仰心の強い者がその主に従う様な言葉が、私のPCモニターに映った。

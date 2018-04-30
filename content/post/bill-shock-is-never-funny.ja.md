@@ -27,6 +27,8 @@ images:
   - /img/eSolia-Chicklet-Color-1024px.png
 ---
 
+{{< blogbox >}}
+
 ## 海外出張の落とし穴
 
 <figure class="image-container">

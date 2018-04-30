@@ -25,6 +25,8 @@ images:
   - /img/eSolia-Chicklet-Color-1024px.png
 ---
 
+{{< blogbox >}}
+
 ## IT Crowdの名ゼリフ
 
 <figure class="image-container">

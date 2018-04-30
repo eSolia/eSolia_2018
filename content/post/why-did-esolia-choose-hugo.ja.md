@@ -29,6 +29,8 @@ images:
   - /img/eSolia-Chicklet-Color-1024px.png  
 ---
 
+{{< blogbox >}}
+
 ## 背景
 
 イソリアはかつて様々なシステムを利用して、当社ウェブサイトを作製し出版してきました。例えば、Microsoft FrontPage、IBM ホームページビルダー、Macromedia DreamWeaverやRealmac Software RapidWeaver等、PCのローカルハードディスクにインストールする「ビルダー」タイプのアプリケーション。また、WordPress、Drupal、Typo3などサーバ側で動作するCMSタイプのシステムも多く利用してきました。
