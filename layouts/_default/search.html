@@ -48,28 +48,18 @@
       </form>
     </section>
     <section v-if="results.length">
-      <p><i>Showing results for “{ resultsForSearch }”.</i></p>
+      <p class="has-margin-b-m"><i>{{ i18n "searchresults" }} “{ resultsForSearch }”.</i></p>
       <div id="search-results">
         <article v-for="result in results" itemscope itemtype="http://schema.org/CreativeWork">
           <header itemprop="name">
-            <h2 itemprop="name"><a :href="result.item.url">{ result.item.title }</a></h2>
+            <h3 itemprop="name"><a :href="result.item.url">{ result.item.title }</a></h3>
           </header>
           <div v-html=result.item.summary itemprop="description"></div>
-          <nav class="readmore"><a itemprop="url" :href="result.item.url">Read More&nbsp;&raquo;</a></nav>
+          <nav class="readmore has-margin-b-l"><a itemprop="url" :href="result.item.url">{{ i18n "readmore" }}&nbsp;&raquo;</a></nav>
         </article>
       </div>
     </section>
   </div>
-
-
-
-
-
-
-
-
-
-
 
         {{ if isset .Params "formcheckboxes" }}
           {{- partial "form-moreinfo.html" . -}}
@@ -117,8 +107,8 @@
         keys: [
           { name: "title", weight: 0.8 },
           { name: "contents", weight: 0.5 },
-          { name: "tags", weight: 0.3 },
-          { name: "categories", weight: 0.3 }
+          { name: "tags", weight: 0.3 }
+//,           { name: "categories", weight: 0.3 }
         ]
       }
 

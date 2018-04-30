@@ -351,3 +351,9 @@ other = "Request More Information"
 
 [infoformblurb]
 other = "Interested in getting our help with this service or solution? Please [contact us today](/info-request/)."
+
+[searchresults]
+other = "Showing results for:"
+
+[readmore]
+other = "Read More"

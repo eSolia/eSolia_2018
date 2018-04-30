@@ -351,3 +351,9 @@ other = "お問い合わせ"
 
 [infoformblurb]
 other = "私たちのサービスやソリューションにご興味を頂けましたか？ <br>是非[このフォーム](/info-request/)からご連絡ください！"
+
+[searchresults]
+other = "検索した文字列:"
+
+[readmore]
+other = "続いて読む"
