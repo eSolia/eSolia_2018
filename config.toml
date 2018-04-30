@@ -92,6 +92,15 @@ languageCode = "en-US"
     url = "/post"
 
 [[languages.en.menu.main]]
+    name = "News Archive"
+    weight = 5
+    parent = "news_index_en"
+    identifier = "newsarchive_en"
+    url = "/post"
+    pre = "fa-newspaper"
+    post = "List of News Posts"
+
+[[languages.en.menu.main]]
     name = "All Topics"
     weight = 10
     parent = "news_index_en"
@@ -304,6 +313,15 @@ help  = "ヘルプ"
     weight = 40
     identifier = "aboutothernews_ja"
     url = "/post"
+
+[[languages.ja.menu.main]]
+    name = "ニュース アーカイブ"
+    weight = 5
+    parent = "news_index_ja"
+    identifier = "newsarchive_ja"
+    url = "/post"
+    pre = "fa-newspaper"
+    post = "ニュース記事一覧"
 
 [[languages.ja.menu.main]]
     name = "全トピック一覧"
