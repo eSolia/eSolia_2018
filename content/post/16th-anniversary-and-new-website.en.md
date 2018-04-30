@@ -19,8 +19,6 @@ authors:
   - eSolia
 images:
   - /img/eSolia-Chicklet-Color-1024px.png
-aliases:
-  - /16th-anniversary-and-new-website
 ---
 
 {{< blogbox >}}
