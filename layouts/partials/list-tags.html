@@ -1,0 +1,9 @@
+{{ "<!-- ENTERING partial list-tags.html -->" | safeHTML }}
+<hr class="">
+<p class="">
+    <a class="link" href="/tags">{{ i18n "tagsListBrowse" }}</a><span class="has-text-esolia-blue-0">&#10086;</span>
+    {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+    <a class="link" href="/tags/{{ $name | urlize }}">{{ $name }}</a><span class="dark-pink pl2"i>&#10086;</span>
+    {{ end }}
+</p>
+{{ "<!-- LEAVING partial list-tags.html -->" | safeHTML }}

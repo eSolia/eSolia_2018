@@ -366,3 +366,21 @@ other = "著者"
 
 [blogboxdate]
 other = "日付"
+
+[termsHeading]
+other = "ページの分類"
+
+[termsThisSite]
+other = "当サイトの"
+
+[tagsWithTags]
+other = "タグ付きコンテンツ"
+
+[tagsListBrowse]
+other = "全タグ："
+
+[topicsWithTopics]
+other = "トピック付きコンテンツ"
+
+[topicsListBrowse]
+other = "全トピック: "

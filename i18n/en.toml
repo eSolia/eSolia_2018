@@ -366,3 +366,21 @@ other = "Author(s)"
 
 [blogboxdate]
 other = "Date"
+
+[termsHeading]
+other = "Page Categorization"
+
+[termsThisSite]
+other = "Site "
+
+[tagsWithTags]
+other = "Content tagged with: "
+
+[tagsListBrowse]
+other = "See All Tags: "
+
+[topicsWithTopics]
+other = "Content in topic: "
+
+[topicsListBrowse]
+other = "See All Topics: "
