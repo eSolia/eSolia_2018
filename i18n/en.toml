@@ -355,5 +355,8 @@ other = "Interested in getting our help with this service or solution? Please [c
 [searchresults]
 other = "Showing results for:"
 
+[entersearchterm]
+other = "Enter Search Term"
+
 [readmore]
 other = "Read More"

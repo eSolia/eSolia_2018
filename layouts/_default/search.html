@@ -41,11 +41,16 @@
       <noscript>
         Aw-shucks! Search requires use of JavaScript to function properly.
       </noscript>
+      <div class="field">
       <form v-on:submit.prevent class="form" action="{{ "search" | absURL }}">
-        <fieldset class="form-group">
-          <input @keyup.enter="submit" v-model="query" autofocus id="query" name="s" type="search" class="form-control" maxlength="32" autocomplete="off" tabindex="0">
-        </fieldset>
+        <p class="control has-icons-left">
+          <input @keyup.enter="submit" v-model="query" autofocus id="query" name="s" type="search" class="input" placeholder="{{ i18n "entersearchterm"}}" maxlength="32" autocomplete="off" tabindex="0">
+          <span class="icon is-small is-left">
+            <i class="fas fa-search"></i>
+          </span>
+        </p>
       </form>
+      </div>
     </section>
     <section v-if="results.length">
       <p class="has-margin-b-m"><i>{{ i18n "searchresults" }} “{ resultsForSearch }”.</i></p>
