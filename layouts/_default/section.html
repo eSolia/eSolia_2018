@@ -38,8 +38,8 @@
         {{ .Content }}
 
         {{ range .Data.Pages.GroupByDate "2006" }}
-            <h2 class="ttu f3 blue">{{ .Key }}</h2>
-                <ul class="list pnl">
+            <h2 class="">{{ .Key }}</h2>
+                <ul class="list">
                     {{ range .Pages }}
                         {{ .Render "li"}}
                     {{ end }}
