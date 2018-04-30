@@ -3,6 +3,7 @@ date: 2015-05-09T00:05:19.000Z
 publishdate: 2012-01-10T00:05:19.000Z
 description: お問い合わせ、ありがとうございました - 株式会社イソリア
 draft: false
+noindex: true
 slug: form-thanks
 subtitle: フォームの送信を完了しました
 weight: 9999

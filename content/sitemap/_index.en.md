@@ -5,6 +5,7 @@ publishdate: 2012-10-10T00:05:19.000Z
 description: eSolia Sitemap - browse for more information.
 draft: false
 slug: sitemap
+noindex: true
 title: Sitemap
 subtitle: Browse Our Content Links by Tag and Topic
 weight: 10

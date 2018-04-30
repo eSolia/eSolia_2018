@@ -5,6 +5,7 @@ publishdate: 2012-10-10T00:05:19.000Z
 description: イソリアのサイトマップ - 全コンテンツのリンクを一つのページに
 draft: false
 slug: sitemap
+noindex: true
 title: サイトマップ
 subtitle: 本サイトのコンテンツをタグやトピックで閲覧出来ます
 weight: 10

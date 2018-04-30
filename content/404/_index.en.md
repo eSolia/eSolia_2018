@@ -4,6 +4,7 @@ date: 2015-10-09T00:05:19.000Z
 publishdate: 2012-10-10T00:05:19.000Z
 description: eSolia 404 Page Not Found - browse for more information.
 draft: false
+noindex: true
 slug: 404
 title: 404 Error
 subtitle: Page Not Found
