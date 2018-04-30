@@ -24,6 +24,8 @@ tags:
   - Web server
   - SEO
   - Renewal
+  - Hugo
+  - Static Site Generator
 series:
   - top1
   - ninki1
@@ -31,11 +33,35 @@ topics:
   - Services
   - Outsourcing
 images:
-  - /img/eSolia-Post-Slider-Security-01.jpg
-  - /img/eSolia-Post-Slider-Security-02.jpg
-  - /img/eSolia-Post-Slider-Security-03.jpg
-  - /img/eSolia-Post-Slider-Security-04.jpg  
+  - /img/eSolia-Post-Slider-Web-Design-01.png
+  - /img/eSolia-Post-Slider-Web-Design-02.png
+  - /img/eSolia-Post-Slider-Web-Design-03.png
+  - /img/eSolia-Post-Slider-Web-Design-04.png
+  - /img/eSolia-Post-Slider-Web-Design-05.png
+  - /img/eSolia-Post-Slider-Web-Design-06.png
+  - /img/eSolia-Post-Slider-Web-Design-07.png
+  - /img/eSolia-Post-Slider-Web-Design-08.png
+  - /img/eSolia-Post-Slider-Web-Design-09.png  
   - /img/eSolia-Chicklet-Color-1024px.png
+resources:
+  - src: eSolia-Post-Slider-Web-Design-01.png
+    title: Abiomed Japan
+  - src: eSolia-Post-Slider-Web-Design-02.png
+    title: VAD Council
+  - src: eSolia-Post-Slider-Web-Design-03.png
+    title: Lazard Japan
+  - src: eSolia-Post-Slider-Web-Design-04.png
+    title: LaSalle
+  - src: eSolia-Post-Slider-Web-Design-05.png
+    title: eSolia
+  - src: eSolia-Post-Slider-Web-Design-06.png
+    title: Link Healthcare Japan
+  - src: eSolia-Post-Slider-Web-Design-07.png
+    title: PVAD Council Japanese
+  - src: eSolia-Post-Slider-Web-Design-08.png
+    title: PVAD Council English
+  - src: eSolia-Post-Slider-Web-Design-09.png
+    title: Abiomed Professional Education
 formcheckboxes:
   - Web standards
   - From-scratch site
@@ -85,7 +111,7 @@ eSolia's web design team can create a Japan site from scratch, or [localize](/lo
 
 #### On Static versus CMS
 
-eSolia can deploy a static site, like the one you are looking at now, or a CMS-based site such as Wordpress or Typo3. Some of the considerations regarding static websites vs CMS-hosted ones are shown in the following table:
+eSolia can deploy websites using a Static Site Generator (our preference is [Hugo](https://gohugo.io/), the world's fastest SSG), like the one you are looking at now, or using a CMS such as Wordpress, Drupal or Typo3. Some of the considerations regarding static websites vs CMS-based ones are shown in the following table:
 
 _Aspect_  |Static    | CMS
 ----------|----------|------
@@ -99,6 +125,10 @@ _Visual Style_   |Any    |Themes
 _Upgrades_    |As You Like   |Continual & Fragile
 
 We discuss this topic at the beginning of any from-scratch project.
+
+#### Need Data for your Static Site? 
+
+If data-driven content is needed for your static site, we use our secure cloud database [PROdb](/prodb) for that purpose, displaying for example lists of people, cases, organizations, contact info, orders and so on. Your security is never weakened by doing this, and it is very easy for you to manage yourself in PROdb. 
 
 ### What Will You Get?
 

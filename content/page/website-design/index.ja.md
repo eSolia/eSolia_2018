@@ -24,6 +24,9 @@ tags:
   - WEBサーバ
   - 戦略的SEO
   - リニューアル
+  - Hugo
+  - ヒューゴ
+  - 静的サイトジェネレーター
 series:
   - top1
   - ninki1
@@ -31,11 +34,35 @@ topics:
   - サービス
   - アウトソーシング
 images:
-  - /img/eSolia-Post-Slider-Security-01.jpg
-  - /img/eSolia-Post-Slider-Security-02.jpg
-  - /img/eSolia-Post-Slider-Security-03.jpg
-  - /img/eSolia-Post-Slider-Security-04.jpg  
+  - /img/eSolia-Post-Slider-Web-Design-01.png
+  - /img/eSolia-Post-Slider-Web-Design-02.png
+  - /img/eSolia-Post-Slider-Web-Design-03.png
+  - /img/eSolia-Post-Slider-Web-Design-04.png
+  - /img/eSolia-Post-Slider-Web-Design-05.png
+  - /img/eSolia-Post-Slider-Web-Design-06.png
+  - /img/eSolia-Post-Slider-Web-Design-07.png
+  - /img/eSolia-Post-Slider-Web-Design-08.png
+  - /img/eSolia-Post-Slider-Web-Design-09.png  
   - /img/eSolia-Chicklet-Color-1024px.png
+resources:
+  - src: eSolia-Post-Slider-Web-Design-01.png
+    title: アビオメッド ジャパン
+  - src: eSolia-Post-Slider-Web-Design-02.png
+    title: 補助人工心臓治療関連学会協議会 (VAD協議会)
+  - src: eSolia-Post-Slider-Web-Design-03.png
+    title: ラザード ジャパン
+  - src: eSolia-Post-Slider-Web-Design-04.png
+    title: ラサール
+  - src: eSolia-Post-Slider-Web-Design-05.png
+    title: イソリア
+  - src: eSolia-Post-Slider-Web-Design-06.png
+    title: リンク ヘルスケアー ジャパン
+  - src: eSolia-Post-Slider-Web-Design-07.png
+    title: 補助人工心臓治療関連学会協議会 インペラ部会 日本語
+  - src: eSolia-Post-Slider-Web-Design-08.png
+    title: 補助人工心臓治療関連学会協議会 インペラ部会 英語
+  - src: eSolia-Post-Slider-Web-Design-09.png
+    title: アビオメッド プロフェッショナル エジュケーション
 formcheckboxes:
   - ウェブ標準化
   - ゼロからのサイト構築
@@ -86,9 +113,9 @@ menu:
 
 #### 静的サイト vs 動的CMS
 
-今あなたが見ている静的なサイトのみならず、Wordpress・TYPO3のような動的CMSベースのサイトの展開も可能です。動的CMSでホストされているものと静的Webサイトに関して考慮されるべき事項を次の表に示します。
+イソリアは基本的に二つのウェブサイト展開方法を利用してます。本サイトもそうで、世界一高速な静的サイトジェネレータの[Hugo](https://gohugo.io/)の利用をおすすめしてますが、CMSのWordpress、DrupalやTypo3も利用可能です。動的CMSと静的Webサイトに関して考慮されるべき事項を次の表に示します。
 
-_項目_  |静的    | 動的CMS
+_項目_  |静的サイト    | 動的CMS
 ----------|----------|------
 _パフォーマンス_    |最高       |中〜高
 _セキュリティ_       |最高    |中〜低
@@ -100,6 +127,10 @@ _視覚スタイル_   | どの様なものも   |テーマによる
 _アップグレード_    |任意   |継続的かつ脆弱
 
 ゼロからプロジェクトを開始する場合でもご相談ください。
+
+#### 静的サイトにデータが必要？ 
+
+静的ウェブサイトのページに、データの一覧（人、件、組織、住所、注文など）が必要な場合、弊社のクラウド型データベース[PROdb](/prodb)がおすすめです。セキュリティが弱くなることなく、且つ、PROdbにて簡単に自分で管理もできます。
 
 ### 作るなら他とは差を
 
