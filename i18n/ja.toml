@@ -232,6 +232,12 @@ other = "弊社連絡先"
 [topsectionwhy]
 other = "なぜイソリアか？"
 
+[topsectionwhysub]
+other = "asdf"
+
+[topsectionwhytext]
+other = "asdf"
+
 [topsectionwwd]
 other = "主なソリューション"
 

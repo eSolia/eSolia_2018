@@ -232,6 +232,12 @@ other = "Contact Us"
 [topsectionwhy]
 other = "Why eSolia?"
 
+[topsectionwhysub]
+other = "asdf"
+
+[topsectionwhytext]
+other = "asdf"
+
 [topsectionwwd]
 other = "What We Do"
 
