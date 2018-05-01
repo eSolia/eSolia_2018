@@ -61,6 +61,48 @@ menu:
 
 ## ５つのコンサルティングステップ
 
+<ul class="steps">
+  <li class="step-item is-completed is-primary list-has-no-style">
+    <div class="step-marker">1</div>
+    <div class="step-details is-primary is-completed">
+      <p class="step-title is-size-6">契約締結</p>
+      <p class="is-italic has-text-weight-light is-size-7">何を、どうやって？</p>
+    </div>
+  </li>
+  <li class="step-item is-completed is-info list-has-no-style">
+    <div class="step-marker">2</div>
+    <div class="step-details">
+      <p class="step-title is-size-6">ディスカバリー</p>
+      <p class="is-italic has-text-weight-light is-size-7">問題定義と分析</p>
+    </div>
+  </li>
+  <li class="step-item is-completed is-warning list-has-no-style">
+    <div class="step-marker">3</div>
+    <div class="step-details">
+      <p class="step-title is-size-6">フィードバック</p>
+      <p class="is-italic has-text-weight-light is-size-7">報告とこれからの計画</p>
+    </div>
+  </li>
+  <li class="step-item is-completed is-danger list-has-no-style">
+    <div class="step-marker">
+      <span class="icon">4</span>
+    </div>
+    <div class="step-details">
+      <p class="step-title is-size-6">展開・改善</p>
+      <p class="is-italic has-text-weight-light is-size-7">計画実施</p>
+    </div>
+  </li>
+    <li class="step-item is-completed is-success list-has-no-style">
+    <div class="step-marker">
+      <span class="icon">5</span>
+    </div>
+    <div class="step-details">
+      <p class="step-title is-size-6">再生</p>
+      <p class="is-italic has-text-weight-light is-size-7">ディスカッションと次のステップを決める</p>
+    </div>
+  </li>
+</ul>
+
 イソリア コンサルティングは概ね次の5つの段階で形成されます。プロジェクトを成功へと導くには各々の段階を踏む必要があります。
 
 ### 契約締結:
