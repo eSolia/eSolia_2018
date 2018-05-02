@@ -18,7 +18,7 @@ tags:
   - マネージメント チーム
   - BOD
 title: マネージメントチーム
-titlewbr: マネージメント<wbr><nobr>チーム</nobr>
+titlewbr: マネージメントチーム
 topics:
   - eSolia
   - イソリア
@@ -43,7 +43,7 @@ menu:
     Url: /management-team
 ---
 
-### 代表取締役社長 <wbr><nobr>ジェームズ R. コグレー</nobr>
+### 代表取締役社長 ジェームズ R. コグレー
 
 <figure class="">
 <img class="is-pulled-right has-padding-m" width="200" data-caption="代表取締役社長 リック コグレー、CEO" alt="代表取締役社長 リック コグレー、CEO (写真：福岡 琢巳)" src="/img/eSolia-CEO-Rick-Cogley.jpg" >
@@ -70,7 +70,7 @@ Allegheny Collegeのアドバイザーが東京大学の薬学教授をコグレ
 
 コグレーはeSoliaを、やりがいのあるプロジェクトにおいて、ビジネスに焦点をあてたバイリンガルなコンサルティングをお客様に提供することに着目した、国際的なコンサルタント会社に発展させる事を目標としております。
 
-### 代表取締役副社長 <wbr><nobr>福岡 琢巳</nobr>
+### 代表取締役副社長 福岡 琢巳
 
 <figure class="">
 <img class="is-pulled-right has-padding-m" width="200" data-caption="取締役副社長 福岡 琢巳、COO (写真：リック コグレー)" alt="取締役副社長 福岡 琢巳、COO の写真 (写真：リック コグレー)" src="/img/eSolia-COO-Takumi-Fukuoka.jpg" >

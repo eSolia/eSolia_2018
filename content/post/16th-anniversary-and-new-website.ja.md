@@ -15,7 +15,7 @@ tags:
   - サイトリニューアル
   - 創立記念日
 title: 創業１６周年、ウェブサイトリニューアル
-titlewbr: 創業１６周年、<wbr><nobr>ウェブサイトリニューアル</nobr>
+titlewbr: 創業１６周年、ウェブサイトリニューアル
 topics:
   - アナウンス
 authors:

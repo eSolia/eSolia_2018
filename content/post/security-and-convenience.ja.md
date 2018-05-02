@@ -13,7 +13,7 @@ alternatelocales:
 tags:
   - 利便性
 title: セキュリティと利便性
-titlewbr: セキュリティと<wbr><nobr>利便性</nobr>
+titlewbr: セキュリティと利便性
 topics:
   - セキュリティ
 authors:

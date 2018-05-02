@@ -6,7 +6,7 @@ publishdate: 2015-08-07T12:58:15+09:00
 description: 福利厚生だけじゃない、「攻めのテレワーク」実現に向けて
 draft: false
 slug: telework-offensive
-subtitle: 福利厚生だけじゃない、<nobr><wbr>《攻めのテレワーク》 実現に向けて</nobr>
+subtitle: 福利厚生だけじゃない、<nobr><wbr>《攻めのテレワーク》 実現に向けて
 postsummary: テレワークとは、情報通信技術を活用した、場所や時間にとらわれない柔軟な働き方のことです。政府が推進しているテレワーク、なかなか普及しないのは何故でしょうか？
 alternatelocales:
   - en-US

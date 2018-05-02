@@ -4,7 +4,7 @@ date: 2015-06-29T08:45:15+09:00
 publishdate: 2015-06-29T08:45:15+09:00
 draft: false
 title: 改善を意識したトレーニング
-titlewbr: 改善を意識した<wbr><nobr>トレーニング</nobr>
+titlewbr: 改善を意識したトレーニング
 slug: training
 subtitle: ITオリエンテーションから専門的なトレーニングまで幅広く対応
 description: イソリアから - 迷える新入社員に実用的なＩＴオリエンテーションを作成。初歩的ものから専門的なトレーニングまで。

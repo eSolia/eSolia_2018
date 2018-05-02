@@ -14,7 +14,7 @@ tags:
   - レター
   - ご挨拶
 title: ご挨拶
-subtitle: 当ウェブサイトへ<wbr><nobr>お越しいただいた皆様へ</nobr>
+subtitle: 当ウェブサイトへお越しいただいた皆様へ
 topics:
   - イソリア
   - eSolia
