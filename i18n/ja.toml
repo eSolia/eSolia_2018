@@ -233,10 +233,24 @@ other = "弊社連絡先"
 other = "なぜイソリアか？"
 
 [topsectionwhysub]
-other = "asdf"
+other = "弊社の強み"
 
 [topsectionwhytext]
-other = "asdf"
+other = "日本語 About eSolia's value. Work as a team, striving to stand on the side of the client... understand process, hire bilinguals, do good docs, have support systems etc"
+
+[topsectionpledge]
+other = "弊社の誓い"
+
+[topsectionpledgesub]
+other = "は弊社の約束"
+
+[topsectionpledgetext]
+other = """
+* 業界ベストプラクティスに基づいて、素早く行動し、必要とされたものだけを請求します。
+* お受けした作業やトラブルは、最後まで徹底して対応し、率直に報告を行います。
+* 私達は企業の健全性と安定性をもって行動しており、お客様と長期的な関係を促進する様、最善の努力を致します。
+<br><br>
+[続きを読む](/esolia-code-of-conduct)"""
 
 [topsectionwwd]
 other = "主なソリューション"
@@ -408,3 +422,6 @@ other = "トピック付きコンテンツ"
 
 [topicsListBrowse]
 other = "全トピック: "
+
+
+

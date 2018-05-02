@@ -233,10 +233,24 @@ other = "Contact Us"
 other = "Why eSolia?"
 
 [topsectionwhysub]
-other = "asdf"
+other = "Our Value"
 
 [topsectionwhytext]
-other = "asdf"
+other = "About eSolia's value. Work as a team, striving to stand on the side of the client... understand process, hire bilinguals, do good docs, have support systems etc"
+
+[topsectionpledge]
+other = "Our Pledge"
+
+[topsectionpledgesub]
+other = "is our promise"
+
+[topsectionpledgetext]
+other = """
+* We work quickly following good practices, booking only what was required.
+* We take ownership of tasks through to the end, and report the results thoroughly.
+* We trade your commitment to us, for more favorable professional rates, acting with company health and stability in mind.
+<br><br>
+[Read More](/esolia-code-of-conduct)"""
 
 [topsectionwwd]
 other = "What We Do"

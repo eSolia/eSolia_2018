@@ -120,11 +120,17 @@
           <div class="tile">
             <div class="tile is-8 is-parent">
               <article class="tile is-child box">
-                <p class="title">Nine</p>
-                <p class="subtitle">Subtitle</p>
-                <div class="content">
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.</p>
-                </div>
+                <p class="title">Projects</p>
+                <p class="subtitle">Our latest</p>
+                  <span id="hideheader" class="has-padding-t-xs">
+              　　{{- if eq .Site.Language.Lang "en" -}}
+                    <script src="https://pro.dbflex.net/secure/embed.js"
+                    data-url="/ev-3440630/db/15331/view.aspx"></script>
+              　　{{- else -}}
+                  　<script src="https://pro.dbflex.net/secure/embed.js"
+                  data-url="/ev-3440631/db/15331/view.aspx"></script>
+              　　{{- end -}}
+              　</span>
               </article>
             </div>
             <div class="tile is-parent">
@@ -141,10 +147,10 @@
         <div class="tile is-parent">
           <article class="tile is-child box">
             <div class="content">
-              <p class="title">{{ i18n "compName" }}</p>
-              <p class="subtitle">{{ i18n "strongfoundations" }}</p>
+              <p class="title">{{ i18n "topsectionpledge" }}</p>
+              <p class="subtitle">{{ i18n "topsectionpledgesub" }}</p>
               <div class="content">
-                <p>{{ i18n "toplongblurb" | safeHTML }}</p>
+                <p>{{ i18n "topsectionpledgetext" | safeHTML | markdownify }}</p>
               </div>
             </div>
           </article>
