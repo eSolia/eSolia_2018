@@ -450,3 +450,11 @@ color: white;
     width:100%;
     position:absolute;
 }
+
+// Desktop-only padding
+
+@media only screen and (min-width: 1025px) {
+        .esolia-main-inner-desktop {
+            padding-left: 30px;
+        }
+    }
