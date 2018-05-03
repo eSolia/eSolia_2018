@@ -53,13 +53,18 @@ menu:
 
 ### ビジョン
 
-<figure class="">
-<img class="is-pulled-right has-padding-m" width="200" data-caption="イソリアロゴ" alt="イソリアロゴ画像" src="/img/eSolia-Chicklet-Color-1024px.png" >
+<figure class="image is-128x128 is-pulled-left is-hidden-mobile">
+<img class="" data-caption="イソリアロゴ" alt="イソリアロゴ画像" src="/img/eSolia-Chicklet-Color.svg" >
 </figure>
 
 イソリアが掲げるITサービスのビジョンは、ITアウトソーシング・ビジネスのマーケットリーダーとして、ビジネス・文化・即時性に対する強い認識を持ち、「分かりやすく」且つ「他の手本となる」ITサービスをお客様に提供することです。
 
+<figure class="image is-256x256 is-hidden-tablet">
+<img class="" data-caption="イソリアロゴ" alt="イソリアロゴ画像" src="/img/eSolia-Chicklet-Color.svg" >
+</figure>
+
 イソリアはプロフェッショナルとして、「倫理」「プロフェッショナリズム」「完全性」において高水準を保ちます。また特定の機器製造メーカーと提携関係を持たないことによって、考えられる限りの幅広い選択肢の中からお客様にとって最適なサービスを提案いたします。
+
 
 ### 会社概要
 
@@ -108,4 +113,6 @@ menu:
 
 ### アクセス
 
+<p><div class="map-responsive">
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3241.377084474057!2d139.75146199999998!3d35.667716!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188b933eb5098d%3A0xb799ee788fa28eb7!2seSolia+Inc.!5e0!3m2!1sen!2sjp!4v1434536695719" width="600" height="450" frameborder="0" style="border:0"></iframe>
+</div></p>

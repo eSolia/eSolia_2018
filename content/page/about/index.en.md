@@ -52,13 +52,21 @@ menu:
 ---
 
 ## Company Information
+
+
 ### About eSolia: Our Vision
 
-<figure class="">
-<img class="is-pulled-right has-padding-m" width="200" data-caption="eSolia Logo" alt="Graphic of the eSolia Chicklet Logo" src="/img/eSolia-Chicklet-Color-1024px.png" >
+<figure class="image is-128x128 is-pulled-left is-hidden-mobile">
+<img class="" data-caption="eSolia Logo" alt="Graphic of the eSolia Chicklet Logo" src="/img/eSolia-Chicklet-Color.svg" >
 </figure>
 
-As a leader in our market for outsourced IT services, eSolia's vision is to consistently provide our clients with comprehensive, exemplary IT services unbiased by maker affiliation, designed and delivered with a keen awareness of business and culture. Acting with the highest standards of ethics, professionalism and integrity, eSolia experts will help you grow the foundation for your business success.
+As a leader in our market for outsourced IT services, eSolia's vision is to consistently provide our clients with comprehensive, exemplary IT services unbiased by maker affiliation, designed and delivered with a keen awareness of business and culture. 
+
+<figure class="image is-256x256 is-hidden-tablet">
+<img class="" data-caption="eSolia Logo" alt="Graphic of the eSolia Chicklet Logo" src="/img/eSolia-Chicklet-Color.svg" >
+</figure>
+
+Acting with the highest standards of ethics, professionalism and integrity, eSolia experts will help you grow the foundation for your business success.
 
 ### General
 
@@ -91,7 +99,7 @@ As a leader in our market for outsourced IT services, eSolia's vision is to cons
 * * *
 
 ### Lines of Business
-
+  
 * Bilingual IT Consulting and Solutions
 * Project Management
 * System Engineering - Design, Build, Validate, Test, Upgrade
@@ -99,7 +107,9 @@ As a leader in our market for outsourced IT services, eSolia's vision is to cons
 * Outsourced User Support and Helpdesk
 * Training
 * Online General Business Database Service
-
+  
 ### Access Map
-
+  
+<p><div class="map-responsive">
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3241.377084474057!2d139.75146199999998!3d35.667716!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188b933eb5098d%3A0xb799ee788fa28eb7!2seSolia+Inc.!5e0!3m2!1sen!2sjp!4v1434536695719" width="600" height="450" frameborder="0" style="border:0"></iframe>
+</div></p>
