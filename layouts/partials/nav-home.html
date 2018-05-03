@@ -13,6 +13,19 @@
 
   <div class="navbar-menu" id="navMenu">
     <div class="navbar-start">
+
+      {{ if .IsTranslated }}
+      {{ range .Translations }}
+      <a class="button is-small is-esolia-secondary-2-0 is-rounded has-margin-l-s is-hidden-tablet" href="{{ .Permalink }}">{{ .Site.Language.LanguageName }}</a>
+      {{ end }}
+      {{ else }}
+      {{ if eq .Site.Language.Lang "en" }}
+      <a class="button is-small is-esolia-secondary-2-0 is-rounded has-margin-l-s is-hidden-tablet" href="/">日本語</a>
+      {{ else }}
+      <a class="button is-small is-esolia-secondary-2-0 is-rounded has-margin-l-s is-hidden-tablet" href="/">English</a>
+      {{ end }}
+      {{ end }}
+
       {{ if not .IsHome }}
       <a class="navbar-item" href="{{ .Site.BaseURL }}">
         <span class="icon"><i class="fas fa-home has-text-esolia-yellow-0"></i></span>
