@@ -146,7 +146,7 @@ other = "ライセンス"
 other = "おすすめ コンテンツ"
 
 [genlatestposts]
-other = "最新インフォーメーション"
+other = "最新記事"
 
 [genmoreinfo]
 other = "つづきを読む"
@@ -279,8 +279,26 @@ other = "紹介ビデオ"
 [topsectionvideosub]
 other = "再生し、キーのFで拡大、Escで元に"
 
+[topsectionprojects]
+other = "プロジェクト"
+
+[topsectionprojectssub]
+other = "最近完了した一覧"
+
+[topsectionprojectstext]
+other = "全プロジェクト含まれてる一覧も[ご覧ください](/success-stories)。"
+
+[topsectioninfo]
+other = "情報"
+
+[topsectioninfosub]
+other = "イソリアより、最新のショートポスト"
+
+[topsectioninfotext]
+other = "全ポスト含まれてる一覧も[ご覧ください](/news)。"
+
 [topslogan]
-other = "バイリンガル IT <nobr><wbr>アウトソーシング <wbr>サービス</nobr>"
+other = "バイリンガル IT アウトソーシング サービス"
 
 [topsubslogan]
 other = "貴社の頼れるIT部門となります"

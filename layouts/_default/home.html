@@ -120,25 +120,26 @@
           <div class="tile">
             <div class="tile is-8 is-parent">
               <article class="tile is-child box">
-                <p class="title">Projects</p>
-                <p class="subtitle">Our latest</p>
+                <p class="title">{{ i18n "topsectioninfo" }}</p>
+                <p class="subtitle">{{ i18n "topsectioninfosub" }}</p>
+                <span>{{ i18n "topsectioninfotext" | markdownify }}</span>
                   <span id="hideheader" class="has-padding-t-xs">
-              　　{{- if eq .Site.Language.Lang "en" -}}
-                    <script src="https://pro.dbflex.net/secure/embed.js"
-                    data-url="/ev-3440630/db/15331/view.aspx"></script>
-              　　{{- else -}}
-                  　<script src="https://pro.dbflex.net/secure/embed.js"
-                  data-url="/ev-3440631/db/15331/view.aspx"></script>
-              　　{{- end -}}
-              　</span>
+                　　{{- if eq .Site.Language.Lang "en" -}}
+                      <script src="https://pro.dbflex.net/secure/embed.js"
+                      data-url="/ev-3440630/db/15331/view.aspx"></script>
+                　　{{- else -}}
+                    　<script src="https://pro.dbflex.net/secure/embed.js"
+                    data-url="/ev-3440631/db/15331/view.aspx"></script>
+                　　{{- end -}}
+                　</span>
               </article>
             </div>
             <div class="tile is-parent">
-              <article class="tile is-child box">
+              <article class="tile is-child box hero-bg-totsukabridge">
                 <p class="title">Ten</p>
                 <p class="subtitle">Subtitle</p>
                 <div class="content">
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.</p>
+                  <p>List Info higher on page? Find places for quotes, specials like Denphone or Codebook (carousel?). Latest Longhand posts, on both home and news page. News = the short ones, blog = long ones. Tone friendly on short. </p>
                 </div>
               </article>
             </div>
@@ -169,11 +170,18 @@
         </div>
         <div class="tile is-parent is-6">
           <article class="tile is-child box">
-            <p class="title">Thirteen</p>
-            <p class="subtitle">Subtitle</p>
-            <div class="content">
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.</p>
-            </div>
+            <p class="title">{{ i18n "topsectionprojects" }}</p>
+            <p class="subtitle">{{ i18n "topsectionprojectssub" }}</p>
+            <span>{{ i18n "topsectionprojectstext" | markdownify }}</span>
+            <span id="hideheader" class="has-padding-t-xs">
+          　　{{- if eq .Site.Language.Lang "en" -}}
+                <script src="https://pro.dbflex.net/secure/embed.js"
+data-url="/ev-3456938/db/15331/view.aspx"></script>
+          　　{{- else -}}
+              　<script src="https://pro.dbflex.net/secure/embed.js"
+data-url="/ev-3456939/db/15331/view.aspx"></script>
+          　　{{- end -}}
+            </span>
           </article>
         </div>
         <div class="tile is-parent">
@@ -236,16 +244,8 @@
 
           <div class="column">
             <div class="content">
-              <h3>{{ i18n "genlatestposts" }}</h3>
-             　<span id="hideheader" class="has-padding-t-xs">
-              　　{{- if eq .Site.Language.Lang "en" -}}
-                    <script src="https://pro.dbflex.net/secure/embed.js"
-                    data-url="/ev-3440630/db/15331/view.aspx"></script>
-              　　{{- else -}}
-                  　<script src="https://pro.dbflex.net/secure/embed.js"
-                  data-url="/ev-3440631/db/15331/view.aspx"></script>
-              　　{{- end -}}
-              　</span>
+              <h3>{{ i18n "genlatestposts" }} List latest blog posts</h3>
+             　asdfasdf
             </div>
           </div>
           <div class="column">

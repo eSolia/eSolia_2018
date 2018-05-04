@@ -146,7 +146,7 @@ other = "License"
 other = "Featured Content"
 
 [genlatestposts]
-other = "Latest Information"
+other = "Latest Articles"
 
 [genmoreinfo]
 other = "More Info"
@@ -279,8 +279,26 @@ other = "Introduction Video"
 [topsectionvideosub]
 other = "Play & type F for full screen, Esc to exit"
 
+[topsectionprojects]
+other = "Projects"
+
+[topsectionprojectssub]
+other = "Our Latest Successful Completions"
+
+[topsectionprojectstext]
+other = "See also the [full project list](/success-stories)."
+
+[topsectioninfo]
+other = "Information"
+
+[topsectioninfosub]
+other = "The latest short posts from eSolia"
+
+[topsectioninfotext]
+other = "See also the [full list of posts](/news)."
+
 [topslogan]
-other = "Bilingual IT <nobr><wbr>Outsourcing <wbr>Service</nobr>"
+other = "Bilingual IT Outsourcing Service"
 
 [topsubslogan]
 other = "eSolia is Your Japan IT Department"
