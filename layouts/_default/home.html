@@ -48,7 +48,9 @@
       </svg>
 
     </section>
-    <section class="section">
+
+
+    <section class="section bg-dark">
     <div class="tile is-ancestor">
         <div class="tile is-parent is-shaded">
           <article class="tile is-child box notification is-esolia-secondary-2-3">
@@ -122,8 +124,8 @@
               <article class="tile is-child box">
                 <p class="title">{{ i18n "topsectioninfo" }}</p>
                 <p class="subtitle">{{ i18n "topsectioninfosub" }}</p>
-                <span>{{ i18n "topsectioninfotext" | markdownify }}</span>
-                  <span id="hideheader" class="has-padding-t-xs">
+                  <div id="hideheader" class="has-padding-t-xxs has-margin-l-m">
+                  <span>{{ i18n "topsectioninfotext" | markdownify }}</span>
                 　　{{- if eq .Site.Language.Lang "en" -}}
                       <script src="https://pro.dbflex.net/secure/embed.js"
                       data-url="/ev-3440630/db/15331/view.aspx"></script>
@@ -131,7 +133,7 @@
                     　<script src="https://pro.dbflex.net/secure/embed.js"
                     data-url="/ev-3440631/db/15331/view.aspx"></script>
                 　　{{- end -}}
-                　</span>
+                　</div>
               </article>
             </div>
             <div class="tile is-parent">
@@ -172,8 +174,8 @@
           <article class="tile is-child box">
             <p class="title">{{ i18n "topsectionprojects" }}</p>
             <p class="subtitle">{{ i18n "topsectionprojectssub" }}</p>
+            <div id="hideheader" class="has-padding-t-xxs has-margin-l-m">
             <span>{{ i18n "topsectionprojectstext" | markdownify }}</span>
-            <span id="hideheader" class="has-padding-t-xs">
           　　{{- if eq .Site.Language.Lang "en" -}}
                 <script src="https://pro.dbflex.net/secure/embed.js"
 data-url="/ev-3456938/db/15331/view.aspx"></script>
@@ -181,7 +183,7 @@ data-url="/ev-3456938/db/15331/view.aspx"></script>
               　<script src="https://pro.dbflex.net/secure/embed.js"
 data-url="/ev-3456939/db/15331/view.aspx"></script>
           　　{{- end -}}
-            </span>
+            </div>
           </article>
         </div>
         <div class="tile is-parent">
@@ -195,7 +197,8 @@ data-url="/ev-3456939/db/15331/view.aspx"></script>
         </div>
       </div>
     </section>
-    <section class="section notification is-esolia-yellow-1 is-marginless">
+
+    <section class="section notification is-esolia-yellow-1 is-marginless is-radiusless">
       <nav class="level">
         <div class="level-item has-text-centered">
           <div>
@@ -238,17 +241,24 @@ data-url="/ev-3456939/db/15331/view.aspx"></script>
     </div>
  -->
 
-    <section class="section is-marginless is-radiusless notification is-light ">
+    <section class="section bg-light is-marginless is-radiusless">
       <div class="container">
         <div class="columns">
 
           <div class="column">
+          </div>
+          <div class="column is-two-fifths">
             <div class="content">
-              <h3>{{ i18n "genlatestposts" }} List latest blog posts</h3>
-             　asdfasdf
+              <h3>{{ i18n "genlatestposts" }}</h3>
+              <ul class="has-padding-t-s">
+             　{{ range first 6 (where .Data.Pages "Section" "post").ByDate.Reverse }}
+                  <li class="link list-has-no-style"><a class="link" href="{{ .Permalink }}">{{ .Title | markdownify }}</a><span class="is-italic">&nbsp;&mdash;&nbsp;{{ .Date.Format "02 Jan, 2006" }}</span></li>
+               {{ end }}
+               </ul>
             </div>
           </div>
-          <div class="column">
+
+          <div class="column is-two-fifths">
             <div class="content">
               <h3>{{ i18n "genlatestfeature" }}</h3>
               <ul class="has-padding-t-l">
@@ -260,14 +270,16 @@ data-url="/ev-3456939/db/15331/view.aspx"></script>
               </ul>
              </div>
           </div>
+          <div class="column">
+          </div>
 
         </div>
       </div>
     </section>
 
-    <div class="section has-text-primary is-light is-paddingless is-radiusless">
+    <div class="section bg-dark has-text-primary is-paddingless is-radiusless">
       <svg xmlns="http://www.w3.org/2000/svg"  width="100%" height="198">
-        <rect width="100%" height="100%" fill="#F5F5F5"/>
+        <rect width="100%" height="100%" stroke="#F5F5F5" fill="#F5F5F5"/>
 				<defs>
 					<linearGradient id="aa" x1="50%" x2="50%" y1="-10.959%" y2="100%">
 						<stop stop-color="#16b2c7" stop-opacity=".80" offset="0%"/>
