@@ -16,13 +16,13 @@
 
       {{ if .IsTranslated }}
       {{ range .Translations }}
-      <a class="button is-small is-esolia-secondary-2-0 is-rounded has-margin-l-s is-hidden-tablet" href="{{ .Permalink }}">{{ .Site.Language.LanguageName }}</a>
+      <a class="button is-small is-esolia-secondary-2-0 is-rounded has-margin-l-s is-hidden-desktop" href="{{ .Permalink }}">{{ .Site.Language.LanguageName }}</a>
       {{ end }}
       {{ else }}
       {{ if eq .Site.Language.Lang "en" }}
-      <a class="button is-small is-esolia-secondary-2-0 is-rounded has-margin-l-s is-hidden-tablet" href="/">日本語</a>
+      <a class="button is-small is-esolia-secondary-2-0 is-rounded has-margin-l-s is-hidden-desktop" href="/">日本語</a>
       {{ else }}
-      <a class="button is-small is-esolia-secondary-2-0 is-rounded has-margin-l-s is-hidden-tablet" href="/">English</a>
+      <a class="button is-small is-esolia-secondary-2-0 is-rounded has-margin-l-s is-hidden-desktop" href="/">English</a>
       {{ end }}
       {{ end }}
 
