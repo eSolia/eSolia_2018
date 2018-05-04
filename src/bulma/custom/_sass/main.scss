@@ -183,7 +183,7 @@ strong {
    }
 
 // set hero backgrounds
-$backgrounds: (bg-totsukabridge: '/img/Cogley-Banner-JR-Totsuka-Bridge-2-mono-b.jpg', bg-templecolumn: '/img/eSolia-Cogley-Azabudai-to-Atago-Tokyo-20131031-5318b.jpg', bg-atagotunnel: '/img/eSolia-Cogley-Azabudai-to-Atago-Tokyo-20131031-5355b.jpg', bg-networkswitch: '/img/eSolia-Cogley-Network-Switch-1.jpg');
+$backgrounds: (bg-templecolfull: '/img/eSolia-Cogley-Azabudai-to-Atago-Tokyo-20131031-5318c.jpg', bg-esoliaofficeexterior: '/img/eSolia-Cogley-eSolia-Office-Exterior-20130530-mono.jpg', bg-totsukabridge: '/img/Cogley-Banner-JR-Totsuka-Bridge-2-mono-b.jpg', bg-templecolumn: '/img/eSolia-Cogley-Azabudai-to-Atago-Tokyo-20131031-5318b.jpg', bg-atagotunnel: '/img/eSolia-Cogley-Azabudai-to-Atago-Tokyo-20131031-5355b.jpg', bg-networkswitch: '/img/eSolia-Cogley-Network-Switch-1.jpg');
 
 @each $key, $image in $backgrounds {
   .hero-#{$key} {
