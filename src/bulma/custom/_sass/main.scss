@@ -154,10 +154,24 @@ $colors: map-merge($colors, $addColors);
 
 // CUSTOM CSS
 // set background color of pages
-html { background-color: $grey-darker;}
+html {
+   background-color: $light;
+   }
+
+section.bg-dark {
+   background-color: $dark;
+   }
+
+section.bg-light {
+   background-color: $light;
+   }
+
+div.bg-dark {
+   background-color: $dark;
+   }
 
 // set max width of paragraphs for ease of reading
-p,ul,ol,table,blockquote,span,small,div.carousel,figure,iframe,div#search-results {
+p,ul,ol,table,blockquote,span,small,div.carousel,figure,iframe,div#search-results,div.p.subtitle.is-italic {
     max-width: 38em;
     // margin: auto;
 }
