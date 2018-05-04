@@ -40,12 +40,17 @@ menu:
     Identifier: aboutothersuccesses_ja
     Url: /success-stories
   successes:
-    Name: 成功事例
+    Name: 選定成功事例
     Weight: 10
     Identifier: sucsideindex_ja
     Url: /success-stories
 ---
 
-## プロジェクトを成功させたいならイソリアにお任せください
+## プロジェクト一覧
 
-PROdbから成功事例の一覧
+プロジェクト完了日と簡易説明の一覧:
+
+<span id="hideheader" class="has-padding-t-xs">
+<script src="https://pro.dbflex.net/secure/embed.js"
+  data-url="/ev-3456963/db/15331/view.aspx"></script>
+</span>

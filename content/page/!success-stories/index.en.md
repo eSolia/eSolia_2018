@@ -40,12 +40,17 @@ menu:
     Identifier: aboutothersuccesses_en
     Url: /success-stories
   successes:
-    Name: Successes
+    Name: Selected Successes
     Weight: 10
     Identifier: sucsideindex_en
     Url: /success-stories
 ---
 
-## Rely on eSolia for Japan Project Success
+## Project List
 
-PROdb list of success stories, with links to selected. 
+Date of completion and short description of our projects:
+
+<span id="hideheader" class="has-padding-t-xs">
+<script src="https://pro.dbflex.net/secure/embed.js"
+  data-url="/ev-3456957/db/15331/view.aspx"></script>
+</span>
