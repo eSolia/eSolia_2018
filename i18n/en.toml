@@ -236,7 +236,10 @@ other = "Why eSolia?"
 other = "Our Value"
 
 [topsectionwhytext]
-other = "About eSolia's value. Work as a team, striving to stand on the side of the client... understand process, hire bilinguals, do good docs, have support systems etc"
+other = "About eSolia's value. Work as a team, striving to stand on the side of the client... understand process, hire bilinguals, do good docs, have support systems etc. INCLUDE links about codebook, Sip print, denphone"
+
+[topsectiontestimonial]
+other = "What they're saying"
 
 [topsectionpledge]
 other = "Our Pledge"
@@ -246,7 +249,8 @@ other = "is our promise"
 
 [topsectionpledgetext]
 other = """
-* We work quickly following good practices, booking only what was required.
+* We book only what is required, never creating work to inflate the bill.
+* We work quickly following best practices, or your SOPs if defined.
 * We take ownership of tasks through to the end, and report the results thoroughly.
 * We trade your commitment to us, for more favorable professional rates, acting with company health and stability in mind.
 <br><br>

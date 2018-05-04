@@ -238,6 +238,9 @@ other = "弊社の強み"
 [topsectionwhytext]
 other = "日本語 About eSolia's value. Work as a team, striving to stand on the side of the client... understand process, hire bilinguals, do good docs, have support systems etc"
 
+[topsectiontestimonial]
+other = "お客様の声"
+
 [topsectionpledge]
 other = "弊社の誓い"
 
@@ -246,7 +249,8 @@ other = "は弊社の約束"
 
 [topsectionpledgetext]
 other = """
-* 業界ベストプラクティスに基づいて、素早く行動し、必要とされたものだけを請求します。
+* 必要とされたものだけを請求し、水増し請求のような「仕事を作る」事はいたしません。
+* 業界ベストプラクティスに基づくか、貴社のプロセスで素早く行動します。
 * お受けした作業やトラブルは、最後まで徹底して対応し、率直に報告を行います。
 * 私達は企業の健全性と安定性をもって行動しており、お客様と長期的な関係を促進する様、最善の努力を致します。
 <br><br>
