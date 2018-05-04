@@ -5,6 +5,6 @@ tags = ["blog","news","posts","archive"]
 title = "News Archive"
 +++
 
-_Below is the eSolia News Archive of posts sorted by year._
+_This is the eSolia Archive of articles and short posts._
 
 * * * 

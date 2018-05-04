@@ -1,0 +1,73 @@
+{{ define "title" }}
+  {{ .Title }} &ndash; {{ .Site.Title }}
+{{ end }}
+{{ define "nav" }}
+    {{- partial "nav1.html" (dict "context" . "navbgcolor" "is-esolia-blue-0" "langswcolor" "is-esolia-yellow-0" "naviconcolor" "has-text-esolia-secondary-2-0" "menuiconcolor" "has-text-esolia-blue-0") -}}
+{{ end }}
+{{ define "main" }}
+<div class="columns content is-fullheight is-gapless">
+  <div class="column is-3 is-sidebar-menu is-hidden-mobile">
+     <aside class="menu content has-padding-t-m has-padding-l-m">
+       {{- $currentPage := . -}}
+       {{ range .Site.Menus.services }}
+         <a class="is-hoverable{{ if $currentPage.IsMenuCurrent "services" . }} is-active{{ end }}" href="{{ .URL | absLangURL }}"><p class="menu-label has-text-info">{{ .Name }}</p></a>
+          <ul class="menu-list">
+          {{ if .HasChildren }}
+          {{ range .Children }}
+            <li><a class="is-hoverable{{ if $currentPage.IsMenuCurrent "services" . }} is-active{{ end }}" href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
+          {{ end }}
+          {{ end }}
+          </ul>
+       {{ end }}
+
+
+        <p class="menu-label has-text-info">Tags</p>
+       <div class="tags has-margin-l">
+       {{ range .Params.tags }}
+        <span class="tag is-rounded is-light"><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></span>
+       {{ end }}
+       </div>
+
+    </aside>
+
+  </div>
+  <div class="column is-main-content">
+      <div class="box content is-size-5-desktop is-size-6-mobile has-margin-m has-padding-t-xxs">
+        <p class="title is-5"><h1>{{ .Title }}</h1></p>
+        <p class="subtitle is-italic">{{ .Params.subtitle }}</p>
+        {{ .Content }}
+        <div class="columns">
+          <div class="column">
+          　　<h3>{{ i18n "newsarchivearticlesbyyear" }}</h3>
+                {{ range .Data.Pages.GroupByDate "2006" }}
+                <h4 class="">{{ .Key }}</h4>
+                    <ul class="list">
+                        {{ range .Pages }}
+                            {{ .Render "li"}}
+                        {{ end }}
+                    </ul>
+                {{ end }}
+                </div>
+          <div class="column" id="hideheader">
+          　　<h3>{{ i18n "newsarchiveshortposts" }}</h3>
+                {{- if eq .Site.Language.Lang "en" -}}
+                <script src="https://pro.dbflex.net/secure/embed.js"
+        data-url="/ev-3461316/db/15331/view.aspx"></script>
+                {{- else -}}
+                <script src="https://pro.dbflex.net/secure/embed.js"
+        data-url="/ev-3461317/db/15331/view.aspx"></script>
+                {{- end -}}
+          </div>
+        </div>
+      </div>
+  </div>
+</div>
+
+{{ end }}
+{{ define "modals" }}
+    {{- partial "modal1.html" . -}}
+{{ end }}
+{{ define "footer" }}
+    {{- partial "footer1.html" . -}}
+{{ end }}
+

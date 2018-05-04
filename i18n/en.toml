@@ -301,6 +301,12 @@ other = "The latest short posts from eSolia"
 [topsectioninfotext]
 other = "See also the [full list of posts](/news)."
 
+[newsarchivearticlesbyyear]
+other = "Articles by Year"
+
+[newsarchiveshortposts]
+other = "Short Posts"
+
 [topslogan]
 other = "Bilingual IT Outsourcing Service"
 

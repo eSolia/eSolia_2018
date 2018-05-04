@@ -301,6 +301,12 @@ other = "イソリアより、最新のショートポスト"
 [topsectioninfotext]
 other = "全ポスト含まれてる一覧も[ご覧ください](/news)。"
 
+[newsarchivearticlesbyyear]
+other = "記事"
+
+[newsarchiveshortposts]
+other = "ショートポスト"
+
 [topslogan]
 other = "バイリンガル IT アウトソーシング サービス"
 
