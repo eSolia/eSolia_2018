@@ -23,7 +23,7 @@ menu:
     Name: Success
     Weight: 40
     Identifier: success_index_en
-    Url: /success-stories
+    Url: /success-stories   
   servicesother:
     Name: Successes
     Weight: 20
@@ -48,7 +48,7 @@ menu:
 
 ## Project List
 
-Date of completion and short description of our projects:
+Browse this list of our projects with completion date, and see the selected success story links in the sidebar.
 
 <span id="hideheader" class="has-padding-t-xs">
 <script src="https://pro.dbflex.net/secure/embed.js"

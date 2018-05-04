@@ -118,6 +118,15 @@ languageCode = "en-US"
     pre = "fa-tags"
     post = "Contents Keywords for Searching"
 
+[[languages.en.menu.main]]
+    name = "Project Archive"
+    weight = 1
+    parent = "success_index_en"
+    identifier = "success_indexsub_en"
+    url = "/success-stories"
+    pre = "fa-calendar-check"
+    post = "List of eSolia Projects"
+
 [[languages.en.menu.side]]
     name = "About eSolia"
     identifier = "en_esolia"
@@ -340,6 +349,15 @@ help  = "ヘルプ"
     url = "/tags"
     pre = "fa-tags"
     post = "コンテンツのキーワード"
+
+[[languages.ja.menu.main]]
+    name = "完了プロジェクト"
+    weight = 1
+    parent = "success_index_ja"
+    identifier = "success_indexsub_ja"
+    url = "/success-stories"
+    pre = "fa-calendar-check"
+    post = "イソリア完了プロジェクト一覧"
 
 [[languages.ja.menu.side]]
     name = "イソリアについて"

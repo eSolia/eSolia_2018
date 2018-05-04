@@ -48,7 +48,7 @@ menu:
 
 ## プロジェクト一覧
 
-プロジェクト完了日と簡易説明の一覧:
+下記、我が社の完了プロジェクトの一覧（完了日、簡易説明）、又はサイドバーにある「選定成功事例」のリンクをご覧ください。
 
 <span id="hideheader" class="has-padding-t-xs">
 <script src="https://pro.dbflex.net/secure/embed.js"
