@@ -65,7 +65,7 @@ The following is our code of conduct, to which eSolia team members promise to ad
 1. We will be truthful about our professional expertise. We will assist new members of our team in acquiring a full understanding of the functions, duties, and responsibilities of those in our profession, and to keep up with significant advances in their areas of practice.
 1. We will continually evaluate the quality of the work done by our professionals to insure, insofar as is possible, that all of our engagements are conducted in a competent manner.
 1. We will be truthful during and about all aspects of the engagement - agreement, discovery, feedback, implementation - and will not collude with any party to hide or change this information in our official stance.
-1. We will maintain integrity of information by making official reports in eSolia format, which if electronic will be signed digitally and protected against unauthorized changes.
+1. We will document our work in a chronological summary format, and in structured reporting formats for client requests and projects, storing these reports electronically for later recall. 
 1. We will maintain confidentiality with regard to client engagements, materials and information.
 1. We will explain our fees completely and transparently, securing agreement, and will then bill for our services in a fair and reasonable manner.
 1. Uniquely qualified because of our education, experience and broad contact with problems in various industries, we recognize our debt to our profession, and will contribute to bettering the practices of our profession as a whole, and to developing more efficient ways of dealing with the problems we solve.
