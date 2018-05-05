@@ -57,6 +57,16 @@ menu:
     Url: /helpdesk
 ---
 
+<div class="buttons has-addons is-hidden-tablet">
+  <a class="button" href="/outsourcing"><span class="icon"><i class="fas fa-anchor"></i></span></a>
+  <a class="button is-active" href="/helpdesk">Helpdesk</a>
+  <a class="button" href="/on-site">On-site</a>
+  <a class="button" href="/process">Process</a>
+  <a class="button" href="/training">Training</a>
+  <a class="button" href="/website-design">Website</a>
+  <a class="button" href="/localization">Localization</a>
+</div>
+
 ## Wisdom of the Masses
 
 You have a sudden thought, search the Internet for a quick answer, and get a reasonable one. And that's not because some guru is standing by 24x7. Rather, since the dawn of the Internet, large numbers of people have asked and received answers to a multitude of questions. Their collective ideas make up the "wisdom of the masses".

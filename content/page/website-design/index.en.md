@@ -81,6 +81,16 @@ menu:
     Identifier: oswebdesign_en
 ---
 
+<div class="buttons has-addons is-hidden-tablet">
+  <a class="button" href="/outsourcing"><span class="icon"><i class="fas fa-anchor"></i></span></a>
+  <a class="button" href="/helpdesk">Helpdesk</a>
+  <a class="button" href="/on-site">On-site</a>
+  <a class="button" href="/process">Process</a>
+  <a class="button" href="/training">Training</a>
+  <a class="button is-active" href="/website-design">Website</a>
+  <a class="button" href="/localization">Localization</a>
+</div>
+
 ## Your Website Design is Integral to Your Business
 
 **_Or, at least it should be._** When you launch a website, it should actively market to help your business grow, and not just act as a static brochure. The benefits of a well-designed website are enormous, but the primary goal of a site launch is to make a fantastic first impression immediately to visitors, with the perfect tone. Your corporate vision should be built directly in to how the site is designed and assembled, and be apparent to a visitor right away, either directly or subconsciously.

@@ -66,6 +66,16 @@ menu:
     Identifier: oslocalization_ja
 ---
 
+<div class="buttons has-addons is-hidden-tablet">
+  <a class="button" href="/outsourcing"><span class="icon"><i class="fas fa-anchor"></i></span></a>
+  <a class="button" href="/helpdesk">ヘルプデスク</a>
+  <a class="button" href="/on-site">オンサイト</a>
+  <a class="button" href="/process">プロセス</a>
+  <a class="button" href="/training">トレーニング</a>
+  <a class="button" href="/website-design">ウェブサイト</a>
+  <a class="button is-active" href="/localization">ローカライゼーション</a>
+</div>
+
 ## 頼るな危険　翻訳サイト　
 
 海外にて作成されたアプリケーション、ウェブサイトや文書をローカライズされる場合、翻訳サイトによる直訳では資料として役に立たない事はご存じかと思います。また、両言語を話せる非ネイティブスピーカーによる直訳でもほぼ意味がなく、これにより時には御社の評判にダメージを与えてしまう事もあります。こういった直訳だけでは、見込顧客が御社の表現されたい内容を理解できずにそのまま見過ごしてしまう事もあるでしょう。ではどのようなローカライゼーションが必要になるのでしょうか。

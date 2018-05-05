@@ -57,6 +57,16 @@ menu:
     Identifier: ostraining_ja
 ---
 
+<div class="buttons has-addons is-hidden-tablet">
+  <a class="button" href="/outsourcing"><span class="icon"><i class="fas fa-anchor"></i></span></a>
+  <a class="button" href="/helpdesk">ヘルプデスク</a>
+  <a class="button" href="/on-site">オンサイト</a>
+  <a class="button" href="/process">プロセス</a>
+  <a class="button is-active" href="/training">トレーニング</a>
+  <a class="button" href="/website-design">ウェブサイト</a>
+  <a class="button" href="/localization">ローカライゼーション</a>
+</div>
+
 ## トレーニングに投資してみるのも一手です
 
 多忙な社内でのITトレーニング。時として疎かになりがちではないでしょうか？

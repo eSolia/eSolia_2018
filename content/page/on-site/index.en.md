@@ -55,6 +55,16 @@ menu:
     Url: /on-site
 ---
 
+<div class="buttons has-addons is-hidden-tablet">
+  <a class="button" href="/outsourcing"><span class="icon"><i class="fas fa-anchor"></i></span></a>
+  <a class="button" href="/helpdesk">Helpdesk</a>
+  <a class="button is-active" href="/on-site">On-site</a>
+  <a class="button" href="/process">Process</a>
+  <a class="button" href="/training">Training</a>
+  <a class="button" href="/website-design">Website</a>
+  <a class="button" href="/localization">Localization</a>
+</div>
+
 ## eSolia onsite services
 
 eSolia professionals are dispatched to your office, to deliver on-site services such as:

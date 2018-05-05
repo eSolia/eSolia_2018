@@ -51,6 +51,16 @@ menu:
     url: /outsourcing
 ---
 
+<div class="buttons has-addons is-hidden-tablet">
+  <a class="button is-active" href="/outsourcing"><span class="icon"><i class="fas fa-anchor"></i></span></a>
+  <a class="button" href="/helpdesk">ヘルプデスク</a>
+  <a class="button" href="/on-site">オンサイト</a>
+  <a class="button" href="/process">プロセス</a>
+  <a class="button" href="/training">トレーニング</a>
+  <a class="button" href="/website-design">ウェブサイト</a>
+  <a class="button" href="/localization">ローカライゼーション</a>
+</div>
+
 イソリアのアウトソーシング・サービスを導入された場合、イソリア ツールやフレームワークと最新技術に精通したバイリンガルなプロフェッショナルによって提供されるサポート・エンジニアリング・導入サービスメニューを存分にご利用頂くことが可能となります。
 
 ご要望内容がシンプルであろうが複雑であろうが、貴社の IT 問題に対して、弊社のteamITMSのエキスパート アシストを提供します。又は貴社の IT業務の一部もしくは全体に対する管理責任業務委託を受けることも可能です。

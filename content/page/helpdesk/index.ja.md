@@ -64,6 +64,16 @@ menu:
     Url: /helpdesk
 ---
 
+<div class="buttons has-addons is-hidden-tablet">
+  <a class="button" href="/outsourcing"><span class="icon"><i class="fas fa-anchor"></i></span></a>
+  <a class="button is-active" href="/helpdesk">ヘルプデスク</a>
+  <a class="button" href="/on-site">オンサイト</a>
+  <a class="button" href="/process">プロセス</a>
+  <a class="button" href="/training">トレーニング</a>
+  <a class="button" href="/website-design">ウェブサイト</a>
+  <a class="button" href="/localization">ローカライゼーション</a>
+</div>
+
 ## 大衆の知
 
 ふと疑問を持った際にネット上で検索・質問をすれば、すぐにそこそこ的確な答えが見つかる事は多々あります。それは賢者の様な人がモニターの前で四六時中スタンバイしてるから、というわけでは決してありません。そこにはインターネットの有史以来、数多くの人が様々な質問を投げかけ、それに対して多種多様な解決方法やアイディアが集結されているからこそです。そこには集合知があるのです。

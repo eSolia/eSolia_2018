@@ -54,6 +54,16 @@ menu:
     Identifier: ostraining_en
 ---
 
+<div class="buttons has-addons is-hidden-tablet">
+  <a class="button" href="/outsourcing"><span class="icon"><i class="fas fa-anchor"></i></span></a>
+  <a class="button" href="/helpdesk">Helpdesk</a>
+  <a class="button" href="/on-site">On-site</a>
+  <a class="button" href="/process">Process</a>
+  <a class="button is-active" href="/training">Training</a>
+  <a class="button" href="/website-design">Website</a>
+  <a class="button" href="/localization">Localization</a>
+</div>
+
 ## Training is the Best Investment
 
 eSolia delivers training to help our clients maximize their technology investment, increase productivity, reduce support costs and motivate employees.

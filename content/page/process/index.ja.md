@@ -61,6 +61,16 @@ menu:
     Identifier: osproc_ja
 ---
 
+<div class="buttons has-addons is-hidden-tablet">
+  <a class="button" href="/outsourcing"><span class="icon"><i class="fas fa-anchor"></i></span></a>
+  <a class="button" href="/helpdesk">ヘルプデスク</a>
+  <a class="button" href="/on-site">オンサイト</a>
+  <a class="button is-active" href="/process">プロセス</a>
+  <a class="button" href="/training">トレーニング</a>
+  <a class="button" href="/website-design">ウェブサイト</a>
+  <a class="button" href="/localization">ローカライゼーション</a>
+</div>
+
 ## IT管理に怯えるなかれ
 
 ＩＴを効率よく利用すれば、本来持っているポテンシャルを自在に扱う事が可能になり、それにより生み出されるメリットは計り知れないものになるでしょう。 ただしキチンと管理しない事による仕事量の増加、生産性の減少、まさに社員への諸刃になり得るツールなのです。 上手く駆使するには、なにもインターナルでそれら全ての作業を担う必要はありません。そう、プロセス管理に怯える日々にお別れを。

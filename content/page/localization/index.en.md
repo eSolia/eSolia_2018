@@ -61,6 +61,16 @@ menu:
     Identifier: oslocalization_en
 ---
 
+<div class="buttons has-addons is-hidden-tablet">
+  <a class="button" href="/outsourcing"><span class="icon"><i class="fas fa-anchor"></i></span></a>
+  <a class="button" href="/helpdesk">Helpdesk</a>
+  <a class="button" href="/on-site">On-site</a>
+  <a class="button" href="/process">Process</a>
+  <a class="button" href="/training">Training</a>
+  <a class="button" href="/website-design">Website</a>
+  <a class="button is-active" href="/localization">Localization</a>
+</div>
+
 ## Really? A Machine Translation?
 
 If you are considering or performing a localization of an application, website or documents for the Japan market, you must understand that machine translation still produces _comically bad results_. In addition, having a non-native speaker who speaks a little Japanese give their seal of approval is, well, not so meaningful and even damaging to your reputation. Your Japanese prospects will laugh at your attempt, and then move on. Do you really want that?

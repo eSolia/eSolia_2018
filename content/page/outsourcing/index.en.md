@@ -49,14 +49,15 @@ menu:
     url: /outsourcing
 ---
 
-<small>
-<a class="grey lighten-3 green-text waves-effect waves-light btn" href="/helpdesk">Helpdesk</a>
-<a class="grey lighten-3 green-text waves-effect waves-light btn" href="/on-site">On-site</a>
-<a class="grey lighten-3 green-text waves-effect waves-light btn" href="/process">Process</a>
-<a class="grey lighten-3 green-text waves-effect waves-light btn" href="/training">Training</a>
-<a class="grey lighten-3 green-text waves-effect waves-light btn" href="/website-design">Website</a>
-<a class="grey lighten-3 green-text waves-effect waves-light btn" href="/localization">Localization</a>
-</small>
+<div class="buttons has-addons is-hidden-tablet">
+  <a class="button is-active" href="/outsourcing"><span class="icon"><i class="fas fa-anchor"></i></span></a>
+  <a class="button" href="/helpdesk">Helpdesk</a>
+  <a class="button" href="/on-site">On-site</a>
+  <a class="button" href="/process">Process</a>
+  <a class="button" href="/training">Training</a>
+  <a class="button" href="/website-design">Website</a>
+  <a class="button" href="/localization">Localization</a>
+</div>
 
 ## IT Assistance in Japan
 
@@ -66,7 +67,7 @@ _When you need assistance with **IT and user support in Japan**, outsource with 
 
 Whether your needs are simple or complex, eSolia professionals can offer you controlled expert assistance with your IT matters, or take full management responsibility over part or all of your IT operations.
 
-{{< figure "eSolia-Post-Our-Solutions-Your-Challenges-2.png" Resize "400x" Photo "eSolia's solutions for your challenges" >}}
+{{< figure "eSolia-Post-Our-Solutions-Your-Challenges-2.png" Resize "400x" Graphic "eSolia's solutions for your challenges" >}}
 
 ## Why should you outsource?
 
@@ -82,5 +83,5 @@ eSolia's support and engineering team "teamITMS" is focused on providing you wit
 * **Focus** - eSolia outsourcing allows decision-makers to concentrate on their business.
 * **TCO Reduction** - total cost of ownership is reduced when you outsource your IT operations.
 
-{{< figure "eSolia-Post-Outsource-Benefits-en.gif" Resize "500x" Photo "eSolia Skills" >}}
+{{< figure "eSolia-Post-Outsource-Benefits-en.gif" Resize "500x" Graphic "eSolia Skills" >}}
 

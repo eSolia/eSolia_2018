@@ -83,6 +83,16 @@ menu:
     Identifier: oswebdesign_ja
 ---
 
+<div class="buttons has-addons is-hidden-tablet">
+  <a class="button" href="/outsourcing"><span class="icon"><i class="fas fa-anchor"></i></span></a>
+  <a class="button" href="/helpdesk">ヘルプデスク</a>
+  <a class="button" href="/on-site">オンサイト</a>
+  <a class="button" href="/process">プロセス</a>
+  <a class="button" href="/training">トレーニング</a>
+  <a class="button is-active" href="/website-design">ウェブサイト</a>
+  <a class="button" href="/localization">ローカライゼーション</a>
+</div>
+
 ## そのサイトがないと話にならない！
 
 **_少なくともそういうサイトにするべきです…_** あなたがウェブサイトを立ち上げる際には、面白みがなく変化のない紹介ページとしてではなく、市場で積極的にあなたのビジネスの成長を支援できるデザインにするべきです。うまく設計されたウェブサイトの利益は無限大ですが、サイトの立ち上げの第一の目標は適切な語調で、訪問者にすぐに素晴らしい印象を与えることです。そのためにあなたのビジネスビジョンがサイトのデザイン・構築方法に直接反映され、サイト訪問者はそれを意識させられる事が重要となります。

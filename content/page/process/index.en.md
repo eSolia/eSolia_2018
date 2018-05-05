@@ -59,6 +59,16 @@ menu:
     Identifier: osproc_en
 ---
 
+<div class="buttons has-addons is-hidden-tablet">
+  <a class="button" href="/outsourcing"><span class="icon"><i class="fas fa-anchor"></i></span></a>
+  <a class="button" href="/helpdesk">Helpdesk</a>
+  <a class="button" href="/on-site">On-site</a>
+  <a class="button is-active" href="/process">Process</a>
+  <a class="button" href="/training">Training</a>
+  <a class="button" href="/website-design">Website</a>
+  <a class="button" href="/localization">Localization</a>
+</div>
+
 ## Double-edged IT
 
 If one uses IT efficiently, one can utilize the basic nature of IT freely, and leverage that to receive immeasurable benefits. However, if misunderstood, IT can be a double-edged sword, increasing work and even decreasing efficiency.
