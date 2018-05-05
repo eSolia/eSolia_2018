@@ -9,12 +9,13 @@
     {{ $scaled := .Resize "800x" }}
     <div class="carousel-item has-background">
       <img class="is-background" src="{{ $scaled.RelPermalink }}" alt="eSolia Gallery Screenshot or Photo"/>
-      <div class="title is-size-6 is-italic has-text-esolia-blue-3">{{ .Title }}</div>
+      <div class="title is-size-6 is-italic has-text-esolia-blue-3"><a class="" href="{{ .RelPermalink }}"><span class="icon has-text-esolia-yellow-1"><i class="fas fa-search-plus"></i></span></a>
+{{ .Title }}</div>
     </div>
     {{ end }}
 
   </div>
-  <div class="carousel-navigation is-overlay">
+  <div class="carousel-navigation is-centered">
     <div class="carousel-nav-left">
       <i class="fa fa-chevron-left" aria-hidden="true"></i>
     </div>
@@ -26,3 +27,5 @@
 {{ end }}
 
 {{ "<!-- LEAVING partial gallery.html -->" | safeHTML }}
+
+
