@@ -67,6 +67,13 @@ menu:
     Parent: seinfrastructure_ja
 ---
 
+<div class="buttons has-addons is-hidden-tablet">
+  <a class="button" href="/infrastructure"><span class="icon"><i class="fas fa-anchor"></i></span></a>
+  <a class="button" href="/office-moves">オフィス移転</a>
+  <a class="button is-active" href="/telephone">IP電話</a>
+  <a class="button" href="/security">セキュリティ</a>
+</div>
+
 ## 電話線からLAN線へ
 
 {{< punchlist title="導入までのプロセス" bgcolor="is-esolia-yellow-3">}}

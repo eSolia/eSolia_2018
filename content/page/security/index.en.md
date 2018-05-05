@@ -63,6 +63,13 @@ menu:
     Parent: seinfrastructure_en
 ---
 
+<div class="buttons has-addons is-hidden-tablet">
+  <a class="button" href="/infrastructure"><span class="icon"><i class="fas fa-anchor"></i></span></a>
+  <a class="button" href="/office-moves">Office Moves</a>
+  <a class="button" href="/telephone">Telephone</a>
+  <a class="button is-active" href="/security">Security</a>
+</div>
+
 ## Introduction
 
 In the case of a large company, a security program is almost surely in place already, so eSolia can act as your "eyes and ears" on the ground in Japan, to audit, and carry out the wishes of HQ IT. A small firm or SME is more likely to need a security program implemented, and that is where we can really help.

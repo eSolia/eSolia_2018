@@ -65,6 +65,13 @@ menu:
     Parent: seinfrastructure_en
 ---
 
+<div class="buttons has-addons is-hidden-tablet">
+  <a class="button" href="/infrastructure"><span class="icon"><i class="fas fa-anchor"></i></span></a>
+  <a class="button" href="/office-moves">Office Moves</a>
+  <a class="button is-active" href="/telephone">Telephone</a>
+  <a class="button" href="/security">Security</a>
+</div>
+
 ## Business Telephone Systems
 
 {{< punchlist title="Process" bgcolor="is-esolia-yellow-3">}}

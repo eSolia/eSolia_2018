@@ -60,6 +60,14 @@ menu:
     Identifier: sesec_ja
     Parent: seinfrastructure_ja
 ---
+
+<div class="buttons has-addons is-hidden-tablet">
+  <a class="button" href="/infrastructure"><span class="icon"><i class="fas fa-anchor"></i></span></a>
+  <a class="button" href="/office-moves">オフィス移転</a>
+  <a class="button" href="/telephone">IP電話</a>
+  <a class="button is-active" href="/security">セキュリティ</a>
+</div>
+
 ## 鍵の種類から鍵の掛け方まで
 
 多くの多国籍企業様ではすでに本社で定められたグローバルセキュリティが存在しているかとおもいます。

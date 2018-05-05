@@ -62,6 +62,14 @@ menu:
     Url: /office-moves
     Parent: seinfrastructure_ja
 ---
+
+<div class="buttons has-addons is-hidden-tablet">
+  <a class="button" href="/infrastructure"><span class="icon"><i class="fas fa-anchor"></i></span></a>
+  <a class="button is-active" href="/office-moves">オフィス移転</a>
+  <a class="button" href="/telephone">IP電話</a>
+  <a class="button" href="/security">セキュリティ</a>
+</div>
+
 ## 引っ越し前の眠れぬ夜
 
 引っ越しとは肉体的にも精神的にも非常にしんどい作業です。オフィスの移転となれば尚更でしょう。周りを見渡してみれば一目瞭然。机やファイル、オフィス用品だけでなくPCやモニタ、プリンタを全て移動すると思うと気が遠くなります。

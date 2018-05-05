@@ -71,6 +71,13 @@ menu:
     Parent: seinfrastructure_en
 ---
 
+<div class="buttons has-addons is-hidden-tablet">
+  <a class="button" href="/infrastructure"><span class="icon"><i class="fas fa-anchor"></i></span></a>
+  <a class="button is-active" href="/office-moves">Office Moves</a>
+  <a class="button" href="/telephone">Telephone</a>
+  <a class="button" href="/security">Security</a>
+</div>
+
 ## Sleepless Nights before an Office Move
 
 Moves are physically and mentally demanding, _office_ moves even more so, and then add in an office move _in Japan_ and it's a recipe for stress. Just take a look around and it will become apparent. It's not just about desks, files and office supplies; it's also about coordinating the moves of all the PCs, monitors, printers and other equipment, so you can see that it might feel overwhelming.

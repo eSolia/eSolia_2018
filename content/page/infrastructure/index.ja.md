@@ -72,6 +72,13 @@ menu:
     Url: /infrastructure
 ---
 
+<div class="buttons has-addons is-hidden-tablet">
+  <a class="button is-active" href="/infrastructure"><span class="icon"><i class="fas fa-anchor"></i></span></a>
+  <a class="button" href="/office-moves">オフィス移転</a>
+  <a class="button" href="/telephone">IP電話</a>
+  <a class="button" href="/security">セキュリティ</a>
+</div>
+
 ## インフラストラクチャとは
 
 {{< punchlist title="サーバルームから床下、壁でも何処へでも" bgcolor="is-esolia-blue-1">}}

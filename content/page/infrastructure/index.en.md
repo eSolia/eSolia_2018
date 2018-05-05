@@ -72,6 +72,13 @@ menu:
     Url: /infrastructure
 ---
 
+<div class="buttons has-addons is-hidden-tablet">
+  <a class="button is-active" href="/infrastructure"><span class="icon"><i class="fas fa-anchor"></i></span></a>
+  <a class="button" href="/office-moves">Office Moves</a>
+  <a class="button" href="/telephone">Telephone</a>
+  <a class="button" href="/security">Security</a>
+</div>
+
 ## What's "Infrastructure"
 
 {{< punchlist title="From Server Room to Walls and Floors" bgcolor="is-esolia-blue-1">}}
