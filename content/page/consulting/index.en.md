@@ -50,6 +50,12 @@ menu:
     url: /consulting
 ---
 
+<div class="buttons has-addons is-hidden-tablet">
+  <a class="button is-active" href="/consulting"><span class="icon"><i class="fas fa-anchor"></i></span></a>
+  <a class="button" href="/management">Management</a>
+  <a class="button" href="/project-management">Project Management</a>
+</div>
+
 eSolia consulting is all about leveraging professional expertise to skillfully define problems, pinpoint client capacities and weaknesses apolitically, create practical and reasonable action plans, and have an influential involvement in their implementations. The results of any consulting process should be real improvements - not just the latest fad or program.
 
 We have confidence that our team of experienced professionals with a wide-range of experience in IT and business, will do just that. The real improvements we catalyze, help us earn a lasting rapport with our customers, based on mutual trust.

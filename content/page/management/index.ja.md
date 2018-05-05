@@ -61,6 +61,12 @@ menu:
     url: /management
 ---
 
+<div class="buttons has-addons is-hidden-tablet">
+  <a class="button" href="/consulting"><span class="icon"><i class="fas fa-anchor"></i></span></a>
+  <a class="button is-active" href="/management">マネージメント</a>
+  <a class="button" href="/project-management">プロジェクトマネジメント</a>
+</div>
+
 ## イソリアによるマネージメント
 
 イソリアでのマネージメント、そしてプロジェクトマネージメントとは、作業の遂行、予算やスケジュール、品質管理などを密接に連結させる技術です。

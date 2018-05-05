@@ -66,6 +66,12 @@ menu:
     url: /project-management
 ---
 
+<div class="buttons has-addons is-hidden-tablet">
+  <a class="button" href="/consulting"><span class="icon"><i class="fas fa-anchor"></i></span></a>
+  <a class="button" href="/management">マネージメント</a>
+  <a class="button is-active" href="/project-management">プロジェクトマネジメント</a>
+</div>
+
 ## プロジェクト管理とは？
 
 プロジェクト管理とは、タスクとアクションを密接に連結させる事でプロジェクトを円滑に進め、予算の超過、スケジュールの遅延を未然に防ぎ、さらには良品質で投資対効果(ROI)の点でも高い顧客満足を実現する技法の事です。

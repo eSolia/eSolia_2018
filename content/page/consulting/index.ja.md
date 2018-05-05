@@ -50,6 +50,12 @@ menu:
     url: /consulting
 ---
 
+<div class="buttons has-addons is-hidden-tablet">
+  <a class="button is-active" href="/consulting"><span class="icon"><i class="fas fa-anchor"></i></span></a>
+  <a class="button" href="/management">マネージメント</a>
+  <a class="button" href="/project-management">プロジェクトマネジメント</a>
+</div>
+
 イソリアのコンサルティングサービスは、専門プロフェッショナルにより実現します：
 
 1. 豊富な経験に基づく問題定義

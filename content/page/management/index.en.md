@@ -55,6 +55,12 @@ menu:
     url: /management
 ---
 
+<div class="buttons has-addons is-hidden-tablet">
+  <a class="button" href="/consulting"><span class="icon"><i class="fas fa-anchor"></i></span></a>
+  <a class="button is-active" href="/management">Management</a>
+  <a class="button" href="/project-management">Project Management</a>
+</div>
+
 ## Management by eSolia
 
 In the context of eSolia's work, management, and more specifically project management, is the art of closely coupling tasks with actions, managing budget and schedule quality to ensure there are no problems with overages or slippages, and, ensuring that clients are getting their expected return on investment regarding the project's deliverables. All this, while maintaining the required administrative project structures, plans, and operational momentum.

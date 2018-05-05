@@ -64,6 +64,12 @@ menu:
     url: /project-management
 ---
 
+<div class="buttons has-addons is-hidden-tablet">
+  <a class="button" href="/consulting"><span class="icon"><i class="fas fa-anchor"></i></span></a>
+  <a class="button" href="/management">Management</a>
+  <a class="button is-active" href="/project-management">Project Management</a>
+</div>
+
 ## What is Project Management?
 
 Project management is the art of closely coupling tasks with actions, managing budget and schedule quality to ensure there are no problems with overages or slippages, and, ensuring that clients are getting their expected return on investment regarding the project’s agreed deliverables.
