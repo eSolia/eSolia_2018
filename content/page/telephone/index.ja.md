@@ -12,16 +12,17 @@ layout: services
 alternatelocales:
   - en-US
 tags:
-  - 電話
+  - IP電話
+  - Denphone
+  - デンフォン  
   - クラウドフォン
   - VoIP
   - テレフォニー
-  - Denphone
-  - デンフォン
   - PBX
   - 交換機
   - ビジネスフォン
   - ソフトフォン
+  - 電話
 series:
   - top1
   - ninki1

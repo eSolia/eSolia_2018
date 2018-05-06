@@ -13,13 +13,13 @@ alternatelocales:
   - ja-JP
 tags:
   - Telephone System
+  - IP Phone
+  - Denphone
   - Phone
   - VoIP
   - Telephony
-  - Denphone
   - PBX
   - IP PBX
-  - IP Phone
 series:
   - top1
   - ninki1
