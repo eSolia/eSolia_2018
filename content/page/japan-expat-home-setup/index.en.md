@@ -64,7 +64,7 @@ menu:
     Identifier: expathomesetup_en
     Url: /japan-expat-home-setup
     Pre: fa-lightbulb
-    Post: Let eSolia get your sorted
+    Post: Let eSolia get you sorted
   solutions:
     Name: Expat Home Setup
     Weight: 30
