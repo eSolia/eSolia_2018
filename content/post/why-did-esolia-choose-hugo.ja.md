@@ -62,19 +62,25 @@ _アップグレード_    |任意   |継続的かつ脆弱
 
 もう一つの問題は、サイトの作成にかかる時間です。SSGは一つ一つファイルを見て再構成しなければならないため、時間が必要です。
 
-## Hugoの登場
+## どうすれば良い？ Hugoの登場!
 
-<figure class="image-container">
-<img class="materialboxed right responsive-img" width="300" data-caption="Hugo Logo" alt="Hugo Logo" src="/img/hugo-logo.png" >
+<figure class="is-pulled-right is-hidden-mobile">
+<img class="" width="200" data-caption="Hugo Logo" alt="Hugo Logo 画像" src="/img/hugo-logo.png" >
 </figure>
 
-当社ではとにかく、「簡単に使える」、「シンプルな開発環境」、「早く構築できる」と言う条件を満たすSSGをじっくり探しました。その条件に合う、モダンなGo言語で開発された[Hugo](http://gohugo.io)と言う優れた静的サイトジェネレータを発見し、選定しました。
+<figure class="is-hidden-tablet">
+<img class="" width="200" data-caption="Hugo Logo" alt="Hugo Logo 画像" src="/img/hugo-logo.png" >
+</figure>
 
-Windows、Mac、Linux等複数のOS向けにインストールが容易なアプリケーションとして提供されているだけなく、Hugoクリエーターの[スティーブ フランキア 氏](http://spf13.com) ([@spf13](https://github.com/spf13)) とヒューゴの作成に携わり沢山の苦労を形にしてくれた[関係者の皆様](https://github.com/spf13/hugo/graphs/contributors)が、極めて早いサイトの作製を可能にしたのである。
+当社ではとにかく、「簡単に使える」、「シンプルな開発環境」、「早く構築できる」と言う条件を満たすSSGをじっくり探しました。その条件に合う、モダンなGo言語で開発された[Hugo](http://gohugo.io)と言う優れた静的サイトジェネレータを発見し、選定しました。その上に、簡単にWindows, MacやLinuxにインストールができます。
+
+Hugoクリエーターの[スティーブ フランキア 氏](http://spf13.com) ([@spf13](https://github.com/spf13)) 、リード開発者の[ビョーン エリック ペーデルセン](http://bepsays.com/en/) や、ヒューゴの作成に携わり沢山の苦労を形にしてくれた[関係者の皆様](https://github.com/spf13/hugo/graphs/contributors)が、極めて早いサイトの作製を可能にしたのである。
 
 結果的に、Hugoサイトはミリセカンド単位のファイルから作製される。一般的にはファイル作製の時間よりも、出来上がったファイルをウェブサーバーにアップロードする時間がとても長い！
 
 Hugoは一つの実行可能ファイルで提供されているため、簡単にWindows, MacやLinuxにインストールができます。またその一つのファイルに、必要な物全てが含まれています。
+
+現在、Hugoのオーペンソース [コミュニティー](http://discuss.gohugo.io/latest) がとても良く、[開発](https://github.com/gohugoio) もアクティブに進んでいます。是非ご参考ください。
 
 ## Hugoを使うには
 
@@ -88,10 +94,16 @@ Hugoを使うにはウェブデザイナーが、cssとjavascriptやHugoが特�
 <figcaption><em>Hugoのフロー図</em></figcaption>
 </figure>
 
-## イソリアのウェブサイトのどこでHugoを使っているか
+## 弊社やお客様サイトにはHugoを使っているか
 
-多くのSSGをテストをした時、Hugoの簡単さとパーフォーマンスに驚き、当社の全てのサイトの構築に使用することとしました。現状、[英語](http://esolia.com) と [日本語](http://esolia.co.jp) のサイトや、ブログ[eSolia.pro](http://esolia.pro) でも使用されています。
+多くのSSGをテストをした時、Hugoの簡単さとパーフォーマンスに驚き、当社の全てのサイト又はお客様のサイトの構築に使用することとしました。
+現状、イソリアの[英語](http://esolia.com) と [日本語](http://esolia.co.jp) のサイト（二回ずつ）、お客様のサイト ([その1](http://j-vad.jp/), [その2](http://j-pvad.jp/))、又はイソリア社長 Rick Cogleyの[メイン](https://rick.cogley.info/) と [ライブ](http://live.cogley.info/)サイト。
 
-2015年現在、Hugoのオーペンソース [コミュニティー](http://discuss.gohugo.io/latest) がとても良く、[開発](https://github.com/spf13/hugo) もアクティブに進んでいます。是非ご参考ください。
+### 静的サイトにどうしてもデータが必要な場合にはどうする？
 
-又、あなたのサイトをHugoで立て直したければ、ご縁量なくイソリアに[お任せください](http://esolia.co.jp/info-request)。
+静的ウェブサイトのページに、データの一覧（人、件、組織、住所、注文など）が必要な場合、イソリアのクラウド型データベース[PROdb](/prodb)はおすすめです。セキュリティが強くて、且つ、PROdbにて簡単にご自分自信で管理もできます。
+
+## eSoliaにお任せを!
+
+お持ちのサイト立て直しご検討中であれば、ご遠慮なくイソリアに[お任せください](http://esolia.co.jp/info-request)。
+
