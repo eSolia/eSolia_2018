@@ -445,6 +445,9 @@ text-decoration: none;
 table.fs-grid div.markup p a:hover {
 color: $link-hover;
 }
+footer.div.ui-button[type=submit] {
+background-color: $esolia-blue-3;
+}
 
 // Search
 
