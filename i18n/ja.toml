@@ -451,5 +451,18 @@ other = "トピック付きコンテンツ"
 [topicsListBrowse]
 other = "全トピック: "
 
+[topstatspros]
+other = "何名以上の担当エンジニア"
 
+[topstatspart]
+other = "信頼のおけるパートナー数"
+
+[topstatsprin]
+other = "コアーチーム知識年分数"
+
+[topstatstick]
+other = "トラブルチケット解決件年数"
+
+[topstatsbook]
+other = "5年間の総サポート時間"
 

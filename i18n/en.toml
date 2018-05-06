@@ -450,3 +450,24 @@ other = "Content in topic: "
 
 [topicsListBrowse]
 other = "See All Topics: "
+
+[topstatspros]
+other = "Pros Per Account"
+
+[topstatspart]
+other = "Trusted Partners"
+
+[topstatsprin]
+other = "Principals' Years of Experience"
+
+[topstatstick]
+other = "Tickets Resolved Annually"
+
+[topstatsbook]
+other = "Hours Booked Over 5 Years"
+
+
+
+
+
+
