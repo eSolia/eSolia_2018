@@ -10,7 +10,8 @@ layout: successes
 alternatelocales:
   - en-US
 tags:
-  - 成功
+  - 成功事例
+  - プロジェクト一覧
 title: イソリアの成功事例
 topics:
   - 成功事例

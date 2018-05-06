@@ -10,7 +10,8 @@ layout: successes
 alternatelocales:
   - ja-JP
 tags:
-  - Success
+  - Success Stories
+  - Projects
 title: eSolia Success Stories
 topics:
   - Success Stories
