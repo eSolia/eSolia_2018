@@ -1,8 +1,8 @@
 ---
 authorkey: enaishikawa
 author: Ena Ishikawa
-date: 2015-08-07T12:58:15+09:00
-publishdate: 2015-08-07T12:58:15+09:00
+date: 2018-04-16T07:07:27+09:00
+publishdate: 2018-04-16T07:07:27+09:00
 description: It's not just a welfare matter; moving toward a practical telework offensive
 draft: false
 slug: telework-offensive

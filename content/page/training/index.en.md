@@ -1,7 +1,7 @@
 ---
 author: eSolia
-date: 2015-06-29T08:45:15+09:00
-publishdate: 2015-06-29T08:45:15+09:00
+date: 2018-05-06T07:07:27+09:00
+publishdate: 2018-05-06T07:07:27+09:00
 draft: false
 title: Effective Training
 slug: training

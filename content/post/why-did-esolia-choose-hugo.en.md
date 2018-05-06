@@ -1,8 +1,8 @@
 ---
 authorkey: rickcogley
 author: Rick Cogley
-date: 2015-08-12T16:20:15+09:00
-publishdate: 2015-08-12T16:20:15+09:00
+date: 2018-05-01T07:07:27+09:00
+publishdate: 2018-05-01T07:07:27+09:00
 description: Why eSolia chose the static site generator Hugo - a blog post on eSolia.pro from eSolia Inc.
 draft: false
 slug: why-did-esolia-choose-hugo

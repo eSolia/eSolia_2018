@@ -1,8 +1,8 @@
 ---
 author: eSolia
 authorlink: /about
-date: 2015-07-07T00:05:19+09:00
-publishdate: 2015-07-09T00:05:19+09:00
+date: 2018-05-06T07:07:27+09:00
+publishdate: 2018-05-06T07:07:27+09:00
 description: eSolia License - licensing for this site's content and code.
 draft: false
 slug: license
