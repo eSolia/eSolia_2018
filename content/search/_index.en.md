@@ -6,5 +6,6 @@ outputs:
   - json
 slug: search
 noindex: true
+robotsdisallow: true
 searchpage: true
 ---

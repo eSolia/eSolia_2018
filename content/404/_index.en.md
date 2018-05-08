@@ -5,6 +5,7 @@ publishdate: 2018-05-06T07:07:27+09:00
 description: eSolia 404 Page Not Found - browse for more information.
 draft: false
 noindex: true
+robotsdisallow: true
 slug: 404
 title: 404 Error
 subtitle: Page Not Found

@@ -5,6 +5,7 @@ publishdate: 2018-05-06T07:07:27+09:00
 description: イソリア 404 ページが見つからない - 全コンテンツのリンクを一つのページに
 draft: false
 noindex: true
+robotsdisallow: true
 slug: 404
 title: 404 エラー
 subtitle: そのページが見つかりません

@@ -5,6 +5,7 @@ canonifyurls = "false"
 MetaDataFormat = "yaml"
 enableMissingTranslationPlaceholders = "true"
 ISO8601 = "2006-01-02T15:04:05JST"
+enableRobotsTXT = "true"
 
 [author]
     name = "Rick Cogley"
