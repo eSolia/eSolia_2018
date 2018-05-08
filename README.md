@@ -14,6 +14,7 @@ This iteration can be summarized as follows:
 * Connecting to eSolia [PROdb](https://esolia.com/prodb) for data.  
 * Using the Mac app Codekit to compile SCSS and Javascript.
 * Photography and Graphics by eSolia CEO [Rick Cogley](http://rick.cogley.info). 
+* Using local search powered by [Fuse.js](http://fusejs.io/), instead of Google Seaarch.
 
 ### Go Hugo
 
@@ -61,17 +62,11 @@ The [repository](https://github.com/RickCogley/eSolia_2018) for this site is hos
 
 _Warm thanks and regards to:_
 
-[Steve Francia](http://spf13.com) ([@spf13](https://github.com/spf13)) and [contributors](https://github.com/spf13/hugo/graphs/contributors) for the giant amount of work in creating Hugo, and to the Go language [team](http://golang.org/CONTRIBUTORS) itself. [Bjørn Erik Pedersen](http://bep.is) ([@bep](https://github.com/bep)) has been a great help on the Hugo [discussion forums](http://discuss.hugo.io)).
-
-[@jaydenseric](https://github.com/jaydenseric) for ["barebones"](https://github.com/jaydenseric/Barebones) which taught me a skillful way to organize a site, and helped me modernize my front-end dev workflow.
-
-[@ai](https://github.com/ai), [@ben-eb](https://github.com/ben-eb), [@moox](https://github.com/moox) and many others for the massive and important work on ["postcss"](https://github.com/postcss/postcss), ["postcss-cssnext"](https://github.com/MoOx/postcss-cssnext), ["cssnano"](https://github.com/ben-eb/cssnano) and other various modules, helping me to use the latest css, and get that transformed and bundled, ready for production.
-
-[@jxnblk](https://github.com/jxnblk) for the wonderful ["basscss"](http://www.basscss.com/) css foundation library.  
-
-[Jos Buivenga / Exljbris](https://exljbris.wordpress.com/about/) and [Joshua Darden / Darden Studio](https://www.dardenstudio.com/studio), for the beautiful type faces.
-
-Lastly, I even have a [humans.txt](/humans.txt) file. [Humans.txt](http://humanstxt.org) is an attempt to standardize on a way of making a site colophon, in text format. If you [click](/humans.txt) it, you'll see some of the same information as on this page, in a simple text format.
+* Hugo Team - founder [Steve Francia](http://spf13.com) ([@spf13](https://github.com/spf13)), lead developer [Bjørn Erik Pedersen](http://bep.is) ([@bep](https://github.com/bep)), and fantastic [contributors](https://github.com/spf13/hugo/graphs/contributors). Thanks also go to the Go language [team](http://golang.org/CONTRIBUTORS) itself, and the helpful folks on the Hugo [discussion forums](http://discuss.hugo.io)).
+* Bulma - by css guru [Jeremy Thomas](https://jgthms.com) ([@jgthms](https://github.com/jgthms)), extensions by [Wikiki](https://wikiki.github.io/form/slider/). 
+* Ryo Gothic Plus by Grand Master [Masahiko Kozuka](https://typekit.com/designers/masahiko-kozuka) and new talent [Ryoko Nishizuka](https://typekit.com/designers/ryoko-nishizuka). 
+* [Eddie Webb](https://edwardawebb.com/), [Kaushal Modi](https://scripter.co/), and [Josh Habdas](https://hackcabin.com/) for the various tutorials on implementing local site search in Fuze.js. 
+* Bryan Jones for [CodeKit](https://codekitapp.com/about/).
 
 ## License
 
