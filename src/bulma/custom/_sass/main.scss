@@ -479,3 +479,13 @@ color: white;
             padding-left: 30px;
         }
     }
+
+// Gallery
+
+.carousel-navigation {
+  pointer-events: none;
+}
+
+.carousel-nav-left, .carousel-nav-right {
+  pointer-events: auto;
+}
