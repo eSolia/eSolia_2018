@@ -20,12 +20,12 @@ aliases:
   - /concept
 menu:
   main:
-    Name: イソリアのついて
+    Name: イソリアについて
     Weight: 10
     Identifier: about_index_ja
     Url: /about-us
   aboutside:
-    Name: イソリアのついて
+    Name: イソリアについて
     Weight: 10
     Identifier: aboutsideindex_ja
     Url: /about-us
