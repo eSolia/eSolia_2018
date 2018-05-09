@@ -22,14 +22,15 @@ tags:
   - AWS
   - Route53
   - Webfaction
-  - nanoGallery
-  - Noto
   - Hugo
   - Go言語
   - Go
   - Humans.txt
   - マークダウン
   - Markdown
+  - Bulma
+  - Typekit
+  - Ryo Gothic
 topics:
   - 当サイト
 images:
@@ -41,16 +42,20 @@ images:
 
 ## ヒストリー
 
-<figure class="image-container">
-<img class="materialboxed right responsive-img" width="150" data-caption="eSolia Chicklet Logo" alt="eSolia Chicklet Logo" src="/img/eSolia-Chicklet-Color.svg" >
+<figure class="image is-128x128 is-pulled-left is-hidden-mobile">
+<img class="" data-caption="イソリアロゴ" alt="イソリアロゴ画像" src="/img/eSolia-Chicklet-Color.svg" >
 </figure>
 
 [巨人の肩の上にのる矮人](https://ja.wikipedia.org/wiki/%E5%B7%A8%E4%BA%BA%E3%81%AE%E8%82%A9%E3%81%AE%E4%B8%8A)という西洋の比喩表現がありますが、このサイトもその例外ではありません。
 以前のイソリアのサイトは「Rapidweaver」や「Typo3」にて作成されたものでした。各システムにはそれぞれの強みがありましたが、様々な理由から私達が利用していたそういったシステムには、アップグレードや依存関係などに関連するいくつかの脆弱性がありました。
 
+<figure class="image is-256x256 is-hidden-tablet">
+<img class="" data-caption="イソリアロゴ" alt="イソリアロゴ画像" src="/img/eSolia-Chicklet-Color.svg" >
+</figure>
+
 ## 静的サイトジェネレータ
 
-当サイトの検討時には、コンテンツファイル、スクリプトプログラムおよび画像ファイルから簡単に作られる「静的サイトジェネレータ」を考慮しました。
+2014年に当サイトの作成を検討した時には、コンテンツファイル、スクリプトプログラムおよび画像ファイルから簡単に作られる「静的サイトジェネレータ」を考慮しました。
 しかしながらこれらのシステムも、利用するための前提条件が多く、完全な開発環境を求めらる次第です。この複雑さは、サーバーやデーターベースを必要とする動的CMSの運用と、同様のものでした。
 
 ## ヒューゴについて
@@ -61,40 +66,39 @@ images:
 
 ヒューゴが何故そんなに早いのかというとそれは、WindowsやMac、Linux向けのGo言語で書かれたシングル・バイナリー構成であることが挙げられるでしょう。 ユーザはシステムに沿った一つのファイルをインストールし、そして[マークダウン](https://ja.wikipedia.org/wiki/Markdown) 形式コンテンツ、HTMLテンプレート、CSS、Javascript ファイルで構成されたフォルダを統合するだけです。敢えていうならウェブホストに出来上がったサイトをアップロードする時間よりも、ヒューゴを使いサイトをファイルから作成する方がよっぽど早く完成できてしまいます。その驚くべき早さたるや、ソフトウェアエンジニア達の偉業とも言えるでしょう。
 
-<figure class="image-container">
-<img class="materialboxed right responsive-img" width="300" data-caption="Hugo Logo" alt="Hugo Logo" src="/img/hugo-logo.png" >
+<figure class="">
+<img class="" width="400" data-caption="Hugo ロゴ" alt="Hugo ロゴの画像" src="/img/hugo-logo.png" >
 </figure>
 
-心からのどうも有難う！をHugoクリエーターの[スティーブ フランキア 氏](http://spf13.com) ([@spf13](https://github.com/spf13)) とヒューゴの作成に携わり沢山の苦労の形にしてくれた[関係者の皆様](https://github.com/spf13/hugo/graphs/contributors)（特に[ディスカッションフォーラム](http://discuss.hugo.io)で素晴らしかった [ビョーン エリック ペデルセン 氏](http://bep.is) ([@bep](https://github.com/bep))  へ贈りたいと思います。（ そして[Go言語チーム](http://golang.org/CONTRIBUTORS)の皆様にも。）
+_Hugoは、イソリア推薦SSGです。_
+
+心から感謝を贈りたいと言う方々がいます。Hugoクリエーターの[スティーブ フランキア 氏](http://spf13.com) ([@spf13](https://github.com/spf13))、開発リードを取っている[ビョーン エリック ペデルセン 氏](http://bep.is) ([@bep](https://github.com/bep))、プロジェクト[関係者の皆様](https://github.com/spf13/hugo/graphs/contributors)、[ディスカッションフォーラム](http://discuss.hugo.io)の方々、そして、[Go言語チーム](http://golang.org/CONTRIBUTORS)の皆様にも。
 
 ## 当サイトの見た目
 
-このウェブサイトの外観・デザインは、Google社の[マテリアル・デザイン](http://www.google.co.jp/design/spec/material-design/introduction.html) をベースとしています。サービスの開発環境・仕様に関してGoogle社より以下の様に述べられています。
+このウェブサイトの外観・デザインは、いくつかのコンポーネントから出来てます。まずは、["Bulma"](https://bulma.io)をベースにしてます。これについて： 
 
-> 私達は技術や科学の可能性と革新を融合した良いデザインの、標準原則を統合した視覚的な言語の作成に挑戦しました。それがマテリアルデザインです。
+> Bulmaは、Flexboxを基板にして10万人の開発者が使っているオープンソースCSSフレームワークです。
 
-マテリアルデザインの実装は[マテリアライズ](http://materializecss.com/)と呼ばれるCSSのフレームワークを用いて実現されます。マテリアライズは開発済みCSS、Javaスクリプト、そしてフォントファイルの集合です。
-これによりウェブページにCSSクラス名を指定するだけで簡単にコンポーネントを特定することが出来たり、ブラウザのサイズ変更時に応答しリサイズ、もしくはiPadやiPhoneなどのモバイル端末などからの閲覧を可能にするレスポンシブグリッドの設定が可能となります。
+サイト見た目の統一性、又はモバイルユーザのサポートを元にしてます。どんな種類のサイトでも、良いスタート地点です。
 
-<figure class="image-container">
-<img class="materialboxed right responsive-img" width="300" data-caption="Noto from Google" alt="Noto font from Google" src="/img/noto.png" >
-</figure>
+フォントですが、主にAdobe Typekitの[Ryo Gothic](https://typekit.com/fonts/ryo-gothic-plusn) を使ってます。[こちらも](https://typekit.com/colophons/fwz4gtk)ご参照に。
 
-サイト内のフォントに関しては[「Noto」](https://github.com/googlei18n/noto-fonts)フォントを使用しています。このフォントはGoogle社の素晴らしい取り組みの一つですが、全ての人に世界中のどの様な言語でも読みやすく表示することを目標にして作られています。
+アイコンですが、[Font Awesome](https://fontawesome.com/icons?d=gallery)を使ってます。
 
-なお、ウェブページにて文字が正しく表示できない場合に四角いボックスの記号が代わりに表示されますが、これがよく「Tofu」(豆腐)と呼ばれることから、「No Tofu」の目標を込めてこの名前となったそうです。
+写真や画像は主にイソリア社長のコグレー昨です。 
 
-前者の利用が向かない用途の際には、グーグル社のMaterial Design Libraryや、[「Font Awesome」](http://fortawesome.github.io/Font-Awesome/) ライブラリーなどでも色々なアイコンフォントを発見出来ます。私達のカスタムアイコンフォントは[「フォンテロ」](http://fontello.com/)という面白いサービスを利用しています。
+## データ
 
-サイト内の写真については、いくつかは写真素材サービスを利用していますが、そのほとんどはリック・コグレーにより撮影されたものです。ページギャラリーはJavascriptで作ら、役立ち[「nanoGALLERY」](http://nanogallery.brisbois.fr)により表示されています。
+ホームページのショートポスト一覧とプロジェクト一覧は、又、[ニュース一覧](https://esolia.com/post) や [成功事例のプロジェクト一覧](https://esolia.com/success-stories) のパージについて、表示データを弊社のクラウド型データーベースの[PROdb](https://esolia.com/prodb)から引っ張ってます。[お問い合わせ](https://esolia.com/info-request) フォームも、PROdbへデータを書き込んでます。それから、スパム防止対策のため、Google [Re-Captcha](https://www.google.com/recaptcha/intro/android.html)を使ってお問い合わせフォームをスパマーから守ってます。
 
 ## ホスティング
 
-<figure class="image-container">
-<img class="materialboxed right responsive-img" width="300" data-caption="Webfaction Logo" alt="Webfaction Logo" src="/img/webfaction-logo.png" >
-</figure>
-
 このサイトと私達が管理する他のいくつかのサイトは、とても信頼を置いている[「ウェブファクション」](http://www.webfaction.com/?affiliate=rcogley)にホストされています。ウェブファクションは素晴らしい費用対効果のあるサービスを開発者に提供しており、その中で私達は何年も利用していますが、一度も大きな問題が起こったことはありません。
+
+<figure class="">
+<img class="" width="400" data-caption="Webfaction Logo" alt="Webfaction Logo" src="/img/webfaction-logo.png" >
+</figure>
 
 DNSサービスは堅牢かつ高速なAmazonウェブサービス、[「Route53」](https://aws.amazon.com/route53/), を利用しています。
 
@@ -102,11 +106,11 @@ DNSサービスは堅牢かつ高速なAmazonウェブサービス、[「Route53
 
 ## 我々は Humans(.txt) だ
 
-<figure class="image-container">
-<img class="materialboxed right responsive-img" width="220" data-caption="Humans.txt Logo" alt="Humans.txt Logo" src="/img/humans-txt-large-logo2.png" >
-</figure>
-
 [``Humans.txt``](/humans.txt) ファイルをご存知でしょうか。[Humans.txt](http://humanstxt.org)はウェブサイトの奥付（サイト作製には何を実際に使ったかなど）の作る方法を比較的標準化しようとする試みであり、また検索エンジンのクローラープログラムに指示するrobots.txtととも関係してます。
+
+<figure class="">
+<img class="" width="400" data-caption="Humans.txt Logo" alt="Humans.txt Logo" src="/img/humans-txt-large-logo2.png" >
+</figure>
 
 [クリック](/humans.txt)すると単純なテキストのみの形式で、この奥付ページと基本的に同じ内容の情報が表示されます。
 
