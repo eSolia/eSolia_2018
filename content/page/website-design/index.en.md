@@ -136,6 +136,11 @@ _Upgrades_    |As You Like   |Continual & Fragile
 
 We discuss this topic at the beginning of any from-scratch project.
 
+<figure class="">
+<img class="" width="500" data-caption="Hugo High-level flow" alt="Diagram showing high level flow for Hugo static site generator" src="/img/eSolia-Post-Hugo-Flow-en.png" >
+<figcaption><em>Hugo High-level Flow</em></figcaption>
+</figure>
+
 #### Need Data for your Static Site? 
 
 If data-driven content is needed for your static site, we use our secure cloud database [PROdb](/prodb) for that purpose, displaying for example lists of people, cases, organizations, contact info, orders and so on. Your security is never weakened by doing this, and it is very easy for you to manage yourself in PROdb. 

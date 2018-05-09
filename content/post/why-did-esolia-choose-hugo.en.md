@@ -84,8 +84,8 @@ Hugo's open source [community](http://discuss.gohugo.io/latest) is vibrant, [dev
 
 To use Hugo, a web designer builds html "template" files that reference css and javascript, as well as various variables that Hugo understands (like the title, description or keywords of the page). Content files are written in [Markdown](http://daringfireball.net/projects/markdown/) text format. The designer then simply runs Hugo to merge folders of content text files, into the HTML templates, CSS and Javascript files. The result, in a few milliseconds, is a fully-built website folder that can be transferred to a web host.
 
-<figure class="image-container">
-<img class="materialboxed responsive-img" width="500" data-caption="Hugo High-level flow" alt="Diagram showing high level flow for Hugo static site generator" src="/img/eSolia-Post-Hugo-Flow-en.png" >
+<figure class="">
+<img class="" width="500" data-caption="Hugo High-level flow" alt="Diagram showing high level flow for Hugo static site generator" src="/img/eSolia-Post-Hugo-Flow-en.png" >
 <figcaption><em>Hugo High-level Flow</em></figcaption>
 </figure>
 
@@ -99,4 +99,4 @@ If data-driven content is needed for your static site, we use our secure cloud d
 
 ## Ask eSolia
 
-If you're considering Hugo as a solution for re-doing your own website, please feel free to [contact eSolia](/info-request) for professional help.
+If you're considering Hugo as a solution for re-doing your own website, read about our [web design](/website-design) services, and please feel free to [contact eSolia](/info-request) for professional help.

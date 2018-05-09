@@ -105,5 +105,5 @@ Hugoを使うにはウェブデザイナーが、cssとjavascriptやHugoが特�
 
 ## eSoliaにお任せを!
 
-お持ちのサイト立て直しご検討中であれば、ご遠慮なくイソリアに[お任せください](http://esolia.co.jp/info-request)。
+お持ちのサイトを立て直しご検討中であれば、弊社の[ウェブサイトデザイン](/website-design)ページをご参照にし、ご遠慮なくイソリアに[お任せください](http://esolia.co.jp/info-request)。
 

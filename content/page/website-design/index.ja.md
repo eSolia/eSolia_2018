@@ -138,6 +138,11 @@ _アップグレード_    |任意   |継続的かつ脆弱
 
 ゼロからプロジェクトを開始する場合でもご相談ください。
 
+<figure class="image-container">
+<img class="materialboxed responsive-img" width="500" data-caption="Hugoフロー図" alt="Hugoという静的コンテンツゲネレーションの、ワークフロー図。" src="/img/eSolia-Post-Hugo-Flow-ja.png" >
+<figcaption><em>Hugoのフロー図</em></figcaption>
+</figure>
+
 #### 静的サイトにデータが必要？ 
 
 静的ウェブサイトのページに、データの一覧（人、件、組織、住所、注文など）が必要な場合、弊社のクラウド型データベース[PROdb](/prodb)がおすすめです。セキュリティが弱くなることなく、且つ、PROdbにて簡単に自分で管理もできます。
