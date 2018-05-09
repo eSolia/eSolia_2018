@@ -4,6 +4,8 @@ draft = "false"
 tags = ["ブログ","ニュース","ポスト","アーカイブ"]
 title = "ニュース一覧"
 subtitle = "下記はイソリア記事及びショートポストの一覧"
+aliases:
+  - /news
 +++
 
  

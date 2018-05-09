@@ -299,7 +299,7 @@ other = "Information"
 other = "The latest short posts from eSolia"
 
 [topsectioninfotext]
-other = "See also the [full list of posts](/news)."
+other = "See also the [full list of posts](/post)."
 
 [newsarchivearticlesbyyear]
 other = "Articles by Year"

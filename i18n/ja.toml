@@ -299,7 +299,7 @@ other = "情報"
 other = "イソリアより、最新のショートポスト"
 
 [topsectioninfotext]
-other = "全ポスト含まれてる一覧も[ご覧ください](/news)。"
+other = "全ポスト含まれてる一覧も[ご覧ください](/post)。"
 
 [newsarchivearticlesbyyear]
 other = "記事"
