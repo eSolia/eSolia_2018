@@ -6,24 +6,24 @@
     Owner: eSolia Inc.
     Contact: http://esolia.com/about
     Twitter: @eSolia_Inc
+    Developer: Rick Cogley
 
 /* THANKS */
 
-    Hugo Author: Steve Francia
+    Hugo Founder: Steve Francia
     Contact: http://spf13.com
     Twitter: @spf13
 
-    Hugo Contributor: Bjørn Erik Pedersen
+    Hugo Primary Developer: Bjørn Erik Pedersen
     Contact: http://bep.is/
 
     Various Hugo Contributors: https://github.com/spf13/hugo/graphs/contributors
 
-    Google, for Material Design, Go Language
-    Contact: http://www.google.co.jp/design/spec/material-design/introduction.html
+    Google, for Go Language
     Contact: http://golang.org/
 
-    Alvin Wang, Alan Chang, Alex Mark, Kevin Louie, for MaterializeCSS
-    Contact: http://materializecss.com/about.html
+    Jeremy Thomas, for Bulma CSS
+    Contact: https://bulma.io/
 
 /* TECHNOLOGY */
 
@@ -31,13 +31,13 @@
 
     Language Used by Hugo, go, http://golang.org/
 
-    Site Base: HTML5, CSS3, Javascript, jQuery
+    Site Base: HTML5, CSS3, Javascript, jQuery, Vue.js, Fuse.js
 
-    Site CSS Framework: MaterializeCSS http://materializecss.com
+    Site CSS Framework: Bulma https://bulma.io
 
-    Icons: Font Awesome, http://fortawesome.github.io/Font-Awesome/
+    Icons: Font Awesome, https://fontawesome.com/icons?d=gallery
 
-    Site Repository: Github, https://github.com/eSolia/eSolia
+    Site Repository: Github, https://github.com/rickcogley/eSolia_2018
 
     Site Hosting: Webfaction, http://www.webfaction.com/?affiliate=rcogley
 
@@ -45,11 +45,9 @@
 
     Markup: Markdown, http://daringfireball.net/projects/markdown/
 
-    Gallery: nanoGallery, http://nanogallery.brisbois.fr
-
 /* SITE */
 
-	Last update: 2015/06/27
+	Launched: 2018/05/06
 	Languages: English / Japanese
 	Doctype: HTML5
-	IDE: Atom, iTerm2, SmartGit
+	IDE: BBEdit, iTerm2, SmartGit
