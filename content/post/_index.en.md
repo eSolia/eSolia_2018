@@ -4,8 +4,9 @@ draft = "false"
 tags = ["blog","news","posts","archive"]
 title = "News Archive"
 subtitle = "This is the eSolia Archive of articles and short posts."
-aliases:
-  - /news
+aliases = [
+    "/news"
+]
 +++
 
  
