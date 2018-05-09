@@ -6,7 +6,7 @@ publishdate: 2018-05-01T07:07:27+09:00
 description: Why eSolia chose the static site generator Hugo - a blog post on eSolia.pro from eSolia Inc.
 draft: false
 slug: why-did-esolia-choose-hugo
-title: Why Hugo?
+title: Why Did eSolia Choose Hugo?
 subtitle: A static site generator optimized for performance
 postsummary: eSolia has used various systems to generate and publish our websites over the years, but recently settled on and re-built our sites using the static site generator "Hugo". Hugo is not only easy to use, and fast when building our sites, but also is available as a single, easy-to-install binary file for Mac, Linux and Windows.
 alternatelocales:
@@ -54,9 +54,9 @@ _Content Update_  |Via Files    |Access Dashboard
 _Visual Style_   |Any    |Themes
 _Upgrades_    |As You Like   |Continual & Fragile
 
-## The Trouble with Static
+## The Trouble with Some Static Site Generators
 
-These days, open source "static site generators" (SSGs) are all the rage, and use some kind of application you install on your Mac or PC to weave together html template files, content files usually written in markdown, css files for style, javascript scripts for UI tricks, and your media files like photos and videos. The problem with SSGs is that you have to install some programming language like Perl, Ruby or Python on your system, to get them working.
+These days, open source "static site generators" (SSGs) are all the rage, and use some kind of application you install on your Mac or PC to weave together html template files, content files usually written in markdown, css files for style, javascript scripts for UI tricks, and your media files like photos and videos. The problem with certain SSGs is that you have to install and maintain a programming language like Perl, Ruby or Python on your system, to get them working.
 
 Most SSGs therefore come with the overhead of maintaining a development environment for a required programming language, and all its myriad dependencies. What that really means is the environment has to be _kept_ updated, and that trouble will likely occur when you upgrade or patch the OS. Sometimes, this can get really difficult and irritating. Your site then cannot be updated until you get everything installed just right.
 
@@ -72,7 +72,7 @@ Another potential problem with SSGs is build performance. It may take a fair amo
 <img class="" width="200" data-caption="Hugo Logo" alt="Graphic of the Hugo Logo" src="/img/hugo-logo.png" >
 </figure>
 
-We did a lot of searching for an SSG which would be easy to use, and fast when building the site. [Hugo](http://gohugo.io), written in the modern "Go" language, fits that requirement perfectly, and is easy to install for Mac, Linux or Windows. The [project](https://github.com/gohugoio) was founded by [Steve Francia](http://spf13.com) ([@spf13](https://github.com/spf13)), the development is led by [Bjørn Erik Pedersen](http://bepsays.com/en/) with [contributions from many](https://github.com/spf13/hugo/graphs/contributors), resulting in an insanely great static site generator in terms of speed and performance.
+We did a lot of searching for an SSG which would be easy to use, and fast when building the site. [Hugo](http://gohugo.io), written in the modern "Go" language, fits that requirement perfectly, and is easy to install for Mac, Linux or Windows. The [project](https://github.com/gohugoio) was founded by [Steve Francia](http://spf13.com) ([@spf13](https://github.com/spf13)), the development is led by [Bjørn Erik Pedersen](http://bepsays.com/en/) with [contributions from many](https://github.com/spf13/hugo/graphs/contributors), resulting in an _insanely great_ static site generator in terms of speed and performance.
 
 As a result, most Hugo sites build in milliseconds; in fact it usually takes longer to sync them to your web host (via rsync or ftp) than it does to generate the site files!
 
@@ -82,7 +82,7 @@ Hugo's open source [community](http://discuss.gohugo.io/latest) is vibrant, [dev
 
 ## Using Hugo
 
-To use Hugo, a web designer builds html "template" files that reference css and javascript, as well as various variables that Hugo understands (like the title, description or keywords of the page). Content files are written in [Markdown](http://daringfireball.net/projects/markdown/) text format. The designer then simply runs Hugo to merge folders of content text files, into the HTML templates, CSS and Javascript files. The result, in a few milliseconds, is a fully-built website folder that can be transferred to a web host.
+To use Hugo, a web designer builds html "template" files that reference css and javascript, as well as various variables that Hugo understands (like the title, description or keywords of the page). Content files are written in [Markdown](http://daringfireball.net/projects/markdown/) text format. The designer then simply runs Hugo to merge folders of content text files, into the HTML templates, CSS and Javascript files. The result, in a few milliseconds, is a fully-built website folder that can be transferred to a web host via several standard methods.
 
 <figure class="">
 <img class="" width="500" data-caption="Hugo High-level flow" alt="Diagram showing high level flow for Hugo static site generator" src="/img/eSolia-Post-Hugo-Flow-en.png" >
