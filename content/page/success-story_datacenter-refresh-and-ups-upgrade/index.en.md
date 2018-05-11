@@ -55,7 +55,7 @@ Provision of project management and engineering for a Tokyo data center, upgradi
 
 Additionally, we took advantage of the opportunity to be allowed by the busy legal professionals to have a full 40-hour time window, to bolster the data center's earthquake proofing, and to remove old equipment and cable, as well as to re-vamp the structured cabling in the racks to gain more space for growth.
 
-This project long to plan, and a challenge to execute, given the many teams involved - project, construction, electricity, cabling and test.
+This project took a long time to plan, and was a challenge to execute, given the many teams involved - project, construction, electricity, cabling and test.
 
 Parameter | Value
 ------|------
