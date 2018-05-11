@@ -536,6 +536,16 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/bower_components\/bulma-carousel\/src\/events.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/bower_components\/bulma-carousel\/src\/events.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"\/bower_components\/bulma-carousel\/src\/extension.js": {
 		"ft": 64,
 		"ma": 0,
@@ -2135,16 +2145,6 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
-		},
-	"\/bower_components\/bulma-timeline\/dist\/bulma-timeline.min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/bower_components\/bulma-timeline\/dist\/bulma-timeline.min.css",
-		"oF": 0,
-		"oS": 3
 		},
 	"\/bower_components\/bulma-timeline\/dist\/bulma-timeline.sass": {
 		"aP": 1,
