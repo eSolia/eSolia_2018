@@ -1,6 +1,7 @@
 +++
 date = "2018-05-06T07:07:27+09:00"
 draft = "false"
+layout = "newsarchive"
 tags = ["ブログ","ニュース","ポスト","アーカイブ"]
 title = "ニュース一覧"
 subtitle = "下記はイソリア記事及びショートポストの一覧"

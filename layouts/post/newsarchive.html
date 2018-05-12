@@ -43,7 +43,29 @@
         <p class="title is-5"><h1>{{ .Title }}</h1></p>
         <p class="subtitle is-italic has-text-esolia-blue-2">{{ .Params.subtitle }}</p>
         {{ .Content }}
-
+        <div class="columns">
+          <div class="column">
+          　　<h3>{{ i18n "newsarchivearticlesbyyear" }}</h3>
+                {{ range .Data.Pages.GroupByDate "2006" }}
+                <h4 class="">{{ .Key }}</h4>
+                    <ul class="list">
+                        {{ range .Pages }}
+                            {{ .Render "li"}}
+                        {{ end }}
+                    </ul>
+                {{ end }}
+                </div>
+          <div class="column" id="hideheader">
+          　　<h3>{{ i18n "newsarchiveshortposts" }}</h3>
+                {{- if eq .Site.Language.Lang "en" -}}
+                <script src="https://pro.dbflex.net/secure/embed.js"
+        data-url="/ev-3461316/db/15331/view.aspx"></script>
+                {{- else -}}
+                <script src="https://pro.dbflex.net/secure/embed.js"
+        data-url="/ev-3461317/db/15331/view.aspx"></script>
+                {{- end -}}
+          </div>
+        </div>
       </div>
   </div>
 </div>
