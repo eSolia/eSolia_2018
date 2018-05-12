@@ -418,6 +418,9 @@ other = "Request More Information"
 [infoformblurb]
 other = "Interested in getting our help with this service or solution? Please [contact us today](/info-request/)."
 
+[infoformblurb2]
+other = "Can eSolia help _your_ firm with a project like this? Please [contact us today](/info-request/)."
+
 [searchresults]
 other = "Showing results for:"
 

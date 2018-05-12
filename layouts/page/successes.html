@@ -44,7 +44,7 @@
         <p class="subtitle is-italic has-text-esolia-secondary-1-3">{{ .Params.subtitle }}</p>
         {{ .Content }}
         {{ if isset .Params "formcheckboxes" }}
-          {{- partial "form-moreinfo.html" . -}}
+          {{- partial "form-moreinfo2.html" . -}}
         {{ end }}
         {{if isset .Params "gallery_id" }}
            {{ partial "gallery.html" . }}

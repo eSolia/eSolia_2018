@@ -1,0 +1,119 @@
+{{ $id := .Get 0 }}
+{{ range where .Site.Data.success ".Id" $id }}
+
+{{ if eq $.Site.Language.Lang "en" }}
+<h2>Project Background</h2>
+{{ with (index . "Project Background") }}{{ . | markdownify | safeHTML }}{{ end }}
+
+<br><br>
+<table class="table is-striped is-hoverable">
+  <thead>
+    <tr>
+      <th>Project Aspect</th>
+      <th>Note</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th class="is-italic">Organization Type</th>
+      <td>{{ with (index . "Generic Type") }}{{ . }}{{ end }}</td>
+    </tr>
+    <tr>
+      <th class="is-italic">Completion Date</th>
+      <td>{{ with (index . "Completion Date") }}{{ . | dateFormat "2 Jan 2006" }}{{ end }}</td>
+    </tr>
+    <tr>
+      <th class="is-italic">Team Members</th>
+      <td>{{ with (index . "Team Members") }}{{ . }}{{ end }}</td>
+    </tr>
+    <tr>
+      <th class="is-italic">Users</th>
+      <td>{{ with (index . "Users") }}{{ . }}{{ end }}</td>
+    </tr>
+    <tr>
+      <th class="is-italic">Project Duration</th>
+      <td>{{ with (index . "Project Duration (Months)") }}{{ . }}{{ end }}</td>
+    </tr>
+    <tr>
+      <th class="is-italic">Project Effort</th>
+      <td>{{ with (index . "Project Effort (Months)") }}{{ . }}{{ end }}</td>
+    </tr>
+    <tr>
+      <th class="is-italic">Sites</th>
+      <td>{{ with (index . "Sites") }}{{ . }}{{ end }}</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>Problem</h2>
+{{ with (index . "Problem") }}{{ . | markdownify | safeHTML }}{{ end }}
+
+<h2>Solution</h2>
+{{ with (index . "Solution") }}{{ . | markdownify | safeHTML }}{{ end }}
+
+<h2>Benefits</h2>
+{{ with (index . "Benefits") }}{{ . | markdownify | safeHTML }}{{ end }}
+
+<h2>Technology</h2>
+{{ with (index . "Technology") }}{{ . | markdownify | safeHTML }}{{ end }}
+
+{{ end }}
+
+{{ if eq $.Site.Language.Lang "ja" }}
+<h2>プロジェクトのバックグランド</h2>
+{{ with (index . "Project Background‡") }}{{ . | markdownify | safeHTML }}{{ end }}
+
+<br><br>
+<table class="table is-striped is-hoverable">
+  <thead>
+    <tr>
+      <th>プロジェクト属性</th>
+      <th>備考</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th class="is-italic">企業の種類</th>
+      <td>{{ with (index . "Generic Type‡") }}{{ . }}{{ end }}</td>
+    </tr>
+    <tr>
+      <th class="is-italic">完了日</th>
+      <td>{{ with (index . "完了日") }}{{ . | dateFormat "2 Jan 2006" }}{{ end }}</td>
+    </tr>
+    <tr>
+      <th class="is-italic">チーム人数</th>
+      <td>{{ with (index . "Team Members‡") }}{{ . }}{{ end }}</td>
+    </tr>
+    <tr>
+      <th class="is-italic">ユーザー数</th>
+      <td>{{ with (index . "Users‡") }}{{ . }}{{ end }}</td>
+    </tr>
+    <tr>
+      <th class="is-italic">期間</th>
+      <td>{{ with (index . "Project Duration (Months)‡") }}{{ . }}{{ end }}</td>
+    </tr>
+    <tr>
+      <th class="is-italic">工数</th>
+      <td>{{ with (index . "Project Effort (Months)‡") }}{{ . }}{{ end }}</td>
+    </tr>
+    <tr>
+      <th class="is-italic">サイト</th>
+      <td>{{ with (index . "Sites‡") }}{{ . }}{{ end }}</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>問題点</h2>
+{{ with (index . "Problem‡") }}{{ . | markdownify | safeHTML }}{{ end }}
+
+<h2>ソリューション</h2>
+{{ with (index . "Solution‡") }}{{ . | markdownify | safeHTML }}{{ end }}
+
+<h2>ベネフィット</h2>
+{{ with (index . "Benefits‡") }}{{ . | markdownify | safeHTML }}{{ end }}
+
+<h2>導入技術概要</h2>
+{{ with (index . "Technology‡") }}{{ . | markdownify | safeHTML }}{{ end }}
+
+{{ end }}
+{{ end }}
