@@ -76,13 +76,12 @@ menu:
     Url: /japan-expat-home-setup
 ---
 
-<small>
-<a class="grey lighten-3 green-text waves-effect waves-light btn">購入</a>
-<a class="grey lighten-3 green-text waves-effect waves-light btn">インストール</a>
-<a class="grey lighten-3 green-text waves-effect waves-light btn">設定</a>
-<a class="grey lighten-3 green-text waves-effect waves-light btn">移動</a>
-<a class="grey lighten-3 green-text waves-effect waves-light btn">トレーニング</a>
-</small>
+<div class="buttons has-addons is-hidden-tablet">
+  <a class="button" href="/solutions"><span class="icon"><i class="fas fa-anchor"></i></span></a>
+  <a class="button" href="/prodb">PROdb クラウド型データーベース</a>
+  <a class="button" href="/procr">PROcr 通話録音</a>
+  <a class="button is-active" href="/japan-expat-home-setup">外国人ホームPC設定</a>  
+</div>
 
 ## 異国の地にいる他国人？
 

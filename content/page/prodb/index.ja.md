@@ -81,6 +81,13 @@ menu:
     Url: /prodb
 ---
 
+<div class="buttons has-addons is-hidden-tablet">
+  <a class="button" href="/solutions"><span class="icon"><i class="fas fa-anchor"></i></span></a>
+  <a class="button is-active" href="/prodb">PROdb クラウド型データーベース</a>
+  <a class="button" href="/procr">PROcr 通話録音</a>
+  <a class="button" href="/japan-expat-home-setup">外国人ホームPC設定</a>  
+</div>
+
 ## Excelでの管理に飽きた方へ
 
 もし御社の大事なデータがまだExcelなどの表計算で管理されているのであれば、恐らく表計算のデータ統合や改変をするのがとても複雑で、エラーが発生しやすい事にお気づきでしょう。

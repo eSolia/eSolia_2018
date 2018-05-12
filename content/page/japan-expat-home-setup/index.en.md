@@ -73,13 +73,12 @@ menu:
     Url: /japan-expat-home-setup
 ---
 
-<small>
-<a class="grey lighten-3 green-text waves-effect waves-light btn">Source</a>
-<a class="grey lighten-3 green-text waves-effect waves-light btn">Install</a>
-<a class="grey lighten-3 green-text waves-effect waves-light btn">Configure</a>
-<a class="grey lighten-3 green-text waves-effect waves-light btn">Migrate</a>
-<a class="grey lighten-3 green-text waves-effect waves-light btn">Walkthrough</a>
-</small>
+<div class="buttons has-addons is-hidden-tablet">
+  <a class="button" href="/solutions"><span class="icon"><i class="fas fa-anchor"></i></span></a>
+  <a class="button" href="/prodb">PROdb Cloud Database</a>
+  <a class="button" href="/procr">PROcr Call Recording</a>
+  <a class="button is-active" href="/japan-expat-home-setup">Expat Home Setup</a>  
+</div>
 
 ## A Stranger in a Strange Land?
 

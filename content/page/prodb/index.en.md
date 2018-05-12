@@ -83,6 +83,13 @@ menu:
     Url: /prodb
 ---
 
+<div class="buttons has-addons is-hidden-tablet">
+  <a class="button" href="/solutions"><span class="icon"><i class="fas fa-anchor"></i></span></a>
+  <a class="button is-active" href="/prodb">PROdb Cloud Database</a>
+  <a class="button" href="/procr">PROcr Call Recording</a>
+  <a class="button" href="/japan-expat-home-setup">Expat Home Setup</a>  
+</div>
+
 ## Still Running on Spreadsheets?
 
 If you're still running your business on spreadsheets, perhaps you've noticed that consolidations or reconciliations can get rather complex and error-prone. If the cost and time of converting a spreadsheet to a proper database has put you off in the past, please consider having us convert your sheets into our flexible and professionally-run _cloud database_, PROdb.

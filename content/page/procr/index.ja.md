@@ -73,12 +73,12 @@ menu:
     Url: /procr
 ---
 
-<small>
-<a class="grey lighten-3 green-text waves-effect waves-light btn">トレーニング</a>
-<a class="grey lighten-3 green-text waves-effect waves-light btn">品質管理</a>
-<a class="grey lighten-3 green-text waves-effect waves-light btn">顧客満足度</a>
-<a class="grey lighten-3 green-text waves-effect waves-light btn">コンプライアンス</a>
-</small>
+<div class="buttons has-addons is-hidden-tablet">
+  <a class="button" href="/solutions"><span class="icon"><i class="fas fa-anchor"></i></span></a>
+  <a class="button" href="/prodb">PROdb クラウド型データーベース</a>
+  <a class="button is-active" href="/procr">PROcr 通話録音</a>
+  <a class="button" href="/japan-expat-home-setup">外国人ホームPC設定</a>  
+</div>
 
 ## IP PBX 電話録音
 
