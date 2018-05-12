@@ -4,41 +4,35 @@ date: 2018-05-06T07:07:27+09:00
 publishdate: 2018-05-06T07:07:27+09:00
 draft: true
 slug: success-story_office-and-lab-construction-project
-title: Office and Lab
-subtitle: at a Major Elec Micro Maker
-description: Provision of Project Management for ERP rollout through all phases to the successful go-live. - from eSolia Inc.
+title: Office and Lab Construction with Office Consolidation
+subtitle: at a Global Electron Microscope Maker
+description: Provision of Project Management and Engineering for Office and Lab Construction followed by a successful consolidation of two offices into the new one. - from eSolia Inc.
 layout: successes
 alternatelocales:
   - ja-JP
 tags:
-  - ERP
-  - Enterprise
-  - Inventory
-  - AS400
-  - SOX
-  - Baan
-  - 3PL
-  - logistics
-  - EDI
-  - Argo21
-  - TIE
+  - Office Construction
+  - Lab Construction
+  - Bilingual Liaison
+  - Office Move
+  - Office Consolidation
+  - Japan Vendor Management
+  - PM
+  - Project Management
+  - IT Engineering
 topics:
   - Success Stories
 images:  
   - /img/eSolia-Chicklet-Color-1024px.png
 formcheckboxes:
-  - ERP rollout
   - Project management
   - Multi-project Portfolio management
-  - Logistics and 3PL
-  - Customer Service, Order Center
-  - Regulatory, FDA, SOX compliance
-  - Business Intelligence
-  - Liaison between Japan and HQ
-  - EDI Electronic Data Interchange
+  - Office Move
+  - Office Consolidation
+gallery_id: 109989173467424472552
 menu:
   main:
-    Name: Office and Lab
+    Name: Office and Lab Move
     Weight: 50
     Parent: success_index_en
     Identifier: successofficelab_en
@@ -46,7 +40,7 @@ menu:
     Pre: fa-flag-checkered
     Post: Challenging project brings efficiencies
   successes:
-    Name: Office and Lab
+    Name: Office and Lab Move
     Identifier: officelab1_en
     Url: /success-story_office-and-lab-construction-project
     Parent: sucsideindex_en
