@@ -8,7 +8,7 @@
     "Description‡": "大型オフィス及びラボ工事、２つの事務所を引っ越させ1つにする",
     "Generic Type": "Electron Microscope Maker",
     "Generic Type‡": "電子顕微鏡メーカー",
-    "Project Background": "Management determined that a lab is needed in Japan, and this project entails building an office and lab, and moving two offices into 1,231 m<sup>2</sup> (13250 ft<sup>2</sup>) of leased space. Electron Microscopes are extremely sensitive instruments which need a tightly controlled environment, so the construction of the lab area had to be completed to a very strict specification. ",
+    "Project Background": "Management determined that a lab is needed in Japan, and this project entails building an office and lab, and moving two offices into 1,231 m<sup>2</sup> (13250 ft<sup>2</sup>) of leased space. Electron Microscopes are extremely sensitive instruments which need a tightly controlled environment, so the construction of the lab area needed to be completed to a very strict specification. Client was acquired partway through this project, which caused a few new challenges along the way. ",
     "Project Background‡": "マネージメントは日本にラボが必要だと判断し、このプロジェクトは、新事務所とラボの工事をしてから、二つの事務所を新しい1つの1,231 m<sup>2</sup>事務所に引っ越させる。",
     "Team Members": "20",
     "Team Members‡": "20",
@@ -20,13 +20,13 @@
     "Project Effort (Months)‡": "40 人月",
     "Sites": "Tokyo x 2, Yokohama x 1",
     "Sites‡": "東京2つ、横浜1つ",
-    "Problem": "* sensitive lab instruments need a tightly-controlled environment, with regard to vibration and humidity.\r\n* lab engineers require data for temp, humidity and oxygen.\r\n* delivery of heavy lab equipment requires reinforced floor.\r\n* lab floor must be anti-static and anti-chemical in certain areas. \r\n* water is being piped to the tools, so there is a risk of damage from flooding. ",
+    "Problem": "* Sensitive lab instruments need a tightly-controlled environment, with regard to vibration, sound absorption, EMI, temperature and humidity among others.\r\n* Lab engineers require data for temp, humidity and oxygen.\r\n* Delivery of heavy lab equipment requires reinforced floor.\r\n* Lab floor must be anti-static and anti-chemical in certain areas. \r\n* Water is being piped to the tools, so there is a risk of damage from flooding. \r\n* IT cabling is physically a challenge in the lab, because of the special construction. \r\n* New but ill-defined IT standards need to be followed. \r\n* Client standard Honeywell door security system must be connected with Panasonic building management system. ",
     "Problem‡": "* これ\r\n* それ",
-    "Solution": "* tight control of building location selection, and strict specification of HVAC environment control\r\n* devices deployed to measure temp, humidity and oxygen, and data stored in eSolia cloud db \"[PROdb](https://esolia.com/prodb)\".\r\n* floor reinforced by steel plates to allow delivery of heavy lab equipment. \r\n* special anti-static, anti-chemical flooring poured over slab. \r\n* a water \"rope\" is in use to shut off water flow if flooding is detected.",
+    "Solution": "* Tight control of building location selection to reduce vibration, strict specification of HVAC environment control in and design of lab rooms.\r\n* Devices deployed to measure temp, humidity and oxygen, and data stored in eSolia cloud db \"[PROdb](https://esolia.com/prodb)\".\r\n* Floor reinforced by steel plates to allow delivery of heavy lab equipment. \r\n* Special anti-static, anti-chemical flooring poured over slab. \r\n* A water \"rope\" is in use to shut off water flow if flooding is detected.\r\n* New IT equipment selected to conform to future standards. \r\n* Engineering performed to link Honeywell door security system to Panasonic building system; designed, installed, tested, operational guidelines created. ",
     "Solution‡": "* これ\r\n* それ",
-    "Benefits": "* final lab area is a true showcase and designed specifically to supply the environment that the electron microscopes need.\r\n* environment data is available to lab engineers, and a report is sent automatically on a regular basis. \r\n* damage is limited by auto-shutoff of water pipes, when flooding is detected. ",
+    "Benefits": "* Final lab area is a true showcase and designed specifically to supply the environment that the electron microscopes need.\r\n* Environment data is available to lab engineers, with periodical reports sent automatically. \r\n* Damage is limited by auto-shutoff of water pipes, when flooding is detected. \r\n* IT environment is modern and flexible. \r\n* Global standard Honeywell security system is enabled, yet still linked to domestic building security system and fire alarm. ",
     "Benefits‡": "* これ\r\n* それ",
-    "Technology": "* special HVAC units installed to control humidity.\r\n* Chemicrete liquid flooring.\r\n* sensors that collect data on temp, humidity, water leakage and oxygen level.",
+    "Technology": "* Special HVAC units installed to control humidity.\r\n* EMI control equipment installed in lab rooms with most sensitive equipment. \r\n* \"Chemicrete\" liquid flooring used to reduce static and allow chemical spills.\r\n* Sensors that collect data on temp, humidity, water leakage and oxygen level.\r\n* Cisco network and telecomm equipment. \r\n* Honeywell door access system, with custom link to Panasonic building security system. ",
     "Technology‡": "* これ\r\n* それ"
   }
 ]
