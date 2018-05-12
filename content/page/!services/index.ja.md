@@ -6,6 +6,7 @@ draft: false
 slug: services
 subtitle: 課題に対する弊社のソリューション
 weight: 20
+layout: services
 alternatelocales:
   - en-US
 tags:
