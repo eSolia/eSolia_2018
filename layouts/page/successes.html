@@ -10,11 +10,11 @@
      <aside class="menu content has-padding-t-m has-padding-l-m">
 
        {{- $currentPage := . -}}
-       {{ range .Site.Menus.successes }}
+       {{ range .Site.Menus.successes.ByWeight.Reverse }}
          <a class="is-hoverable{{ if $currentPage.IsMenuCurrent "successes" . }} is-active{{ end }}" href="{{ .URL | absLangURL }}"><p class="menu-label has-text-esolia-secondary-1-1">{{ .Name }}</p></a>
           <ul class="menu-list-success">
           {{ if .HasChildren }}
-          {{ range .Children.Reverse }}
+          {{ range .Children.ByWeight.Reverse }}
             <li><a class="is-hoverable{{ if $currentPage.IsMenuCurrent "successes" . }} is-active{{ end }}" href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
           {{ end }}
           {{ end }}
