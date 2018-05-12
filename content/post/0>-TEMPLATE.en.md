@@ -8,7 +8,7 @@ noindex: true
 slug: make-this-the-same-as-the-file-name-without-extension
 title: This is the Title
 subtitle: and this is the subtitle
-description: One or two sentence description - a blog post on eSolia.pro from eSolia Inc.
+description: One or two sentence description - a blog post from eSolia Inc.
 postsummary: This is the summary seen on the top page of the site, describing the post.
 alternatelocales:
   - ja-JP

@@ -3,7 +3,7 @@ author: Yasuyoshi Akiyama
 authorkey: yasuyoshiakiyama
 date: 2015-12-09T13:45:15+09:00
 publishdate: 2015-12-09T13:45:15+09:00
-description: イソリアから、eSolia.proのブログポスト、備えあれば憂いなし
+description: イソリアからのブログポスト、備えあれば憂いなし
 draft: true
 slug: hai-kirisuto
 subtitle: Do Laptops Dream of Electric Sheep?

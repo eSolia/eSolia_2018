@@ -7,7 +7,7 @@ draft: true
 slug: how-to-become-a-hacker
 title: ハッカーになる方法
 subtitle: 現代のハッキング手法
-description: イソリアから、eSolia.proのブログポスト、One or two sentence description.
+description: イソリアからのブログポスト、One or two sentence description.
 postsummary: ハッキングといえばセキュリティを突破してあらゆる情報を抜き取ったり、改ざんする行為である。 映画などでは巨大なモニタの前で複雑なプログラムを駆使して堅牢なセキュリティを破壊しているが、これは基本的に大間違いである。
 alternatelocales:
   - en-US

@@ -3,7 +3,7 @@ authorkey: rickcogley
 author: Rick Cogley
 date: 2017-08-06T07:07:27+09:00
 publishdate: 2017-08-06T07:07:27+09:00
-description: Get help with home computer setup in Japan - a blog post on eSolia.pro from eSolia Inc.
+description: Get help with home computer setup in Japan - a blog post from eSolia Inc.
 draft: false
 slug: help-with-japan-home-computer-setup
 title: Japan Home Computer Setup

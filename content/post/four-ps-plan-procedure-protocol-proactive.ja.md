@@ -3,7 +3,7 @@ author: eSolia
 authorkey: esolia
 date: 2015-07-04T08:45:15+09:00
 publishdate: 2015-07-04T08:45:15+09:00
-description: イソリアから、eSolia.proのブログポスト、備えあれば憂いなし
+description: イソリアからのブログポスト、備えあれば憂いなし
 draft: true
 slug: four-ps-plan-procedure-protocol-proactive
 subtitle: 備えあれば憂いなし

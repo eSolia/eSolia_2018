@@ -7,7 +7,7 @@ draft: false
 slug: bill-shock-is-never-funny
 title: Bill Shock is Never Funny
 subtitle: Thoughts on Data Roaming
-description: Bill shock is never funny, about data roaming risks - a blog post on eSolia.pro from eSolia Inc.
+description: Bill shock is never funny, about data roaming risks - a blog post from eSolia Inc.
 postsummary: Has your company properly notified users of the risks and pitfalls of data roaming overseas? When it comes to business trips abroad, international roaming fees on your smart-phone are truly something to be concerned with.
 alternatelocales:
   - ja-JP

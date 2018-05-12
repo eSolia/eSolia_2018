@@ -3,7 +3,7 @@ authorkey: esolia
 author: イソリア
 date: 2015-07-21T14:00:15+09:00
 publishdate: 2015-07-21T14:00:15+09:00
-description: イソリアから、eSolia.proのブログポスト、Windows 10 リリース
+description: イソリアからのブログポスト、Windows 10 リリース
 draft: false
 slug: windows-10-release
 subtitle: 2015年7月29日についに配布が開始される

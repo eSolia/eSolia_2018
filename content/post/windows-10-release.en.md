@@ -3,7 +3,7 @@ authorkey: esolia
 author: eSolia
 date: 2015-07-21T14:00:15+09:00
 publishdate: 2015-07-21T14:00:15+09:00
-description: Windows 10 Release - a blog post on eSolia.pro from eSolia Inc.
+description: Windows 10 Release - a blog post from eSolia Inc.
 draft: false
 slug: windows-10-release
 subtitle: Distribution to begin on 29 July 2015

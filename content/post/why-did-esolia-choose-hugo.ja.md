@@ -3,7 +3,7 @@ authorkey: rickcogley
 author: Rick Cogley
 date: 2018-05-01T07:07:27+09:00
 publishdate: 2018-05-01T07:07:27+09:00
-description: イソリアから、eSolia.proのブログポスト、イソリアが何故Hugoと言うサイトジェネレーターを選択したのか。
+description: イソリアからのブログポスト、イソリアが何故Hugoと言うサイトジェネレーターを選択したのか。
 draft: false
 slug: why-did-esolia-choose-hugo
 title: 何故Hugoを選択したのか?

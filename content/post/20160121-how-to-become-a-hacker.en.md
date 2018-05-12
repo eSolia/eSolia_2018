@@ -7,7 +7,7 @@ draft: true
 slug: how-to-become-a-hacker
 title: How to become a Hacker
 subtitle: A modern method
-description: イソリアから、eSolia.proのブログポスト、One or two sentence description.
+description: イソリアからのブログポスト、One or two sentence description.
 postsummary: Hacking is the act of breaking through security defenses, and stealing or altering information. The hacking you see in movies, where someone sits in front of a big monitor, manipulating complicated programs to defeat strong security measures, is largely mistaken.
 alternatelocales:
   - ja-JP

@@ -3,7 +3,7 @@ authorkey: rickcogley
 author: Rick Cogley
 date: 2015-09-24T16:50:15+09:00
 publishdate: 2015-09-24T16:50:15+09:00
-description: イソリアから、eSolia.proのブログポスト、日本歴の浅い方をサポートする先輩方の為に、外国人向け自宅パソコンシステム購入・設定サービス
+description: イソリアからのブログポスト、日本歴の浅い方をサポートする先輩方の為に、外国人向け自宅パソコンシステム購入・設定サービス
 draft: false
 slug: help-with-japan-home-computer-setup
 title: 日本自宅パソコン購入や設定

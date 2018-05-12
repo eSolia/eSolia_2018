@@ -3,7 +3,7 @@ authorkey: esolia
 author: イソリア
 date: 2015-07-07T14:46:15+09:00
 publishdate: 2015-07-06T08:46:15+09:00
-description: イソリアから、eSolia.proのブログポスト、セキュリティと利便性
+description: イソリアからのブログポスト、セキュリティと利便性
 draft: false
 slug: security-and-convenience
 subtitle: 割合を見極める
