@@ -8,7 +8,15 @@
 <div class="columns content is-fullheight is-gapless">
   <div class="column is-3 is-sidebar-menu is-hidden-mobile">
      <aside class="menu content has-padding-t-m has-padding-l-m">
+
        {{- $currentPage := . -}}
+         <p class="menu-label has-text-info">{{ i18n "newsarchivemenu" }}</p>
+       {{ range .Site.Menus.newsarchive }}
+         <ul class="menu-list">
+           <li><a class="is-hoverable{{ if $currentPage.IsMenuCurrent "newsarchive" . }} is-active{{ end }}" href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
+         </ul>
+       {{ end }}
+
        {{ range .Site.Menus.services }}
          <a class="is-hoverable{{ if $currentPage.IsMenuCurrent "services" . }} is-active{{ end }}" href="{{ .URL | absLangURL }}"><p class="menu-label has-text-info">{{ .Name }}</p></a>
           <ul class="menu-list">
@@ -21,7 +29,7 @@
        {{ end }}
 
 
-        <p class="menu-label has-text-info">Tags</p>
+       <p class="menu-label has-text-info">Tags</p>
        <div class="tags has-margin-l">
        {{ range .Params.tags }}
         <span class="tag is-rounded is-light"><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></span>

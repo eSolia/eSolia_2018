@@ -6,6 +6,7 @@ publishdate: 2015-09-24T16:50:15+09:00
 description: イソリアからのブログポスト、日本歴の浅い方をサポートする先輩方の為に、外国人向け自宅パソコンシステム購入・設定サービス
 draft: false
 slug: help-with-japan-home-computer-setup
+layout: post
 title: 日本自宅パソコン購入や設定
 subtitle: 来日外国人をお助いたします
 postsummary: 日本に来たばかりで日本語に慣れていない方を、サポートする方、イソリアのバイリンガルITプロフェッショナルはそんなあなたをお助け致します。

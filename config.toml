@@ -273,6 +273,12 @@ languageCode = "en-US"
     pre = "All the content tags on this site."
     weight = 55
 
+[[languages.en.menu.newsarchive]]
+    name = "News Archive"
+    identifier = "en_newsarchive"
+    url = "/post"
+    weight = 10
+
 [languages.ja]
 baseURL = "https://esolia.co.jp/"
 title = "イソリア"
@@ -511,3 +517,8 @@ help  = "ヘルプ"
     pre = "全てのタグを閲覧出来ます。"
     weight = 55
 
+[[languages.ja.menu.newsarchive]]
+    name = "ニュースアーカイブ"
+    identifier = "ja_newsarchive"
+    url = "/post"
+    weight = 10

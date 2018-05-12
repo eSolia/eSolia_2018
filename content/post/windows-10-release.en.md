@@ -6,6 +6,7 @@ publishdate: 2015-07-21T14:00:15+09:00
 description: Windows 10 Release - a blog post from eSolia Inc.
 draft: false
 slug: windows-10-release
+layout: post
 subtitle: Distribution to begin on 29 July 2015
 postsummary: On 29th July, 2015, Windows 10 distribution will begin. As has been reported in various media, Microsoft intends to make Windows 10 their "last OS". Future upgrades will likely take the approach of Mac OS X, adding features with free patches.
 alternatelocales:

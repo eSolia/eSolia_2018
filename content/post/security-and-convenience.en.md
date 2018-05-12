@@ -8,6 +8,7 @@ draft: false
 title: Security and Convenience
 subtitle: Deciding the Balance Between
 slug: security-and-convenience
+layout: post
 postsummary: Security and convenience are always at odds with each other. When one side increases or is strengthened, the other decreases and is weakened naturally. To get the balance right, we have to continually search for the latest information, and it's probably best to get some help from a company with a wide range of knowledge and experience, like eSolia.
 alternatelocales:
   - ja-JP

@@ -5,6 +5,7 @@ date: 2018-02-06T07:07:27+09:00
 publishdate: 2018-02-06T07:07:27+09:00
 draft: false
 slug: bill-shock-is-never-funny
+layout: post
 title: 笑えないパケ死
 subtitle: データローミングについて
 description: イソリアからのブログポスト、笑えないパケ死、データローミングについて

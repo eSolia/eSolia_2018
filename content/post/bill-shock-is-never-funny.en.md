@@ -5,6 +5,7 @@ date: 2018-02-06T07:07:27+09:00
 publishdate: 2018-02-06T07:07:27+09:00
 draft: false
 slug: bill-shock-is-never-funny
+layout: post
 title: Bill Shock is Never Funny
 subtitle: Thoughts on Data Roaming
 description: Bill shock is never funny, about data roaming risks - a blog post from eSolia Inc.

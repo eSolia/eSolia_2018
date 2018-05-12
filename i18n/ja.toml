@@ -307,6 +307,9 @@ other = "記事"
 [newsarchiveshortposts]
 other = "ショートポスト"
 
+[newsarchivemenu]
+other = "ニュース"
+
 [topslogan]
 other = "バイリンガル IT アウトソーシング サービス"
 

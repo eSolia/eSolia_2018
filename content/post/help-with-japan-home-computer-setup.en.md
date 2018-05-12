@@ -6,6 +6,7 @@ publishdate: 2017-08-06T07:07:27+09:00
 description: Get help with home computer setup in Japan - a blog post from eSolia Inc.
 draft: false
 slug: help-with-japan-home-computer-setup
+layout: post
 title: Japan Home Computer Setup
 subtitle: Help for Expats
 postsummary: If you're new to Japan and Nihongo, let eSolia bilingual IT professionals arrange and connect your home computer system in Japan. We'll have you sorted in no time.

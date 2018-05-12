@@ -6,6 +6,7 @@ publishdate: 2015-07-07T08:45:15+09:00
 description: イソリアより - 創立記念日と新ウェブサイトのお知らせ。
 draft: false
 slug: 16th-anniversary-and-new-website
+layout: post
 subtitle: 創立記念日のご挨拶
 postsummary: 株式会社イソリアは平成２７年７月７日をもちまして創業16周年を迎える事となりました。またこの度ウェブサイトもリニューアルいたしました。当社サービス内容などより一層の内容充実に努めてまいりますので、今後ともどうぞよろしくお願い申し上げます。
 alternatelocales:

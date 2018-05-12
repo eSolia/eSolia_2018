@@ -6,6 +6,7 @@ publishdate: 2018-04-16T07:07:27+09:00
 description: It's not just a welfare matter; moving toward a practical telework offensive
 draft: false
 slug: telework-offensive
+layout: post
 subtitle: It's not just a welfare matter; moving toward a practical telework offensive
 postsummary: Telework describes the skillful use of information communications technology, to facilitate a flexible work style that does not depend upon place or time. So even while the government is pushing telework, why isn't it gaining traction?
 alternatelocales:

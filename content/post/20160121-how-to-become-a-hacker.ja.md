@@ -5,6 +5,7 @@ date: 2016-01-21T14:12:15+09:00
 publishdate: 2016-01-21T14:12:15+09:00
 draft: true
 slug: how-to-become-a-hacker
+layout: post
 title: ハッカーになる方法
 subtitle: 現代のハッキング手法
 description: イソリアからのブログポスト、One or two sentence description.

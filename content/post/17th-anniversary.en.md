@@ -6,6 +6,7 @@ publishdate: 2016-07-07T08:45:15+09:00
 description: 17th Anniversary for eSolia Inc.
 draft: false
 slug: 17th-anniversary
+layout: post
 subtitle: 17 Years already!
 postsummary: Join eSolia in celebrating our 17th anniversary on 7th July 2016.
 alternatelocales:

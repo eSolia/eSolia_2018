@@ -6,6 +6,7 @@ publishdate: 2015-12-09T13:45:15+09:00
 description: イソリアからのブログポスト、備えあれば憂いなし
 draft: true
 slug: hai-kirisuto
+layout: post
 subtitle: ラップトップは電気羊の夢を見るか？
 postsummary: 『はいキリスト』まるで信仰心の強いキリスト教徒が彼らの主に従う際に使う様な言葉が、私のPCモニターに映った。
 alternatelocales:
