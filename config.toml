@@ -86,6 +86,12 @@ languageCode = "en-US"
     identifier = "sucothernews_en"
     url = "/post"
 
+[[languages.en.menu.successesother]]
+    name = "All Projects"
+    weight = 5
+    identifier = "sucotherallproj_en"
+    url = "/success-stories"
+
 [[languages.en.menu.aboutother]]
     name = "News"
     weight = 40
@@ -317,6 +323,12 @@ help  = "ヘルプ"
     weight = 40
     identifier = "sucothernews_ja"
     url = "/post"
+
+[[languages.ja.menu.successesother]]
+    name = "全プロジェクト一覧"
+    weight = 5
+    identifier = "sucotherallproj_ja"
+    url = "/success-stories"
 
 [[languages.ja.menu.aboutother]]
     name = "ニュース"
