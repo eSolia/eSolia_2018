@@ -1,4 +1,9 @@
 {{ "<!-- ENTERING partial gallery.html -->" | safeHTML }}
+<script>
+document.addEventListener('DOMContentLoaded', function(){
+  var carousels = bulmaCarousel.attach();
+}, false);
+</script>
 
 <h2>{{ i18n "gengalleryname" }}</h2>
 
