@@ -36,6 +36,7 @@ formcheckboxes:
   - Business Intelligence
   - Liaison between Japan and HQ
   - EDI Electronic Data Interchange
+gallery_id: 109989173467424472552
 menu:
   main:
     Name: Office and Lab
