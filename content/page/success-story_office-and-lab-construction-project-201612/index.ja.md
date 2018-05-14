@@ -4,42 +4,37 @@ date: 2018-05-06T07:07:27+09:00
 publishdate: 2018-05-06T07:07:27+09:00
 draft: true
 slug: success-story_office-and-lab-construction-project
-title: Office and Lab
-subtitle: at a Major Elec Micro Maker
-description: Provision of Project Management for ERP rollout through all phases to the successful go-live. - from eSolia Inc.
+title: 事務所とラボ工事、移転
+subtitle: グローバル電子顕微鏡メーカーにて
+description: イソリアから - 東京新事務所にて、オフィスとラボ工事やIT更新作業のプロジェクトマネジメントを実施し、東京と横浜のオフィスを移転させた。
 layout: successes
 alternatelocales:
-  - ja-JP
+  - en-US
 tags:
-  - ERP
-  - Enterprise
-  - Inventory
-  - AS400
-  - SOX
-  - Baan
-  - 3PL
-  - logistics
-  - EDI
-  - Argo21
-  - TIE
+  - オフィス工事
+  - ラボ工事
+  - バイリンガルリエーゾン
+  - オフィス移転
+  - オフィス合併
+  - 業者管理
+  - PM
+  - プロジェクト管理
+  - プロジェクトマネジメント
+  - プロマネ
+  - IT技術
 topics:
-  - Success Stories
+  - 成功事例
 images:  
   - /img/eSolia-Chicklet-Color-1024px.png
 formcheckboxes:
-  - ERP rollout
-  - Project management
-  - Multi-project Portfolio management
-  - Logistics and 3PL
-  - Customer Service, Order Center
-  - Regulatory, FDA, SOX compliance
-  - Business Intelligence
-  - Liaison between Japan and HQ
-  - EDI Electronic Data Interchange
+  - プロジェクトマネジメント
+  - 複数プロジェクトのポートフォリオ管理
+  - オフィス移転
+  - オフィス合併
 gallery_id: 109989173467424472552
 menu:
   main:
-    Name: Office and Lab
+    Name: オフィスとラボ工事
     Weight: 50
     Parent: success_index_ja
     Identifier: successofficelab_ja
@@ -47,7 +42,7 @@ menu:
     Pre: fa-flag-checkered
     Post: Challenging project brings efficiencies
   successes:
-    Name: Office and Lab
+    Name: オフィスとラボ工事
     Identifier: officelab1_ja
     Url: /success-story_office-and-lab-construction-project
     Parent: sucsideindex_ja
