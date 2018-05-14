@@ -1,8 +1,8 @@
 ---
 author: eSolia
-date: 2018-05-06T07:07:27+09:00
-publishdate: 2018-05-06T07:07:27+09:00
-draft: true
+date: 2018-05-14T15:00:37+09:00
+publishdate: 2018-05-14T15:00:37+09:00
+draft: false
 slug: success-story_office-and-lab-construction-project
 title: 事務所とラボ工事、移転
 subtitle: グローバル電子顕微鏡メーカーにて
