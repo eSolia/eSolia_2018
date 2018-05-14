@@ -290,7 +290,7 @@ other = "Projects"
 other = "Our Latest Successful Completions"
 
 [topsectionprojectstext]
-other = "See also the [full project list](/success-stories)."
+other = "See also the [full project list](/success-stories) or our [rss feed](https://pro.dbflex.net/secure/public/db/15331/rss.ashx?view=3456957&user=40863e67a24a41e281eac29548bc68b2)."
 
 [topsectioninfo]
 other = "Information"
@@ -299,7 +299,7 @@ other = "Information"
 other = "The latest short posts from eSolia"
 
 [topsectioninfotext]
-other = "See also the [full list of posts](/post)."
+other = "See also the [full list of posts](/post) or our [rss feed](https://pro.dbflex.net/secure/public/db/15331/rss.ashx?view=3461316&user=40863e67a24a41e281eac29548bc68b2)."
 
 [newsarchivearticlesbyyear]
 other = "Articles by Year"

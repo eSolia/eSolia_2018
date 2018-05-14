@@ -51,6 +51,9 @@ menu:
 
 下記、我が社の完了プロジェクトの一覧（完了日、簡易説明）、又はサイドバーにある「選定成功事例」のリンクをご覧ください。
 
+<a class="" href="https://pro.dbflex.net/secure/public/db/15331/rss.ashx?view=3456963&user=40863e67a24a41e281eac29548bc68b2">
+<span class="icon has-text-esolia-yellow-2"><i class="fas fa-rss-square"></i></span>
+</a>
 <span id="hideheader" class="has-padding-t-xs">
 <script src="https://pro.dbflex.net/secure/embed.js"
   data-url="/ev-3456963/db/15331/view.aspx"></script>
