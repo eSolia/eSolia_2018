@@ -47,7 +47,7 @@ menu:
 
 <span class="icon is-small has-text-esolia-yellow-4 has-padding-l-m has-padding-r-m"><i class="fas fa-check-circle"></i></span> 貴社のプロセスや、業界でよく取り組まれているアプローチに基づいて、素早く実行できるように行動いたします。<br><br>
 <span class="icon is-small has-text-esolia-yellow-4 has-padding-l-m has-padding-r-m"><i class="fas fa-check-circle"></i></span> 当社の主契約はタイムアンドマテリアルでのご提供となりますが、必要とされたものだけを請求し、水増し請求のような「仕事を作る」事はいたしません。<br><br>
-<span class="icon is-small has-text-esolia-yellow-4 has-padding-l-m has-padding-r-m"><i class="fas fa-check-circle"></i></span> 観察できたいかなる状況や行った作業に対しては全て率直に報告を行います。 <br><br>
+<span class="icon is-small has-text-esolia-yellow-4 has-padding-l-m has-padding-r-m"><i class="fas fa-check-circle"></i></span> 状況確認報告や作業報告については、透明性をもって全てそのまま報告を行う。 <br><br>
 <span class="icon is-small has-text-esolia-yellow-4 has-padding-l-m has-padding-r-m"><i class="fas fa-check-circle"></i></span> お客様と長期的な関係を促進するために、ご契約期間やボリュームによってより魅力的なプロフェショナルレートを提供いたします。<br><br>
 <span class="icon is-small has-text-esolia-yellow-4 has-padding-l-m has-padding-r-m"><i class="fas fa-check-circle"></i></span> 私達は企業の健全性と安定性をもって行動しており、悪い商習慣や駆け引きに決して従事しておりません。<br><br>
 <span class="icon is-small has-text-esolia-yellow-4 has-padding-l-m has-padding-r-m"><i class="fas fa-check-circle"></i></span> お受けした作業やトラブルへの対応は、当社が責任を持って最後まで徹底して対応いたします。<br><br>
