@@ -1,4 +1,7 @@
 // Add files via prepend special codekit comment
+// FONTAWESOME
+// @codekit-prepend "../../bower_components/fontawesome/svg-with-js/js/fontawesome-all.js";
+// BULMA EXTENSIONS
 // @ codekit -prepend "../../bower_components/bulma-accordion/dist/bulma-accordion.js";
 // at DEPRECATED codekit-prepend "../../bower_components/bulma-badge/dist/bulma-badge.js";
 // @ codekit -prepend "../../bower_components/bulma-calendar/dist/bulma-calendar.js";
