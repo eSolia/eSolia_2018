@@ -38,7 +38,7 @@ menu:
     Identifier: successofficelab_en
     Url: /success-story_office-and-lab-construction-project
     Pre: fa-flag-checkered
-    Post: Challenging project brings efficiencies
+    Post: Lab requires strict environmental control
   successes:
     Name: Office and Lab Move
     Identifier: officelab1_en

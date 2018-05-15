@@ -40,7 +40,7 @@ menu:
     Identifier: successofficelab_ja
     Url: /success-story_office-and-lab-construction-project
     Pre: fa-flag-checkered
-    Post: Challenging project brings efficiencies
+    Post: ラボには厳しい環境制御が必要
   successes:
     Name: オフィスとラボ工事
     Identifier: officelab1_ja
