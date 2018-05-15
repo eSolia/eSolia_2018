@@ -4,7 +4,7 @@ date: 2018-05-14T15:00:37+09:00
 publishdate: 2018-05-14T15:00:37+09:00
 draft: true
 slug: success-story_template-project
-title: タイトル
+title: タイトルだ
 subtitle: 面白サブタイトル
 description: イソリアから - 東京新事務所にて、オフィスとラボ工事やIT更新作業のプロジェクトマネジメントを実施し、東京と横浜のオフィスを移転させた。
 layout: successes
