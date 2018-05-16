@@ -1,7 +1,7 @@
 ---
 author: eSolia
-date: 2018-05-13T14:30:37+09:00
-publishdate: 2018-05-13T14:30:37+09:00
+date: 2018-05-14T15:00:37+09:00
+publishdate: 2018-05-14T15:00:37+09:00
 draft: false
 slug: success-story_office-and-lab-construction-project
 title: Office and Lab Construction with Office Consolidation
