@@ -39,7 +39,7 @@
     "Generic Type": "Medical Device Maker",
     "Generic Type‡": "医療機器メーカー",
     "Project Background": "Medical device maker was moved from their serviced office into a 743.1 m<sup>2</sup> (~8000 ft<sup>2</sup>) office space in a prestigious location near Tokyo station. The contract is a non-standard one, in which the current tenant vacates without returning the site to its original state, leaving it partially constructed or furnished. This style is eco-friendly, allows for a quicker move timeframe, and saves money for all involved. ",
-    "Project Background‡": "EDIT AND TRANSLATE THIS: \r\n\r\n日本アビオメットは 東京駅近くの室町東三井ビル（COREDO室町#1)に移転します。12階は743.1平方メートル（ 〜 8000平方フィート）で、現在のコンセプトは、テナントによる現状回復工事をなくし、既存構築された施設を使用するという”イヌキ”契約を交わすことになっています。",
+    "Project Background‡": "医療機器メーカーは既存サービスオフィスから、東京駅周辺で名の知れた場所にある743.1 m<sup>2</sup> (~8000 ft<sup>2</sup>) のオフィススペースに移転しました。移転先の賃貸契約は、テナントによる現状回復工事をなくし、既存構築された施設を使用するという”イヌキ”契約を交わすことになっています。このスタイルは環境にやさしいうえに、移転時間を短縮し、そして、移転費用の節約にも繋がります。\r\n\r\n",
     "Team Members": "15",
     "Team Members‡": "15",
     "Users": 50,
@@ -49,14 +49,14 @@
     "Project Effort (Months)": "6",
     "Project Effort (Months)‡": "6",
     "Sites": "Tokyo x 2",
-    "Sites‡": "東京２軒",
+    "Sites‡": "東京２箇所",
     "Problem": "* Maker government approval was imminent, so a larger space was required to support a rapidly growing staff.\r\n* Office was not bespoke and IT areas were \"as is\".\r\n* HQ IT structured cabling standard brand was too expensive in Japan. \r\n* Company is dependent upon Internet for many business systems. ",
-    "Problem‡": null,
+    "Problem‡": "* 政府によるメーカーの認可が差し迫ったため、急速に増員されるスタッフをサポートするためにより広いスペースが必要となりました。\r\n* オフィスは「居抜き」な為、ITエリアは「現状のまま」を維持する形でした。\r\n* HQ ITが指定する標準配線ブランドは日本ではあまりにも高価でした。\r\n* 多くのビジネスシステムはインターネット経由でアクセスするため、インターネット回線は大きな課題となった。",
     "Solution": "* Maker selected \"partially furnished\" office which has high-end and impressive spaces already built. \r\n* IT specification was adjusted to fit the space and the HVAC capacity, rather than the other way around. \r\n* Use high quality domestic rack and cable brands, as well as anti-static tile in the server room. \r\n* Install redundant Internet lines.",
-    "Solution‡": null,
+    "Solution‡": "* メーカーは、洗練されたかつ印象的な既存「部分的な内装」を備えているオフィスを選択しました。\r\n* IT仕様は、オフィススペースやHVAC容量に合わせて調整されています。\r\n* 日本製の高品質なラックとケーブルブランド品、および、サーバルームにおける静電気防止用タイルを使用します。\r\n* 冗長インターネット回線を備え付けます。",
     "Benefits": "* Build cost reduced by half over a typical from-scratch office build. \r\n* Artificial constraints of \"as is\" space, triggered team to think thoroughly about specifications and re-consider what was actually needed. \r\n* Domestic rack and cable brands are objectively equal or better to imported ones, for less money. \r\n* System can failover from the primary Internet line to the secondary. ",
-    "Benefits‡": null,
+    "Benefits‡": "* 典型的なゼロからのオフィス構築に比べると、費用は通常の半分に抑えれらました。\r\n* 既存内装設備を「ありのまま」で使用するという制約があるため、チームは幾度も仕様を徹底的に考慮し、実際に必要不可欠な物事について再検討しました。\r\n* 日本製ラック及びケーブルブランド品は、客観的な観点において、指定された海外ブランド品に比べると、同品質しくはより高品質なものであり、予算にも優しいものです。\r\n* システムにおいて主要インターネット回線から予備回線へのフェィルオーバー（自動的に処理の引き継ぎ）は可能です。\r\n\r\n",
     "Technology": "* Polycom IP phones\r\n* Cisco network\r\n* ALSOK security system\r\n* Kawamura system racks, domestic high-quality Cat 6 and 6A cable\r\n* Redundant Internet lines from different carriers on differing networks",
-    "Technology‡": null
+    "Technology‡": "* Polycom IP電話機\r\n* Cisco ネットワーク\r\n* ALSOK セキュリティシステム\r\n* 日本製河村システムラック、高品質なCat6 及び 6A LAN配線\r\n* 異なるネットワーク上にある異なるキャリアからの冗長インターネット回線"
   }
 ]

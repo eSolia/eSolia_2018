@@ -1,8 +1,8 @@
 ---
 author: eSolia
-date: 2018-05-14T15:00:37+09:00
-publishdate: 2018-05-14T15:00:37+09:00
-draft: true
+date: 2018-05-16T15:44:09+09:00
+publishdate: 2018-05-16T15:44:09+09:00
+draft: false
 slug: success-story_move-from-serviced-to-leased-office
 title: 日本での販売開始以前に「居抜き」オフィス移転
 subtitle: グローバル医療機器メーカーにて

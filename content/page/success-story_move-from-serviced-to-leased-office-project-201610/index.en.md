@@ -1,8 +1,8 @@
 ---
 author: eSolia
-date: 2018-05-13T14:30:37+09:00
-publishdate: 2018-05-13T14:30:37+09:00
-draft: true
+date: 2018-05-16T15:44:09+09:00
+publishdate: 2018-05-16T15:44:09+09:00
+draft: false
 slug: success-story_move-from-serviced-to-leased-office
 title: Move from Serviced to Leased Office
 subtitle: for a Medical Devices Maker
