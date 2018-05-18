@@ -184,6 +184,10 @@ p,ul,ol,table,blockquote,span,small,div.carousel,figure,iframe,div#search-result
     // margin: auto;
 }
 
+span#hideheader {
+    max-width: 78em;
+}
+
 // try to fix strong not inheriting color
 strong {
    color: inherit;
