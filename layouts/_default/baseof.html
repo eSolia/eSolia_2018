@@ -7,8 +7,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     {{ with .Params.robotsdisallow }}<meta name="robots" content="noindex">{{ end }}
     <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
-    <link rel="stylesheet" type="text/css" href="/css/main.min.css">
-    <script type='text/javascript' src='/js/main.min.js'></script>
+    <link rel="stylesheet" type="text/css" href="/css/main.min.css{{with getenv "MAINCSS_HASH"}}?v={{.}}{{end}}">
+    <script type="text/javascript" src="/js/main.min.js"></script>
     <script src="https://use.typekit.net/fwz4gtk.js"></script>
     <script>try{Typekit.load({ async: true });}catch(e){}</script>
 
