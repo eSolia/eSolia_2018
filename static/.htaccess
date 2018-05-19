@@ -1125,6 +1125,11 @@ FileETag None
 
 </IfModule>
 
+<FilesMatch "(?i)^.*\.(ico|js)$">
+ExpiresActive On
+ExpiresDefault A2592000
+</FilesMatch>
+
 # ----------------------------------------------------------------------
 # | File concatenation                                                 |
 # ----------------------------------------------------------------------
