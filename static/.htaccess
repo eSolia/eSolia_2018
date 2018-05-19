@@ -334,10 +334,10 @@ AddDefaultCharset utf-8
     # RewriteOptions <options>
 
     # (6)
-    RewriteCond %{HTTPS} =on
-    RewriteRule ^ - [env=proto:https]
-    RewriteCond %{HTTPS} !=on
-    RewriteRule ^ - [env=proto:http]
+#     RewriteCond %{HTTPS} =on
+#     RewriteRule ^ - [env=proto:https]
+#     RewriteCond %{HTTPS} !=on
+#     RewriteRule ^ - [env=proto:http]
 
 </IfModule>
 
@@ -375,13 +375,13 @@ AddDefaultCharset utf-8
 #
 #     https://github.com/h5bp/server-configs-apache/issues/52
 
-<IfModule mod_rewrite.c>
-    RewriteEngine On
-    # (1)
-    # RewriteCond %{HTTPS} !=on
-    RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
-    RewriteRule ^ %{ENV:PROTO}://%1%{REQUEST_URI} [R=301,L]
-</IfModule>
+# <IfModule mod_rewrite.c>
+#     RewriteEngine On
+#     # (1)
+#     # RewriteCond %{HTTPS} !=on
+#     RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
+#     RewriteRule ^ %{ENV:PROTO}://%1%{REQUEST_URI} [R=301,L]
+# </IfModule>
 
 # ----------------------------------------------------------------------
 # | Forcing the `www.` at the beginning of URLs                        |
