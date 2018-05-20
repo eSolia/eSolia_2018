@@ -52,11 +52,9 @@ For the short posts and project lists on the home page, [news archive](https://e
 
 ## Hosting
 
-This and a few other sites we manage, are hosted at the rock-solid [Webfaction](http://www.webfaction.com/?affiliate=rcogley). Great cost-performance for developers, in our opinion. We have not had trouble in years of use, and they respond very quickly to support requests.
+This site and its Japanese counterpart are hosted in Amazon AWS object storage [S3](https://aws.amazon.com/S3/) and delivered globally via Amazon's content delivery network (CDN) [CloudFront](https://aws.amazon.com). DNS is hosted on AWS [Route53](https://aws.amazon.com/route53/), a robust and fast DNS service.
 
-DNS is hosted on Amazon Web Services [Route53](https://aws.amazon.com/route53/), a really robust and fast DNS service.
-
-The [repository](https://github.com/RickCogley/eSolia_2018) for this site is hosted at [Github](https://github.com).
+The [repository](https://github.com/RickCogley/eSolia_2018) for this site is (obviously) hosted at [Github](https://github.com).
 
 ## TL;DR Thanks!
 
@@ -67,6 +65,7 @@ _Warm thanks and regards to:_
 * Ryo Gothic Plus by Grand Master [Masahiko Kozuka](https://typekit.com/designers/masahiko-kozuka) and new talent [Ryoko Nishizuka](https://typekit.com/designers/ryoko-nishizuka). 
 * [Eddie Webb](https://edwardawebb.com/), [Kaushal Modi](https://scripter.co/), and [Josh Habdas](https://hackcabin.com/) for the various tutorials on implementing local site search in Fuze.js. 
 * Bryan Jones for [CodeKit](https://codekitapp.com/about/).
+* Joe Lust for [this tutorial](https://lustforge.com/2016/02/27/hosting-hugo-on-aws/) on S3 and CloudFront hosting, and to [Bjørn Erik Pedersen](http://bep.is) for [s3deploy](https://github.com/bep/s3deploy), making it super simple to put your changed site files on your local hard drive up to S3. 
 
 ## License
 

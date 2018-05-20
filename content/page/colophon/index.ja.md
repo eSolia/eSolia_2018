@@ -94,13 +94,8 @@ _Hugoは、イソリア推薦SSGです。_
 
 ## ホスティング
 
-このサイトと私達が管理する他のいくつかのサイトは、とても信頼を置いている[「ウェブファクション」](http://www.webfaction.com/?affiliate=rcogley)にホストされています。ウェブファクションは素晴らしい費用対効果のあるサービスを開発者に提供しており、その中で私達は何年も利用していますが、一度も大きな問題が起こったことはありません。
-
-<figure class="">
-<img class="" width="400" data-caption="Webfaction Logo" alt="Webfaction Logo" src="/img/webfaction-logo.png" >
-</figure>
-
-DNSサービスは堅牢かつ高速なAmazonウェブサービス、[「Route53」](https://aws.amazon.com/route53/), を利用しています。
+このサイトの日本語版も英語版も、[Amazon AWS「S3」](https://aws.amazon.com/jp/s3/?nc1=h_ls) オブジェクトストレージでホスティングし、
+同社のコンテンツ配信ネットワーク (CDN)[「CloudFront」](https://aws.amazon.com/jp/cloudfront/?nc1=h_ls)でグローバルにご提供してます。又、[ドメインネームシステム (DNS)](https://aws.amazon.com/jp/route53/what-is-dns/)は堅牢かつ高速な[「Route53」](https://aws.amazon.com/route53/), を利用しています。
 
 このサイトの[レポジトリ](https://github.com/eSolia/eSolia)は[Github(ギットハブ)](https://github.com)にてホストされています。
 

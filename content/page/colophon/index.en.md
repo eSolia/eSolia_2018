@@ -97,13 +97,7 @@ For the short posts and project lists on the home page, [news archive](https://e
 
 ## Hosting
 
-This site, and a few others we manage, are hosted at the rock-solid [Webfaction](http://www.webfaction.com/?affiliate=rcogley). Webfaction offers great cost-performance for developers, and we have not seen any significant trouble during years of use.
-
-<figure class="">
-<img class="" width="400" data-caption="Webfaction Logo" alt="Webfaction Logo" src="/img/webfaction-logo.png" >
-</figure>
-
-DNS is hosted on Amazon Web Services [Route53](https://aws.amazon.com/route53/), a really robust and fast DNS service.
+This site and its Japanese counterpart are hosted in Amazon AWS object storage [S3](https://aws.amazon.com/S3/) and delivered globally via Amazon's content delivery network (CDN) [CloudFront](https://aws.amazon.com). DNS is hosted on AWS [Route53](https://aws.amazon.com/route53/), a robust and fast DNS service.
 
 The [repository](https://github.com/eSolia/eSolia) for this site is hosted at [Github](https://github.com).
 
