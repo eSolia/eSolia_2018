@@ -472,12 +472,12 @@
 		},
 	"\/bower_components\/bulma-carousel\/dist\/bulma-carousel.min.js": {
 		"ft": 64,
-		"ma": 0,
-		"mi": 1,
+		"ma": 1,
+		"mi": 0,
 		"oA": 2,
-		"oAP": "\/bower_components\/bulma-carousel\/dist\/bulma-carousel.min.js",
-		"oF": 0,
-		"sC": 3,
+		"oAP": "\/Users\/rcogley\/dev\/eSolia_2018\/static\/js\/bulma-carousel.min.js",
+		"oF": 7,
+		"sC": 0,
 		"tS": 0
 		},
 	"\/bower_components\/bulma-carousel\/dist\/bulma-carousel.sass": {
@@ -1776,12 +1776,12 @@
 		},
 	"\/bower_components\/bulma-steps\/dist\/bulma-steps.min.js": {
 		"ft": 64,
-		"ma": 0,
-		"mi": 1,
+		"ma": 1,
+		"mi": 0,
 		"oA": 2,
-		"oAP": "\/bower_components\/bulma-steps\/dist\/bulma-steps.min.js",
-		"oF": 0,
-		"sC": 3,
+		"oAP": "\/Users\/rcogley\/dev\/eSolia_2018\/static\/js\/bulma-steps.min.js",
+		"oF": 7,
+		"sC": 0,
 		"tS": 0
 		},
 	"\/bower_components\/bulma-steps\/dist\/bulma-steps.sass": {
@@ -48942,26 +48942,6 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
-		},
-	"\/custom\/_javascript\/bulma-carousel.js": {
-		"ft": 64,
-		"ma": 1,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/Users\/rcogley\/dev\/eSolia_2018\/static\/js\/bulma-carousel.min.js",
-		"oF": 6,
-		"sC": 3,
-		"tS": 1
-		},
-	"\/custom\/_javascript\/bulma-steps.js": {
-		"ft": 64,
-		"ma": 1,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/Users\/rcogley\/dev\/eSolia_2018\/static\/js\/bulma-steps.min.js",
-		"oF": 6,
-		"sC": 3,
-		"tS": 1
 		},
 	"\/custom\/_javascript\/main.js": {
 		"ft": 64,

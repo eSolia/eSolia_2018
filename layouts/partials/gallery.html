@@ -1,10 +1,9 @@
 {{ "<!-- ENTERING partial gallery.html -->" | safeHTML }}
 <script>
-document.addEventListener('DOMContentLoaded', function(){
-  var carousels = bulmaCarousel.attach();
-}, false);
+document.addEventListener('DOMContentLoaded', function () {
+    var carousels = bulmaCarousel.attach();
+});
 </script>
-
 <h2>{{ i18n "gengalleryname" }}</h2>
 
 {{ with .Page.Resources.Match "eSolia-Post-Slider*" }}

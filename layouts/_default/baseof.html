@@ -16,6 +16,12 @@
     <script src="https://pro.dbflex.net/secure/db/55438/res.aspx/captcha.js"></script>
     <script src="https://www.google.com/recaptcha/api.js?onload=tryInitCaptcha&render=explicit&hl=en"></script>
   {{ end }}
+  {{if isset .Params "gallery_id" }}
+    <script type="text/javascript" src="/js/bulma-carousel.min.js{{with getenv "BUCAJS_HASH"}}?v={{.}}{{end}}"></script>
+  {{ end }}
+  {{if isset .Params "bulma_steps" }}
+    <script type="text/javascript" src="/js/bulma-steps.min.js{{with getenv "BUSTJS_HASH"}}?v={{.}}{{end}}"></script>
+  {{ end }}
   {{ end }}
 
   </head>

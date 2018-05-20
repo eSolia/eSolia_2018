@@ -20,6 +20,7 @@ images:
 aliases:
   - /services/svc-sa/svc-sa-cnsl/
   - /services/svc-sa-cnsl.htm
+bulma_steps: true
 formcheckboxes:
   - オフィス構築
   - ヘルプデスク
