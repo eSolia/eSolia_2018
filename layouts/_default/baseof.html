@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
   <head>
@@ -7,10 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     {{ with .Params.robotsdisallow }}<meta name="robots" content="noindex">{{ end }}
     <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
-    <link rel="stylesheet" type="text/css" href="/css/main.min.css{{with getenv "MAINCSS_HASH"}}?v={{.}}{{end}}">
-    <script type="text/javascript" src="/js/main.min.js{{with getenv "MAINJS_HASH"}}?v={{.}}{{end}}"></script>
     <script src="https://use.typekit.net/fwz4gtk.js"></script>
     <script>try{Typekit.load({ async: true });}catch(e){}</script>
+    <link rel="stylesheet" type="text/css" href="/css/main.min.css{{with getenv "MAINCSS_HASH"}}?v={{.}}{{end}}">
+    <script type="text/javascript" src="/js/main.min.js{{with getenv "MAINJS_HASH"}}?v={{.}}{{end}}"></script>
 
   {{ if .IsPage }}
   {{if isset .Params "inforequest" }}
@@ -34,4 +33,3 @@
     {{ end }}
   </body>
 </html>
-
