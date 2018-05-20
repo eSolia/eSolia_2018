@@ -1,0 +1,23 @@
+routes:
+    - route: "^.+\\.(js|css|wasm)$"
+      #  cache for 1 year (unit is seconds)
+      headers:
+         Cache-Control: "max-age=31536000, no-transform, public"
+      gzip: true
+    - route: "^.+\\.(png|jpg|gif|bmp|jpeg|JPG|PNG|svg|ogg|webm|mp4|webp|eot|woff|otf|ttf|woff2)$"
+      # cache for 1 month
+      headers:
+         Cache-Control: "max-age=2628000, no-transform, public"
+      gzip: false
+    - route: "^.+\\.(ico)$"
+      # cache for 1 week
+      headers:
+         Cache-Control: "max-age=604800, no-transform, public"
+      gzip: false
+    - route: "^.+\\.(rss|rdf|atom)$"
+      # cache for 1 hour
+      headers:
+         Cache-Control: "max-age=3600, no-transform, public"
+      gzip: false
+    - route: "^.+\\.(html|xml|json)$"
+      gzip: true
