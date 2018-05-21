@@ -3,7 +3,7 @@
 
 {{ if eq $.Site.Language.Lang "en" }}
 <h2>Project Background</h2>
-{{ with (index . "Project Background") }}{{ . | markdownify | safeHTML }}{{ end }}
+<p>{{ with (index . "Project Background") }}{{ . | markdownify | safeHTML }}{{ end }}</p>
 
 <br><br>
 <table class="table is-striped is-hoverable">
@@ -46,22 +46,22 @@
 </table>
 
 <h2>Challenges</h2>
-{{ with (index . "Problem") }}{{ . | markdownify | safeHTML }}{{ end }}
+<p>{{ with (index . "Problem") }}{{ . | markdownify | safeHTML }}{{ end }}</p>
 
 <h2>Solutions</h2>
-{{ with (index . "Solution") }}{{ . | markdownify | safeHTML }}{{ end }}
+<p>{{ with (index . "Solution") }}{{ . | markdownify | safeHTML }}{{ end }}</p>
 
 <h2>Benefits</h2>
-{{ with (index . "Benefits") }}{{ . | markdownify | safeHTML }}{{ end }}
+<p>{{ with (index . "Benefits") }}{{ . | markdownify | safeHTML }}{{ end }}</p>
 
 <h2>Technologies</h2>
-{{ with (index . "Technology") }}{{ . | markdownify | safeHTML }}{{ end }}
+<p>{{ with (index . "Technology") }}{{ . | markdownify | safeHTML }}{{ end }}</p>
 
 {{ end }}
 
 {{ if eq $.Site.Language.Lang "ja" }}
 <h2>プロジェクトのバックグランド</h2>
-{{ with (index . "Project Background‡") }}{{ . | markdownify | safeHTML }}{{ end }}
+<p>{{ with (index . "Project Background‡") }}{{ . | markdownify | safeHTML }}{{ end }}</p>
 
 <br><br>
 <table class="table is-striped is-hoverable">
@@ -104,16 +104,16 @@
 </table>
 
 <h2>チャレンジ</h2>
-{{ with (index . "Problem‡") }}{{ . | markdownify | safeHTML }}{{ end }}
+<p>{{ with (index . "Problem‡") }}{{ . | markdownify | safeHTML }}{{ end }}</p>
 
 <h2>ソリューション</h2>
-{{ with (index . "Solution‡") }}{{ . | markdownify | safeHTML }}{{ end }}
+<p>{{ with (index . "Solution‡") }}{{ . | markdownify | safeHTML }}{{ end }}</p>
 
 <h2>ベネフィット</h2>
-{{ with (index . "Benefits‡") }}{{ . | markdownify | safeHTML }}{{ end }}
+<p>{{ with (index . "Benefits‡") }}{{ . | markdownify | safeHTML }}{{ end }}</p>
 
 <h2>導入技術概要</h2>
-{{ with (index . "Technology‡") }}{{ . | markdownify | safeHTML }}{{ end }}
+<p>{{ with (index . "Technology‡") }}{{ . | markdownify | safeHTML }}{{ end }}</p>
 
 {{ end }}
 {{ end }}
