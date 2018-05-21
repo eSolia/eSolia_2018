@@ -1,48 +1,44 @@
 ---
 author: eSolia
-date: 2018-05-14T15:00:37+09:00
-publishdate: 2018-05-14T15:00:37+09:00
-draft: true
+date: 2018-05-21T14:30:37+09:00
+publishdate: 2018-05-21T14:30:37+09:00
+draft: false
 slug: success-story_bilingual-website-built-with-hugo
 title: モダン且つモバイルファーストウェブサイト
 subtitle: 学会協議会の為
-description: イソリアから - 東京新事務所にて、オフィスとラボ工事やIT更新作業のプロジェクトマネジメントを実施し、東京と横浜のオフィスを移転させた。
+description: イソリアから - 学会協議会の為、ウェブ開発とプロジェクトマネジメントを実施し、バイリンガル且つモバイルフレンドリーなウェブサイトを立ち上げた。
 layout: successes
 alternatelocales:
   - en-US
 tags:
-  - オフィス工事
-  - ラボ工事
-  - バイリンガルリエーゾン
-  - オフィス移転
-  - オフィス合併
-  - 業者管理
-  - PM
-  - プロジェクト管理
+  - ウェブ開発
+  - PROdb
+  - バイリンガル
+  - 翻訳
+  - ローカライズ
+  - Hugo
   - プロジェクトマネジメント
   - プロマネ
+  - プロジェクト管理
   - IT技術
 topics:
   - 成功事例
 images:  
   - /img/eSolia-Chicklet-Color-1024px.png
 formcheckboxes:
-  - プロジェクトマネジメント
-  - 複数プロジェクトのポートフォリオ管理
-  - オフィス移転
-  - オフィス合併
+  - ウェブ開発
 gallery_id: 109989173467424472552
 menu:
   main:
-    Name: Hugoサイト
+    Name: 学会協議会のウエブサイト
     Weight: 60
     Parent: success_index_ja
     Identifier: successhugosite1_ja
     Url: /success-story_bilingual-website-built-with-hugo
     Pre: fa-flag-checkered
-    Post: 身近な説明
+    Post: モダン且つモバイルファースト
   successes:
-    Name: Hugoサイト
+    Name: 学会協議会のウェブサイト
     Identifier: sshugosite1_ja
     Url: /success-story_bilingual-website-built-with-hugo
     Parent: sucsideindex_ja
