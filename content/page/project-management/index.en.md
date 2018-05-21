@@ -117,4 +117,39 @@ We have our own hybrid project management methodology, but are flexible in our a
 1. Closure
 1. Maintenance
 
+<ul class="steps">
+  <li class="step-item is-completed is-primary list-has-no-style">
+    <div class="step-marker">1</div>
+    <div class="step-details is-primary is-completed">
+      <p class="step-title is-size-6">Initiation</p>
+      <p class="is-italic has-text-weight-light is-size-7">Prep and agreement.</p>
+    </div>
+  </li>
+  <li class="step-item is-completed is-info list-has-no-style">
+    <div class="step-marker">2</div>
+    <div class="step-details">
+      <p class="step-title is-size-6">Controlled Implementation</p>
+      <p class="is-italic has-text-weight-light is-size-7">Observe, control and execute.</p>
+    </div>
+  </li>
+  <li class="step-item is-completed is-danger list-has-no-style">
+    <div class="step-marker">
+      <span class="icon">3</span>
+    </div>
+    <div class="step-details">
+      <p class="step-title is-size-6">Closure</p>
+      <p class="is-italic has-text-weight-light is-size-7">Ensure full completion.</p>
+    </div>
+  </li>
+    <li class="step-item is-completed is-success list-has-no-style">
+    <div class="step-marker">
+      <span class="icon">4</span>
+    </div>
+    <div class="step-details">
+      <p class="step-title is-size-6">Maintenance</p>
+      <p class="is-italic has-text-weight-light is-size-7">Revisit, confirm, maintain.</p>
+    </div>
+  </li>
+</ul>
+
 Our goal is to get your project done; not necessarily to have a certificate that says we might.

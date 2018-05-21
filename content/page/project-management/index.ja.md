@@ -121,5 +121,39 @@ menu:
 1. 完了
 1. 運用、保守
 
+<ul class="steps">
+  <li class="step-item is-completed is-primary list-has-no-style">
+    <div class="step-marker">1</div>
+    <div class="step-details is-primary is-completed">
+      <p class="step-title is-size-6">開始</p>
+      <p class="is-italic has-text-weight-light is-size-7">準備、同意</p>
+    </div>
+  </li>
+  <li class="step-item is-completed is-info list-has-no-style">
+    <div class="step-marker">2</div>
+    <div class="step-details">
+      <p class="step-title is-size-6">実行</p>
+      <p class="is-italic has-text-weight-light is-size-7">監視、制御</p>
+    </div>
+  </li>
+  <li class="step-item is-completed is-danger list-has-no-style">
+    <div class="step-marker">
+      <span class="icon">3</span>
+    </div>
+    <div class="step-details">
+      <p class="step-title is-size-6">完了</p>
+      <p class="is-italic has-text-weight-light is-size-7">完全に終わるまで</p>
+    </div>
+  </li>
+    <li class="step-item is-completed is-success list-has-no-style">
+    <div class="step-marker">
+      <span class="icon">4</span>
+    </div>
+    <div class="step-details">
+      <p class="step-title is-size-6">運用、保守</p>
+      <p class="is-italic has-text-weight-light is-size-7">再び確認、メンテする</p>
+    </div>
+  </li>
+</ul>
 
 最終目標は御社のプロジェクトを達成することであり、「出来るだろう」というあいまいな意思表示を行う事ではありません。
