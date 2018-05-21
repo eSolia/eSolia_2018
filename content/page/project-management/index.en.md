@@ -102,7 +102,7 @@ We have real experience and success running large, complex projects in ERP, BPR,
 * Major data center upgrade including enterprise UPS upgrade and earthquake-proofing
 * Sharepoint Intranet rollout
 
-... and many others.
+... and [many others](/success-stories).
 
 ### Our PM Approach
 
