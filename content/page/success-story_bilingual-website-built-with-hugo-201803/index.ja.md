@@ -1,7 +1,7 @@
 ---
 author: eSolia
-date: 2018-05-21T14:30:37+09:00
-publishdate: 2018-05-21T14:30:37+09:00
+date: 2018-05-21T14:50:14+09:00
+publishdate: 2018-05-21T14:50:14+09:00
 draft: false
 slug: success-story_bilingual-website-built-with-hugo
 title: モダン且つモバイルファーストウェブサイト
@@ -31,7 +31,7 @@ gallery_id: 109989173467424472552
 menu:
   main:
     Name: 学会協議会のウエブサイト
-    Weight: 60
+    Weight: 70
     Parent: success_index_ja
     Identifier: successhugosite1_ja
     Url: /success-story_bilingual-website-built-with-hugo
@@ -42,7 +42,7 @@ menu:
     Identifier: sshugosite1_ja
     Url: /success-story_bilingual-website-built-with-hugo
     Parent: sucsideindex_ja
-    Weight: 60
+    Weight: 70
 ---
 
 {{< showsuccess 408 >}}
