@@ -64,7 +64,7 @@
           <article class="tile is-child box notification is-esolia-blue-3">
             <p class="title">{{ i18n "topsectionwwd" }}</p>
             <p class="subtitle">{{ i18n "topsectionwwdsub" }}</p>
-            <p>{{ i18n "topsectionwwdtext" | safeHTML }}</p>
+            <p>{{ i18n "topsectionwwdtext" | safeHTML | markdownify }}</p>
           </article>
         </div>
 
@@ -72,7 +72,7 @@
           <article class="tile is-child box notification is-esolia-yellow-3">
             <p class="title">{{ i18n "topsectiontr" }}</p>
             <p class="subtitle">{{ i18n "topsectiontrsub" }}</p>
-            <p>{{ i18n "topsectiontrtext" | safeHTML }}</p>
+            <p>{{ i18n "topsectiontrtext" | safeHTML | markdownify }}</p>
           </article>
         </div>
 
@@ -80,7 +80,7 @@
           <article class="tile is-child box notification is-esolia-secondary-1-4">
             <p class="title">{{ i18n "topsectionwhy" }}</p>
             <p class="subtitle">{{ i18n "topsectionwhysub" }}</p>
-            <p>{{ i18n "topsectionwhytext" | safeHTML }}</p>
+            <p>{{ i18n "topsectionwhytext" | safeHTML | markdownify }}</p>
           </article>
         </div>
       </div>
