@@ -33,8 +33,12 @@ menu:
 
 ## Foundations take root with eSolia
 
-eSolia is a Tokyo-based Information Technology management firm providing high-quality business-focused consulting, project and outsourcing services to a variety of blue-chip foreign and Japanese organizations in Japan and abroad. Our concept is simple - our services are Standards-based, have an in-built Awareness of your business and culture, and are delivered by a team of Experienced experts.
+eSolia is a Tokyo-based Information Technology management firm providing high-quality business-focused [consulting](/consulting), [project](/project-management) and [outsourcing](/outsourcing) services to a variety of blue-chip foreign and Japanese organizations in Japan and abroad. 
 
-As a globally-minded organization that focuses on multi-cultural, multi-language challenges, and based on our successful track record in handling complex high-pressure projects and providing creative problem-solving, we have the confidence to find solutions for all your system and process challenges.
+Our concept is simple - our [services](/services) are Standards-based, have an in-built Awareness of your business and culture, and are delivered by a team of Experienced experts.
 
-At eSolia, we sow the seeds that help you build your business on strong IT foundations. Let us begin helping your company meet its business commitments today.
+We have a [successful track record](/success-stories) of delivering results executing high-pressure, multi-cultural and multi-language projects, a fact which brings us the confidence to find creative solutions for all your system and process challenges.
+
+At eSolia, we sow the seeds that help you build your business on strong IT foundations. [Contact us](/info-request), and let us begin helping your company meet its business commitments today.
+
+<img srcset="/img/eSolia-Logo-Flat-2015.svg" src="/img/eSolia-Logo-Flat-2015.png" alt="eSolia Logo" width="80%"></img>
