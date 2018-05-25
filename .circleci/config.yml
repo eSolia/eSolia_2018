@@ -37,8 +37,8 @@ jobs:
       - run:
           name: Test our generated HTML files with htmlproofer
           command: |
-            htmlproofer $HUGO_BUILD_DIR --allow-hash-href --check-html \
-            --empty-alt-ignore --disable-external
+            htmlproofer $HUGO_BUILD_DIR/en --allow-hash-href --check-html --empty-alt-ignore --disable-external
+            htmlproofer $HUGO_BUILD_DIR/ja --allow-hash-href --check-html --empty-alt-ignore --disable-external
 
       # `deploy` step: identical to a `run` step, but uses only one container:
       # https://circleci.com/docs/2.0/configuration-reference/#deploy
