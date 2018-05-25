@@ -104,15 +104,14 @@ eSolia fosters creativity in our problem-solving process with a core set of prac
 
 ## Our Tools
 
-As mentioned elsewhere, we have sets of tools developed over years of experience:
+As mentioned elsewhere, we have sets of tools developed over years of experience. Most of our tools have been developed in our cloud database system "[PROdb](/prodb)", or can be accessed as otherwise linked:
 
 * Support ticket system
+* [Remote support](https://esolia.screenconnect.com/) system
 * Engineering report system
 * Procedure and policy system
 * Client information storage system
-* Secure text paste system, for sending passwords securely
+* [Secure text](https://zerobin.esolia.com/) paste system, for sending passwords securely
 * Document management
 * Source code management
 * Physical tools for engineering jobs
-
-Interested in getting our help? Please [contact us today](/info-request/).
