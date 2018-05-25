@@ -2,6 +2,8 @@
 
 Readme for the <https://esolia.com> and <https://esolia.co.jp> sites. 
 
+Circle CI Status: [![CircleCI](https://circleci.com/gh/RickCogley/eSolia_2018.svg?style=svg)](https://circleci.com/gh/RickCogley/eSolia_2018)
+
 ## Latest iteration
 
 As they say, we "[stand on the shoulders of giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants "Wikipedia article about etymology of standing on the shoulders of giants")", and this site is certainly no exception.
