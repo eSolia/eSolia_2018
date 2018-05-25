@@ -1,0 +1,55 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: cibuilds/hugo:latest
+    working_directory: ~/hugo
+    environment:
+      HUGO_BUILD_DIR: ~/hugo/public
+    steps:
+
+      # install git
+      - run: apk update && apk add git
+
+      # checkout the repository
+      - checkout
+
+      # install git submodules for managing third-party dependencies
+      - run: git submodule sync && git submodule update --init
+
+      - run:
+          name: Install AWS CLI (first install pip, the Python package manager)
+          command: |
+            apk add --update python python-dev py-pip build-base
+            pip install awscli
+
+      - run:
+          name: Install s3deploy from bep
+          command: |
+            curl -L https://github.com/bep/s3deploy/releases/download/v2.0.2/s3deploy_2.0.2_Linux-64bit.tar.gz | tar xvz
+
+      # build with Hugo
+      - run:
+          name: Build site with Hugo
+          command: |
+            HUGO_ENV=production hugo --gc -v -d $HUGO_BUILD_DIR
+
+      - run:
+          name: Test our generated HTML files with htmlproofer
+          command: |
+            htmlproofer $HUGO_BUILD_DIR --allow-hash-href --check-html \
+            --empty-alt-ignore --disable-external
+
+      # `deploy` step: identical to a `run` step, but uses only one container:
+      # https://circleci.com/docs/2.0/configuration-reference/#deploy
+      - deploy:
+          name: Deploy to AWS S3
+          command: |
+            if [ "${CIRCLE_BRANCH}" = "master" ]; then
+              ./s3deploy -source=$HUGO_BUILD_DIR/en -region=us-east-1 -bucket=$AWS_S3_ESOLIACOM_BKTNAME
+              ./s3deploy -source=$HUGO_BUILD_DIR/ja -region=us-east-1 -bucket=$AWS_S3_ESOLIACOJP_BKTNAME
+              aws cloudfront create-invalidation --distribution-id $AWS_CF_ESOLIACOM_DISTN --paths "/index.html" "/" "/page/*" "/post/*" "/sitemap/*" "/404/*" "/tags/*" "/topics/*"
+              aws cloudfront create-invalidation --distribution-id $AWS_CF_ESOLIACOJP_DISTN --paths "/index.html" "/" "/page/*" "/post/*" "/sitemap/*" "/404/*" "/tags/*" "/topics/*"
+            else
+              echo "Not master branch, dry run only"
+            fi
