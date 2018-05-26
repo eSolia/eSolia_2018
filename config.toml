@@ -38,6 +38,28 @@ enableRobotsTXT = "true"
 [params.navigation]
 help  = "Help"
 
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = false
+    respectDoNotTrack = true
+    useSessionStorage = true
+  [privacy.instagram]
+    disable = false
+    simple = false
+  [privacy.speakerDeck]
+    disable = false
+  [privacy.twitter]
+    disable = false
+    enableDNT = true
+  [privacy.vimeo]
+    disable = false
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = true
+
 [languages]
 [languages.en]
 baseURL = "https://esolia.com/"
