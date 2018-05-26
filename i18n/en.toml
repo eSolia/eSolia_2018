@@ -154,6 +154,9 @@ other = "More Info"
 [genviewgooglemap]
 other = "View on Google Maps"
 
+[eSoliaMapBlurb]
+other = "Find us on <a itemprop='hasMap' href='https://goo.gl/maps/cBQznrRSzJ92' target='_blank'>Google Maps</a>, <a itemprop='hasMap' href='https://maps.apple.com/?ll=35.667714,139.751492&q=eSolia%20Nishishimbashi%202-Ch%C5%8Dme%202-2&_ext=EiQpAVesQGfVQUAxILGXHwh4YUA55/xHBYjVQUBBlpq+UBB4YUA%3D&t=r' target='_blank'>Apple Maps</a>, or click the image to zoom."
+
 [languagename]
 other = "English"
 

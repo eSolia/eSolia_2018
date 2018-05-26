@@ -154,6 +154,9 @@ other = "つづきを読む"
 [genviewgooglemap]
 other = "グーグルマップで見る"
 
+[eSoliaMapBlurb]
+other = "<a itemprop='hasMap' href='https://goo.gl/maps/cBQznrRSzJ92' target='_blank'>グーグルマップ</a>や<a itemprop='hasMap' href='https://maps.apple.com/?ll=35.667714,139.751492&q=eSolia%20Nishishimbashi%202-Ch%C5%8Dme%202-2&_ext=EiQpAVesQGfVQUAxILGXHwh4YUA55/xHBYjVQUBBlpq+UBB4YUA%3D&t=r' target='_blank'>アップルマップ</a>で探すか、又は、下記画像をクリックして拡大できます。"
+
 [languagename]
 other = "日本語"
 

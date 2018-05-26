@@ -1,7 +1,7 @@
 ---
 author: イソリア
-date: 2018-05-06T07:07:27+09:00
-publishdate: 2018-05-06T07:07:27+09:00
+date: 2018-05-26T12:20:27+09:00
+publishdate: 2018-05-26T12:20:27+09:00
 description: イソリアの会社案内 - ビジョン、会社概要、主なビジネス、住所やアクセス地図、その他一般情報。
 draft: false
 slug: about
@@ -113,9 +113,7 @@ menu:
 
 ### アクセス
 
-<p><div class="map-responsive">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3241.377084474057!2d139.75146199999998!3d35.667716!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188b933eb5098d%3A0xb799ee788fa28eb7!2seSolia+Inc.!5e0!3m2!1sen!2sjp!4v1434536695719" width="600" height="450" frameborder="0" style="border:0"></iframe>
-</div></p>
+{{< accessmap >}}
 
 ### 祭日
 
