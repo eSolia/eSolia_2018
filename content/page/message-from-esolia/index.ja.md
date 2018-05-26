@@ -1,7 +1,7 @@
 ---
 author: イソリア
-date: 2018-05-06T07:07:27+09:00
-publishdate: 2018-05-06T07:07:27+09:00
+date: 2018-05-26T15:20:27+09:00
+publishdate: 2018-05-26T15:20:27+09:00
 description: イソリアから - 当ウェブサイトへお越しいただいた皆様へのメッセージ、ビデオ紹介
 draft: false
 slug: message-from-esolia
@@ -57,4 +57,4 @@ menu:
 
 **_株式会社イソリア_**  
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/78135284" style="position:absolute;left:0;top:0;width:100%;height:100%;" frameborder="0" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+{{< showintrovideo >}}
