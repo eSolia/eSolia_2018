@@ -113,7 +113,7 @@ menu:
 
 ### アクセス
 
-{{< accessmap >}}
+{{< showaccessmap >}}
 
 ### 祭日
 
