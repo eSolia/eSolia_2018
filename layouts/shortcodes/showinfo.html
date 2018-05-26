@@ -1,0 +1,33 @@
+{{ if eq $.Site.Language.Lang "en" }}
+<table class="table is-striped is-hoverable is-fullwidth">
+<tbody>
+{{ range $.Site.Data.info }}
+<tr>
+<td>
+{{ .Date }}
+</td>
+<td>
+{{ .Description | markdownify }}
+</td>
+</tr>
+{{ end }}
+</tbody>
+</table>
+{{ end }}
+
+{{ if eq $.Site.Language.Lang "ja" }}
+<table class="table is-striped is-hoverable is-fullwidth">
+<tbody>
+{{ range $.Site.Data.info }}
+<tr>
+<td>
+{{ .Date }}
+</td>
+<td>
+{{ .Description | markdownify }}
+</td>
+</tr>
+{{ end }}
+</tbody>
+</table>
+{{ end }}

@@ -1,0 +1,747 @@
+[
+  {
+    "@row.id": 911,
+    "Date": "2018-May-26",
+    "Description": "Everyone needs secure storage for the many passwords needed for the websites and systems they use. [Ask eSolia](https://esolia.com/info-request/) about a solution!"
+  },
+  {
+    "@row.id": 910,
+    "Date": "2018-May-25",
+    "Description": "PSA: regarding \"Efail\", a set of security vulnerabilities in helper software used with email software to integrate PGP/GPG encryption, Protonmail has written a [detailed explanation](https://protonmail.com/blog/pgp-vulnerability-efail/) of the issues and provides guidance. "
+  },
+  {
+    "@row.id": 913,
+    "Date": "2018-May-24",
+    "Description": "There are a number of challenges with the Microsoft Windows 10 \"April 2018 Update\". [Contact eSolia](https://esolia.com/info-request) and let us upgrade your Japan PCs. "
+  },
+  {
+    "@row.id": 909,
+    "Date": "2018-May-24",
+    "Description": "Windows Chrome users: you can check your system for malware that infects your browser by visiting `chrome://settings/cleanup`."
+  },
+  {
+    "@row.id": 907,
+    "Date": "2018-May-23",
+    "Description": "New success story added for a bilingual website project. [See here](https://esolia.com/success-story_bilingual-website-built-with-hugo/) for details. "
+  },
+  {
+    "@row.id": 908,
+    "Date": "2018-May-22",
+    "Description": "And we thought Yokohama was tough on residents regarding recycling. Kamikatsu's [zero waste](http://www.abc.net.au/news/2018-05-20/kamikatsu-the-japanese-town-with-45-different-recycling-bins/9776560) goal is admirable. See their multipage (Japanese) [guidebook](http://www.kamikatsu.jp/docs/2017040700010/file_contents/bunbetsuguide.pdf) for an idea."
+  },
+  {
+    "@row.id": 905,
+    "Date": "2018-May-21",
+    "Description": "New success story added for a past office move project. [See here](https://esolia.com/success-story_move-from-serviced-to-leased-office/) for details. "
+  },
+  {
+    "@row.id": 906,
+    "Date": "2018-May-18",
+    "Description": "JR East will [install cameras](https://www.japantimes.co.jp/news/2018/04/03/national/jr-east-install-security-cameras-trains/) on new trains to enhance security. We hope this move serves to increase security for riders."
+  },
+  {
+    "@row.id": 903,
+    "Date": "2018-May-18",
+    "Description": "Health conscious in Japan? There are _plenty_ of juice bars in Tokyo now, like [Sky High](http://skyhigh-tokyo.jp), [Saladish](http://www.saladish.jp), [Smoothie Stand Aoya](http://aoya.favy.jp), [Maruce Juice Bar Shinjuku](https://goo.gl/maps/2VGm2Z8qyRz), [Robeks Juice Aoyama](https://goo.gl/maps/mfyrRVeenM12) and even a local one \"[Vegetarian](https://goo.gl/maps/ncrimfJHVS22)\" in the New Shimbashi Building, just outside JR Shimbashi station."
+  },
+  {
+    "@row.id": 902,
+    "Date": "2018-May-17",
+    "Description": "Google's [new \"Google News\" app](https://blog.google/products/news/new-google-news-ai-meets-human-intelligence) is available on your app store, and on <https://news.google.com>."
+  },
+  {
+    "@row.id": 397,
+    "Date": "2018-May-17",
+    "Description": "US Net Neutrality was [repealed by the FCC on 11th June 2018](https://arstechnica.com/tech-policy/2018/05/net-neutrality-to-die-on-june-11-as-ajit-pai-blasts-special-interests/) but the US Senate [voted to preserve it](https://www.eff.org/deeplinks/2018/05/senate-voted-stand-net-neutrality-now-tell-house-do-same). We should all expect negative impacts if Net Neutrality is officially repealed by the final House of Representatives vote."
+  },
+  {
+    "@row.id": 904,
+    "Date": "2018-May-16",
+    "Description": "Tokyo visitors, it's Spring Festival time. Kanda Myojin Shrine has been having its annual spring Matsuri festival and today 16th May 2018 from 14:00 is the \"[rei-tai-sai](https://www.kandamyoujin.or.jp/kandamatsuri/event/reitaisai/)\". The big [Sanja Matsuri](http://www.sanja.jp) is Friday 18th May through Sunday 20th May 2018, in Asakusa on the Ginza subway line. There is even a [live camera](https://www.youtube.com/watch?v=_prQqyxhxhY) available. "
+  },
+  {
+    "@row.id": 901,
+    "Date": "2018-May-16",
+    "Description": "Google reduced the price of its [storage plans](https://www.google.com/drive/pricing/) and changed the service name to \"Google One\". There's even \"Family Sharing\"."
+  },
+  {
+    "@row.id": 400,
+    "Date": "2018-May-15",
+    "Description": "PSA: security researchers found vulnerabilities in common email encryption tools based on PGP. [A blog post by the EFF](https://www.eff.org/deeplinks/2018/05/attention-pgp-users-new-vulnerabilities-require-you-take-action-now) recommends temporarily disabling PGP _plugins_ like Thunderbird Enigmail, Apple Mail PGP Tools, and Outlook Gpg4win. The problem is with the plugins, not PGP itself."
+  },
+  {
+    "@row.id": 399,
+    "Date": "2018-May-15",
+    "Description": "New success story added for a past project. [See here](https://esolia.com/success-story_office-and-lab-construction-project/) for details. "
+  },
+  {
+    "@row.id": 398,
+    "Date": "2018-May-14",
+    "Description": "We added RSS feeds for the \"short news\" information and project lists, on the top, [news archive](https://esolia.com/post), and [success stories](https://esolia.com/success-stories) pages, and indicated by the standard feed icon ![](https://esolia.com/img/RSS.png). This is useful if you still use an RSS feed reader to consume news. "
+  },
+  {
+    "@row.id": 396,
+    "Date": "2018-May-13",
+    "Description": "Google is going to require regular security patching from Android OEMs, from the [I/O 2018 Keynote talk](https://www.youtube.com/watch?v=ogfYd705cRs). Regular security patches being required on your Android phones is a good thing, so we look forward to this becoming the norm."
+  },
+  {
+    "@row.id": 394,
+    "Date": "2018-May-12",
+    "Description": "Google has made it easier to view, and delete, your activity on their services. We recommend making use of it. <https://myactivity.google.com>"
+  },
+  {
+    "@row.id": 392,
+    "Date": "2018-May-08",
+    "Description": "PSA: 7-zip users should upgrade immediately to avoid a [security vulnerability](https://www.cisecurity.org/advisory/a-vulnerability-in-7-zip-could-allow-for-arbitrary-code-execution_2018-049/). [Contact eSolia](https://esolia.com/info-request) to scan and identify systems on your LAN that have vulnerable 7-zip versions. "
+  },
+  {
+    "@row.id": 401,
+    "Date": "2018-May-07",
+    "Description": "We've launched our new website design! Read more about it [in this blog post](https://esolia.com/post/why-did-esolia-choose-hugo/). "
+  },
+  {
+    "@row.id": 7,
+    "Date": "2018-May-04",
+    "Description": "PSA: [Twitter recommends](https://blog.twitter.com/official/en_us/topics/company/2018/keeping-your-account-secure.html) changing your password, just in case, due to an internal security breach. "
+  },
+  {
+    "@row.id": 8,
+    "Date": "2018-May-03",
+    "Description": "First Thursday of May is \"World Password Day\". Read [this article](https://rick.cogley.info/post/establishing-a-personal-password-policy/) by eSolia CEO Rick Cogley on establishing a personal password policy, and take action. "
+  },
+  {
+    "@row.id": 393,
+    "Date": "2018-May-01",
+    "Description": "The last year of the Heisei era begins today. Emperor Akihito will abdicate the Chrysanthemum Throne on April 30, 2019, and his son Crown Prince Naruhito will ascend to the throne on May 30, 2019. ㊗️"
+  },
+  {
+    "@row.id": 395,
+    "Date": "2018-Apr-17",
+    "Description": "What a day for athletics! Desi Linden of the US won the women's and Yuki Kawauchi of Japan won the men's [at the Boston Marathon](https://www.nytimes.com/2018/04/16/sports/boston-marathon-rain-galen-rupp.html), in the worst possible conditions - cold, wet, windy. Congratulations! ㊗️ Inspiring! "
+  },
+  {
+    "@row.id": 15,
+    "Date": "2018-Apr-02",
+    "Description": "iPhone or iPad users: consider Settings, Siri & Search, \"Allow Siri When Locked\". Leaving this ON invites shenanigans."
+  },
+  {
+    "@row.id": 3,
+    "Date": "2018-Feb-12",
+    "Description": "Japan visitors: get “[NHK WORLD TV](https://apple.co/2EmIeUD)” on your App Store (Android also), and enable quake and tsunami alerts in settings."
+  },
+  {
+    "@row.id": 9,
+    "Date": "2017-Nov-15",
+    "Description": "eSolia CEO Rick Cogley is doing a [Reddit AMA](https://www.reddit.com/r/IAmA/comments/7d2iw2/iama_business_owner_in_japan_here_since_1987_ama/) (user: rickcogley). Ask Me Anything. "
+  },
+  {
+    "@row.id": 5,
+    "Date": "2017-Oct-31",
+    "Description": "PSA: be smart; change default password on all your \"IoT\" devices, such as your Internet router/wifi or coffee maker! ([Reaper Botnet](https://arstechnica.com/information-technology/2017/10/assessing-the-threat-the-reaper-botnet-poses-to-the-internet-what-we-know-now))"
+  },
+  {
+    "@row.id": 4,
+    "Date": "2017-Oct-18",
+    "Description": "PSA: Don't get KRACKed. Patch your wireless routers / wifi, your Mac or Windows systems, your smartphone. ([KRACK attack](https://arstechnica.com/information-technology/2017/10/how-the-krack-attack-destroys-nearly-all-wi-fi-security))"
+  },
+  {
+    "@row.id": 6,
+    "Date": "2017-Oct-06",
+    "Description": "macOS High Sierra users: Apple released important [security patches](https://support.apple.com/en-us/HT208165), so updating is recommended. "
+  },
+  {
+    "@row.id": 17,
+    "Date": "2017-Jul-07",
+    "Description": "We founded @eSolia_Inc on 7th July 1999 for IT service excellence. Thank you for another successful year! "
+  },
+  {
+    "@row.id": 11,
+    "Date": "2017-May-04",
+    "Description": "PSA: Google has addressed the Google Docs phishing hack. Be sure to do a Google [Security Checkup](https://myaccount.google.com/security-checkup). "
+  },
+  {
+    "@row.id": 10,
+    "Date": "2017-May-03",
+    "Description": "PSA: use extra care today. Why this [Google Docs phishing attack](https://www.washingtonpost.com/amphtml/news/the-switch/wp/2017/05/03/why-this-google-docs-phishing-attack-is-particularly-sneaky/) is particularly sneaky!"
+  },
+  {
+    "@row.id": 12,
+    "Date": "2017-Feb-25",
+    "Description": "PSA: [Cloudbleed](https://gizmodo.com/everything-you-need-to-know-about-cloudbleed-the-lates-1792710616) security breach means change your passwords! [Many sites](https://github.com/pirate/sites-using-cloudflare/blob/master/README.md) are using Cloudflare DNS and are impacted. "
+  },
+  {
+    "@row.id": 13,
+    "Date": "2017-Feb-17",
+    "Description": "Visiting Tokyo? Do yourself a favor and take a day trip down to Kamakura, one of the ancient capitals of Japan. Here is a [Google map of sites](https://goo.gl/maps/7t9YxHU83dJ2) you might like to visit. "
+  },
+  {
+    "@row.id": 14,
+    "Date": "2017-Jan-28",
+    "Description": "Chinese friends and colleagues: Happy New Year!"
+  },
+  {
+    "@row.id": 20,
+    "Date": "2017-Jan-24",
+    "Description": "This [\"Word Lens\"](https://googleblog.blogspot.jp/2015/07/see-world-in-your-language-with-google.html) feature of Google Translate is so very nifty. If you haven't, give it a try; point and shoot! "
+  },
+  {
+    "@row.id": 24,
+    "Date": "2016-Oct-16",
+    "Description": "iOS 10 users: [fix an annoyance in Settings, Mail, Most Recent Messages on Top](https://twitter.com/eSolia_Inc/status/787802327071817732/photo/1)\r\n"
+  },
+  {
+    "@row.id": 26,
+    "Date": "2016-Sept-14",
+    "Description": "PSA: Google Apps for Work users, if your Gmail is not working, Google says \"disable and reenable Gmail for your domain\" as a workaround."
+  },
+  {
+    "@row.id": 27,
+    "Date": "2016-Aug-27",
+    "Description": "PSA: Dropbox had a security breach, so [change your password](https://www.dropbox.com/help/sign-in/prompted-create-new-password) and for the love of Soteria, enable 2-factor authentication while you are at it. "
+  },
+  {
+    "@row.id": 28,
+    "Date": "2016-Jul-14",
+    "Description": "PSA: Heavy rains in Minato Tokyo. Watch for flooding. Check water level and rainfall at:[Minato Ward water level rainfall information](http://translation2.j-server.com/LUCMINASUI/ns/tl.cgi/http://navi.city.minato.tokyo.jp/mobile/suii_uryo/?SLANG=ja&TLANG=en&XMODE=)\r\n "
+  },
+  {
+    "@row.id": 29,
+    "Date": "2016-Jul-07",
+    "Description": "🎉㊗️It's eSolia's 17th Anniversary! We founded [eSolia Inc](https://esolia.com/about/) on 7th July 1999 for IT service excellence. Thank you for another successful year! "
+  },
+  {
+    "@row.id": 30,
+    "Date": "2016-Jul-05",
+    "Description": "PSA: Github [noticed a security attack](https://blog.github.com/2016-06-16-github-security-update-reused-password-attack/) on their system, so you might want to change your password, and enable 2FA while you're at it."
+  },
+  {
+    "@row.id": 31,
+    "Date": "2016-Jun-17",
+    "Description": "PSA: organized fraudsters posing as the IRS, calling US citizens to demand quick action to settle. IRS does not phone; they send letters."
+  },
+  {
+    "@row.id": 33,
+    "Date": "2016-Jun-05",
+    "Description": "PSA: [TeamViewer security breach](https://arstechnica.com/information-technology/2016/06/teamviewer-says-theres-no-evidence-of-2fa-bypass-in-mass-account-hack/?utm_content=bufferbe664&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer). Change your passwords, use a unique one per site, use two-factor authentication. "
+  },
+  {
+    "@row.id": 34,
+    "Date": "2016-May-05",
+    "Description": "PSA: [Hack exposes millions of Gmail, Microsoft and Yahoo logins.](https://www.cultofmac.com/426891/hack-exposes-millions-of-gmail-microsoft-and-yahoo-logins/) Change your Google, Yahoo and Microsoft passwords just to be safe (and enable 2fa). "
+  },
+  {
+    "@row.id": 36,
+    "Date": "2016-Mar-31",
+    "Description": "PSA: beware of an insidious malware trend \"ransomware\" in which scammers lock your computer &amp; extort you, especially via email attachments."
+  },
+  {
+    "@row.id": 43,
+    "Date": "2016-Feb-12",
+    "Description": "PSA update: Mac users see what you can do about [Sparkle security vulnerability](https://rick.cogley.info/post/mac-app-sparkle-framework-vulnerability/?utm_content=buffer5fba9&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer). "
+  },
+  {
+    "@row.id": 45,
+    "Date": "2016-Feb-11",
+    "Description": "PSA: Mac users, encourage your app providers to address [this security vulnerability](https://arstechnica.com/information-technology/2016/02/huge-number-of-mac-apps-vulnerable-to-hijacking-and-a-fix-is-elusive) asap."
+  },
+  {
+    "@row.id": 44,
+    "Date": "2016-Feb-11",
+    "Description": "PSA for Mac users: about the [\"Sparkle\" app update system security vulnerability](https://rick.cogley.info/post/mac-app-sparkle-framework-vulnerability/?utm_content=buffera04d4&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer). "
+  },
+  {
+    "@row.id": 49,
+    "Date": "2015-Dec-23",
+    "Description": "PSA: Our database service PROdb to be down for maintenance this coming Sat, 26 Dec 2015. Service interruptions between 18pm and 20pm JST."
+  },
+  {
+    "@row.id": 56,
+    "Date": "2015-Dec-02",
+    "Description": "PSA: [Christmas lights](https://www.cultofmac.com/400156/christmas-lights-may-be-ruining-your-wi-fi-speeds/) may be ruining your Wi-Fi speeds."
+  },
+  {
+    "@row.id": 74,
+    "Date": "2015-Sept-30",
+    "Description": "PSA: from today, 1st Oct 2015, [Japan consumption tax due](https://www.japantimes.co.jp/news/2015/09/30/national/overseas-online-purchases-taxed-bid-protect-domestic-industries/?utm_content=buffer734f9&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#.Wvu9mIjRCUk) on overseas online purchases, disingenuous rationale aside."
+  },
+  {
+    "@row.id": 76,
+    "Date": "2015-Sept-29",
+    "Description": "iOS 9 users: turning off new feature may save money. Settings, Cellular, Wifi Assist. It auto-switches to 4G if wifi is 'poor'."
+  },
+  {
+    "@row.id": 79,
+    "Date": "2015-Sept-25",
+    "Description": "PSA: iOS 9 users can [prevent a security exploit](https://thehackernews.com/2015/09/io9-hack-passcode.html?utm_content=buffer2410f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) by disabling use of Siri from lock screen. "
+  },
+  {
+    "@row.id": 87,
+    "Date": "2015-Jul-31",
+    "Description": "PSA: Pressure your Android phone maker for [the StageFright bug](http://fortune.com/2015/07/28/stagefright-google-android-security/?utm_content=buffer58bc5&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)fix. "
+  },
+  {
+    "@row.id": 86,
+    "Date": "2015-Jul-31",
+    "Description": "PSA: Android users, be proactive against [the StageFright bug](https://www.greenbot.com/article/2954235/android/how-to-protect-yourself-from-the-stagefright-security-flaw.html?utm_content=buffer8d45c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer), while you wait for a fix. "
+  },
+  {
+    "@row.id": 97,
+    "Date": "2015-Jul-07",
+    "Description": "🎉㊗️It's eSolia's 16th Anniversary! To celebrate, we launched our new website. Please see it [here](https://esolia.com/)."
+  },
+  {
+    "@row.id": 107,
+    "Date": "2015-May-22",
+    "Description": "PSA: be aware of this odious change that requires you to verify your domain registration contact info. EasyDNS Blog: \"[Unfortunately, we have renewed our ICANN Accreditation](https://easydns.com/blog/2015/05/20/unfortunately-we-have-renewed-our-icann-accreditation/)\" ."
+  },
+  {
+    "@row.id": 111,
+    "Date": "2015-May-05",
+    "Description": "Japan PSA: travellers beware, and note that areas might be closed. \"[Volcanic activity increases at Mount Hakone](https://japantoday.com/category/national/two-more-minor-quakes-recorded-at-mount-hakone)\" "
+  },
+  {
+    "@row.id": 406,
+    "Date": "2015-Feb-26",
+    "Description": "PSA for security: use [this site](https://filippo.io/Badfish/?utm_content=bufferf761d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) to test yourself for Superfish, Komodia, PrivDog vulnerability. "
+  },
+  {
+    "@row.id": 407,
+    "Date": "2015-Feb-25",
+    "Description": "[On OS X and iOS security vulnerabilities and shoddy reporting](https://www.imore.com/os-x-and-ios-security-vulnerabilities-and-shoddy-reporting?utm_content=)"
+  },
+  {
+    "@row.id": 427,
+    "Date": "2015-Jan-28",
+    "Description": "PSA: OSX Yosemite users, upgrade to 10.2.2 did indeed resolve wifi issues on a couple of our systems. "
+  },
+  {
+    "@row.id": 428,
+    "Date": "2015-Jan-27",
+    "Description": "PSA via @maintain_se: it is always recommended to use a [combo updater](https://support.apple.com/kb/DL1786?locale=ja_JP) to update OS X. [More](http://www.maintain.se/blog/combo-updates/):"
+  },
+  {
+    "@row.id": 438,
+    "Date": "2015-Jan-16",
+    "Description": "PSA for security: [Browsing in privacy mode](https://arstechnica.com/information-technology/2015/01/browsing-in-privacy-mode-super-cookies-can-track-you-anyway/?utm_content=buffer1f74f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)? Super Cookies can track you anyway."
+  },
+  {
+    "@row.id": 442,
+    "Date": "2015-Jan-14",
+    "Description": "PSA: [iCloud 2FA security](https://medium.com/@da/login-to-2fa-protected-apple-accounts-without-doing-2fa-7f62813c5fe1) is still only rudimentary, and does not yet cover all Apple services. Use a strong password! \r\n\r\n"
+  },
+  {
+    "@row.id": 443,
+    "Date": "2015-Jan-13",
+    "Description": "PSA: trouble with Adobe Creative Cloud Desktop not running on OS X Yosemite? Add your user and admin group as \"RW\" (Read and Write) to `/Library` and `~/Library` to fix."
+  },
+  {
+    "@row.id": 447,
+    "Date": "2015-Jan-09",
+    "Description": "Security PSA:  [OS X Spotlight Search glitch can expose your IP address and other details to spammers](https://www.engadget.com/2015/01/09/os-x-spotlight-search-glitch-can-expose-your-ip-address-and-othe/)- TUAW "
+  },
+  {
+    "@row.id": 450,
+    "Date": "2015-Jan-07",
+    "Description": "Security PSA: Mac users stay aware. [\"World’s first (known) bootkit for OS X can permanently backdoor Macs\" ](https://arstechnica.com/information-technology/2015/01/worlds-first-known-bootkit-for-os-x-can-permanently-backdoor-macs/?utm_content=buffer97644&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)"
+  },
+  {
+    "@row.id": 452,
+    "Date": "2015-Jan-06",
+    "Description": "[NASA Audio Collection](https://archive.org/details/nasaaudiocollection) \"...make(s) available the historic audio record of the history of Human Spaceflight\" \r\n\r\n"
+  },
+  {
+    "@row.id": 464,
+    "Date": "2014-Dec-18",
+    "Description": "[iOS 8 review: 3 months later](https://www.imore.com/ios-8-review-3-months-later?utm_content=buffer600b6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)\r\n\r\n\r\n\r\n"
+  },
+  {
+    "@row.id": 462,
+    "Date": "2014-Dec-18",
+    "Description": "Security PSA: Software devs, do it now [\"Vulnerability announced: update your Git clients\"](https://blog.github.com/2014-12-18-vulnerability-announced-update-your-git-clients/). "
+  },
+  {
+    "@row.id": 468,
+    "Date": "2014-Dec-16",
+    "Description": "Mac and iOS users, \"[App Santa](https://appsanta.co/)\" is a good annual sale, especially if you want to try various apps. You can save up to 80% thru Dec 26th. "
+  },
+  {
+    "@row.id": 502,
+    "Date": "2014-Oct-30",
+    "Description": "iOS tip: set auto download App updates from Settings, iTunes &amp; App Store. [Screenshot from iOS 8](https://twitter.com/eSolia_Inc/status/527626071693602819/photo/1)"
+  },
+  {
+    "@row.id": 505,
+    "Date": "2014-Oct-23",
+    "Description": "OS X Yosemite and iOS 8’s “instant hotspot” feature is wildly convenient. Nice!"
+  },
+  {
+    "@row.id": 503,
+    "Date": "2014-Oct-23",
+    "Description": "[iOS 8 Health app](https://support.apple.com/en-us/HT203037)- if you want to backup and _restore_ your health data, you MUST encrypt your backup. "
+  },
+  {
+    "@row.id": 511,
+    "Date": "2014-Oct-20",
+    "Description": "OS X Yosemite: Handoff borked? Toggle Settings, General, Handoff &amp; restart iOS 8.1 device. Then, toggle FaceTime prefs \"cellular calls\". "
+  },
+  {
+    "@row.id": 518,
+    "Date": "2014-Oct-13",
+    "Description": "PSA: Typhoon Vongfong moving up Japan now, Tokyo area ETA 1-3am JST, 14 Oct. Take precautions &amp; expect travel delays."
+  },
+  {
+    "@row.id": 516,
+    "Date": "2014-Oct-13",
+    "Description": "PSA: [alert from Yokohama city regarding mudslides](https://twitter.com/eSolia_Inc/status/521613253890572288/photo/1). "
+  },
+  {
+    "@row.id": 520,
+    "Date": "2014-Oct-07",
+    "Description": "Japan car-sharing services e.g. from Park24 or Orix offer [\"a cheaper alternative to owning a car in the city\"](https://www.japantimes.co.jp/news/2014/10/06/reference/car-sharing-cheaper-alternative-owning-car-city/)"
+  },
+  {
+    "@row.id": 523,
+    "Date": "2014-Oct-05",
+    "Description": "PSA: Typhoon Phanfone approaching Japan and should hit Kanto Sunday night through noon Monday. Expect travel delays. "
+  },
+  {
+    "@row.id": 522,
+    "Date": "2014-Oct-05",
+    "Description": "PSA: [Flood Warning](http://translation2.j-server.com/LUCMINASUI/ns/tl.cgi/http://navi.city.minato.tokyo.jp/mobile/suii_uryo/?SLANG=ja&TLANG=en&XMODE=) in Minato City, Tokyo. "
+  },
+  {
+    "@row.id": 526,
+    "Date": "2014-Sept-26",
+    "Description": "iOS 8 tip: the new \"Hey Siri\" feature is kinda cool, but it consumes battery from having to continually monitor for your voice command. "
+  },
+  {
+    "@row.id": 530,
+    "Date": "2014-Sept-25",
+    "Description": "iOS 8 tip: see which apps are eating battery in Settings &gt; General &gt; Usage."
+  },
+  {
+    "@row.id": 529,
+    "Date": "2014-Sept-25",
+    "Description": "iOS 8 tip: app integration, finally. E.g. you can seamlessly access a password manager like 1Password from a website's login page. "
+  },
+  {
+    "@row.id": 528,
+    "Date": "2014-Sept-25",
+    "Description": "iOS 8 tip: Messages allows you to tap \"Details\" re a thread for contact info &amp; linked photos, easily share location, mute, leave chat. "
+  },
+  {
+    "@row.id": 527,
+    "Date": "2014-Sept-25",
+    "Description": "iOS 8 tip: camera now has Timelapse recording and a slider for brightness."
+  },
+  {
+    "@row.id": 535,
+    "Date": "2014-Sept-24",
+    "Description": "iOS 8 Tip: \"HomeKit\" allows control of disparate \"smart home\" devices like lights or thermostat from 1 place. Open the pod bay doors, Siri! "
+  },
+  {
+    "@row.id": 534,
+    "Date": "2014-Sept-24",
+    "Description": "iOS 8 Tip: use \"Family Sharing\" to share cals, photos, &amp; AppStore or iTunes purchases from the same credit card. You can OK kids' purchases. "
+  },
+  {
+    "@row.id": 533,
+    "Date": "2014-Sept-24",
+    "Description": "iOS 8 Tip: Healthkit and the \"Health\" app, for unified health data. A bug is preventing integration, but Strava, Fitbit, Nike+ should work. "
+  },
+  {
+    "@row.id": 532,
+    "Date": "2014-Sept-24",
+    "Description": "iOS 8 Tip: Custom Keyboards are here! E.g. SwiftKey, Swype, TextExpander, Fleksy, PopKey. Download, then go to Settings, General, Keyboard. "
+  },
+  {
+    "@row.id": 531,
+    "Date": "2014-Sept-24",
+    "Description": "iOS 8 tip: QuickType - tap auto-suggested words while typing &amp; the suggested words are context-sensitive. (Not in Japanese version, though) "
+  },
+  {
+    "@row.id": 536,
+    "Date": "2014-Sept-23",
+    "Description": "iOS 8 Tip: double push the home button to access your favorites and recents at the top, as well as the usual open apps. "
+  },
+  {
+    "@row.id": 540,
+    "Date": "2014-Sept-22",
+    "Description": "iOS 8 Tip: 3rd party \"widgets\" can now be installed in notifications pull-down drawer. E.g.: Yahoo weather, OmniFocus tasks, ESPN sports. "
+  },
+  {
+    "@row.id": 539,
+    "Date": "2014-Sept-22",
+    "Description": "iOS8 Tip: respond to notifications (message, cal, Facebook etc) right from the home or lock screen. Tap to respond, swipe to ignore. "
+  },
+  {
+    "@row.id": 541,
+    "Date": "2014-Sept-21",
+    "Description": "iOS 8 Tip: TouchID (iPhone 5S, 6, 6+) can be used by 3rd Party developers. You can use it already in AgileBits 1Password password manager. "
+  },
+  {
+    "@row.id": 543,
+    "Date": "2014-Sept-20",
+    "Description": "iOS 8 tip: \"Continuity\" will let you hand off browser sessions, conversations, docs to your Mac, when upgraded to OS X Yosemite. "
+  },
+  {
+    "@row.id": 544,
+    "Date": "2014-Sept-17",
+    "Description": "Will you update to iOS 8 on day one? You need about 5GB free to do it."
+  },
+  {
+    "@row.id": 565,
+    "Date": "2014-Jul-25",
+    "Description": "PSA: Tokyo is truly hot now, with 80% humidity. Hydrate. Don't walk your dog in this or leave your child in the car. "
+  },
+  {
+    "@row.id": 570,
+    "Date": "2014-Jul-23",
+    "Description": "PSA: Take due care, 3K in hospital, 3 dead while [\"Heat-wave sweeps Japan\"](https://www.japantimes.co.jp/news/2014/07/23/national/heat-wave-sweeps-japan-many-areas-log-hottest-day-summer/?utm_content=buffer6b32a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#.Wv6GQIjRCUl) "
+  },
+  {
+    "@row.id": 576,
+    "Date": "2014-Jul-10",
+    "Description": "PSA: Super-typhoon Neoguri to hit greater Tokyo from tonight (Thur 10 July) thru tomorrow noon. Take precautions."
+  },
+  {
+    "@row.id": 360,
+    "Date": "2014-Jul-07",
+    "Description": "🎉㊗️It's eSolia's 15th Anniversary! We founded [eSolia Inc](https://esolia.com/) on 7th July 1999 for IT service excellence. Thank you for another successful year!"
+  },
+  {
+    "@row.id": 644,
+    "Date": "2014-May-19",
+    "Description": "Trying to sync Google shared calendars to an iOS 7.1 device? Use [this URL](https://m.google.com/sync/settings/iconfig/) in mobile Safari. "
+  },
+  {
+    "@row.id": 661,
+    "Date": "2014-May-07",
+    "Description": "PSA: mountain conditions are treacherous even in spring:[ \"2 climbers die of exposure, others rescued in Japan Alps\"](https://www.japantimes.co.jp/news/2014/05/06/national/two-climbers-die-exposure-others-rescued-japan-alps/?utm_content=bufferd4f96&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#.Wv6JvYjRCUl) "
+  },
+  {
+    "@row.id": 711,
+    "Date": "2014-Apr-17",
+    "Description": "Convenient iOS app for Japan visitors: \"[Tokyo Subway Navigation for Tourists](https://itunes.apple.com/us/app/tokyo-subway-navigation-for/id844802451?mt=8&utm_content=)\" "
+  },
+  {
+    "@row.id": 731,
+    "Date": "2014-Apr-09",
+    "Description": "PSA ALERT: \"everything you need to know about the [Heartbleed web security flaw\"](https://gigaom.com/2014/04/08/heres-everything-you-need-to-know-about-the-heartbleed-web-security-flaw/?utm_content=buffer56953&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)"
+  },
+  {
+    "@row.id": 743,
+    "Date": "2014-Apr-01",
+    "Description": "PSA: [Support is ending for Windows XP as of 8 April 2014.](https://support.microsoft.com/ja-jp/help/14223/windows-xp-end-of-support) "
+  },
+  {
+    "@row.id": 755,
+    "Date": "2014-Mar-27",
+    "Description": "LinkedIn 2-factor authentication does indeed work with their official iOS app."
+  },
+  {
+    "@row.id": 810,
+    "Date": "2014-Mar-12",
+    "Description": "Refinements, additions, and un-breaking stuff: iOS 7.1 reviewed | [Ars Technica ](https://arstechnica.com/gadgets/2014/03/refinements-additions-and-un-breaking-stuff-ios-7-1-reviewed/?utm_content=)\r\n\r\n"
+  },
+  {
+    "@row.id": 820,
+    "Date": "2014-Mar-06",
+    "Description": "Japan visitors, want something to see? ART FAIR TOKYO is running 7-9 March. "
+  },
+  {
+    "@row.id": 830,
+    "Date": "2014-Mar-04",
+    "Description": "This blog post from Buffer is \"tech speak\", but it shows how iterative improvement works in the IT industry: \"[cronjob that generates $4 million per year](https://stories.buffer.com/the-cronjob-that-generates-4-million-a-year-4540b0cde584)\" "
+  },
+  {
+    "@row.id": 829,
+    "Date": "2014-Mar-04",
+    "Description": "Japan visitors: you can visit a [security expo](https://messe.nikkei.co.jp/en/ss/?utm_content=buffer12937&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) at Tokyo Big Sight, including a slick anti-intrusion fog machine: "
+  },
+  {
+    "@row.id": 844,
+    "Date": "2014-Feb-27",
+    "Description": "Mac OS X v10.9.2 update runs optimizations &amp; takes a while, but results are good. Snappy! It's said to patch the recent security breach. "
+  },
+  {
+    "@row.id": 847,
+    "Date": "2014-Feb-26",
+    "Description": "PSA: Update to OS X 10.9.2 to patch security:  [\"OS X Mavericks v10.9.2 and Security Update 2014-001\"](https://support.apple.com/en-us/HT202932)"
+  },
+  {
+    "@row.id": 849,
+    "Date": "2014-Feb-24",
+    "Description": "PSA: Patch your iOS devices now, and OS X as soon as there is a patch:\r\n[ \"Why Apple's Recent Security Flaw Is So Scary\"](https://gizmodo.com/why-apples-huge-security-flaw-is-so-scary-1529041062)\r\n\r\n"
+  },
+  {
+    "@row.id": 863,
+    "Date": "2014-Feb-16",
+    "Description": "PSA:  [change your @Kickstarter passwords, &amp; switch to using a unique, strong password per web service.](https://twitter.com/eSolia_Inc/status/435174833853587456/photo/1)"
+  },
+  {
+    "@row.id": 869,
+    "Date": "2014-Feb-13",
+    "Description": "PSA: Visitors to Greater Tokyo Japan, expect delays today due to snow. "
+  },
+  {
+    "@row.id": 880,
+    "Date": "2014-Feb-07",
+    "Description": "Japan visitors with kids, this is a great place to play: \"[Exploring a land designed with children in mind](https://www.japantimes.co.jp/life/2014/02/06/lifestyle/exploring-a-land-designed-with-children-in-mind/)\"  "
+  },
+  {
+    "@row.id": 879,
+    "Date": "2014-Feb-07",
+    "Description": "PSA: Visitors to Greater Tokyo, heavy snow [forecast from 8th Feb noon](https://www.google.org/publicalerts/alert?aid=b1783a5eba377a03). Expect transport delays. "
+  },
+  {
+    "@row.id": 894,
+    "Date": "2014-Feb-03",
+    "Description": "PSA: we don't get much snow in greater Tokyo but it is expected today. Wear appropriate shoes."
+  },
+  {
+    "@row.id": 892,
+    "Date": "2014-Feb-03",
+    "Description": "[eSolia just upgraded to Adobe Creative Cloud](https://twitter.com/eSolia_Inc/status/430479987066818561/photo/1). It seems like a good deal, and installs have been smooth so far."
+  },
+  {
+    "@row.id": 895,
+    "Date": "2014-Feb-02",
+    "Description": "Japan iPhone Users: [Suppress The Softbank \"You Got A Mail\" Notification - Rick Cogley Central](https://rick.cogley.info/post/suppress-the-softbank-you-got-a-mail-notification/)"
+  },
+  {
+    "@row.id": 900,
+    "Date": "2014-Jan-31",
+    "Description": "Geek tip for OS X Mavericks users: best way to flush DNS cache in Terminal: \"sudo killall -HUP mDNSResponder\" "
+  },
+  {
+    "@row.id": 899,
+    "Date": "2014-Jan-31",
+    "Description": "PSA for Japan visitors: start taking pollen precautions [\"Hay fever season hits Kanto earlier than usual\" ](https://www.japantimes.co.jp/news/2014/01/31/national/hay-fever-season-hits-kanto-earlier-than-usual/)\r\n"
+  },
+  {
+    "@row.id": 124,
+    "Date": "2014-Jan-31",
+    "Description": "Security breach PSA: Yahoo mail users, change your password. Flickr users, too, just in case.  See Yahoo's [\"Security Update\"](https://yahoo.tumblr.com/post/75083532312/important-security-update-for-yahoo-mail-users)"
+  },
+  {
+    "@row.id": 144,
+    "Date": "2014-Jan-25",
+    "Description": "eSolia Promotional Video "
+  },
+  {
+    "@row.id": 148,
+    "Date": "2014-Jan-24",
+    "Description": "Conserve iOS 7 battery: turn off [\"background app refresh\"](https://twitter.com/eSolia_Inc/status/426643857749864449/photo/1) where it's not needed in settings, general. "
+  },
+  {
+    "@row.id": 146,
+    "Date": "2014-Jan-24",
+    "Description": "Conserve iOS 7 battery: turn off notifications for certain apps in settings, [notification center](https://twitter.com/eSolia_Inc/status/426807645040029696/photo/1). "
+  },
+  {
+    "@row.id": 145,
+    "Date": "2014-Jan-24",
+    "Description": "Conserve iOS 7 battery: turn off the home screen parallax effect in settings, general, accessibility,  [reduce motion](https://twitter.com/eSolia_Inc/status/426857709422792704/photo/1) . "
+  },
+  {
+    "@row.id": 154,
+    "Date": "2014-Jan-23",
+    "Description": "[Apple Promises to Fix iOS 7 'White Screen of Death' spontaneous rebooting](https://mashable.com/2014/01/22/iphone-screen-of-death/#8JyKJYeR2sqN)"
+  },
+  {
+    "@row.id": 173,
+    "Date": "2014-Jan-17",
+    "Description": " PSA: Take extra precautions! \"905 kids ill in Shizuoka (Japan) norovirus outbreak\"."
+  },
+  {
+    "@row.id": 183,
+    "Date": "2014-Jan-15",
+    "Description": "iOS users: [box.net](http://box.net) offering 50GB storage for new signups. [Download on your device &amp; follow the steps](https://twitter.com/eSolia_Inc/status/423603315671580672/photo/1). "
+  },
+  {
+    "@row.id": 229,
+    "Date": "2014-Jan-02",
+    "Description": "Security PSA: [Snapchat had a huge security breach](https://twitter.com/eSolia_Inc/status/418679944378871808/photo/1), so users change your passwords."
+  },
+  {
+    "@row.id": 236,
+    "Date": "2013-Dec-19",
+    "Description": "[New tutorial on the channel]()https://vimeo.com/channels/esoliascreencast), how to add a URL as an icon to your home screen in iOS."
+  },
+  {
+    "@row.id": 270,
+    "Date": "2013-Sept-19",
+    "Description": "iOS 7 upgraders: swipe a finger down, from middle of HOME screen, to access Spotlight Search. "
+  },
+  {
+    "@row.id": 271,
+    "Date": "2013-Sept-18",
+    "Description": "iOS 7 upgraders: swipe from bottom for control center, &amp; from top for notifications."
+  },
+  {
+    "@row.id": 294,
+    "Date": "2013-Feb-23",
+    "Description": "PSA: [Zendesk was hacked](https://edition.cnn.com/2013/02/22/tech/pinterest-hacked/index.html), and Pinterest, Twitter and Tumblr passwords are also at risk. Change these passwords now."
+  },
+  {
+    "@row.id": 312,
+    "Date": "2012-Dec-21",
+    "Description": "2012 Year-end Holiday is from Dec. 28th to Jan. 6th, 2013."
+  },
+  {
+    "@row.id": 318,
+    "Date": "2012-Dec-15",
+    "Description": "Google Maps is back on iOS, thankfully, so we can get some relief with an [accurate location](http://twitpic.com/bm07fg)... "
+  },
+  {
+    "@row.id": 349,
+    "Date": "2012-Aug-07",
+    "Description": "Summer holiday for 2012 is from Aug. 13th (Mon) to Aug. 15th (Wed)."
+  },
+  {
+    "@row.id": 348,
+    "Date": "2012-Aug-07",
+    "Description": " Summer Holidays 13-15 Aug 2012"
+  },
+  {
+    "@row.id": 355,
+    "Date": "2012-Jul-24",
+    "Description": "🏅Thank You Athletes! - London Olympics 2012  "
+  },
+  {
+    "@row.id": 387,
+    "Date": "2012-Jul-07",
+    "Description": "🎉㊗️It's eSolia's 13th Anniversary!"
+  },
+  {
+    "@row.id": 371,
+    "Date": "2012-Jun-28",
+    "Description": "eSolia's Building is [Under Construction](https://photos.app.goo.gl/na0jahKmAVqwA6Hu2)."
+  },
+  {
+    "@row.id": 382,
+    "Date": "2012-Jun-06",
+    "Description": "PSA: TAKE NOTE of the reported leak of 7 mil. LinkedIn passwords, and for safety's sake, change your password now."
+  },
+  {
+    "@row.id": 385,
+    "Date": "2012-May-30",
+    "Description": "We launched our new website in the TYPO3 CMS! "
+  },
+  {
+    "@row.id": 390,
+    "Date": "2012-May-29",
+    "Description": "Cloud-based Database \"PROdb\" "
+  },
+  {
+    "@row.id": 389,
+    "Date": "2012-May-29",
+    "Description": "See the [gallery](https://photos.app.goo.gl/dYfC0RG3Jcvy8iXD2) from eSolia's Office Move to the Toranomon Area. 📷"
+  },
+  {
+    "@row.id": 386,
+    "Date": "2010-Jul-07",
+    "Description": "🎉㊗️It's eSolia's 11th Anniversary!"
+  }
+]
