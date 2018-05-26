@@ -68,6 +68,7 @@ languageName = "English"
 weight = 1
 # For RSS only, apparently
 languageCode = "en-US"
+googleAnalytics = "UA-1040233-7"
 
 [languages.en.params]
     linkedin = "english-link"
@@ -82,7 +83,6 @@ languageCode = "en-US"
     defaultDescription = "Content by eSolia Inc."
     defaultKeywords = "eSolia"
     ISO8601 = "2006-01-02T15:04:05JST"
-    googleAnalytics = "UA-1040233-7"
 
 [[languages.en.menu.main]]
     name = "News"
@@ -309,6 +309,7 @@ weight = 2
 # For RSS only, apparently
 languageCode = "ja"
 hasCJKLanguage = "true"
+googleAnalytics = "UA-1040233-8"
 
 [languages.ja.params]
     linkedin = "リンクドイン"
@@ -323,7 +324,6 @@ hasCJKLanguage = "true"
     defaultDescription = "このコンテンツはイソリアの提供でお送りいたします。"
     defaultKeywords = "イソリア"
     ISO8601 = "2006-01-02T15:04:05JST"
-    googleAnalytics = "UA-1040233-8"
 
 [languages.ja.navigation]
 help  = "ヘルプ"

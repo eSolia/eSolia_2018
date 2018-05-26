@@ -23,8 +23,9 @@
     <script type="text/javascript" src="/js/bulma-steps.min.js{{with getenv "BUSTJS_HASH"}}?v={{.}}{{end}}"></script>
   {{ end }}
   {{ end }}
-
+  {{ if not .Site.BuildDrafts }}
   {{ template "_internal/google_analytics_async.html" . }}
+  {{ end }}
   </head>
   <body>
     <!-- Code that all your templates share, like a header -->
