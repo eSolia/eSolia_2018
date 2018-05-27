@@ -6,7 +6,7 @@ draft: false
 title: Process Management
 slug: process
 subtitle: Relief for your Many Runaway Processes
-description: Skillful Process Management of Projects, Procurement, Asset Mgt, Compliance, Upgrade or any other IT or business processes. - from eSolia Inc.
+description: Skillful Process Management for Projects, Japan Building Inspection Power Outages, Procurement, Asset Mgt, Compliance, Upgrade or any other IT or business processes. - from eSolia Inc.
 weight: 30
 layout: services
 alternatelocales:
@@ -22,6 +22,7 @@ tags:
   - License Process Management
   - Data Center Process Management
   - Server Process Management
+  - Planned Power Outage IT Management
 series:
   - top1
 topics:
@@ -80,6 +81,7 @@ To use it effectively, there's no need to try to handle everything internally. I
 {{< punchlist title="Frequently Requested" bgcolor="is-esolia-blue-0">}}
 1. Project Management
 1. Server and Data Center Management
+1. IT Management during Planned Building Power Outages 
 1. Compliance Management
 1. Asset Management
 1. License Management
@@ -89,6 +91,7 @@ Processes tend to become more complicated over time, especially when it involves
 
 1. Strong project management for changing requirements, and imminent deadlines.
 1. Procurement for your ever-changing hardware and business support software.
+1. Management of your IT systems shutdown, restart, and re-validation, during Japan's building power outages for annual fire inspection.
 1. Budget management that considers both efficiency and your wallet.
 1. In cold, isolated data centers, cabling management to tame that spaghetti.
 1. Manage compliance to manage risks and threats.
