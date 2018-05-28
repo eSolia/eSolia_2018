@@ -58,6 +58,15 @@ Japan fire code requires buildings over a certain size to be inspected annually,
 
 There's no need to try to do it yourself. Leave it to eSolia to handle the IT systems shut down, power up and operational validation that is needed in these cases. We'll handle it in an organized manner, and you get a detailed report about what happened at the end. 
 
+there are usually problems 
+do other change requests
+assist local staff for testing
+do testing ourselves
+take opp to update docs
+
+
+
+
 asdfasdf;lkjasdf;lkjasdf;lkjasdf;lkjasdf;lkjasdf
 
 If one uses IT efficiently, one can utilize the basic nature of IT freely, and leverage that to receive immeasurable benefits. However, if misunderstood, IT can be a double-edged sword, increasing work and even decreasing efficiency.
