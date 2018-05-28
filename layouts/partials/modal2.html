@@ -1,0 +1,40 @@
+{{ "<!-- ENTERING partial modal2.html -->" | safeHTML }}
+    <div class="modal" id="modal">
+      <div class="modal-background"></div>
+      <div class="modal-card">
+        <header class="modal-card-head">
+          <p class="modal-card-title">{{ i18n "topsectioncus" }}</p>
+          <button class="delete modal-button" data-target="#modal" aria-label="close"></button>
+        </header>
+        <section class="modal-card-body">
+          <!-- Content ... -->
+          <div itemscope itemtype="http://schema.org/LocalBusiness">
+            <h3 class="subtitle" itemprop="name">{{ i18n "eSoliaContacts" }}</h3>
+            <p class="is-italic">{{ i18n "hqAddress1" }}</p>
+            <p class="is-italic">{{ i18n "hqAddress2" }}</p>
+            <strong>Tel:</strong>&nbsp;
+              <span itemprop="telephone">
+                <a href="tel:+81362733510" class="link">+81-3-6273-3510</a>
+              </span>
+              <br>
+            <strong>Fax:</strong>&nbsp;
+              <span itemprop="fax">
+                <a href="fax:+81335933511" class="link">+81-3-3593-3511</a>
+              </span>
+              <br><br>
+            <p class="is-italic">{{ i18n "eSoliaContactsMore" |markdownify }}</p>
+            <br>
+            <p>{{ i18n "eSoliaMapBlurb" | safeHTML }}</p>
+          </div>
+
+          <br>
+          <p><figure class="image is-16x9">
+            <a href="/img/eSolia-Map-16x9-3352px.png"><img src="/img/eSolia-Map-16x9-1200px.png"></a>
+          </figure></p>
+        </section>
+        <footer class="modal-card-foot">
+          <button class="button modal-button" data-target="#modal">Cancel</button>
+        </footer>
+      </div>
+    </div>
+{{ "<!-- LEAVING partial modal2.html -->" | safeHTML }}

@@ -304,7 +304,10 @@ data-url="/ev-3456939/db/15331/view.aspx"></script>
 
 {{ end }}
 {{ define "modals" }}
-    {{- partial "modal1.html" . -}}
+  {{- partial "modal1.html" . -}}
+  {{ if .IsHome }}
+    {{- partial "modal2.html" . -}}
+  {{ end }}
 {{ end }}
 {{ define "footer" }}
     {{- partial "footer1.html" . -}}
