@@ -1,5 +1,5 @@
 +++
-date = "2018-05-06T07:07:27+09:00"
+date = "2018-05-31T11:50:53+09:00"
 draft = "false"
 layout = "newsarchive"
 tags = ["blog","news","posts","archive"]
@@ -8,6 +8,9 @@ subtitle = "This is the eSolia Archive of articles and short posts."
 aliases = [
     "/news"
 ]
+[sitemap]
+  ChangeFreq = "daily"
+  Priority = "1"
 +++
 
  

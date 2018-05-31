@@ -1,6 +1,6 @@
 ---
-date: 2018-05-06T07:07:27+09:00
-publishdate: 2018-05-06T07:07:27+09:00
+date: 2018-05-31T11:50:53+09:00
+publishdate: 2018-05-31T11:50:53+09:00
 description: イソリアの成功事例について - プロジェクトを成功させたいならイソリアにお任せください
 draft: false
 slug: success-stories
@@ -19,6 +19,9 @@ images:
   - /img/eSolia-Chicklet-Color-1024px.png
 aliases:
   - /success
+sitemap:
+  ChangeFreq: weekly
+  Priority: 1
 menu:
   main:
     Name: 成功事例

@@ -1,6 +1,6 @@
 ---
-date: 2018-05-06T07:07:27+09:00
-publishdate: 2018-05-06T07:07:27+09:00
+date: 2018-05-31T11:50:53+09:00
+publishdate: 2018-05-31T11:50:53+09:00
 description: About eSolia Success Stories - you can rely on our team to bring your Japan project to a successful conclusion.
 draft: false
 slug: success-stories
@@ -19,6 +19,9 @@ images:
   - /img/eSolia-Chicklet-Color-1024px.png
 aliases:
   - /success
+sitemap:
+  ChangeFreq: weekly
+  Priority: 1
 menu:
   main:
     Name: Success
