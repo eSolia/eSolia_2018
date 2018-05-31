@@ -1,5 +1,35 @@
 [
   {
+    "@row.id": 917,
+    "Date": "2018-May-31",
+    "Description": "eSolia's teamITMS frequently manages IT shutdown, restart and validation during the annual power outages at buildings in Tokyo. Read more about [this and other processes](https://esolia.com/process/) we manage. "
+  },
+  {
+    "@row.id": 918,
+    "Date": "2018-May-30",
+    "Description": "PSA: a recent security threat called \"VPNFilter\" has been discovered, which allows hackers to control your home router to steal passwords and launch other attacks. At a minimum, change the password (to a strong one) and update the firmware. Our recommendation: do those things, but in addition, make a config backup, reset the router to factory default, then restore the config. You can [contact eSolia](https://esolia.com/info-request) for help, of course!"
+  },
+  {
+    "@row.id": 916,
+    "Date": "2018-May-30",
+    "Description": "Are you looking to reduce how much you are tracked online by websites? Why not try EFF's [Privacy Badger](https://www.eff.org/privacybadger) plugin for Chrome, Firefox or Opera browsers. "
+  },
+  {
+    "@row.id": 915,
+    "Date": "2018-May-29",
+    "Description": "[Google Lens](https://support.google.com/photos/answer/7539151?co=GENIE.Platform%3DiOS&hl=en) has recently become available in Google Photos in iOS. Take a photo of, say, a business card or sign, view it in Google Photos, and tap the \"lens\" icon for options. Fantastic!"
+  },
+  {
+    "@row.id": 914,
+    "Date": "2018-May-28",
+    "Description": "To handle the expected influx of 40 million tourist visitors by 2020 and to help with an aging population, Tokyo's taxi industry is ramping up production of the Toyota \"[JPN Taxi](https://newsroom.toyota.co.jp/en/jpntaxi/)\", a spacious model that can accommodate wheelchair riders."
+  },
+  {
+    "@row.id": 912,
+    "Date": "2018-May-27",
+    "Description": "Related to the new EU [GDPR](https://gdpr-info.eu/) regulations, Apple is letting EU users download the data they collected on you, from [https://privacy.apple.com](https://privacy.apple.com). We understand this service will be released in other regions later."
+  },
+  {
     "@row.id": 911,
     "Date": "2018-May-26",
     "Description": "Everyone needs secure storage for the many passwords needed for the websites and systems they use. [Ask eSolia](https://esolia.com/info-request/) about a solution!"
@@ -235,6 +265,16 @@
     "Description": "PSA: beware of an insidious malware trend \"ransomware\" in which scammers lock your computer &amp; extort you, especially via email attachments."
   },
   {
+    "@row.id": 38,
+    "Date": "2016-Mar-03",
+    "Description": "Sysadmins using Macs: check out [how to run the OS X TFTP server](https://rick.cogley.info/post/run-a-tftp-server-on-mac-osx/?utm_content=), for network device upgrades."
+  },
+  {
+    "@row.id": 41,
+    "Date": "2016-Feb-19",
+    "Description": "Mac users: here's some tips on [handling hidden files in OS X](https://rick.cogley.info/post/hidden-files-in-osx-finder-open-dialogs-and-terminal/?utm_content=). "
+  },
+  {
     "@row.id": 43,
     "Date": "2016-Feb-12",
     "Description": "PSA update: Mac users see what you can do about [Sparkle security vulnerability](https://rick.cogley.info/post/mac-app-sparkle-framework-vulnerability/?utm_content=buffer5fba9&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer). "
@@ -307,7 +347,7 @@
   {
     "@row.id": 407,
     "Date": "2015-Feb-25",
-    "Description": "[On OS X and iOS security vulnerabilities and shoddy reporting](https://www.imore.com/os-x-and-ios-security-vulnerabilities-and-shoddy-reporting?utm_content=)"
+    "Description": "On OS X and iOS security [vulnerabilities and shoddy reporting](https://www.imore.com/os-x-and-ios-security-vulnerabilities-and-shoddy-reporting)"
   },
   {
     "@row.id": 427,
@@ -647,7 +687,7 @@
   {
     "@row.id": 154,
     "Date": "2014-Jan-23",
-    "Description": "[Apple Promises to Fix iOS 7 'White Screen of Death' spontaneous rebooting](https://mashable.com/2014/01/22/iphone-screen-of-death/#8JyKJYeR2sqN)"
+    "Description": "Apple Promises to Fix iOS 7 [White Screen of Death](https://mashable.com/2014/01/22/iphone-screen-of-death/#8JyKJYeR2sqN) spontaneous rebooting."
   },
   {
     "@row.id": 173,
@@ -667,7 +707,7 @@
   {
     "@row.id": 236,
     "Date": "2013-Dec-19",
-    "Description": "[New tutorial on the channel]()https://vimeo.com/channels/esoliascreencast), how to add a URL as an icon to your home screen in iOS."
+    "Description": "See our [new tutorial](https://vimeo.com/channels/esoliascreencast) on how to add a URL as an icon to your home screen in iOS."
   },
   {
     "@row.id": 270,
@@ -692,7 +732,17 @@
   {
     "@row.id": 318,
     "Date": "2012-Dec-15",
-    "Description": "Google Maps is back on iOS, thankfully, so we can get some relief with an [accurate location](http://twitpic.com/bm07fg)... "
+    "Description": "Google Maps is back on iOS, thankfully, so we can get some relief with an [accurate location](http://twitpic.com/bm07fg) for the eSolia office."
+  },
+  {
+    "@row.id": 337,
+    "Date": "2012-Oct-22",
+    "Description": "Nice that it works in one place on the globe, per the [link](http://t.co/9uFo33k8 ), but Apple's iOS 6[ \"Maps\"](http://t.co/cq1YDqF7) do mo... "
+  },
+  {
+    "@row.id": 338,
+    "Date": "2012-Oct-13",
+    "Description": "Turn off on-by-default Apple iOS 6 [ad tracking](http://www.businessinsider.com/ifa-apples-iphone-tracking-in-ios-6-2012-10) in [Settings, General, About, Advertising,](https://twitpic.com/b3kc3r)... "
   },
   {
     "@row.id": 349,
