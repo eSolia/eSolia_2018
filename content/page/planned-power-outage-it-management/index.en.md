@@ -52,18 +52,23 @@ menu:
 
 ## A Regulatory Requirement
 
-Japan fire code requires buildings over a certain size to be inspected annually, and this always includes a power cycle requirement. Usually, power goes down sometime on Friday night or Saturday, and is restored on Sunday. It's a kind of "necessary evil" that IT then has to get involved to make sure systems are properly shut down, then powered up and tested after the outage. 
+Japan fire code requires buildings over a certain size to be inspected annually, and this always includes a power cycle requirement. Typically, power goes down sometime on Friday night or Saturday morning, and is restored on Sunday. It's a kind of "necessary evil" that IT  has to get involved to make sure systems are properly shut down, then powered up and tested after the outage. 
 
 ### eSolia is Here to Help
 
 There's no need to try to do it yourself. Leave it to eSolia to handle the IT systems shut down, power up and operational validation that is needed in these cases. We'll handle it in an organized manner, and you get a detailed report about what happened at the end. 
 
-there are usually problems 
-do other change requests
-assist local staff for testing
-do testing ourselves
-take opp to update docs
+### What Happens During
 
+We have found while stewarding so many of these power outages, that there are invariably problems in 90% of cases. Some piece of equipment breaks or starts giving errors. It's a good exercise, in that you want the break to occur while you're watching it, but it's frustrating nonetheless. If we are there helping, we can also deal with the issues. 
+
+Time is usually tight, but we often take the opportunity to execute a change request. It could be removing old equipment or cable from the rack, or mounting new equipment. Or taking the opportunity to upgrade device firmware. 
+
+Once the system is back up, testing and validation has to be performed. It's often done partially by us, and partially by a user of the client. We can assist your users to help them test and document the results. 
+
+Speaking of documentation, we take the opportunity every year to make sure documentation is updated. 
+
+In the end, we write a report about everything that happened and what we observed, then submit that to local stakeholders as needed, and overseas IT management. 
 
 
 
