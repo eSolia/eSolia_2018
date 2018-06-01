@@ -60,7 +60,7 @@ There's no need to try to do it yourself. Leave it to eSolia to handle the IT sy
 
 ### What Happens During
 
-We have found while stewarding so many of these power outages, that there are invariably problems in 90% of cases. Some piece of equipment breaks or starts giving errors. It's a good exercise, in that you want the break to occur while you're watching it, but it's frustrating nonetheless. If we are there helping, we can also deal with the issues. 
+We have found while stewarding so many of these power outages, that there are invariably problems in 90% of cases. Some piece of equipment breaks or starts giving errors. It's a good exercise, in that you would rather have the break occur while you're watching it, but it's frustrating nonetheless. If we are there helping, we can also deal with the issues. 
 
 Time is usually tight, but we often take the opportunity to execute a change request. It could be removing old equipment or cable from the rack, or mounting new equipment. Or taking the opportunity to upgrade device firmware. 
 
@@ -68,11 +68,47 @@ Once the system is back up, testing and validation has to be performed. It's oft
 
 Speaking of documentation, we take the opportunity every year to make sure documentation is updated. 
 
-In the end, we write a report about everything that happened and what we observed, then submit that to local stakeholders as needed, and overseas IT management. 
+In the end, we write a report about everything that happened and what we observed, then submit that to local stakeholders as needed, and overseas IT management.
+
+<div class="timeline">
+  <header class="timeline-header">
+    <span class="tag is-medium is-primary">Start</span>
+  </header>
+  <div class="timeline-item">
+    <div class="timeline-marker is-primary"></div>
+    <div class="timeline-content">
+      <p class="heading">January 2016</p>
+      <p>Timeline content - Can include any HTML element</p>
+    </div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-marker is-warning is-image is-32x32">
+      <img src="http://bulma.io/images/placeholders/32x32.png">
+    </div>
+    <div class="timeline-content">
+      <p class="heading">February 2016</p>
+      <p>Timeline content - Can include any HTML element</p>
+    </div>
+  </div>
+  <header class="timeline-header">
+    <span class="tag is-primary">2017</span>
+  </header>
+  <div class="timeline-item">
+    <div class="timeline-marker is-danger is-icon">
+      <i class="fa fa-plus"></i>
+    </div>
+    <div class="timeline-content">
+      <p class="heading">March 2017</p>
+      <p>Timeline content - Can include any HTML element</p>
+    </div>
+  </div>
+  <header class="timeline-header">
+    <span class="tag is-medium is-primary">End</span>
+  </header>
+</div>
 
 
-
-asdfasdf;lkjasdf;lkjasdf;lkjasdf;lkjasdf;lkjasdf
+# asdfasdf;lkjasdf;lkjasdf;lkjasdf;lkjasdf;lkjasdf
 
 If one uses IT efficiently, one can utilize the basic nature of IT freely, and leverage that to receive immeasurable benefits. However, if misunderstood, IT can be a double-edged sword, increasing work and even decreasing efficiency.
 
