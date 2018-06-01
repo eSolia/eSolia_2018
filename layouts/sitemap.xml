@@ -15,6 +15,11 @@
                 hreflang="{{ .Lang }}"
                 href="{{ .Permalink }}"
                 />{{ end }}
+    <xhtml:link
+                rel="alternate"
+                hreflang="x-default"
+                href="{{ .Permalink }}"
+                />
   </url>
   {{ end }}{{ end }}
 </urlset>
