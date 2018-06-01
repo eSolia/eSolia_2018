@@ -2153,7 +2153,7 @@
 		"dS": 0,
 		"ft": 2,
 		"ma": 1,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/bower_components\/bulma-timeline\/dist\/bulma-timeline.sass",
 		"oF": 0,
 		"oS": 3,
