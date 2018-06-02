@@ -52,98 +52,110 @@ menu:
 
 ## A Regulatory Requirement
 
-Japan fire code requires buildings over a certain size to be inspected annually, and this always includes a power cycle requirement. Typically, power goes down sometime on Friday night or Saturday morning, and is restored on Sunday. It's a kind of "necessary evil" that IT  has to get involved to make sure systems are properly shut down, then powered up and tested after the outage. 
-
-### eSolia is Here to Help
-
-There's no need to try to do it yourself. Leave it to eSolia to handle the IT systems shut down, power up and operational validation that is needed in these cases. We'll handle it in an organized manner, and you get a detailed report about what happened at the end. 
+Japan fire code requires buildings over a certain size to be inspected annually, and this always includes a power cycle requirement. Typically, power goes down sometime on Friday night or Saturday morning, and is restored on Sunday. It's a kind of "necessary evil" that IT has to get involved in [the process](/process) to make sure systems are properly shut down, then powered up and tested after the outage. 
 
 ### What Happens During
 
 We have found while stewarding so many of these power outages, that there are invariably problems in 90% of cases. Some piece of equipment breaks or starts giving errors. It's a good exercise, in that you would rather have the break occur while you're watching it, but it's frustrating nonetheless. If we are there helping, we can also deal with the issues. 
 
-Time is usually tight, but we often take the opportunity to execute a change request. It could be removing old equipment or cable from the rack, or mounting new equipment. Or taking the opportunity to upgrade device firmware. 
+Time is usually tight, but we often take the opportunity to execute a change request. It could be removing old equipment or cable from the rack, or mounting new equipment. Or taking the opportunity to upgrade device firmware. If it is something that takes time, we'll usually do it on the evening before. 
 
-Once the system is back up, testing and validation has to be performed. It's often done partially by us, and partially by a user of the client. We can assist your users to help them test and document the results. 
+Once the power is restored and your systems are successfully powered on, testing and validation has to be performed. It's often done partially by us, and partially by a user of the client. We can assist your users to help them test and document the results. 
 
 Speaking of documentation, we take the opportunity every year to make sure documentation is updated. 
 
 In the end, we write a report about everything that happened and what we observed, then submit that to local stakeholders as needed, and overseas IT management.
 
-<div class="timeline">
+#### Timeline
+
+<div class="timeline is-centered">
   <header class="timeline-header">
-    <span class="tag is-medium is-primary">Start</span>
+    <span class="tag is-medium is-esolia-yellow-1">Start</span>
   </header>
-  <div class="timeline-item">
-    <div class="timeline-marker is-primary"></div>
-    <div class="timeline-content">
-      <p class="heading">January 2016</p>
-      <p>Timeline content - Can include any HTML element</p>
-    </div>
-  </div>
-  <div class="timeline-item">
-    <div class="timeline-marker is-warning is-image is-32x32">
-      <img src="http://bulma.io/images/placeholders/32x32.png">
+  <div class="timeline-item is-esolia-yellow-1">
+    <div class="timeline-marker is-esolia-yellow-1 is-icon">
+      <i class="fas fa-exchange-alt has-text-white"></i>
     </div>
     <div class="timeline-content">
-      <p class="heading">February 2016</p>
-      <p>Timeline content - Can include any HTML element</p>
+      <p class="heading">Friday 19:00~21:00</p>
+      <p>Apply planned changes</p>
     </div>
   </div>
+  <div class="timeline-item is-esolia-yellow-0">
+    <div class="timeline-marker is-esolia-yellow-0 is-icon">
+      <i class="fas fa-power-off has-text-white"></i>
+    </div>
+    <div class="timeline-content">
+      <p class="heading">Saturday 8:00~11:30</p>
+      <p>Perform system shutdown procedure</p>
+    </div>
+  </div>
+  <div class="timeline-item is-esolia-secondary-1-0">
+    <div class="timeline-marker is-esolia-secondary-1-0 is-icon">
+      <i class="fas fa-plug has-text-white"></i>
+    </div>
+    <div class="timeline-content">
+      <p class="heading">Saturday 12:00~</p>
+      <p>Building shuts down main power, begins tests and inspection</p>
+    </div>
+  </div>  
   <header class="timeline-header">
-    <span class="tag is-primary">2017</span>
+    <span class="tag is-medium is-esolia-secondary-1-0">Power Out</span>
   </header>
-  <div class="timeline-item">
-    <div class="timeline-marker is-danger is-icon">
-      <i class="fa fa-plus"></i>
+  <div class="timeline-item is-esolia-yellow-0">
+    <div class="timeline-marker is-esolia-yellow-0 is-icon">
+      <i class="fas fa-plug has-text-white"></i>
     </div>
     <div class="timeline-content">
-      <p class="heading">March 2017</p>
-      <p>Timeline content - Can include any HTML element</p>
+      <p class="heading">Sunday ~12:00</p>
+      <p>Building restores main power, announcing over PA</p>
     </div>
   </div>
   <header class="timeline-header">
-    <span class="tag is-medium is-primary">End</span>
+    <span class="tag is-medium is-esolia-yellow-0">Power Restored</span>
+  </header>
+  <div class="timeline-item is-esolia-yellow-0">
+    <div class="timeline-marker is-esolia-yellow-0 is-icon">
+      <i class="fas fa-power-off has-text-white"></i>
+    </div>
+    <div class="timeline-content">
+      <p class="heading">Sunday 12:00~</p>
+      <p>Begin system startup procedure</p>
+    </div>
+  </div>  
+  <div class="timeline-item is-esolia-yellow-0">
+    <div class="timeline-marker is-esolia-yellow-0 is-icon">
+      <i class="fas fa-exclamation has-text-white"></i>
+    </div>
+    <div class="timeline-content">
+      <p class="heading">Sunday 13:00~</p>
+      <p>Resolve issue!</p>
+    </div>
+  </div>  
+  <div class="timeline-item is-esolia-secondary-2-0">
+    <div class="timeline-marker is-esolia-secondary-2-0 is-icon">
+      <i class="fas fa-check has-text-white"></i>
+    </div>
+    <div class="timeline-content">
+      <p class="heading">Sunday ~15:00</p>
+      <p>Final restoration validation complete!</p>
+    </div>
+  </div>
+  <div class="timeline-item is-esolia-secondary-2-0">
+    <div class="timeline-marker is-esolia-secondary-2-0 is-icon">
+      <i class="fas fa-clipboard-check has-text-white"></i>
+    </div>
+    <div class="timeline-content">
+      <p class="heading">Sunday ~17:00</p>
+      <p>Report submitted</p>
+    </div>
+  </div>  
+  <header class="timeline-header">
+    <span class="tag is-medium is-esolia-secondary-2-0">Complete</span>
   </header>
 </div>
 
+### eSolia is Here to Help
 
-# asdfasdf;lkjasdf;lkjasdf;lkjasdf;lkjasdf;lkjasdf
+There's no need to try to do it yourself. Leave it to eSolia to handle the IT systems shut down, power up and operational validation that is needed in these cases. We'll handle it in an organized manner, and you get a detailed report about what happened at the end. 
 
-If one uses IT efficiently, one can utilize the basic nature of IT freely, and leverage that to receive immeasurable benefits. However, if misunderstood, IT can be a double-edged sword, increasing work and even decreasing efficiency.
-
-To use it effectively, there's no need to try to handle everything internally. In fact, say goodbye to fear of processes, and leave your process management to eSolia!
-
-### An enemy named "process"
-
-{{< punchlist title="Frequently Requested" bgcolor="is-esolia-blue-0">}}
-1. Project Management
-1. Server and Data Center Management
-1. IT Management during Planned Building Power Outages 
-1. Compliance Management
-1. Asset Management
-1. License Management
-{{< /punchlist >}}
-
-Processes tend to become more complicated over time, especially when it involves something you're not quite expert in. In the context of a master support agreement, eSolia will skillfully manage them on your behalf, using our refined procedures, or your desired methods.
-
-1. Strong project management for changing requirements, and imminent deadlines.
-1. Procurement for your ever-changing hardware and business support software.
-1. Management of your IT systems shutdown, restart, and re-validation, during Japan's building power outages for annual fire inspection.
-1. Budget management that considers both efficiency and your wallet.
-1. In cold, isolated data centers, cabling management to tame that spaghetti.
-1. Manage compliance to manage risks and threats.
-1. Got a bewildering number of assets? Consider them managed.  
-1. License management, so you know who has what version and how many copies are installed.
-1. Warranty management for clear understanding of warranty periods, terms and extensions.
-1. Recycling and disposal management for the pileup of "junk", and secure deletion of data.
-
-### The eSolia Philosophy for Process Management
-
-Each process is different, but in all cases, eSolia performs in a consistent manner:
-
-* We act as an ombudsman on your behalf, keeping your mandate or the best practice in mind, as we negotiate with any involved parties.
-* Each process is performed with supporting documentation as the base, whether that documentation is your standards and mandates, or our best practices.
-* You give the "go sign", but our experts provide the decision support.
-* We'll take end to end responsibility. All processes will have preparation, adjustment, execution, documentation and support afterwards.
-* Results are stored in eSolia's extensive knowledge database, and reports are provided to you.
