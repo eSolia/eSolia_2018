@@ -17,7 +17,7 @@
     <script src="https://use.typekit.net/fwz4gtk.js"></script>
     <script>try{Typekit.load({ async: true });}catch(e){}</script>
     <link rel="stylesheet" type="text/css" href="/css/main.min.css{{with getenv "MAINCSS_HASH"}}?v={{.}}{{end}}">
-    <script type="text/javascript" src="/js/main.min.js{{with getenv "MAINJS_HASH"}}?v={{.}}{{end}}"></script>
+    <script src="/js/main.min.js{{with getenv "MAINJS_HASH"}}?v={{.}}{{end}}"></script>
 
   {{ if .IsPage }}
   {{if isset .Params "inforequest" }}
@@ -25,10 +25,10 @@
     <script src="https://www.google.com/recaptcha/api.js?onload=tryInitCaptcha&render=explicit&hl=en"></script>
   {{ end }}
   {{if isset .Params "gallery_id" }}
-    <script type="text/javascript" src="/js/bulma-carousel.min.js{{with getenv "BUCAJS_HASH"}}?v={{.}}{{end}}"></script>
+    <script src="/js/bulma-carousel.min.js{{with getenv "BUCAJS_HASH"}}?v={{.}}{{end}}"></script>
   {{ end }}
   {{if isset .Params "bulma_steps" }}
-    <script type="text/javascript" src="/js/bulma-steps.min.js{{with getenv "BUSTJS_HASH"}}?v={{.}}{{end}}"></script>
+    <script src="/js/bulma-steps.min.js{{with getenv "BUSTJS_HASH"}}?v={{.}}{{end}}"></script>
   {{ end }}
   {{ end }}
   {{ if not .Site.BuildDrafts }}
