@@ -1,5 +1,10 @@
 [
   {
+    "@row.id": 921,
+    "Date": "2018-Jun-04",
+    "Description": "PSA: Vulnerabilities have been discovered in Google Chrome versions prior to 67.0.3396.62, which could allow a hacker to retrieve information, bypass security or perform a denial-of-service attack. Google [has released](https://www.us-cert.gov/ncas/current-activity/2018/05/29/Google-Releases-Security-Update-Chrome) an update, which we recommend you apply now. "
+  },
+  {
     "@row.id": 920,
     "Date": "2018-Jun-02",
     "Description": "Japan visitors with kids, if you're near Yokohama, \"[Kodomonokuni](http://www.kodomonokuni.org/english/)\" or Children's Land, is a great place to take your kids for some outdoor fun and maybe a BBQ!"
