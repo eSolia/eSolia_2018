@@ -1,6 +1,9 @@
 [compName]
 other = "イソリア"
 
+[compNameFull]
+other = "株主総会イソリア"
+
 [hqAddress1]
 other = "〒105-0003 東京都港区西新橋2-2-2"
 
@@ -11,7 +14,7 @@ other = "澤ビルディング6F"
 other = "〒105-0003 東京都港区西新橋2-2-2、澤ビルディング6F"
 
 [eSoliaContacts]
-other = "株式会社イソリア 連絡先情報"
+other = "連絡先情報"
 
 [eSoliaContactsMore]
 other = "弊社サービスやソリューションに関する初めてのお問い合わせは、[このページから](/info-request/)、よろしくお願い致します。"

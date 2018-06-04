@@ -9,27 +9,36 @@
         <section class="modal-card-body">
           <!-- Content ... -->
           <div itemscope itemtype="http://schema.org/LocalBusiness">
-            <h3 class="subtitle" itemprop="name">{{ i18n "eSoliaContacts" }}</h3>
-            <p class="is-italic">{{ i18n "hqAddress1" }}</p>
-            <p class="is-italic">{{ i18n "hqAddress2" }}</p>
-            <strong>Tel:</strong>&nbsp;
-              <span itemprop="telephone">
-                <a href="tel:+81362733510" class="link">+81-3-6273-3510</a>
-              </span>
-              <br>
-            <strong>Fax:</strong>&nbsp;
-              <span itemprop="fax">
-                <a href="fax:+81335933511" class="link">+81-3-3593-3511</a>
-              </span>
-              <br><br>
-            <p class="is-italic">{{ i18n "eSoliaContactsMore" |markdownify }}</p>
+            <h3 class="subtitle"><span itemprop="name">{{ i18n "compNameFull" }}</span> {{ i18n "eSoliaContacts" }}</h3>
+            
+            <div class="columns">
+              <div class="column"> 
+                <p class="is-italic">{{ i18n "hqAddress1" }}</p>
+                <p class="is-italic">{{ i18n "hqAddress2" }}</p>
+                <strong>Tel:</strong>&nbsp;
+                  <span itemprop="telephone">
+                    <a href="tel:+81362733510" class="link">+81-3-6273-3510</a>
+                  </span>
+                  <br>
+                <strong>Fax:</strong>&nbsp;
+                  <span itemprop="faxNumber">
+                    <a href="fax:+81335933511" class="link">+81-3-3593-3511</a>
+                  </span>
+              </div>
+              <div class="column">
+                <figure class="image">
+                  <img src="/img/eSolia-Logo-Flat-2015.png" alt="eSolia Inc. Blue and Yellow Logo" itemprop="logo"></img>
+                </figure>
+              </div>
+            </div>
+            <p class="is-italic">{{ i18n "eSoliaContactsMore" | markdownify }}</p>
             <br>
             <p>{{ i18n "eSoliaMapBlurb" | safeHTML }}</p>
           </div>
 
           <br>
           <p><figure class="image is-16x9">
-            <a href="/img/eSolia-Map-16x9-3352px.png"><img src="/img/eSolia-Map-16x9-1200px.png"></a>
+            <a href="/img/eSolia-Map-16x9-3352px.png"><img itemprop="image" src="/img/eSolia-Map-16x9-1200px.png" alt="Screenshot of map of area around eSolia office including Ginza Line Toranomon Subway and JR Shimbashi Rail station."></a>
           </figure></p>
         </section>
         <footer class="modal-card-foot">

@@ -1,6 +1,9 @@
 [compName]
 other = "eSolia"
 
+[compNameFull]
+other = "eSolia Inc."
+
 [hqAddress1]
 other = "Sawa Bldg. 6F, Nishi-Shimbashi 2-2-2"
 
@@ -11,7 +14,7 @@ other = "Minato-ku, Tokyo, Japan 105-0003"
 other = "Sawa Bldg. 6F, Nishi-Shimbashi 2-2-2, Minato-ku, Tokyo, Japan 105-0003"
 
 [eSoliaContacts]
-other = "eSolia Inc. Contact Points"
+other = "Contact Points"
 
 [eSoliaContactsMore]
 other = "For first-time questions about eSolia's specific services, please contact us via the form [on this page](/info-request/)."
