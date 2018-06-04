@@ -286,6 +286,7 @@ googleAnalytics = "UA-1040233-7"
     identifier = "en_topics"
     url = "/topics"
     pre = "All the topic groupings on this site."
+    post = "_self"
     weight = 44
 
 [[languages.en.menu.toolslist]]
@@ -293,6 +294,7 @@ googleAnalytics = "UA-1040233-7"
     identifier = "en_tags"
     url = "/tags"
     pre = "All the content tags on this site."
+    post = "_self"
     weight = 55
 
 [[languages.en.menu.newsarchive]]
@@ -530,6 +532,7 @@ help  = "ヘルプ"
     identifier = "ja_topics"
     url = "/topics"
     pre = "全てのトピックを閲覧出来ます。"
+    post = "_self"
     weight = 44
 
 [[languages.ja.menu.toolslist]]
@@ -537,6 +540,7 @@ help  = "ヘルプ"
     identifier = "ja_tags"
     url = "/tags"
     pre = "全てのタグを閲覧出来ます。"
+    post = "_self"
     weight = 55
 
 [[languages.ja.menu.newsarchive]]

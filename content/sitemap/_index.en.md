@@ -38,6 +38,7 @@ menu:
     Identifier: sitemap
     Url: /sitemap
     Pre: "A list of links to our pages, grouped under tags or topics."
+    Post: "_self"
 ---
 
 Thank you sincerely for your interest in eSolia services. You can browse the links below to find information yourself, or use our [general information request form](/info-request/) to make inquiries. 

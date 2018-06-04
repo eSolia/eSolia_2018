@@ -38,6 +38,7 @@ menu:
     Identifier: sitemap
     Url: /sitemap
     Pre: "タグやトピック別の全ページ一覧。"
+    Post: "_self"
 ---
 
 イソリアに興味をお持ちいただきまして誠にありがとうございます。下記の一覧からお探しくださるか、
