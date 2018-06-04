@@ -11,33 +11,21 @@
        {{- $currentPage := . -}}
        {{ range .Site.Menus.services }}
          <a class="is-hoverable{{ if $currentPage.IsMenuCurrent "services" . }} is-active{{ end }}" href="{{ .URL | absLangURL }}"><p class="menu-label has-text-info">{{ .Name }}</p></a>
-          <ul class="menu-list">
-          {{ if .HasChildren }}
-          {{ range .Children }}
-            <li><a class="is-hoverable{{ if $currentPage.IsMenuCurrent "services" . }} is-active{{ end }}" href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
-          {{ end }}
-          {{ end }}
-          </ul>
-       {{ end }}
-
-
+          <ul class="menu-list">{{ if .HasChildren }}{{ range .Children }}
+            <li><a class="is-hoverable{{ if $currentPage.IsMenuCurrent "services" . }} is-active{{ end }}" href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>{{ end }}{{ end }}
+          </ul>{{ end }}
         <p class="menu-label has-text-info">Tags</p>
-       <div class="tags has-margin-l">
-       {{ range .Params.tags }}
-        <span class="tag is-rounded is-light"><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></span>
-       {{ end }}
+       <div class="tags has-margin-l">{{ range .Params.tags }}
+        <span class="tag is-rounded is-light"><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></span>{{ end }}
        </div>
        <br><br>
     </aside>
-
   </div>
   <div class="column is-main-content">
       <div class="box content is-size-5-desktop is-size-6-mobile has-margin-m has-padding-t-xxs">
         <p class="title is-5"><h1>{{ .Title }}</h1></p>
         <p class="subtitle is-italic has-text-esolia-blue-2">{{ .Params.subtitle }}</p>
         {{ .Content }}
-
-
       <div class="columns">
         <div class="column">
           <h2>{{ i18n "tags" }}</h2>

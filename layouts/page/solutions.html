@@ -11,31 +11,21 @@
        {{- $currentPage := . -}}
        {{ range .Site.Menus.solutions }}
          <a class="is-hoverable{{ if $currentPage.IsMenuCurrent "solutions" . }} is-active{{ end }}" href="{{ .URL | absLangURL }}"><p class="menu-label has-text-esolia-secondary-2-0">{{ .Name }}</p></a>
-          <ul class="menu-list-svcsol">
-          {{ if .HasChildren }}
-          {{ range .Children }}
-            <li><a class="is-hoverable{{ if $currentPage.IsMenuCurrent "solutions" . }} is-active{{ end }}" href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
-          {{ end }}
-          {{ end }}
+          <ul class="menu-list-svcsol">{{ if .HasChildren }}{{ range .Children }}
+            <li><a class="is-hoverable{{ if $currentPage.IsMenuCurrent "solutions" . }} is-active{{ end }}" href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>{{ end }}{{ end }}
           </ul>
        {{ end }}
        {{- $currentPage := . -}}
          <a class="is-hoverable"><p class="menu-label has-text-esolia-secondary-2-0">{{ i18n "other" | safeHTML }}</p></a>
-          <ul class="menu-list-svcsol">
-       　　{{ range .Site.Menus.solutionsother }}
-            <li><a class="is-hoverable{{ if $currentPage.IsMenuCurrent "solutionsother" . }} is-active{{ end }}" href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
-          {{ end }}
+          <ul class="menu-list-svcsol">{{ range .Site.Menus.solutionsother }}
+            <li><a class="is-hoverable{{ if $currentPage.IsMenuCurrent "solutionsother" . }} is-active{{ end }}" href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>{{ end }}
           </ul>
-
        <p class="menu-label has-text-esolia-secondary-2-0">Tags</p>
-       <div class="tags has-margin-l">
-       {{ range .Params.tags }}
-        <span class="tag is-rounded is-light"><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></span>
-       {{ end }}
+       <div class="tags has-margin-l">{{ range .Params.tags }}
+        <span class="tag is-rounded is-light"><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></span>{{ end }}
        </div>
        <br><br>
     </aside>
-
   </div>
   <div class="column is-main-content">
       <div class="box content is-size-5-desktop is-size-6-mobile has-margin-m has-padding-t-xxs">
