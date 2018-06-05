@@ -3,7 +3,7 @@ author: eSolia
 date: 2018-05-28T11:01:49+09:00
 publishdate: 2018-05-28T11:01:49+09:00
 draft: true
-title: Planned Power Outage IT Management
+title: IT Management for Planned Power Outages
 slug: planned-power-outage-it-management
 subtitle: Get it right every time
 description: Skillful IT Management during regular building-wide power outages in Tokyo during annual fire inspection. - from eSolia Inc.
@@ -12,12 +12,14 @@ layout: services
 alternatelocales:
   - ja-JP
 tags:
+  - Planned Power Outage IT Management
+  - Building Power Cycle
+  - Fire Code Inspection
   - Process Management
   - Asset Process Management
   - Project Process Management
   - Data Center Process Management
   - Server Process Management
-  - Planned Power Outage IT Management
 series:
   - top1
 topics:
