@@ -1,5 +1,10 @@
 [
   {
+    "@row.id": 923,
+    "Date": "2018-Jun-05",
+    "Description": "Tokyo visitors: The Tokyo Metropolitan Government has started a free service \"[Tokyo Multilingual Call Center](http://call.tokyo.jp/en/)\" for tourists, receiving calls 24x7, 365 days per year. It provides \"basic information about transportation and sightseeing to tourists from overseas, about the Tokyo Metropolitan Area\" for free. Get help in English, Korean, or Chinese by calling 0120-805-261 from a regular phone in Japan or, by using the \"IP Phone\" app at [http://call.tokyo.jp/en/](http://call.tokyo.jp/en/). "
+  },
+  {
     "@row.id": 921,
     "Date": "2018-Jun-04",
     "Description": "PSA: Vulnerabilities have been discovered in Google Chrome versions prior to 67.0.3396.62, which could allow a hacker to retrieve information, bypass security or perform a denial-of-service attack. Google [has released](https://www.us-cert.gov/ncas/current-activity/2018/05/29/Google-Releases-Security-Update-Chrome) an update, which we recommend you apply now. "
