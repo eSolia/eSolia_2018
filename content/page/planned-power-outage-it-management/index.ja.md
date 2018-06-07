@@ -6,7 +6,7 @@ draft: true
 title: ビル定期停電のIT管理
 slug: planned-power-outage-it-management
 subtitle: ITスキル及び緊急対応経験が必須
-description: イソリアから - Skillful IT Management during regular building-wide power outages in Tokyo during annual fire inspection.
+description: イソリアから - 毎年恒例の消防検査及びビル全館停電中における熟練なIT管理
 weight: 30
 layout: services
 alternatelocales:
@@ -14,8 +14,8 @@ alternatelocales:
 tags:
   - 定期停電ITシステム管理
   - ビル停電
-  - Fire Code Inspection
-  - Incident Management
+  - 防火規則検査
+  - インシデント管理
   - プロセス管理
   - 資産管理
   - データセンター管理
@@ -54,27 +54,27 @@ menu:
   <a class="button" href="/localization">ローカライゼーション</a>
 </div>
 
-## A Japan Regulatory Requirement
+## 日本の規則要件について　
 
-Japan's fire code requires buildings over a certain size to be inspected annually, and this always includes a power cycle requirement. Typically, power goes down sometime on Friday night or Saturday morning, and is restored again on Sunday. It's necessary for IT to be involved for all but the smallest systems, to make sure computer systems are properly shut down, then powered up and tested after the outage. 
+ご存知のように、日本の消防法では、一定規模以上の建物を毎年点検する必要があり、これには常に停電検査という要件が含まれています。一般的に、金曜日の夜間もしくは土曜日の早朝の時間帯で停電し、日曜日に復電する流れになります。基本すべてのシステムにおいて（最小規模のシステムを除く）、コンピューターシステムが適切にシャットダウンされていることの確認、そして、復電後のシステム動作のテスト検証を行うことが必要ですので、停電作業にIT部門は深く関わっています。
 
-### During Japan's Annual Power Outages
+### 日本の年間法定停電期間中について　
 
-We have found while stewarding so many of these power outages, that there are invariably problems in 90% of cases. Some piece of equipment breaks or starts producing errors. In the end it's a good exercise, in that one would rather have the break occur while you're watching the system, but it's frustrating nonetheless. If eSolia is there leading the process, we can also deal with the issues. 
+年間数多くの停電作業に携わっている経験に基づくと、90％のケースで必ず何等かの問題は発生すると言っても過言ではありません。機器の一部が故障したり、またはエラーが発生したりなど、思い掛けない問題は起きます。せめて目の前で起こっている問題を直ちに確認することが可能ですので、結果的に良い経験になります。イソリアが停電作業を担当させて頂く場合は、偶発的な問題にも対処し解決いたします。
 
-Time during the event is usually tight, but we often take the opportunity to execute a change request. It could be removing old equipment or cable from the rack, or mounting new equipment. Or taking the opportunity to upgrade device firmware. If it is something that takes time, we'll usually do it on the evening before. 
+限られた非常に短い時間内で停電作業を行う形ではありますが、私たちは常に事前にお客様の変更リクエストをお伺いして作業に臨んでおります。ラックから古い機器やケーブルの取外し、新機器の取付、もしくは、デバイスファームウェアのアップグレードなどのような作業を停電作業と共に対応することは可能です。長期間に渡る作業の見通しであれば、停電日の前日夕方から作業開始します。
 
-Once the power is restored and your systems are successfully powered on, testing and validation has to be performed. It's often done partially by us, and partially by a user of the client. We can assist your users to help them test and document the results. 
+ビルの復電と同時に御社システムに問題なく電源が入れば、システム上の検査と検証を行う事が必須です。通常この作業は、一部分をイソリアが、残りの一部分を御社のユーザー様が行う形になります。ユーザー様によるテスト過程及び結果のドキュメント化についてお助けいたします。
 
-### Documentation
+### ドキュメンテーション
 
-The annual outage is a good opportunity to take stock and update all the regular documentation, such as network diagrams, rack equipment diagrams, or IT inventory lists. 
+年次定期停電は、ネットワーク図面、ラック機器図面、またはITインベントリストなどのような在庫管理の確認、及び、既存記録書類の更新を行う良い機会です。
 
-At the end of the outage, eSolia will produce a report about everything that happened and what we observed, then submit that to local stakeholders and overseas IT management _et al_ as needed.
+停電作業終了後、停電から復電過程における発生事項及び観察事項についてのレポートを作成し、必要に応じて御社の日本担当者及び海外IT管理者に提出いたします。
 
-### Timeline
+### タイムライン　
 
-Here is a typical timeline for a planned power outage in Tokyo: 
+東京で行われる定期停電の典型的なタイムラインは次の通りです。 
 
 <div class="timeline is-centered">
   <header class="timeline-header">
@@ -86,7 +86,7 @@ Here is a typical timeline for a planned power outage in Tokyo:
     </div>
     <div class="timeline-content">
       <p class="heading">金曜日 19:00~21:00</p>
-      <p>計画立てられた変更を行う</p>
+      <p>事前計画における変更作業の実施</p>
     </div>
   </div>
   <div class="timeline-item is-esolia-yellow-0">
@@ -95,7 +95,7 @@ Here is a typical timeline for a planned power outage in Tokyo:
     </div>
     <div class="timeline-content">
       <p class="heading">土曜日 8:00~11:30</p>
-      <p>停電システムシャットダウン手順を実行</p>
+      <p>停電に備えるシステムシャットダウン手順の実行</p>
     </div>
   </div>
   <div class="timeline-item is-esolia-secondary-1-0">
@@ -104,7 +104,7 @@ Here is a typical timeline for a planned power outage in Tokyo:
     </div>
     <div class="timeline-content">
       <p class="heading">土曜日 12:00~</p>
-      <p>ビルが停電となり、検査を開始する</p>
+      <p>ビル側による停電及び検査の開始</p>
     </div>
   </div>  
   <header class="timeline-header">
@@ -116,7 +116,7 @@ Here is a typical timeline for a planned power outage in Tokyo:
     </div>
     <div class="timeline-content">
       <p class="heading">日曜日 ~12:00</p>
-      <p>ビルが復電させ、館内アナウンスで知らされる</p>
+      <p>ビル館内アナウンスによる復電の通知</p>
     </div>
   </div>
   <header class="timeline-header">
@@ -128,7 +128,7 @@ Here is a typical timeline for a planned power outage in Tokyo:
     </div>
     <div class="timeline-content">
       <p class="heading">日曜日 12:00~</p>
-      <p>システム起動・復旧手順を実行する</p>
+      <p>システム起動及び復旧手順の実行</p>
     </div>
   </div>  
   <div class="timeline-item is-esolia-yellow-0">
@@ -137,7 +137,7 @@ Here is a typical timeline for a planned power outage in Tokyo:
     </div>
     <div class="timeline-content">
       <p class="heading">日曜日 13:00~</p>
-      <p>問題発見、解決!</p>
+      <p>問題の発見及び解決!</p>
     </div>
   </div>  
   <div class="timeline-item is-esolia-secondary-2-0">
@@ -146,7 +146,7 @@ Here is a typical timeline for a planned power outage in Tokyo:
     </div>
     <div class="timeline-content">
       <p class="heading">日曜日 ~15:00</p>
-      <p>復旧作業後、システム動作確認完了!</p>
+      <p>復旧作業後のシステム動作確認完了!</p>
     </div>
   </div>
   <div class="timeline-item is-esolia-secondary-2-0">
@@ -155,7 +155,7 @@ Here is a typical timeline for a planned power outage in Tokyo:
     </div>
     <div class="timeline-content">
       <p class="heading">日曜日 ~17:00</p>
-      <p>レポート提出</p>
+      <p>レポートの提出</p>
     </div>
   </div>  
   <header class="timeline-header">
@@ -163,14 +163,16 @@ Here is a typical timeline for a planned power outage in Tokyo:
   </header>
 </div>
 
-### eSolia is Here to Help
+### イソリアによる対応の強み eSolia is Here to Help
 
-Business users with weak understanding and and knowledge of IT sometimes think "I can do this myself". They should ask themselves these questions: 
+深くITに関する理解と知識をお持ちではないビジネスユーザー様は、”自分達で停電作業に対応できる”と考えていらっしゃいます。
+そのような考え方をお持ちの場合は、下記の質問についてお考え頂くことをお勧めしております。
 
-* Am I an IT expert? 
-* How many outages have I led before? 
-* If something does happen (because it will), can I fix the problem?
-* Do I know how to explain the problem, if it happens? 
-* Do I know exactly who to call, in the event of a problem? 
+* ご自身はITプロフェッショナルでいらっしゃいますか？
+* 過去にご対応された停電作業の回数はどのくらいありますか？
+* 突発的な問題が起きた際に、ご自身で問題解決まで対応できますか？
+* 問題が発生した場合に、問題の説明方法をご存じでいらっしゃいますか？
+* 問題発生時にどなたに電話連絡すべきかご存じでいらっしゃいます？
 
-If the answer to those is negative, you should call us, because it is far less risky to ask the experts at eSolia to handle your outage. There is simply no need to take on that risk. Leave it to eSolia to handle the IT systems shut down, power up and operational validation that is needed in these cases. We'll handle your power outage in an organized manner (see our [process](/process) page for others), and you get a detailed report about what happened at the end. 
+上記質問に対するお答えが否定的なものであれば、ご自身で停電作業に対応される事は非常に危険な事ですので、ぜひプロフェッショナルである私たちにお電話ください。リスクを避けるため、各状況に必要とされるITシステムのシャットダウン、パワーアップ、及び動作検証まで一連作業をイソリアにお任せください。計画的な手順(弊社ウェブサイト [プロセス](/process) ページをご覧ください)に沿って御社の停電作業を対応させて頂くとともに、停電過程の発生事項を含む詳細レポートをお届けいたします。
+
