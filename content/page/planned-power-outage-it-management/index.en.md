@@ -1,8 +1,8 @@
 ---
 author: eSolia
-date: 2018-05-28T11:01:49+09:00
-publishdate: 2018-05-28T11:01:49+09:00
-draft: true
+date: 2018-06-07T19:00:45+09:00
+publishdate: 2018-06-07T19:00:45+09:00
+draft: false
 title: IT Management for Planned Power Outages
 slug: planned-power-outage-it-management
 subtitle: Required Annually in Japan Buildings
@@ -27,11 +27,10 @@ topics:
   - Services
   - Outsourcing
 images:
-  - /img/eSolia-Post-Slider-Process-01.png
+  - /img/eSolia-Post-Slider-Power-Outage-01.jpg
+  - /img/eSolia-Post-Slider-Power-Outage-02.jpg
+  - /img/eSolia-Post-Slider-Power-Outage-03.jpg
   - /img/eSolia-Chicklet-Color-1024px.png
-resources:
-  - src: eSolia-Post-Slider-Process-01.png
-    title: New project schedule
 formcheckboxes:
   - Power Outage IT Management
 gallery_id: 6159794668058542529

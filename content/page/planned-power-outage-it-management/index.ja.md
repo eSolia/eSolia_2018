@@ -1,8 +1,8 @@
 ---
 author: イソリア
-date: 2018-05-28T11:01:49+09:00
-publishdate: 2018-05-28T11:01:49+09:00
-draft: true
+date: 2018-06-07T19:00:45+09:00
+publishdate: 2018-06-07T19:00:45+09:00
+draft: false
 title: ビル定期停電のIT管理
 slug: planned-power-outage-it-management
 subtitle: ITスキル及び緊急対応経験が必須
@@ -28,11 +28,10 @@ topics:
   - アウトソーシング
   - コンサルティング
 images:
-  - /img/eSolia-Post-Slider-Process-01.png
+  - /img/eSolia-Post-Slider-Power-Outage-01.jpg
+  - /img/eSolia-Post-Slider-Power-Outage-02.jpg
+  - /img/eSolia-Post-Slider-Power-Outage-03.jpg
   - /img/eSolia-Chicklet-Color-1024px.png
-resources:
-  - src: eSolia-Post-Slider-Process-01.png
-    title: 新規プロジェクトスケジュール
 formcheckboxes:
   - 定期停電ITシステム管理
 gallery_id: 6159794668058542529
