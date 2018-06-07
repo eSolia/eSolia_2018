@@ -1,5 +1,20 @@
 [
   {
+    "@row.id": 927,
+    "Date": "2018-Jun-07",
+    "Description": "Visiting Tokyo, Japan with Kids? You might enjoy trying the best new toys at the [International Tokyo Toy Show](http://www.toys.or.jp/toyshow/index_en.html) at Tokyo Big Sight this weekend, June 9th and 10th, 2018. "
+  },
+  {
+    "@row.id": 925,
+    "Date": "2018-Jun-07",
+    "Description": "We welcome the [data privacy protections](https://www.apple.com/newsroom/2018/06/apple-introduces-macos-mojave/) Apple is building into Safari in the next versions of macOS (Mojave) and iOS (called '[Intelligent Tracking Prevention 2.0](https://webkit.org/blog/8311/intelligent-tracking-prevention-2-0/)'), similar to what's in [Firefox Quantum](https://blog.mozilla.org/blog/2018/01/23/latest-firefox-quantum-release-now-available-with-new-features/) now. "
+  },
+  {
+    "@row.id": 922,
+    "Date": "2018-Jun-06",
+    "Description": "PSA: the Windows 10 April 2018 update caused apps such as Google Chrome or \"Hey Cortana\" to freeze, but Microsoft claims to have included a solution for this in their [May 8th Cumulative Update](https://support.microsoft.com/en-us/help/4103721/windows-10-update-kb4103721). "
+  },
+  {
     "@row.id": 923,
     "Date": "2018-Jun-05",
     "Description": "Tokyo visitors: The Tokyo Metropolitan Government has started a free service \"[Tokyo Multilingual Call Center](http://call.tokyo.jp/en/)\" for tourists, receiving calls 24x7, 365 days per year. It provides \"basic information about transportation and sightseeing to tourists from overseas, about the Tokyo Metropolitan Area\" for free. Get help in English, Korean, or Chinese by calling 0120-805-261 from a regular phone in Japan or, by using the \"IP Phone\" app at [http://call.tokyo.jp/en/](http://call.tokyo.jp/en/). "
@@ -323,6 +338,51 @@
     "@row.id": 56,
     "Date": "2015-Dec-02",
     "Description": "PSA: [Christmas lights](https://www.cultofmac.com/400156/christmas-lights-may-be-ruining-your-wi-fi-speeds/) may be ruining your Wi-Fi speeds."
+  },
+  {
+    "@row.id": 62,
+    "Date": "2015-Oct-08",
+    "Description": "Mac OS X El Capitan users: if you experience crashes, you'll notice the \"beachball\" spinner has been redesigned."
+  },
+  {
+    "@row.id": 61,
+    "Date": "2015-Oct-08",
+    "Description": "[Esoteric OS X problem](https://rick.cogley.info/post/osx-sslhandshake-problem-from-an-open-keychain/?utm_content=) , the moral of which is \"don't keep a keychain backup open.\""
+  },
+  {
+    "@row.id": 60,
+    "Date": "2015-Oct-08",
+    "Description": "Mac OS X El Capitan users: press F3 to see an improved Exposé, showing docs grouped with their apps."
+  },
+  {
+    "@row.id": 59,
+    "Date": "2015-Oct-08",
+    "Description": "OS X El Capitan users: jiggle the mouse cursor and it will grow temporarily so you can find it."
+  },
+  {
+    "@row.id": 67,
+    "Date": "2015-Oct-07",
+    "Description": "Mac OS X El Capitan users: spotlight SFNS to see the new \"San Francisco\" system font."
+  },
+  {
+    "@row.id": 66,
+    "Date": "2015-Oct-07",
+    "Description": "Mac OS X El Capitan users: in Mail, do a two-finger swipe right or left on a message, to mark-unread and delete, like on iPhone."
+  },
+  {
+    "@row.id": 65,
+    "Date": "2015-Oct-07",
+    "Description": "Mac OS X El Capitan users: in Safari you can now easily identify a tab that's playing audio, and mute it. Click the sound icons that appear."
+  },
+  {
+    "@row.id": 64,
+    "Date": "2015-Oct-07",
+    "Description": "Mac OS X El Capitan users: use natural language queries in Spotlight, like \"excel files I saved yesterday\"."
+  },
+  {
+    "@row.id": 68,
+    "Date": "2015-Oct-06",
+    "Description": "Mac OS X El Capitan Users: new graphics API called \"Metal\" will give you a nice speed boost for apps like Photos, Photoshop or Lightroom."
   },
   {
     "@row.id": 74,
@@ -735,6 +795,26 @@
     "Description": "See our [new tutorial](https://vimeo.com/channels/esoliascreencast) on how to add a URL as an icon to your home screen in iOS."
   },
   {
+    "@row.id": 261,
+    "Date": "2013-Oct-24",
+    "Description": "OS X Mavericks tip - integration b/w calendar and maps is welcome. But Japan address handling poor and inflexible; map data seems old."
+  },
+  {
+    "@row.id": 264,
+    "Date": "2013-Oct-23",
+    "Description": "Apple's OS X Mavericks upgrades smoothly, and has many useful improvements. iWork updates (Pages, Keynote, Numbers) are welcome as well."
+  },
+  {
+    "@row.id": 263,
+    "Date": "2013-Oct-23",
+    "Description": "OS X Mavericks tip: quickly power off macbook display by pressing power button for 1 second."
+  },
+  {
+    "@row.id": 262,
+    "Date": "2013-Oct-23",
+    "Description": "OS X Mavericks tip: Safari can show links from Twitter in the sidebar of the \"new tab\" screen."
+  },
+  {
     "@row.id": 270,
     "Date": "2013-Sept-19",
     "Description": "iOS 7 upgraders: swipe a finger down, from middle of HOME screen, to access Spotlight Search. "
@@ -758,6 +838,11 @@
     "@row.id": 318,
     "Date": "2012-Dec-15",
     "Description": "Google Maps is back on iOS, thankfully, so we can get some relief with an [accurate location](http://twitpic.com/bm07fg) for the eSolia office."
+  },
+  {
+    "@row.id": 335,
+    "Date": "2012-Oct-25",
+    "Description": "One Apple OS X Mountain Lion change that has had impact, is the change to sync services. For ex [BusyCal](https://support.busymac.com/help/71143-how-to-upgrade-to-busycal-3)."
   },
   {
     "@row.id": 337,
