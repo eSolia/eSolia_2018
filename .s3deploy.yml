@@ -3,41 +3,51 @@ routes:
       # cache for 1 year (unit is seconds)
       headers:
          Cache-Control: "max-age=31536000, no-transform, public"
+         Vary: "Accept-Encoding"
       gzip: true
     - route: "^.+\\.(png|jpg|gif|bmp|jpeg|webp)$"
       # cache for 1 month
       headers:
          Cache-Control: "max-age=2628000, no-transform, public"
+         Vary: "Accept-Encoding"
       gzip: false
     - route: "^.+\\.(eot|otf|ttf)$"
       # cache for 1 month
       headers:
          Cache-Control: "max-age=2628000, no-transform, public"
+         Vary: "Accept-Encoding"
       gzip: true
     - route: "^.+\\.(woff|woff2)$"
       # cache for 1 month
       headers:
          Cache-Control: "max-age=2628000, no-transform, public"
+         Vary: "Accept-Encoding"
       gzip: false
     - route: "^.+\\.(ogg|webm|mp4)$"
       # cache for 1 month
       headers:
          Cache-Control: "max-age=2628000, no-transform, public"
+         Vary: "Accept-Encoding"
       gzip: false
     - route: "^.+\\.(svg)$"
       # cache for 1 month
       headers:
          Cache-Control: "max-age=2628000, no-transform, public"
+         Vary: "Accept-Encoding"
       gzip: true
     - route: "^.+\\.(ico)$"
       # cache for 1 week
       headers:
          Cache-Control: "max-age=604800, no-transform, public"
+         Vary: "Accept-Encoding"
       gzip: false
     - route: "^.+\\.(rss|rdf|atom)$"
       # cache for 1 hour
       headers:
          Cache-Control: "max-age=3600, no-transform, public"
+         Vary: "Accept-Encoding"
       gzip: true
     - route: "^.+\\.(html|xml|json)$"
+      headers:
+         Vary: "Accept-Encoding"
       gzip: true
