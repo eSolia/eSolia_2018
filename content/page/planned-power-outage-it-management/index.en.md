@@ -21,6 +21,9 @@ tags:
   - Data Center Process Management
   - Server Process Management
   - Incident Management
+  - Documentation
+  - Validation
+  - Testing
 series:
   - top1
 topics:
@@ -54,7 +57,7 @@ menu:
 
 ## A Japan Regulatory Requirement
 
-Japan's fire code requires buildings over a certain size to be inspected annually, and this always includes a power cycle requirement. Typically, power goes down sometime on Friday night or Saturday morning, and is restored again on Sunday. It's necessary for IT to be involved for all but the smallest systems, to make sure computer systems are properly shut down, then powered up and tested after the outage. 
+Japan's fire code requires buildings over a certain size to be inspected annually, and this always includes a power cycle requirement. Typically, the power is taken down by the building sometime on Friday night or Saturday morning, and is restored again on Sunday. It's necessary for IT to be involved for all but the smallest systems, to make sure computer systems are properly shut down, then powered up and tested after the outage. 
 
 ### During Japan's Annual Power Outages
 
