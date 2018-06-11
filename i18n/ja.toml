@@ -142,6 +142,9 @@ other = "ホーム"
 [gencolophonname]
 other = "奥付"
 
+[genjpcontactsname]
+other = "日本緊急連絡先一覧"
+
 [genlicensename]
 other = "ライセンス"
 

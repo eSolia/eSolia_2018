@@ -142,6 +142,9 @@ other = "Home"
 [gencolophonname]
 other = "Colophon"
 
+[genjpcontactsname]
+other = "Japan Emergency Contacts"
+
 [genlicensename]
 other = "License"
 
