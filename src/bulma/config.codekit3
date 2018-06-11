@@ -317,27 +317,17 @@
 		"sC": 3,
 		"tS": 0
 		},
-	"\/bower_components\/bulma-calendar\/dist\/bulma-calendar.min.css": {
+	"\/bower_components\/bulma-calendar\/dist\/css\/bulma-calendar.min.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
-		"oAP": "\/bower_components\/bulma-calendar\/dist\/bulma-calendar.min.css",
+		"oAP": "\/bower_components\/bulma-calendar\/dist\/css\/bulma-calendar.min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/bower_components\/bulma-calendar\/dist\/bulma-calendar.min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 2,
-		"oAP": "\/bower_components\/bulma-calendar\/dist\/bulma-calendar.min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"\/bower_components\/bulma-calendar\/dist\/bulma-calendar.sass": {
+	"\/bower_components\/bulma-calendar\/dist\/css\/bulma-calendar.sass": {
 		"aP": 1,
 		"bl": 1,
 		"dP": 10,
@@ -345,10 +335,30 @@
 		"ft": 2,
 		"ma": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/bulma-calendar\/dist\/bulma-calendar.sass",
+		"oAP": "\/bower_components\/bulma-calendar\/dist\/css\/bulma-calendar.sass",
 		"oF": 0,
 		"oS": 3,
 		"uL": 1
+		},
+	"\/bower_components\/bulma-calendar\/dist\/js\/bulma-calendar.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/bulma-calendar\/dist\/js\/bulma-calendar.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/bulma-calendar\/dist\/js\/bulma-calendar.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/bulma-calendar\/dist\/js\/bulma-calendar.min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
 		},
 	"\/bower_components\/bulma-calendar\/gulpfile.js": {
 		"ft": 64,
@@ -366,6 +376,14 @@
 		"oA": 2,
 		"oAP": "\/bower_components\/bulma-calendar\/LICENSE",
 		"oF": 0
+		},
+	"\/bower_components\/bulma-calendar\/package-lock.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "\/bower_components\/bulma-calendar\/package-lock.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
 		},
 	"\/bower_components\/bulma-calendar\/package.json": {
 		"ft": 524288,
@@ -393,17 +411,77 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/bower_components\/bulma-calendar\/src\/extension.js": {
+	"\/bower_components\/bulma-calendar\/src\/js\/defaultOptions.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 2,
-		"oAP": "\/bower_components\/bulma-calendar\/src\/extension.js",
+		"oA": 1,
+		"oAP": "\/bower_components\/bulma-calendar\/src\/js\/defaultOptions.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/bower_components\/bulma-calendar\/src\/extension.sass": {
+	"\/bower_components\/bulma-calendar\/src\/js\/index.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/bower_components\/bulma-calendar\/src\/js\/index.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/bulma-calendar\/src\/js\/langs\/langs.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/bower_components\/bulma-calendar\/src\/js\/langs\/langs.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/bulma-calendar\/src\/js\/template.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/bower_components\/bulma-calendar\/src\/js\/template.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/bulma-calendar\/src\/js\/utils\/date.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/bower_components\/bulma-calendar\/src\/js\/utils\/date.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/bulma-calendar\/src\/js\/utils\/events.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/bower_components\/bulma-calendar\/src\/js\/utils\/events.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/bulma-calendar\/src\/js\/utils\/type.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/bower_components\/bulma-calendar\/src\/js\/utils\/type.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/bower_components\/bulma-calendar\/src\/sass\/index.sass": {
 		"aP": 1,
 		"bl": 1,
 		"dP": 10,
@@ -411,7 +489,7 @@
 		"ft": 2,
 		"ma": 1,
 		"oA": 2,
-		"oAP": "\/bower_components\/bulma-calendar\/src\/extension.sass",
+		"oAP": "\/bower_components\/bulma-calendar\/src\/sass\/index.sass",
 		"oF": 0,
 		"oS": 3,
 		"uL": 1
