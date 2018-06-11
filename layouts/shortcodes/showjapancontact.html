@@ -21,11 +21,11 @@
       <td>
         {{ .Hours }}
       </td>
-      <td>
-        {{ with (index . "Toll Free Call?") }}{{ . }}{{ end }}
+      <td class="has-text-esolia-blue-0">
+        {{ with (index . "Toll Free Call?") }}{{ replace . "true" "✓" | safeHTML }}{{ end }}
       </td>
       <td>
-        <a href="{{ with (index . "URL") }}{{ . | safeHTML }}{{ end }}" target="_blank">Website</a> 
+        {{ with (index . "URL") }}<a href="{{ . | safeHTML }}" target="_blank"><i class="fas fa-external-link-square-alt has-text-esolia-blue-1"></i></a>{{ end }}
       </td>      
     </tr>
   {{ end }}
@@ -40,7 +40,7 @@
       <th>サービス</th>
       <th>番号</th>
       <th>営業時間</th>
-      <th>フリーダイヤル?</th>
+      <th>通話料無料</th>
       <th>リンク</th>
     </tr>
   </thead>
@@ -56,11 +56,11 @@
       <td>
         {{ .Hours }}
       </td>
-      <td>
-        {{ with (index . "Toll Free Call?") }}{{ . }}{{ end }}
+      <td class="has-text-esolia-blue-0">
+        {{ with (index . "Toll Free Call?") }}{{ replace . "true" "✓" }}{{ end }}
       </td>
       <td>
-        <a href="{{ with (index . "URL‡") }}{{ . | safeHTML }}{{ end }}" target="_blank">ウェブサイト</a> 
+        {{ with (index . "URL‡") }}<a href="{{ . | safeHTML }}" target="_blank"><i class="fas fa-external-link-square-alt has-text-esolia-blue-1"></i></a>{{ end }}
       </td>      
     </tr>
   {{ end }}
