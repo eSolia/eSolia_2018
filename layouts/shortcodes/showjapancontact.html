@@ -1,0 +1,69 @@
+{{ if eq $.Site.Language.Lang "en" }}
+<table class="table is-size-6 is-striped is-hoverable is-fullwidth">
+  <thead>
+    <tr>
+      <th>Service</th>
+      <th>Number</th>
+      <th>Hours of Operation</th>
+      <th>Toll Free?</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    {{ range $.Site.Data.japancontact }}
+    <tr>
+      <td>
+        {{ .Description }}
+      </td>
+      <td>
+        {{ .Number }}
+      </td>
+      <td>
+        {{ .Hours }}
+      </td>
+      <td>
+        {{ with (index . "Toll Free Call?") }}{{ . }}{{ end }}
+      </td>
+      <td>
+        <a href="{{ with (index . "URL") }}{{ . | safeHTML }}{{ end }}" target="_blank">Website</a> 
+      </td>      
+    </tr>
+  {{ end }}
+  </tbody>
+</table>
+{{ end }}
+
+{{ if eq $.Site.Language.Lang "ja" }}
+<table class="table is-size-6 is-striped is-hoverable is-fullwidth">
+  <thead>
+    <tr>
+      <th>サービス</th>
+      <th>番号</th>
+      <th>営業時間</th>
+      <th>フリーダイヤル?</th>
+      <th>リンク</th>
+    </tr>
+  </thead>
+  <tbody>
+    {{ range $.Site.Data.japancontact }}
+    <tr>
+      <td>
+        {{ with (index . "Description‡") }}{{ . }}{{ end }}
+      </td>
+      <td>
+        {{ .Number }}
+      </td>
+      <td>
+        {{ .Hours }}
+      </td>
+      <td>
+        {{ with (index . "Toll Free Call?") }}{{ . }}{{ end }}
+      </td>
+      <td>
+        <a href="{{ with (index . "URL‡") }}{{ . | safeHTML }}{{ end }}" target="_blank">ウェブサイト</a> 
+      </td>      
+    </tr>
+  {{ end }}
+  </tbody>
+</table>
+{{ end }}
