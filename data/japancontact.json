@@ -106,8 +106,8 @@
     "Number": "#9910",
     "Hours": "24x7, 365d",
     "Toll Free Call?": false,
-    "URL": "https://www.mlit.go.jp/road/dia/",
-    "URL‡": null
+    "URL": null,
+    "URL‡": "https://www.mlit.go.jp/road/dia/"
   },
   {
     "@row.id": 11,
