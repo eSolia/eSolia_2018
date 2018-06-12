@@ -15,6 +15,8 @@ alternatelocales:
 tags:
   - 緊急連絡先
   - 救急連絡先
+  - 110番
+  - 119番
 topics:
   - 日本
 images:
