@@ -1,5 +1,15 @@
 [
   {
+    "@row.id": 931,
+    "Date": "2018-Jun-12",
+    "Description": "㊗️CircleCI has [launched in Japan](https://circleci.com/blog/announcing-circleci-japan/). Congratulations to Jim Rose CEO and the Japan team. In fact, CircleCI is one of the tools we use to build this very site. "
+  },
+  {
+    "@row.id": 928,
+    "Date": "2018-Jun-12",
+    "Description": "Osaka Drink Maker DyDo Drinco offers [free loaner umbrellas](https://www.japantimes.co.jp/news/2018/06/07/national/japanese-beverage-company-expands-network-vending-machines-containing-free-umbrellas/) at its drink machines in 17 prefectures nationwide. We are heading into rainy season, so keep an eye open for this. Convenient!  "
+  },
+  {
     "@row.id": 929,
     "Date": "2018-Jun-11",
     "Description": "PSA: malware \"VPNFilter\" is [worse than](https://thenextweb.com/security/2018/06/07/vpnfilter-router-malware-from-russia-affects-way-more-devices-check-yours-now/) it originally appeared, in that many more devices are vulnerable to attacks like password stealing or launching attacks on other devices. Strengthen your password and upgrade your firmware for sure, but we strongly recommend resetting the device to factory default, updating firmware, and re-configuring. You can [contact eSolia](https://esolia.com/info-request) for help, of course!"
