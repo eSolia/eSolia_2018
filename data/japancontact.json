@@ -5,10 +5,12 @@
     "Description": "Emergency Call for Fire, Ambulance or Emergency Rescue",
     "Description‡": "救急、火事",
     "Number": "119",
+    "Number‡": null,
     "Hours": "24x7, 365d",
-    "Toll Free Call?": true,
+    "Hours‡": null,
     "URL": "http://www.tfd.metro.tokyo.jp/eng/",
-    "URL‡": "http://www.tfd.metro.tokyo.jp/"
+    "URL‡": "http://www.tfd.metro.tokyo.jp/",
+    "Toll Free Call?": true
   },
   {
     "@row.id": 2,
@@ -16,10 +18,12 @@
     "Description": "Emergency Advisory Service for non-Emergency",
     "Description‡": "救急相談センター",
     "Number": "#7119",
+    "Number‡": null,
     "Hours": "24x7, 365d",
-    "Toll Free Call?": false,
+    "Hours‡": null,
     "URL": null,
-    "URL‡": "http://www.tfd.metro.tokyo.jp/lfe/kyuu-adv/soudan-center.htm"
+    "URL‡": "http://www.tfd.metro.tokyo.jp/lfe/kyuu-adv/soudan-center.htm",
+    "Toll Free Call?": false
   },
   {
     "@row.id": 3,
@@ -27,10 +31,12 @@
     "Description": "Emergency Call to Police",
     "Description‡": "警察署",
     "Number": "110",
+    "Number‡": null,
     "Hours": "24x7, 365d",
-    "Toll Free Call?": true,
+    "Hours‡": null,
     "URL": "http://www.keishicho.metro.tokyo.jp/multilingual/english/index.html",
-    "URL‡": "http://www.keishicho.metro.tokyo.jp/index.html"
+    "URL‡": "http://www.keishicho.metro.tokyo.jp/index.html",
+    "Toll Free Call?": true
   },
   {
     "@row.id": 4,
@@ -38,10 +44,12 @@
     "Description": "Police Advisory Service for non-Emergency",
     "Description‡": "警察相談専用電話",
     "Number": "#9110",
+    "Number‡": null,
     "Hours": "24x7, 365d",
-    "Toll Free Call?": false,
+    "Hours‡": null,
     "URL": "http://www.keishicho.metro.tokyo.jp/multilingual/english/index.html",
-    "URL‡": "http://www.keishicho.metro.tokyo.jp/index.html"
+    "URL‡": "http://www.keishicho.metro.tokyo.jp/index.html",
+    "Toll Free Call?": false
   },
   {
     "@row.id": 5,
@@ -49,10 +57,12 @@
     "Description": "Emergency Call to Coast Guard",
     "Description‡": "海上保安庁",
     "Number": "118",
+    "Number‡": null,
     "Hours": "24x7, 365d",
-    "Toll Free Call?": true,
+    "Hours‡": null,
     "URL": "http://www.kaiho.mlit.go.jp/",
-    "URL‡": "http://www.kaiho.mlit.go.jp/e/english.pdf"
+    "URL‡": "http://www.kaiho.mlit.go.jp/e/english.pdf",
+    "Toll Free Call?": true
   },
   {
     "@row.id": 6,
@@ -60,10 +70,12 @@
     "Description": "Police Consultation in English",
     "Description‡": "英語の警察署相談",
     "Number": "03-3501-0110",
+    "Number‡": null,
     "Hours": "8:30-17:15, Mon-Fri",
-    "Toll Free Call?": false,
+    "Hours‡": null,
     "URL": null,
-    "URL‡": null
+    "URL‡": null,
+    "Toll Free Call?": false
   },
   {
     "@row.id": 7,
@@ -71,10 +83,12 @@
     "Description": "Disaster Voice Message",
     "Description‡": "災害伝言ダイヤル",
     "Number": "171",
+    "Number‡": null,
     "Hours": "24x7, 365d",
-    "Toll Free Call?": true,
+    "Hours‡": null,
     "URL": "https://www.web171.jp/",
-    "URL‡": "https://www.web171.jp/web171app/disasterTop.do?japanese"
+    "URL‡": "https://www.web171.jp/web171app/disasterTop.do?japanese",
+    "Toll Free Call?": true
   },
   {
     "@row.id": 8,
@@ -82,10 +96,12 @@
     "Description": "Japan Meteorological Disaster Alerts \"J-ALERT\"",
     "Description‡": "気象庁災害情報 \"J-ALERT\"",
     "Number": null,
+    "Number‡": null,
     "Hours": null,
-    "Toll Free Call?": false,
+    "Hours‡": null,
     "URL": "https://www.jma.go.jp/jma/indexe.html",
-    "URL‡": "https://www.jma.go.jp/jma/index.html"
+    "URL‡": "https://www.jma.go.jp/jma/index.html",
+    "Toll Free Call?": false
   },
   {
     "@row.id": 9,
@@ -93,10 +109,12 @@
     "Description": "NHK World TV App for Smart Phones (Enable Alerts in Settings)",
     "Description‡": "スマホ用アプリ NHK World TV (設定で警報を有効に)",
     "Number": null,
+    "Number‡": null,
     "Hours": null,
-    "Toll Free Call?": false,
+    "Hours‡": null,
     "URL": "https://apple.co/2EmIeUD",
-    "URL‡": "https://apple.co/2EmIeUD"
+    "URL‡": "https://apple.co/2EmIeUD",
+    "Toll Free Call?": false
   },
   {
     "@row.id": 10,
@@ -104,10 +122,12 @@
     "Description": "Road Problem Reporting",
     "Description‡": "道路緊急ダイヤル",
     "Number": "#9910",
+    "Number‡": null,
     "Hours": "24x7, 365d",
-    "Toll Free Call?": false,
+    "Hours‡": null,
     "URL": null,
-    "URL‡": "https://www.mlit.go.jp/road/dia/"
+    "URL‡": "https://www.mlit.go.jp/road/dia/",
+    "Toll Free Call?": false
   },
   {
     "@row.id": 11,
@@ -115,10 +135,12 @@
     "Description": "Road Service (JAF)",
     "Description‡": "ロードサービス (JAF)",
     "Number": "#8139",
+    "Number‡": null,
     "Hours": "24x7, 365d",
-    "Toll Free Call?": false,
+    "Hours‡": null,
     "URL": "http://www.jaf.or.jp/e/road_s_info.htm",
-    "URL‡": "http://www.jaf.or.jp/"
+    "URL‡": "http://www.jaf.or.jp/",
+    "Toll Free Call?": false
   },
   {
     "@row.id": 12,
@@ -126,10 +148,12 @@
     "Description": "Directory Assistance",
     "Description‡": "番号案内",
     "Number": "104",
+    "Number‡": null,
     "Hours": "24x7, 365d",
-    "Toll Free Call?": false,
+    "Hours‡": null,
     "URL": "https://www.ntt-east.co.jp/en/product/option_104.html",
-    "URL‡": "https://web116.jp/phone/numguide/"
+    "URL‡": "https://web116.jp/phone/numguide/",
+    "Toll Free Call?": false
   },
   {
     "@row.id": 13,
@@ -137,10 +161,12 @@
     "Description": "Time Announcement Service",
     "Description‡": "時刻のお知らせ",
     "Number": "117",
+    "Number‡": null,
     "Hours": "24x7, 365d",
-    "Toll Free Call?": false,
+    "Hours‡": null,
     "URL": "https://www.ntt-east.co.jp/en/contact/",
-    "URL‡": "https://web116.jp/phone/telephone/"
+    "URL‡": "https://web116.jp/phone/telephone/",
+    "Toll Free Call?": false
   },
   {
     "@row.id": 14,
@@ -148,10 +174,12 @@
     "Description": "Weather Announcement Service",
     "Description‡": "天気予報電話",
     "Number": "177",
+    "Number‡": null,
     "Hours": "24x7, 365d",
-    "Toll Free Call?": false,
+    "Hours‡": null,
     "URL": "https://www.ntt-east.co.jp/en/contact/",
-    "URL‡": "https://web116.jp/phone/telephone/"
+    "URL‡": "https://web116.jp/phone/telephone/",
+    "Toll Free Call?": false
   },
   {
     "@row.id": 15,
@@ -159,10 +187,12 @@
     "Description": "Tokyo Electric Power Co. (TEPCO)",
     "Description‡": "東京電力",
     "Number": "0120-995-002",
+    "Number‡": null,
     "Hours": "9:00-17:00, Except Holidays",
-    "Toll Free Call?": true,
+    "Hours‡": null,
     "URL": "http://www.tepco.co.jp/en/index-e.html",
-    "URL‡": "http://www.tepco.co.jp"
+    "URL‡": "http://www.tepco.co.jp",
+    "Toll Free Call?": true
   },
   {
     "@row.id": 16,
@@ -170,10 +200,12 @@
     "Description": "Tokyo Gas (Gas Leak Emergency)",
     "Description‡": "東京ガス緊急ダイヤル",
     "Number": "03-6735-8899",
+    "Number‡": null,
     "Hours": "24x7, 365d",
-    "Toll Free Call?": false,
+    "Hours‡": null,
     "URL": "http://www.tokyo-gas.co.jp/en/index.html",
-    "URL‡": "http://www.tokyo-gas.co.jp/"
+    "URL‡": "http://www.tokyo-gas.co.jp/",
+    "Toll Free Call?": false
   },
   {
     "@row.id": 17,
@@ -181,10 +213,12 @@
     "Description": "Tokyo Bureau of Waterworks Customer Service (Water Leak Emergency)",
     "Description‡": "東京水道局お客さまセンター",
     "Number": "03-5326-1101",
+    "Number‡": null,
     "Hours": "24x7, 365d",
-    "Toll Free Call?": false,
+    "Hours‡": null,
     "URL": "https://www.waterworks.metro.tokyo.jp/eng/",
-    "URL‡": "https://www.waterworks.metro.tokyo.jp"
+    "URL‡": "https://www.waterworks.metro.tokyo.jp",
+    "Toll Free Call?": false
   },
   {
     "@row.id": 18,
@@ -192,10 +226,12 @@
     "Description": "Tokyo Multilingual Call Center",
     "Description‡": "東京都多言語コールセンター",
     "Number": "0120-805-261",
+    "Number‡": null,
     "Hours": "24x7, 365d",
-    "Toll Free Call?": true,
+    "Hours‡": null,
     "URL": "http://call.tokyo.jp/en/",
-    "URL‡": "http://call.tokyo.jp/jp/"
+    "URL‡": "http://call.tokyo.jp/jp/",
+    "Toll Free Call?": true
   },
   {
     "@row.id": 19,
@@ -203,10 +239,12 @@
     "Description": "Japan Helpline",
     "Description‡": "ジャパンヘルプライン",
     "Number": "0570-000-911",
+    "Number‡": null,
     "Hours": "24x7, 365d",
-    "Toll Free Call?": true,
+    "Hours‡": null,
     "URL": "https://www.jhelp.com/en/jhlp.html",
-    "URL‡": "https://www.jhelp.com/"
+    "URL‡": "https://www.jhelp.com/",
+    "Toll Free Call?": true
   },
   {
     "@row.id": 20,
@@ -214,10 +252,12 @@
     "Description": "Tokyo English Life Line (TELL) Counseling",
     "Description‡": "東京 インフリッシュ ライフライン カウンセリング",
     "Number": "03-5774-0992",
+    "Number‡": null,
     "Hours": "9:00-23:00, 365d",
-    "Toll Free Call?": false,
+    "Hours‡": null,
     "URL": "https://telljp.com/",
-    "URL‡": null
+    "URL‡": null,
+    "Toll Free Call?": false
   },
   {
     "@row.id": 21,
@@ -225,10 +265,12 @@
     "Description": "InterFM 76.1 MHz Radio Multi-language Disaster Information",
     "Description‡": "InterFM 76.1 MHz 多国語災害情報放送",
     "Number": null,
+    "Number‡": null,
     "Hours": null,
-    "Toll Free Call?": false,
+    "Hours‡": null,
     "URL": null,
-    "URL‡": "https://www.interfm.co.jp/"
+    "URL‡": "https://www.interfm.co.jp/",
+    "Toll Free Call?": false
   },
   {
     "@row.id": 22,
@@ -236,10 +278,12 @@
     "Description": "JR-EAST customer center (Lost and Found)",
     "Description‡": "JR東日本お忘れ物お問い合わせ",
     "Number": "050-2016-1603",
+    "Number‡": null,
     "Hours": "10:00-18:00, Daily Except New Year’s holidays",
-    "Toll Free Call?": false,
+    "Hours‡": null,
     "URL": "http://www.jreast.co.jp/e/customer_support/",
-    "URL‡": "https://www.jreast.co.jp/sp/info/wasuremono.html"
+    "URL‡": "https://www.jreast.co.jp/sp/info/wasuremono.html",
+    "Toll Free Call?": false
   },
   {
     "@row.id": 23,
@@ -247,10 +291,12 @@
     "Description": "Tokyo Metro Lost & Found Center",
     "Description‡": "東京メトロお忘れ物お問い合わせ",
     "Number": "03-5227-5741",
+    "Number‡": null,
     "Hours": "9:00-20:00, Daily",
-    "Toll Free Call?": false,
+    "Hours‡": null,
     "URL": "https://www.tokyometro.jp/en/faq_lost/index.html",
-    "URL‡": "https://www.tokyometro.jp/support/lost/index.html"
+    "URL‡": "https://www.tokyometro.jp/support/lost/index.html",
+    "Toll Free Call?": false
   },
   {
     "@row.id": 24,
@@ -258,10 +304,12 @@
     "Description": "Toei Transportation Customer Center (Lost and Found)",
     "Description‡": "都営交通お客様センター、お忘れ物お問い合わせ",
     "Number": "03-3816-5700",
+    "Number‡": null,
     "Hours": "9:00-20:00, Daily",
-    "Toll Free Call?": false,
+    "Hours‡": null,
     "URL": "https://www.kotsu.metro.tokyo.jp/eng/tips/found.html",
-    "URL‡": "https://www.kotsu.metro.tokyo.jp/enq/wasuremono/"
+    "URL‡": "https://www.kotsu.metro.tokyo.jp/enq/wasuremono/",
+    "Toll Free Call?": false
   },
   {
     "@row.id": 25,
@@ -269,10 +317,12 @@
     "Description": "Haneda Airport (Lost and Found)",
     "Description‡": "羽田空港、お忘れ物センター",
     "Number": "03-5757-8107",
+    "Number‡": null,
     "Hours": "9:00-20:00, Daily",
-    "Toll Free Call?": false,
+    "Hours‡": null,
     "URL": "https://www.tokyo-airport-bldg.co.jp/en/service_facilities/information_desk/lost_and_found.html",
-    "URL‡": "https://www.tokyo-airport-bldg.co.jp/service_facilities/information_desk/lost_and_found.html"
+    "URL‡": "https://www.tokyo-airport-bldg.co.jp/service_facilities/information_desk/lost_and_found.html",
+    "Toll Free Call?": false
   },
   {
     "@row.id": 26,
@@ -280,10 +330,12 @@
     "Description": "Narita Airport (Lost and Found)",
     "Description‡": "成田空港、お忘れ物センター",
     "Number": "0476-34-8000",
+    "Number‡": null,
     "Hours": "9:00-23:00, 365d",
-    "Toll Free Call?": false,
+    "Hours‡": null,
     "URL": "https://www.narita-airport.jp/en/faq_ask#contact01",
-    "URL‡": "https://www.narita-airport.jp/jp/faq_ask"
+    "URL‡": "https://www.narita-airport.jp/jp/faq_ask",
+    "Toll Free Call?": false
   },
   {
     "@row.id": 27,
@@ -291,9 +343,11 @@
     "Description": "Tokyo Metropolitan Police (Lost and Found)",
     "Description‡": "東京警視庁 落とし物検索",
     "Number": "03-3814-4151",
+    "Number‡": null,
     "Hours": "9:00-23:00, 365d",
-    "Toll Free Call?": false,
+    "Hours‡": null,
     "URL": "http://www.keishicho.metro.tokyo.jp/multilingual/english/finding_services/lost_and_found/lost_found.html",
-    "URL‡": "http://www.keishicho.metro.tokyo.jp/sodan/otoshimono/kensaku.html"
+    "URL‡": "http://www.keishicho.metro.tokyo.jp/sodan/otoshimono/kensaku.html",
+    "Toll Free Call?": false
   }
 ]
