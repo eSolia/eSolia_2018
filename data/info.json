@@ -1,5 +1,10 @@
 [
   {
+    "@row.id": 930,
+    "Date": "2018-Jun-13",
+    "Description": "Japan Visitors: if you're in Osaka, the \"[otaue rice-planting festival](http://www.sumiyoshitaisha.net/en/rituals.html)\" is being held at Sumiyoshi Taisha Shrine on 14th June 2018 from 13:00. A must-see!"
+  },
+  {
     "@row.id": 931,
     "Date": "2018-Jun-12",
     "Description": "㊗️CircleCI has [launched in Japan](https://circleci.com/blog/announcing-circleci-japan/). Congratulations to Jim Rose CEO and the Japan team. In fact, CircleCI is one of the tools we use to build this very site. "
