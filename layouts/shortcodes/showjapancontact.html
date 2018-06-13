@@ -13,13 +13,13 @@
     {{ range $.Site.Data.japancontact }}
     <tr>
       <td>
-        {{ .Description }}
+        {{ with (index . "Description") }}{{ . | markdownify}}{{ end }}
       </td>
       <td>
-        {{ .Number }}
+        {{ with (index . "Number") }}{{ . | markdownify }}{{ end }}
       </td>
       <td>
-        {{ .Hours }}
+        {{ with (index . "Hours") }}{{ . | markdownify }}{{ end }}
       </td>
       <td class="has-text-esolia-blue-0">
         {{ with (index . "Toll Free Call?") }}{{ replace . "true" "✓" | safeHTML }}{{ end }}
@@ -48,13 +48,13 @@
     {{ range $.Site.Data.japancontact }}
     <tr>
       <td>
-        {{ with (index . "Description‡") }}{{ . }}{{ end }}
+        {{ with (index . "Description‡") }}{{ . | markdownify}}{{ end }}
       </td>
       <td>
-        {{ .Number }}
+        {{ with (index . "Number‡") }}{{ . | markdownify }}{{ end }}
       </td>
       <td>
-        {{ .Hours }}
+        {{ with (index . "Hours‡") }}{{ . | markdownify }}{{ end }}
       </td>
       <td class="has-text-esolia-blue-0">
         {{ with (index . "Toll Free Call?") }}{{ replace . "true" "✓" }}{{ end }}
