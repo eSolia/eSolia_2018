@@ -4,6 +4,7 @@
     <tr>
       <th>Service</th>
       <th>Number</th>
+      <th>Number Notes</th>
       <th>Hours of Operation</th>
       <th>Toll Free?</th>
       <th>Link</th>
@@ -16,8 +17,11 @@
         {{ with (index . "Description") }}{{ . | markdownify}}{{ end }}
       </td>
       <td>
-        {{ with (index . "Number") }}{{ . | markdownify }}{{ end }}
+        {{ with (index . "Number") }}{{ . }}{{ end }}
       </td>
+      <td>
+        {{ with (index . "Number Notes") }}{{ . | markdownify }}{{ end }}
+      </td>      
       <td>
         {{ with (index . "Hours") }}{{ . | markdownify }}{{ end }}
       </td>
@@ -39,6 +43,7 @@
     <tr>
       <th>サービス</th>
       <th>番号</th>
+      <th>備考</th>
       <th>営業時間</th>
       <th>通話料無料</th>
       <th>リンク</th>
@@ -51,7 +56,10 @@
         {{ with (index . "Description‡") }}{{ . | markdownify}}{{ end }}
       </td>
       <td>
-        {{ with (index . "Number‡") }}{{ . | markdownify }}{{ end }}
+        {{ with (index . "Number‡") }}{{ . }}{{ end }}
+      </td>
+      <td>
+        {{ with (index . "Number Notes‡") }}{{ . | markdownify }}{{ end }}
       </td>
       <td>
         {{ with (index . "Hours‡") }}{{ . | markdownify }}{{ end }}
