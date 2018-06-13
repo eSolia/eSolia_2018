@@ -6,8 +6,8 @@ publishdate: 2018-06-11T17:45:21+09:00
 description: eSolia Japan Contact Numbers - in convenient list format.
 draft: false
 slug: japan-contacts
-title: eSolia Japan Contact Numbers
-subtitle: Important Emergency Numbers to Note For Visitors and Expats
+title: Japan Emergency Contact Numbers
+subtitle: Important Emergency Numbers and Info for Visitors & Expats
 weight: 55
 layout: about
 alternatelocales:
@@ -43,7 +43,7 @@ menu:
     Url: /japan-contacts
 ---
 
-The following is a list of emergency and other useful numbers and information for visitors and residents of Japan. A few things to note: 
+Print and save this list of important emergency and other useful numbers and information, for Japan visitors and residents. Share it with your friends! A few things to note: 
 
 * In the case of a disaster such as an earthquake, people proceed to designated disaster areas. Check with your friends, colleagues or the hotel regarding where you should go, and go with the flow. 
 * The "NHK World TV" app on iOS and Android can receive alerts from the "[J-ALERT](https://en.wikipedia.org/wiki/J-Alert)" emergency broadcast system. eSolia recommends visitors and residents to install this app from your app store, and in its notification settings, set it to receive quake, tsunami and/or breaking news alerts. 
