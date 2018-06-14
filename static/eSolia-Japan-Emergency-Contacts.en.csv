@@ -1,0 +1,37 @@
+﻿Description,Number,Number Notes,Hours,URL,Toll Free Call?,Date Modified
+"Emergency Call for Fire, Ambulance or Emergency Rescue",119,,"24x7, 365d",http://www.tfd.metro.tokyo.jp/eng/,True,2018-06-14 15:15:01
+Emergency Advisory Service for non-Emergency,#7119,,"24x7, 365d",,False,2018-06-14 16:54:43
+Emergency Call to Police,110,,"24x7, 365d",http://www.keishicho.metro.tokyo.jp/multilingual/english/index.html,True,2018-06-13 20:21:36
+Police Advisory Service for non-Emergency,#9110,,"24x7, 365d",http://www.keishicho.metro.tokyo.jp/multilingual/english/index.html,False,2018-06-13 20:21:36
+Emergency Call to Coast Guard,118,,"24x7, 365d",http://www.kaiho.mlit.go.jp/,True,2018-06-13 20:21:37
+Police Consultation in English,03-3503-8484,,"8:30-17:15, Mon-Fri",,False,2018-06-14 15:15:53
+Disaster Voice Message,171,"Testing 
+
+* 1st and 15th of each month; 0:00-24:00
+* New years: Jan. 1st 0:00 - Jan. 3rd 24:00
+* Disaster prevention week: Aug. 30th 9:00 to Sept. 5th 17:00
+* Disaster Prevention and Volunteer Week: Jan. 15th 9:00 - Jan. 21st 17:00",Available during disasters. Testing on 1st and 15th.,https://www.web171.jp/,True,2018-06-14 15:38:31
+"Japan Meteorological Disaster Alerts ""J-ALERT""",,,,https://www.jma.go.jp/jma/indexe.html,False,2018-06-11 14:48:18
+NHK World TV App for Smart Phones (Enable Alerts in Settings),,,,https://apple.co/2EmIeUD,False,2018-06-11 14:48:18
+Road Problem Reporting,#9910,,"24x7, 365d",,True,2018-06-14 16:53:53
+Road Service (JAF),#8139,,"24x7, 365d",http://www.jaf.or.jp/e/road_s_info.htm,False,2018-06-13 20:21:37
+Directory Assistance,104,,"24x7, 365d",https://www.ntt-east.co.jp/en/product/option_104.html,False,2018-06-13 20:21:38
+Time Announcement Service,117,,"24x7, 365d",https://www.ntt-east.co.jp/en/contact/,False,2018-06-13 20:21:38
+Weather Announcement Service,177,,"24x7, 365d",https://www.ntt-east.co.jp/en/contact/,False,2018-06-14 15:40:12
+Tokyo Electric Power Co. (TEPCO),0120-995-002,"0120-995-002: Tokyo Customer Center (1st Area Only) Inquiries related to power failures and electricity charges. 
+Check website for other areas' phone numbers.","9:00-17:00, Except Holidays",http://www.tepco.co.jp/en/customer/support/tokyo-e.html,True,2018-06-14 16:42:13
+Tokyo Gas (Gas Leak Emergency),03-6735-8899,,"24x7, 365d",http://www.tokyo-gas.co.jp/en/emergencies/smell.html,False,2018-06-14 15:51:55
+Tokyo Bureau of Waterworks Customer Service (Water Leak Emergency),03-5326-1101,"03-5326-1100: Change of Address or Contract
+03-5326-1101:  About Water Charges, Repairing Leaks, Other Inquiries ","24x7, 365d",https://www.waterworks.metro.tokyo.jp/eng/charge/madoguchi/center_23.html,False,2018-06-14 17:01:59
+Tokyo Multilingual Call Center,0120-805-261,"0120-805262（Chinese）
+0120-805263（Korean）","24x7, 365d",http://call.tokyo.jp/en/,True,2018-06-14 16:05:54
+Japan Helpline,0570-000-911,,"24x7, 365d",https://www.jhelp.com/en/jhlp.html,True,2018-06-13 20:21:38
+Tokyo English Life Line (TELL) Counseling,03-5774-0992,,"9:00-23:00, 365d",https://telljp.com/,False,2018-06-13 20:21:38
+InterFM 76.1 MHz Radio Multi-language Disaster Information,,,,,False,2018-06-11 14:48:19
+JR-EAST customer center (Lost and Found),050-2016-1603," (for Foreigners)
+Phone call service provided by English, Chinese, and Korean.","10:00-18:00, Daily Except New Year’s holidays",http://www.jreast.co.jp/e/customer_support/,False,2018-06-14 16:09:42
+Tokyo Metro Lost & Found Center,03-5227-5741,At Iidabashi Station (Namboku Line),"9:00-20:00, Daily",https://www.tokyometro.jp/en/faq_lost/index.html,False,2018-06-14 16:26:19
+Toei Transportation Customer Center (Lost and Found),03-3816-5700,,"9:00-20:00, Daily",https://www.kotsu.metro.tokyo.jp/eng/tips/found.html,False,2018-06-13 20:21:38
+Haneda Airport (Lost and Found),03-5757-8107,"Fax: 03-5757-8219, 24x7, 365d, answer will be made only during normal business hours.","9:00-20:00, Daily",https://www.tokyo-airport-bldg.co.jp/en/service_facilities/information_desk/lost_and_found.html,False,2018-06-14 16:43:34
+Narita Airport (Lost and Found),0476-34-8000,"If you know where you lost the article, please check website for detailed info.","24x7, 365d",https://www.narita-airport.jp/en/faq_ask#contact01,False,2018-06-14 16:33:47
+Tokyo Metropolitan Police (Lost and Found),03-3814-4151,,"8:30-17:15, Mon-Fri",http://www.keishicho.metro.tokyo.jp/multilingual/english/finding_services/lost_and_found/lost_found.html,False,2018-06-14 16:39:00

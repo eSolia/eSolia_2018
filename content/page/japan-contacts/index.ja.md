@@ -47,4 +47,6 @@ menu:
   1. 110番や119番をダイヤルする
 * 各会社の使用しているビジネスフォンシステムの種類にはよっては、110番や119番などの番号には時々繋がらないことがありますので、事前にご自身の会社の電話システムについて確認しておきましょう。
 
+<a class="button is-esolia-blue-1" href="/eSolia-Japan-Emergency-Contacts.ja.csv">CSV形式でダウンロード</a>
+
 {{< showjapancontact >}}

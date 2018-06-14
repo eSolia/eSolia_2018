@@ -54,5 +54,7 @@ Print and save this list of important emergency and other useful numbers and inf
 * Some office phones cannot dial emergency numbers like 110 or 119, especially modern "IP Phone" systems. If you're in an office, ask your colleagues. 
 * Japan has a famous system of "koban" police boxes across Japan. You can ask for directions or get help in emergencies. 
 
+<a class="button is-esolia-blue-1" href="/eSolia-Japan-Emergency-Contacts.en.csv">Download in CSV Format</a>
+
 {{< showjapancontact >}}
 
