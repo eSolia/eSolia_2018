@@ -1,21 +1,22 @@
 ---
 author: イソリア
-date: 2018-05-26T12:20:27+09:00
-publishdate: 2018-05-26T12:20:27+09:00
+date: 2018-06-14T11:26:10+09:00
+publishdate: 2018-06-14T11:26:10+09:00
 description: イソリアの会社案内 - ビジョン、会社概要、主なビジネス、住所やアクセス地図、その他一般情報。
 draft: false
 slug: about
-subtitle: 会社案内
+subtitle: 弊社のビジョン、概要、主なビジネス、住所やアクセス地図、その他の情報
 weight: 10
 layout: about
 alternatelocales:
   - en-US
 tags:
   - 会社案内
-  - 会社概要
+  - 姿勢
+  - 祭日
   - 地図
-  - アクセス
-title: イソリアについて
+  - アクセス方法
+title: イソリア 会社概要
 topics:
   - イソリア
   - eSolia

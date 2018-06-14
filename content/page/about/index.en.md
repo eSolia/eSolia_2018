@@ -1,7 +1,7 @@
 ---
 author: eSolia
-date: 2018-05-26T12:20:27+09:00
-publishdate: 2018-05-26T12:20:27+09:00
+date: 2018-06-14T11:26:10+09:00
+publishdate: 2018-06-14T11:26:10+09:00
 description: About eSolia - vision, general information such as HQ address, contact information, map, directors, and lines of business.
 draft: false
 slug: about
@@ -11,11 +11,12 @@ layout: about
 alternatelocales:
   - ja-JP
 tags:
-  - eSolia
-  - Information
+  - Company Basics
+  - General Information
   - Access Map
   - Address
-  - Business Lines
+  - Lines of Business
+  - Holidays
 title: About eSolia Inc.
 topics:
   - eSolia
