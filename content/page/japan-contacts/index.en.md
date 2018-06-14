@@ -58,3 +58,4 @@ Print and save this list of important emergency and other useful numbers and inf
 
 {{< showjapancontact >}}
 
+<a class="button is-esolia-blue-1" href="/eSolia-Japan-Emergency-Contacts.en.csv">Download in CSV Format</a>

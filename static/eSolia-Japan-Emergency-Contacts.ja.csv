@@ -2,18 +2,18 @@
 火事・救助・救急車,119,,24時間（年中無休）,http://www.tfd.metro.tokyo.jp/,True,2018-06-14 15:15:01
 救急相談センター,#7119,"つながらない場合は…
 23区：03-3212-2323
-多摩地区：042-521-2323",24時間（年中無休）,http://www.tfd.metro.tokyo.jp/lfe/kyuu-adv/soudan-center.htm,False,2018-06-14 16:54:43
+多摩地区：042-521-2323",24時間（年中無休）,http://www.tfd.metro.tokyo.jp/lfe/kyuu-adv/soudan-center.htm,False,2018-06-14 18:02:32
 警察署,110,,24時間（年中無休）,http://www.keishicho.metro.tokyo.jp/index.html,True,2018-06-13 20:21:36
 警察相談専用電話,#9110,,24時間（年中無休）,http://www.keishicho.metro.tokyo.jp/index.html,False,2018-06-13 20:21:36
 海上保安庁,118,,24時間（年中無休）,http://www.kaiho.mlit.go.jp/e/english.pdf,True,2018-06-13 20:21:37
-警視庁生活安全相談センター（外国人専用）,03-3503-8484,,8:30-17:15（平日）,,False,2018-06-14 15:15:53
+警視庁生活安全相談センター,03-3503-8484,外国人専用,8:30-17:15（平日）,,False,2018-06-14 17:46:30
 災害伝言ダイヤル,171,"体験利用提供日:
 
 * 毎月1日、15日 0:00-24:00
 * 正月三が日（1月1日00:00～1月3日24:00）
 * 防災週間（8月30日9:00～9月5日17:00）
 * 防災とボランティア週間（1月15日9:00～1月21日17:00
-",災害発生時にサービス提供;体験利用提供日: 毎月1日、15日0:00-24:00,https://www.web171.jp/web171app/disasterTop.do?japanese,True,2018-06-14 15:38:31
+",災害発生時にサービス提供;体験利用提供日: 毎月1日、15日0:00-24:00,https://www.web171.jp/web171app/disasterTop.do?japanese,True,2018-06-14 17:44:39
 "気象庁災害情報 ""J-ALERT""",,,,https://www.jma.go.jp/jma/index.html,False,2018-06-11 14:48:18
 スマホ用アプリ NHK World TV (設定で警報を有効に),,,,https://apple.co/2EmIeUD,False,2018-06-11 14:48:18
 道路緊急ダイヤル,#9910,,24時間（年中無休）,https://www.mlit.go.jp/road/dia/,True,2018-06-14 16:53:53
@@ -21,22 +21,24 @@
 電話番号案内,104,,24時間（年中無休）,https://web116.jp/phone/numguide/,False,2018-06-13 20:21:38
 時刻のお知らせ,117,,24時間（年中無休）,https://web116.jp/phone/telephone/,False,2018-06-13 20:21:38
 天気予報,177,,24時間（年中無休）,https://web116.jp/phone/telephone/,False,2018-06-14 15:40:12
-東京電力,0120-995-002,"0120-995-002: サービス区域（東京第一）その他の電気に関するご用件。
-その他サービス区域はウェブサイトからご確認ください。",9:00-17:00 （日曜・祝日を除く）,http://www.tepco.co.jp/ep/support/customercenter/customer_tokyo.html,True,2018-06-14 16:42:13
-東京ガス ガス漏れ通報専用電話,03-6735-8899,,24時間（年中無休）,http://home.tokyo-gas.co.jp/gas/userguide/anzen/emergency/kusai.html,False,2018-06-14 15:51:55
-東京水道局お客さまセンター,03-5326-1101,"03-5326-1100: お引っ越し、ご契約の変更
-03-5326-1101: 料金、漏水修繕、その他のご用件",24時間（年中無休）,https://www.waterworks.metro.tokyo.jp/tetsuduki/madoguchi/center_23.html#english,False,2018-06-14 17:01:59
-東京都多言語コールセンター,0120-805-261,"0120-805-261 (英語）
+東京電力 TEPCO,0120-995-002,0120-995-002: サービス区域（東京第一）その他の電気に関するご用件。その他サービス区域はウェブサイトからご確認ください。,9:00-17:00 （日曜・祝日を除く）,http://www.tepco.co.jp/ep/support/customercenter/customer_tokyo.html,True,2018-06-14 17:59:11
+東京ガス ガス漏れ通報専用電話,03-6735-8899,,24時間（年中無休）,http://home.tokyo-gas.co.jp/gas/userguide/anzen/emergency/kusai.html,False,2018-06-14 17:47:27
+東京水道局お客さまセンター,03-5326-1101,"料金、漏水修繕、その他のご用件。  
+お引っ越し、ご契約の変更は 03-5326-1100 までどうぞ。
+",24時間（年中無休）,https://www.waterworks.metro.tokyo.jp/tetsuduki/madoguchi/center_23.html#english,False,2018-06-14 18:05:48
+東京都多言語コールセンター,0120-805-261,"_2018年から新サービス_  
+  
+0120-805-261 (英語）
 0120-805262（中国語）
 0120-805263（韓国語）
-",24時間（年中無休）,http://call.tokyo.jp/jp/,True,2018-06-14 16:05:54
+",24時間（年中無休）,http://call.tokyo.jp/jp/,True,2018-06-14 17:48:56
 ジャパンヘルプライン,0570-000-911,,24時間（年中無休）,https://www.jhelp.com/,True,2018-06-13 20:21:38
 TELL 東京英語いのちの電話相談用,03-5774-0992,,9:00-23:00 （年中無休）,,False,2018-06-13 20:21:38
 InterFM 76.1 MHz 多国語災害情報放送,,,,https://www.interfm.co.jp/,False,2018-06-11 14:48:19
-JR東日本お忘れ物お問い合わせ,050-2016-1601,050-2016-1600: 列車時刻、運賃・料金、空席情報案内,6:00-24:00,https://www.jreast.co.jp/sp/info/wasuremono.html,False,2018-06-14 16:09:42
-東京メトロお忘れ物総合取扱所,03-5227-5741,東京メトロ南北線飯田橋駅構内,9:00-20:00（年中無休）,https://www.tokyometro.jp/support/lost/index.html,False,2018-06-14 16:26:19
+JR東日本お忘れ物お問い合わせ,050-2016-1601,列車時刻、運賃・料金、空席情報案内は 050-2016-1600,6:00-24:00,https://www.jreast.co.jp/sp/info/wasuremono.html,False,2018-06-14 17:51:28
+東京メトロお忘れ物総合取扱所,03-5227-5741,東京メトロ南北線飯田橋駅構内,9:00-20:00（年中無休）,https://www.tokyometro.jp/support/lost/index.html,False,2018-06-14 17:53:30
 都営交通お客様センター、お忘れ物お問い合わせ,03-3816-5700,,9:00-20:00（年中無休）,https://www.kotsu.metro.tokyo.jp/enq/wasuremono/,False,2018-06-13 20:21:38
-羽田空港、お忘れ物センター,03-5757-8107,FAX:03-5757-8219、24時間受付、回答は営業時間内。,9:00-20:00（年中無休）,https://www.tokyo-airport-bldg.co.jp/service_facilities/information_desk/lost_and_found.html,False,2018-06-14 16:43:34
+羽田空港、お忘れ物センター,03-5757-8107,FAX: 03-5757-8219、24時間受付、回答は営業時間内。,9:00-20:00（年中無休）,https://www.tokyo-airport-bldg.co.jp/service_facilities/information_desk/lost_and_found.html,False,2018-06-14 18:00:55
 成田空港、お忘れ物センター,0476-34-8000,"落とした場所が特定できる場合はウェブサイトより各場所の連絡先をご確認ください。
-",24時間（年中無休）,https://www.narita-airport.jp/jp/faq_ask,False,2018-06-14 16:33:47
+",24時間（年中無休）,https://www.narita-airport.jp/jp/faq_ask,False,2018-06-14 17:56:12
 東京警視庁遺失物センター,03-3814-4151,,8:30-17:15 (平日）,http://www.keishicho.metro.tokyo.jp/sodan/otoshimono/kensaku.html,False,2018-06-14 16:39:00

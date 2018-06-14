@@ -50,3 +50,5 @@ menu:
 <a class="button is-esolia-blue-1" href="/eSolia-Japan-Emergency-Contacts.ja.csv">CSV形式でダウンロード</a>
 
 {{< showjapancontact >}}
+
+<a class="button is-esolia-blue-1" href="/eSolia-Japan-Emergency-Contacts.ja.csv">CSV形式でダウンロード</a>
