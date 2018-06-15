@@ -6,6 +6,7 @@ MetaDataFormat = "yaml"
 enableMissingTranslationPlaceholders = "true"
 ISO8601 = "2006-01-02T15:04:05JST"
 enableRobotsTXT = "true"
+theme = ["hugo-atom-feed"]
 
 [author]
     name = "Rick Cogley"
