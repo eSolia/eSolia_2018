@@ -1,12 +1,12 @@
 ---
 author: イソリア
-date: 2015-05-09T00:05:19.000Z
-publishdate: 2012-01-10T00:05:19.000Z
-description: イソリア - お問い合わせフォーム
+date: 2018-06-15T10:15:29+09:00
+publishdate: 2018-06-15T10:15:29+09:00
+description: イソリア - 弊社サービスやソリューションについてお問い合わせするなら、このページのフォームからどうぞ
 draft: false
 slug: info-request
 inforequest: true
-subtitle: イソリアのサービスやソリューションについて
+subtitle: 弊社サービスやソリューションについてお問い合わせするなら、このページから！
 weight: 10
 warning: sales
 layout: about
@@ -15,7 +15,7 @@ alternatelocales:
 tags:
   - お問い合わせ
   - 連絡先
-title: お問い合わせ
+title: イソリア お問い合わせ
 topics:
   - イソリア
   - eSolia

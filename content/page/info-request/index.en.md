@@ -1,21 +1,23 @@
 ---
 author: eSolia
-date: 2018-05-06T07:07:27+09:00
-publishdate: 2018-05-06T07:07:27+09:00
-description: eSolia Information Request - form for prospective clients to request more information.
+date: 2018-06-15T10:15:29+09:00
+publishdate: 2018-06-15T10:15:29+09:00
+description: eSolia Information Request - prospective clients can request more information about us on this page.
 draft: false
 slug: info-request
 inforequest: true
-subtitle: About eSolia Services and Solutions
+subtitle: Use the form below to enquire about our Services and Solutions
 weight: 10
 warning: sales
 layout: about
 alternatelocales:
   - ja-JP
 tags:
-  - Information Request
+  - Information Request Form
+  - Online Enquiry Form
   - Enquiries
-title: Request Information
+  - Inquiries
+title: Request Information from eSolia
 topics:
   - eSolia
 images:
