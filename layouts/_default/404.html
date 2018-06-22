@@ -19,8 +19,6 @@
           {{ end }}
           </ul>
        {{ end }}
-
-
         <p class="menu-label has-text-info">Tags</p>
        <div class="tags has-margin-l">
        {{ range .Params.tags }}
@@ -29,15 +27,12 @@
        </div>
        <br><br>
     </aside>
-
   </div>
   <div class="column is-main-content">
       <div class="box content is-size-5-desktop is-size-6-mobile has-margin-m has-padding-t-xxs">
-        <p class="title is-5"><h1>{{ .Title }}</h1></p>
+        <h1 class="title has-margin-t-l has-margin-b-m">{{ .Title }}</h1>
         <p class="subtitle is-italic has-text-esolia-blue-2">{{ .Params.subtitle }}</p>
         {{ .Content }}
-
-
       <div class="columns">
         <div class="column">
           <h2>{{ i18n "tags" }}</h2>
@@ -66,11 +61,6 @@
           </ul>
         </div>
       </div>
-
-
-
-
-
         {{ if isset .Params "formcheckboxes" }}
           {{- partial "form-moreinfo.html" . -}}
         {{ end }}
