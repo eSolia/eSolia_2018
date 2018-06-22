@@ -1,8 +1,8 @@
 ---
 author: eSolia
 authorlink: /about
-date: 2018-06-11T17:45:21+09:00
-publishdate: 2018-06-11T17:45:21+09:00
+date: 2018-06-22T10:12:16+09:00
+publishdate: 2018-06-22T10:12:16+09:00
 description: eSolia Japan Contact Numbers - in convenient list format.
 draft: false
 slug: japan-contacts
@@ -47,6 +47,7 @@ Print and save this list of important emergency and other useful numbers and inf
 
 * In the case of a disaster such as an earthquake, people proceed to designated disaster areas. Check with your friends, colleagues or the hotel regarding where you should go, and go with the flow. 
 * The "NHK World TV" app on iOS and Android can receive alerts from the "[J-ALERT](https://en.wikipedia.org/wiki/J-Alert)" emergency broadcast system. eSolia recommends visitors and residents to install this app from your app store, and in its notification settings, set it to receive quake, tsunami and/or breaking news alerts. 
+* Japan visitors can benefit from a free iOS app, "JAPAN Hospital Guide", that shows locations of multilingual hospitals or clinics on a GPS map. 
 * Public phones, although a bit anachronistic as of today, can connect you with emergency services for free. Steps: 
   1. Pick up the receiver
   1. (On a Green Phone only, press the red button near the base of the phone. Grey phones don't have this button.)

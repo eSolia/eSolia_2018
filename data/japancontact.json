@@ -135,6 +135,21 @@
     "Toll Free Call?": false
   },
   {
+    "@row.id": 28,
+    "Id": "28",
+    "Description": "JAPAN Hospital Guide App with GPS Map, for iOS",
+    "Description‡": "JAPAN Hospital Guide 多言語GPS連動病院検索、iOSアプリ",
+    "Number": null,
+    "Number‡": null,
+    "Number Notes": null,
+    "Number Notes‡": null,
+    "Hours": null,
+    "Hours‡": null,
+    "URL": "https://itunes.apple.com/us/app/japan-hospital-guide/id1296151839?mt=8",
+    "URL‡": "https://itunes.apple.com/us/app/japan-hospital-guide/id1296151839?mt=8",
+    "Toll Free Call?": false
+  },
+  {
     "@row.id": 10,
     "Id": "10",
     "Description": "Road Problem Reporting",
