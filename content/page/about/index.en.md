@@ -71,36 +71,35 @@ Acting with the highest standards of ethics, professionalism and integrity, eSol
 
 ### General
 
-* * *  
-
-<div class="row">
-  <div class="col s12 m4"><strong>HEADQUARTERS</strong></div>
-  <div class="col s12 m8">Sawa Building 6F, Nishi-Shimbashi 2-2-2,<br>
+<table class="table is-striped is-hoverable is-fullwidth is-bordered is-size-7-mobile is-size-6-tablet is-size-5-desktop">
+  <tbody>
+    <tr>
+      <th class="has-text-right is-uppercase">Headquarters</th>
+      <td>Sawa Building 6F, Nishi-Shimbashi 2-2-2,<br>
     Minato-ku, Tokyo 105-0003 Japan<br>
-    <em>TEL</em>: <a href="tel:+81-3-6273-3510">+81-3-6273-3510</a> | <em>FAX</em>: +81-3-3593-3511<br>
-    <hr>
-  </div>
-  <div class="col s12 m4"><strong>CONTACT</strong></div>
-  <div class="col s12 m8">Request <a href="/info-request">Information about our Services</a>, or email to <a href="mailto:info@esolia.co.jp">info@esolia.co.jp</a>.
-    <hr>
-  </div>
-  <div class="col s12 m4"><strong>DIRECTORS</strong></div>
-  <div class="col s12 m8">James R. Cogley, RD and CEO<br>
-    Takumi Fukuoka, RD and COO<br>
-    <hr>
-  </div>
-  <div class="col s12 m4"><strong>ESTABLISHED</strong></div>
-  <div class="col s12 m8">7 July 1999
-    <hr>
-  </div>
-  <div class="col s12 m4"><strong>WEB PROPERTIES</strong></div>
-  <div class="col s12 m8"><em>English</em>: <a href="http://esolia.com">esolia.com</a><br>
-    <em>Japanese</em>: <a href="http://esolia.co.jp">esolia.co.jp</a><br>
-  </div>
-</div>
+    <em>TEL:</em> <a href="tel:+81-3-6273-3510">+81-3-6273-3510</a> | <em>FAX:</em> +81-3-3593-3511</td>
+    </tr>
+    <tr>
+      <th class="has-text-right is-uppercase">Contact</th>
+      <td>Request <a href="/info-request">Information about our Services</a>, or email to <a href="mailto:info@esolia.co.jp">info@esolia.co.jp</a>.</td>
+    </tr>
+    <tr>
+      <th class="has-text-right is-uppercase">Directors</th>
+      <td>James R. Cogley, RD and CEO<br>
+    Takumi Fukuoka, RD and COO</td>
+    </tr>
+    <tr>
+      <th class="has-text-right is-uppercase">Established</th>
+      <td>7 July 1999</td>
+    </tr>
+    <tr>
+      <th class="has-text-right is-uppercase">Web Properties</th>
+      <td><em>English:</em> <a href="https://esolia.com">esolia.com</a><br>
+    <em>Japanese:</em> <a href="https://esolia.co.jp">esolia.co.jp</a></td>
+    </tr>
+  </tbody>
+</table>
   
-* * *
-
 ### Lines of Business
   
 * Bilingual IT Consulting and Solutions

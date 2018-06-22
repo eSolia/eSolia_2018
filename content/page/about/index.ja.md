@@ -69,41 +69,35 @@ menu:
 
 ### 会社概要
 
-* * *
-
-<div class="row">
-  <div class="col s12 m4"><strong>所在地（本社）</strong></div>
-  <div class="col s12 m8">〒105-0003<br>
-    東京都港区西新橋2-2-2 澤ビル6階<br>
-    <em>TEL（代表）</em>: <a href="tel:+81-3-6273-3510">+81-3-6273-3510</a><br>
-    <em>FAX</em>: +81-3-3593-3511<br>
-    <hr>
-  </div>
-  <div class="col s12 m4"><strong>お問い合わせ</strong></div>
-  <div class="col s12 m8">弊社サービスに関する<a href="/info-request">お問合せフォーム</a>又は<a href="mailto:info@esolia.co.jp">info@esolia.co.jp</a>までどうぞ。
-    <hr>
-  </div>
-  <div class="col s12 m4"><strong>役員</strong></div>
-  <div class="col s12 m8">代表取締役社長 　ジェームズ R. コグレー<br>
-    代表取締役副社長 　福岡 琢巳<br>
-    <hr>
-  </div>
-  <div class="col s12 m4"><strong>設立</strong></div>
-  <div class="col s12 m8">1999年7月7日
-    <hr>
-   </div>  
-  <div class="col s12 m4"><strong>資本金</strong></div>
-  <div class="col s12 m8">3,000万円
-    <hr>
-    </div>
-  <div class="col s12 m4"><strong>URL</strong></div>
-  <div class="col s12 m8"><em>英語</em>: <a href="http://esolia.com">esolia.com</a><br>
-    <em>日本語</em>: <a href="http://esolia.co.jp">esolia.co.jp</a><br>
-  </div>
-</div>
+<table class="table is-striped is-hoverable is-fullwidth is-bordered is-size-7-mobile is-size-6-tablet is-size-5-desktop">
+  <tbody>
+    <tr>
+      <th class="has-text-right is-uppercase">本社</th>
+      <td>〒105-0003 東京都港区西新橋2-2-2 <br>澤ビル6階<br>
+    <em>TEL(代表):</em> <a href="tel:+81-3-6273-3510">+81-3-6273-3510</a><br>
+    <em>FAX:</em> +81-3-3593-3511</td>
+    </tr>
+    <tr>
+      <th class="has-text-right is-uppercase">お問合せ</th>
+      <td>弊社サービスに関する<a href="/info-request">お問合せフォーム</a>、又は<a href="mailto:info@esolia.co.jp">info@esolia.co.jp</a>までどうぞ。</td>
+    </tr>
+    <tr>
+      <th class="has-text-right is-uppercase">役員</th>
+      <td>代表取締役社長 　ジェームズ R. コグレー<br>
+    代表取締役副社長 　福岡 琢巳</td>
+    </tr>
+    <tr>
+      <th class="has-text-right is-uppercase">設立</th>
+      <td>1999年7月7日</td>
+    </tr>
+    <tr>
+      <th class="has-text-right is-uppercase">URL</th>
+      <td><em>英語:</em> <a href="https://esolia.com">esolia.com</a><br>
+    <em>日本語:</em> <a href="https://esolia.co.jp">esolia.co.jp</a></td>
+    </tr>
+  </tbody>
+</table>
   
-* * *
-
 ### 主なビジネス
 
 * バイリンガルによるITコンサルティングとソリューション
