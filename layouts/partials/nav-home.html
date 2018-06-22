@@ -47,7 +47,7 @@
                 </span>
                 <strong>{{ .Name }}</strong>
                 <br>
-                <span class="has-padding-m">{{ .Post }}</span>
+                <span class="has-padding-m">{{ .Post | safeHTML }}</span>
                 </span>
               </a>
               {{ if ne (add $index 1) $len }}

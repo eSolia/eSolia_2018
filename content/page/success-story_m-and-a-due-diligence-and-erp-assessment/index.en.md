@@ -40,7 +40,7 @@ menu:
     Identifier: successmandaduediligence_en
     Url: /success-story_m-and-a-due-diligence-and-erp-assessment
     Pre: fa-flag-checkered
-    Post: Pre-M&A Due Diligence
+    Post: Pre-M&amp;A Due Diligence
   successes:
     Name: M&A ERP Assess
     Identifier: mandaduediligenceanderp_en¥
