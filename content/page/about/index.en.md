@@ -71,7 +71,8 @@ Acting with the highest standards of ethics, professionalism and integrity, eSol
 
 ### General
 
-* * *
+* * *  
+
 <div class="row">
   <div class="col s12 m4"><strong>HEADQUARTERS</strong></div>
   <div class="col s12 m8">Sawa Building 6F, Nishi-Shimbashi 2-2-2,<br>
@@ -97,6 +98,7 @@ Acting with the highest standards of ethics, professionalism and integrity, eSol
     <em>Japanese</em>: <a href="http://esolia.co.jp">esolia.co.jp</a><br>
   </div>
 </div>
+  
 * * *
 
 ### Lines of Business

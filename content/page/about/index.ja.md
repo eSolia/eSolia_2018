@@ -70,6 +70,7 @@ menu:
 ### 会社概要
 
 * * *
+
 <div class="row">
   <div class="col s12 m4"><strong>所在地（本社）</strong></div>
   <div class="col s12 m8">〒105-0003<br>
@@ -100,6 +101,7 @@ menu:
     <em>日本語</em>: <a href="http://esolia.co.jp">esolia.co.jp</a><br>
   </div>
 </div>
+  
 * * *
 
 ### 主なビジネス
