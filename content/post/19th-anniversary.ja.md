@@ -4,7 +4,7 @@ authorkey: esolia
 date: 2018-07-07T00:00:27+09:00
 publishdate: 2018-07-07T00:00:27+09:00
 description: イソリアより - 創立19周年記念日と新ウェブサイトのお知らせ。
-draft: true
+draft: false
 slug: 19th-anniversary
 layout: post
 subtitle: 創立記念日のご挨拶、お陰様で間もなく20周年！
