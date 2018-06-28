@@ -1,5 +1,10 @@
 [
   {
+    "@row.id": 942,
+    "Date": "2018-Jun-28",
+    "Description": "Japan visitors: June in Japan is firefly season, so there are related night events to see. For example, the Tokyo [Hotel Chinzanso's](https://hotel-chinzanso-tokyo.jp/event/hotaru/) Firefly Fantasy through 4 July for hotel and restaurant customers, is a luxurious one, but there are also camping-style events. Triers can search for \"hotaru\", \"蛍\" and you're sure to find others. "
+  },
+  {
     "@row.id": 945,
     "Date": "2018-Jun-27",
     "Description": "PSA: Japan visitors who booked rooms via Prince Hotels Inc's official foreign-language website should note that [data was stolen](https://www.japantimes.co.jp/news/2018/06/26/business/corporate-business/prince-hotels-hack-results-loss-124000-customers-credit-card-numbers-data/) from the site run by Fastbooking Co., in a [security breach](http://www.princehotels.com/news/notice-of-unauthorized-access-to-or-acquisition-of-prince-hotels-resorts-reservations-system/). eSolia recommends that you take immediate action if your usage matches what is stated in the linked Japan Times article. "
@@ -875,9 +880,44 @@
     "Description": "See our [new tutorial](https://vimeo.com/channels/esoliascreencast) on how to add a URL as an icon to your home screen in iOS."
   },
   {
+    "@row.id": 251,
+    "Date": "2013-Nov-10",
+    "Description": "OS X Mavericks Tip: download the free publication \"Hubble Space Telescope Discoveries\" with beautiful and informative content, in iBooks."
+  },
+  {
+    "@row.id": 250,
+    "Date": "2013-Nov-10",
+    "Description": "OS X Mavericks Tip: select file in Finder then press Space for quick look, and Option-Space for full-screen quick look. Thanks Bryant Fe..."
+  },
+  {
+    "@row.id": 253,
+    "Date": "2013-Nov-09",
+    "Description": "OS X iMessages tip: to screenshare, setup AIM or Google account, then chat via either before connecting. Pure iMessages acct does not work."
+  },
+  {
     "@row.id": 261,
     "Date": "2013-Oct-24",
     "Description": "OS X Mavericks tip - integration b/w calendar and maps is welcome. But Japan address handling poor and inflexible; map data seems old."
+  },
+  {
+    "@row.id": 260,
+    "Date": "2013-Oct-24",
+    "Description": "OS X Mavericks tip: click on the menu bar battery to see which apps are \"using significant energy\"."
+  },
+  {
+    "@row.id": 259,
+    "Date": "2013-Oct-24",
+    "Description": "OS X Mavericks tip: do a Get Info on an app in Finder, and check \"Prevent App Nap\" to avoid having that app go to sleep."
+  },
+  {
+    "@row.id": 258,
+    "Date": "2013-Oct-24",
+    "Description": "OS X Mavericks tip: external display improvements, better full-screen mode &amp; menubar is available on display 2, finally!"
+  },
+  {
+    "@row.id": 257,
+    "Date": "2013-Oct-24",
+    "Description": "OS X Mavericks tip: upgrader beware, if you are a Gmail user. Lots of glitches b/w Mail app and Google Gmail."
   },
   {
     "@row.id": 264,
