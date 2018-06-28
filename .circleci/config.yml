@@ -28,28 +28,28 @@ jobs:
           command: |
             curl -L https://github.com/bep/s3deploy/releases/download/v2.0.2/s3deploy_2.0.2_Linux-64bit.tar.gz | tar xvz
 
-      - run:
-          name: list stuff
-          command: |
-             pwd
-             ls -la $HOME
-             ls -la $HOME/hugo
-             echo $HOME
-             echo $CIRCLE_PROJECT_REPONAME
+      # - run:
+      #     name: list stuff
+      #     command: |
+      #        pwd
+      #        ls -la $HOME
+      #        ls -la $HOME/hugo
+      #        echo $HOME
+      #        echo $CIRCLE_PROJECT_REPONAME
 
       - run:
           name: Refresh data
           command: |
-            rm -rf $HOME/hugo/$CIRCLE_PROJECT_REPONAME/data/success.json
-            rm -rf $HOME/hugo/$CIRCLE_PROJECT_REPONAME/data/info.json
-            rm -rf $HOME/hugo/$CIRCLE_PROJECT_REPONAME/data/japancontact.json
-            rm -rf $HOME/hugo/$CIRCLE_PROJECT_REPONAME/static/eSolia-Japan-Emergency-Contacts.en.csv
-            rm -rf $HOME/hugo/$CIRCLE_PROJECT_REPONAME/static/eSolia-Japan-Emergency-Contacts.ja.csv
-            curl -k "https://pro.dbflex.net/secure/api/v2/$PRODB_DBNUM/$PRODB_TOKEN/Web%20Project/List%20All%20for%20JSON/select.json" | jq '.' > $HOME/hugo/$CIRCLE_PROJECT_REPONAME/data/success.json
-            curl -k "https://pro.dbflex.net/secure/api/v2/$PRODB_DBNUM/$PRODB_TOKEN/Web%20Information/List%20All%20on%20Website/select.json"  | jq '.' > $HOME/hugo/$CIRCLE_PROJECT_REPONAME/data/info.json
-            curl -k "https://pro.dbflex.net/secure/api/v2/$PRODB_DBNUM/$PRODB_TOKEN/Web%20Japan%20Contact/API%20List%20All/select.json" | jq '.' > $HOME/hugo/$CIRCLE_PROJECT_REPONAME/data/japancontact.json
-            curl -k "https://pro.dbflex.net/secure/api/v2/$PRODB_DBNUM/$PRODB_TOKEN/Web%20Japan%20Contact/API%20List%20for%20CSV/select.csv" -o $HOME/hugo/$CIRCLE_PROJECT_REPONAME/static/eSolia-Japan-Emergency-Contacts.en.csv
-            curl -k "https://pro.dbflex.net/secure/api/v2/$PRODB_DBNUM/$PRODB_TOKEN/Web%20Japan%20Contact/API%20List%20for%20CSV%E2%80%A1/select.csv" -o $HOME/hugo/$CIRCLE_PROJECT_REPONAME/static/eSolia-Japan-Emergency-Contacts.ja.csv
+            rm -rf $HOME/hugo/data/success.json
+            rm -rf $HOME/hugo/data/info.json
+            rm -rf $HOME/hugo/data/japancontact.json
+            rm -rf $HOME/hugo/static/eSolia-Japan-Emergency-Contacts.en.csv
+            rm -rf $HOME/hugo/static/eSolia-Japan-Emergency-Contacts.ja.csv
+            curl -k "https://pro.dbflex.net/secure/api/v2/$PRODB_DBNUM/$PRODB_TOKEN/Web%20Project/List%20All%20for%20JSON/select.json" | jq '.' > $HOME/hugo/data/success.json
+            curl -k "https://pro.dbflex.net/secure/api/v2/$PRODB_DBNUM/$PRODB_TOKEN/Web%20Information/List%20All%20on%20Website/select.json"  | jq '.' > $HOME/hugo/data/info.json
+            curl -k "https://pro.dbflex.net/secure/api/v2/$PRODB_DBNUM/$PRODB_TOKEN/Web%20Japan%20Contact/API%20List%20All/select.json" | jq '.' > $HOME/hugo/data/japancontact.json
+            curl -k "https://pro.dbflex.net/secure/api/v2/$PRODB_DBNUM/$PRODB_TOKEN/Web%20Japan%20Contact/API%20List%20for%20CSV/select.csv" -o $HOME/hugo/static/eSolia-Japan-Emergency-Contacts.en.csv
+            curl -k "https://pro.dbflex.net/secure/api/v2/$PRODB_DBNUM/$PRODB_TOKEN/Web%20Japan%20Contact/API%20List%20for%20CSV%E2%80%A1/select.csv" -o $HOME/hugo/static/eSolia-Japan-Emergency-Contacts.ja.csv
 
       # build with Hugo
       - run:
