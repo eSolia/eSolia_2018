@@ -29,6 +29,15 @@ jobs:
             curl -L https://github.com/bep/s3deploy/releases/download/v2.0.2/s3deploy_2.0.2_Linux-64bit.tar.gz | tar xvz
 
       - run:
+          name: list stuff
+          command: |
+             pwd
+             ls -la $HOME
+             ls -la $HOME/hugo
+             echo $HOME
+             echo $CIRCLE_PROJECT_REPONAME
+
+      - run:
           name: Refresh data
           command: |
             rm -rf $HOME/hugo/$CIRCLE_PROJECT_REPONAME/data/success.json
