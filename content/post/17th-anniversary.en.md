@@ -12,7 +12,8 @@ postsummary: Join eSolia in celebrating our 17th anniversary on 7th July 2016.
 alternatelocales:
   - ja-JP
 tags:
-  - Anniversary
+  - 17th Anniversary
+  - Foundation Day
 title: eSolia's 17th Anniversary
 topics:
   - Announcements

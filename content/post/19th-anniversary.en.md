@@ -12,7 +12,9 @@ postsummary: Join eSolia in celebrating our 19th anniversary on 7th July 2017.
 alternatelocales:
   - ja-JP
 tags:
-  - Anniversary
+  - 19th Anniversary
+  - Website Renewal
+  - Foundation Day
 title: Our 19th Anniversary and Yearly Summary
 topics:
   - Announcements

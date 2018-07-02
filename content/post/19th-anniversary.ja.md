@@ -12,7 +12,8 @@ postsummary: 株式会社イソリアは平成30年7月7日をもちまして創
 alternatelocales:
   - en-US
 tags:
-  - 年記念
+  - 19周年記念
+  - ウェブサイトリニューアル
   - 創立記念日
 title: 創業19周年
 titlewbr: 創業19周年

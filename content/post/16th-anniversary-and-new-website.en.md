@@ -13,6 +13,8 @@ alternatelocales:
   - ja-JP
 tags:
   - 16th Anniversary
+  - Foundation Day
+  - Website Renewal
 title: Our 16th Anniversary and New Website
 topics:
   - Announcements
