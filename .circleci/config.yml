@@ -28,10 +28,11 @@ jobs:
           command: |
             curl -L https://github.com/bep/s3deploy/releases/download/v2.0.2/s3deploy_2.0.2_Linux-64bit.tar.gz | tar xvz
 
-      # - run:
-      #     name: list stuff
-      #     command: |
-      #        pwd
+      - run:
+          name: list stuff
+          command: |
+             pwd
+             hugo env
       #        ls -la $HOME
       #        ls -la $HOME/hugo
       #        echo $HOME
