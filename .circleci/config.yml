@@ -35,8 +35,8 @@ jobs:
              hugo env
       #        ls -la $HOME
       #        ls -la $HOME/hugo
-             echo $HOME
-             echo $CIRCLE_PROJECT_REPONAME
+      #       echo $HOME
+      #       echo $CIRCLE_PROJECT_REPONAME
 
       - run:
           name: Refresh data
