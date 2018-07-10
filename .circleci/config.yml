@@ -29,7 +29,7 @@ jobs:
             curl -L https://github.com/bep/s3deploy/releases/download/v2.0.2/s3deploy_2.0.2_Linux-64bit.tar.gz | tar xvz
 
       - run:
-          name: Run commands to see results on std-out in the log
+          name: Run commands to see results on std-out in the circleci web gui log
           command: |
              pwd
              hugo env
