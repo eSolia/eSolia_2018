@@ -1,5 +1,100 @@
 [
   {
+    "@row.id": 963,
+    "Date": "2018-Aug-24",
+    "Description": "PSA series: limit the ability of advertisers to track you 4/5. On Macs and PCs, use a browser like [Firefox Quantum](https://blog.mozilla.org/blog/2018/01/23/latest-firefox-quantum-release-now-available-with-new-features/) with good privacy protection built in, or browser plugins such as uBlock Origin for ad blocking, or Disconnect.me for tracker blocking. On mobile, you can use private browsers such as Firefox Focus or DuckDuckGo when discreet searching is required.  "
+  },
+  {
+    "@row.id": 962,
+    "Date": "2018-Aug-23",
+    "Description": "PSA series: limit the ability of advertisers to track you 3/5. Visit [myactivity.google.com](https://myactivity.google.com), look at all the information Google has stored about you, and delete as needed. "
+  },
+  {
+    "@row.id": 961,
+    "Date": "2018-Aug-22",
+    "Description": "PSA series: limit the ability of advertisers to track you 2/5. Periodically delete all cookies in your Internet browsers, since most of the time, this is how you’re being tracked.  "
+  },
+  {
+    "@row.id": 959,
+    "Date": "2018-Aug-21",
+    "Description": "Japan visitors, are you in Tokyo next weekend? The weekend of 25th and 26th Aug 2018 has several matsuri festivals to enjoy, namely the [Harajuku Omotesando Super Yosakoi](https://www.super-yosakoi.tokyo/outline/2018_map/) near Meiji Jingu, the [Azabu Juban Nouryo Matsuri](http://www.azabujuban.or.jp/topics/topics_event/13873/), the [Kouenji Awa Odori](http://koenji-awaodori.com/language/eng.html), and the [Ooi Dontaku Natsu Matsuri](http://www.ooimachi.jp/dontaku/). They are sure to be lively and colorful. "
+  },
+  {
+    "@row.id": 960,
+    "Date": "2018-Aug-20",
+    "Description": "PSA series: limit the ability of advertisers to track you 1/5. Turn on \"limit ad tracking\" in iPhone Settings, Privacy, Advertising, and also tap \"Reset Advertising Identifier\", which is what advertisers use to track you. In Android, find the reset button in Google settings, Ads menu.  "
+  },
+  {
+    "@row.id": 965,
+    "Date": "2018-Aug-19",
+    "Description": "Unethical headhunters sometimes call eSolia posing as delivery company personnel needing information before they can deliver a package, but this is next level. Japan smartphone users should stay alert for SMS Phishing or \"Smishing\" attacks, where an SMS text message includes a link to install an app purportedly from Sagawa Express. We think it won't be long before public trust in other similar companies like Nittsu or Yamato are being abused in a similar fashion. ([via The Japan Times](https://www.japantimes.co.jp/news/2018/08/18/national/crime-legal/japan-sees-rise-text-message-phishing-scams-disguised-notices-delivery-firm/))"
+  },
+  {
+    "@row.id": 958,
+    "Date": "2018-Aug-17",
+    "Description": "If you're in Tokyo and you like live music, it's still not too late to get tickets for SummerSonic in Chiba this weekend. [http://www.summersonic.com/2018/](http://www.summersonic.com/2018/)"
+  },
+  {
+    "@row.id": 957,
+    "Date": "2018-Aug-17",
+    "Description": "In the heat of Japan's summer, we give greetings like \"shochu omimai moushiagemasu\" (暑中お見舞い申し上げます) during the heat, and \"zansho omimai moushiagemasu\" (残暑お見舞い申し上げます) when it lingers in late summer, like now. The summer has been so hot that [apparently even the bugs can't fly as usual](https://www.japantimes.co.jp/news/2018/08/16/national/bugs-struggle-amid-japans-record-summer-heat/). Take care out there! 🍧"
+  },
+  {
+    "@row.id": 956,
+    "Date": "2018-Jul-19",
+    "Description": "Version 67 of Google's Chrome browser has a [feature called \"site isolation\"](https://security.googleblog.com/2018/07/mitigating-spectre-with-site-isolation.html) newly enabled by default. This is designed to mitigate the risk of attacks like \"Spectre\" by reducing the data available to the attacker. The trade-off is, Chrome now requires far more system memory, possibly making it a poor option for older systems. "
+  },
+  {
+    "@row.id": 955,
+    "Date": "2018-Jul-17",
+    "Description": "Japan visitors, if you are in the Tokyo area this coming weekend, you might enjoy taking a day trip to see the Kumagaya [Uchiwa Matsuri](http://uchiwamatsuri.com/english/index.html) festival, in northern Saitama prefecture. This is one of the big annual summer festivals at and around Yasaka-jinja, a shrine with 400+ years of history, near JR Kumagaya station. The festival is held from 18:00 on Friday July 20th, continuing on Saturday and Sunday, July 21st and 22nd. ([Map](https://goo.gl/maps/MiHKZuvXyRT2)) 🇯🇵👘 "
+  },
+  {
+    "@row.id": 954,
+    "Date": "2018-Jul-13",
+    "Description": "Japan visitors, with the terrible flooding in western Japan, perhaps we need Gonsho-ji Temple's [mizudome-no-mai](https://www.mizudome.com/en/) festival more than ever. You can see it tomorrow, Saturday July 14th, 2018, from 13:00 to 15:00 ([map](https://goo.gl/maps/vJF2YWFUF5L2))."
+  },
+  {
+    "@row.id": 953,
+    "Date": "2018-Jul-11",
+    "Description": "Japan visitors: recent natural disasters in Japan and the boys rescued from the cave in Thailand show that you should never underestimate the power of Mother Nature. Japan has the \"J-Alert\" system, and there is a way to get those alerts in English. Get “[NHK WORLD TV](https://apple.co/2EmIeUD)” on your App Store (available for Android also), and enable quake and tsunami alerts in settings."
+  },
+  {
+    "@row.id": 952,
+    "Date": "2018-Jul-10",
+    "Description": "Japan visitors, you may have noticed we don't have a \"tip culture\" in Japan, as gratuities are built into the price. But, you can leave a \"Japanese Tip\", which is when a restaurant patron folds the paper chopstick holder into an origami figure. Waiter Yuki Tatsumi collected samples from around Japan, and you can see [a gallery](https://japanesetip.localinfo.jp/pages/529814/page_201606270826) of some of them. One person's trash is truly another person's treasure. (via [Japan Times](https://www.japantimes.co.jp/news/2018/07/09/national/japanese-tip-origami-art-left-diners/))"
+  },
+  {
+    "@row.id": 950,
+    "Date": "2018-Jul-09",
+    "Description": "If you don't want Google to follow you to \"personalize\" the advertisements that are displayed to you, you can log into your Google account, then [visit this page](https://adssettings.google.com/) to opt out. Just toggle it off. "
+  },
+  {
+    "@row.id": 939,
+    "Date": "2018-Jul-07",
+    "Description": "🎉㊗️It's eSolia's 19th Anniversary! We founded [eSolia Inc](https://esolia.com/about/) on 7th July 1999 for IT service excellence, and [continued to improve](https://esolia.com/post/19th-anniversary/) over the last year. Thank you for another successful year! "
+  },
+  {
+    "@row.id": 949,
+    "Date": "2018-Jul-06",
+    "Description": "Japan visitors, if you're a \"star crossed lover\" (or not) and near Tokyo, you might want to take a day trip down to Hiratsuka, to see the big [Tanabata summer festival](http://www.tanabata-hiratsuka.com/pamphletkaigai.html) there. 🎆🎉"
+  },
+  {
+    "@row.id": 951,
+    "Date": "2018-Jul-05",
+    "Description": "🎉eSolia is a sponsor of the world's fastest (and arguably best) static website generator [Hugo](https://gohugo.io/), which [just turned 5](https://gohugo.io/news/lets-celebrate-hugos-5th-birthday/)! Our sincere **Congratulations** to lead developer Bjørn Erik Pedersen, founder Steve Francia, and all the hardworking contributors to the project. ㊗️"
+  },
+  {
+    "@row.id": 948,
+    "Date": "2018-Jul-05",
+    "Description": "Congratulations to Japan's soccer team \"Samurai Blue\" for a good showing in the World Cup, and for the exciting play! We hope they can build on this success for next time. ㊗️"
+  },
+  {
+    "@row.id": 947,
+    "Date": "2018-Jul-04",
+    "Description": "Japan's \"National Research Institute for Earth Science and Disaster Resilience\" (NIED) publishes the \"[J-SHIS Japan Seismic Hazard Information](http://www.j-shis.bosai.go.jp/map/?lang=en)\" Map, which shows active fault zones and other information. Visitors should take precautions and be aware of disaster evacuation zones. Ask your colleagues, friends or hotel. "
+  },
+  {
     "@row.id": 946,
     "Date": "2018-Jul-03",
     "Description": "[HelloTalk](https://www.hellotalk.com/?lang=en) is an interesting social platform for language learning. It has tools to let you easily correct learners of your native language, and to be corrected as you learn a second language. "

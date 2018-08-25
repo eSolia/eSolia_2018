@@ -1,6 +1,6 @@
 ---
 author: eSolia
-date: 2018-06-14T11:26:10+09:00
+date: 2018-08-25T09:30:20+09:00
 publishdate: 2018-06-14T11:26:10+09:00
 description: About eSolia - vision, general information such as HQ address, contact information, map, directors, and lines of business.
 draft: false
@@ -85,8 +85,8 @@ Acting with the highest standards of ethics, professionalism and integrity, eSol
     </tr>
     <tr>
       <th class="has-text-right is-uppercase">Directors</th>
-      <td>James R. Cogley, RD and CEO<br>
-    Takumi Fukuoka, RD and COO</td>
+      <td>James R. Cogley, Co-RD and CEO<br>
+    Takumi Fukuoka, Co-RD and COO</td>
     </tr>
     <tr>
       <th class="has-text-right is-uppercase">Established</th>
