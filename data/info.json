@@ -1,5 +1,30 @@
 [
   {
+    "@row.id": 973,
+    "Date": "2018-Aug-31",
+    "Description": "Tokyo English Life Line TELL is holding their annual \"Tokyo Tower Climb\" on Sept 9th 2018, to raise awareness of mental health issues and _World Suicide Prevention Day_ on Sept 10th. Signup by Sept 4th at [www.telltowerclimb.com](http://www.telltowerclimb.com). "
+  },
+  {
+    "@row.id": 968,
+    "Date": "2018-Aug-30",
+    "Description": "PSA Series: Tips to Avoid Ransomware 2/6. Besides backing up, use a unique password per site or system, make your passwords difficult, and store them in an encrypted vault like Zetetic's [Codebook](https://www.zetetic.net/codebook/)."
+  },
+  {
+    "@row.id": 967,
+    "Date": "2018-Aug-29",
+    "Description": "PSA Series: Tips to Avoid Ransomware 1/6. Ransomware is software installed on your computer that encrypts your files. The only way to get your files back is to pay the criminals who installed it, usually via bitcoin or another crypto currency. The first line of defense is to keep good backups."
+  },
+  {
+    "@row.id": 966,
+    "Date": "2018-Aug-28",
+    "Description": "PSA: If you're a T-Mobile user, take note that they had a [security breach](https://www.cnet.com/news/t-mobile-hack-may-have-exposed-2-million-customers-data/). Change your password."
+  },
+  {
+    "@row.id": 964,
+    "Date": "2018-Aug-27",
+    "Description": "PSA series: limit the ability of advertisers to track you 5/5. Opt out of advertising based on your interests on any social networking platforms you use. "
+  },
+  {
     "@row.id": 963,
     "Date": "2018-Aug-24",
     "Description": "PSA series: limit the ability of advertisers to track you 4/5. On Macs and PCs, use a browser like [Firefox Quantum](https://blog.mozilla.org/blog/2018/01/23/latest-firefox-quantum-release-now-available-with-new-features/) with good privacy protection built in, or browser plugins such as uBlock Origin for ad blocking, or Disconnect.me for tracker blocking. On mobile, you can use private browsers such as Firefox Focus or DuckDuckGo when discreet searching is required.  "
