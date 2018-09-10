@@ -1,6 +1,6 @@
 ---
 author: イソリア
-date: 2018-08-25T09:30:20+09:00
+date: 2018-09-10T18:16:02+09:00
 publishdate: 2018-06-14T11:26:10+09:00
 description: イソリアの会社案内 - ビジョン、会社概要、主なビジネス、住所やアクセス地図、その他一般情報。
 draft: false
@@ -68,6 +68,8 @@ menu:
 
 
 ### 会社概要
+
+会社概要をご覧頂く上に、弊社の[vCard](/eSolia-Contacts-vCard.vcf)を[読み込み](/post/how-to-use-vcards)して見ませんか。
 
 <table class="table is-striped is-hoverable is-fullwidth is-bordered is-size-7-mobile is-size-6-tablet is-size-5-desktop">
   <tbody>

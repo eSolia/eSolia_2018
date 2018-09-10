@@ -1,6 +1,6 @@
 ---
 author: eSolia
-date: 2018-08-25T09:30:20+09:00
+date: 2018-09-10T18:16:02+09:00
 publishdate: 2018-06-14T11:26:10+09:00
 description: About eSolia - vision, general information such as HQ address, contact information, map, directors, and lines of business.
 draft: false
@@ -71,6 +71,8 @@ Acting with the highest standards of ethics, professionalism and integrity, eSol
 
 ### General
 
+See the following general information about eSolia, and [import](/post/how-to-use-vcards) our [vCard](/eSolia-Contacts-vCard.vcf).
+
 <table class="table is-striped is-hoverable is-fullwidth is-bordered is-size-7-mobile is-size-6-tablet is-size-5-desktop">
   <tbody>
     <tr>
@@ -99,7 +101,7 @@ Acting with the highest standards of ethics, professionalism and integrity, eSol
     </tr>
   </tbody>
 </table>
-  
+
 ### Lines of Business
   
 * Bilingual IT Consulting and Solutions
