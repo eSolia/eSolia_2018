@@ -1,7 +1,7 @@
 ---
 author: eSolia
 authorkey: esolia
-date: 2018-09-10T18:01:13+09:00
+date: 2018-09-11T12:52:31+09:00
 publishdate: 2018-09-10T18:01:13+09:00
 draft: false
 slug: how-to-use-vcards
@@ -17,6 +17,7 @@ tags:
   - vCard
   - Address
   - Contact
+  - kb
 topics:
   - Knowledgebase
 authors:
@@ -31,7 +32,7 @@ formcheckboxes:
 
 ## What's a vCard
 
-A vCard is a text file format standard for sharing contact information, allowing people to easily store that information in an Address Book app on a personal computer or mobile device. vCards are stored in ".vcf" (virtual contact file) files, and can be attached to emails, linked on websites, or sent via instant messaging or other social media apps. They usually contain name, address, telephone, email, URLs and sometimes logos or photos.
+A vCard is a text file format standard for sharing contact information, allowing people to easily store that information in an Address Book app on a personal computer or mobile device. vCards are stored in ".vcf" (Virtual Contact File) files, and can be attached to emails, linked on websites, or sent via instant messaging or other social media apps. They usually contain name, address, telephone, email, URLs and sometimes logos or photos.
 
 ## How to import vCards
 

@@ -1,23 +1,25 @@
 ---
 author: eSolia
 authorkey: esolia
-date: 2018-09-10T18:01:13+09:00
-publishdate: 2018-09-10T18:01:13+09:00
-draft: true
+date: 2018-09-11T12:52:31+09:00
+publishdate: 2018-09-11T12:52:31+09:00
+draft: false
 slug: how-to-use-vcards
 layout: post
-title: vCardの使い方
-subtitle: 素早くアドレス帳に入れる方法
-description: イソリアからのブログポスト、どうやってvCardを自分のアドレス帳に入れるか。
-postsummary: This is the summary seen on the top page of the site, describing the post.
+title: vCardの使用方法
+subtitle: 連絡先情報を素早くアドレス帳に追加する方法
+description: vCardをアドレス帳に読み込み方法 - eSolia Inc.ブログ記事
+postsummary: vCardは簡単に連絡先情報を交換できる電子名刺です。
 alternatelocales:
   - en-US
 tags:
   - vCard
   - vcf
-  - アドレス帳    
+  - アドレス帳
+  - 連絡先
+  - kb    
 topics:
-  - ノレッジベース
+  - ナレッジベース
 authors:
   - eSolia
 images:
@@ -28,42 +30,42 @@ images:
 
 ## vCard とは
 
-A vCard is a text file format standard for sharing contact information, allowing people to easily store that information in an Address Book app on a personal computer or mobile device. vCards are stored in ".vcf" (virtual contact file) files, and can be attached to emails, linked on websites, or sent via instant messaging or other social media apps. They usually contain name, address, telephone, email, URLs and sometimes logos or photos.
+vCardは、連絡先情報を共有するためのテキストファイル形式標準となっており、その情報を簡単にパーソナルコンピューターまたはモバイルデバイスのアドレス帳アプリに保存できます。vCardは「.vcf」ファイル（Virtual Contact File 又は仮想連絡先ファイル）で保存されているため、電子メールに添付したり、Webサイトでリンクしたり、インスタントメッセージやその他のソーシャルメディアアプリを通じて送信することができます。一般的に、名前、住所、電話番号、電子メール、URLの情報が含まれており、時にはロゴや写真も含まれております。
 
 ## vCard 読み込み方法
 
-You can get an idea of how to use (import) a vCard from the following list, and then try it using [eSolia's vCard](/eSolia-Contacts-vCard.vcf).
+下記のリストからvCardの利用（読み込む）方法をご確認頂くことは可能ですので、[イソリア vCard](/eSolia-Contacts-vCard.vcf)の読み込みをお試し頂けます。
 
 <table class="table is-striped is-hoverable is-fullwidth is-bordered is-size-7-mobile is-size-6-tablet is-size-5-desktop">
   <tbody>
     <tr>
-      <th class="has-text-right">Outlook for Windows:</th>
-      <td>From an Outlook email, right click the vCard attachment, and click "Add to Outlook Contacts". Save and Close the contact window. 
-<br>Or, download the vCard. File menu, Import and Export, "Import VCard".</td>
+      <th class="has-text-right">Windows版Outlook:</th>
+      <td>Outlook email から、vCard添付ファイルを右クリックし、「Outlookの連絡先に追加」をクリックし、保存のうえ連絡先のウィンドウを閉じます。
+<br>または、vCardをダウンローし、メニューのファイルから、[インポート/エクスポート]、[vCardファイルをインポート」の順でインポートします。</td>
     </tr>
     <tr>
-      <th class="has-text-right">Outlook for Mac:</th>
-      <td>From an Outlook email, double click the vCard attachment, Save and Close the Contact tab.<br>Or, right click the .vcf file in Finder, and "Open With" Outlook.</td>
+      <th class="has-text-right">Mac版Outlook:</th>
+      <td>Outlook email から、vCard添付ファイルをダブルクリックし、連絡先タブを保存して閉じます。<br>または、Finderにある「.vcf」ファイルを右クリックし、Outlookで「開く」をクリックします。</td>
     </tr>
     <tr>
-      <th class="has-text-right">Gmail on PC or Mac:</th>
-      <td>Download the vCard. Open Contacts manager from within Gmail, and use Import from its More menu to import the .vcf file.</td>
+      <th class="has-text-right">PCまたはMacのGmail:</th>
+      <td>vCardファイルをダウンロードします。 Gmail内の連絡先マネージャを開き、メニューから[インポート]を使用して「.vcf」ファイルをインポートします</td>
     </tr>
     <tr>
-      <th class="has-text-right">Gmail on iOS:</th>
-      <td>Tap the vCard, click the Share icon (box with up arrow), select Copy to Contacts.</td>
+      <th class="has-text-right">iOS Gmail:</th>
+      <td>vCardをタップし、[共有]アイコン（上向き矢印の付いたボックス）をクリックし、[連絡先にコピー]を選択します。</td>
     </tr>
     <tr>
-      <th class="has-text-right">Apple Mail on iOS:</th>
-      <td>Tap the vCard, scroll down, select "Create New Contact".</td>
+      <th class="has-text-right">iOS Appleメール:</th>
+      <td>vCardをタップし、下にスクロールして[新規連絡先を作成]を選択します。</td>
     </tr>
     <tr>
-      <th class="has-text-right">iCloud Contacts:</th>
-      <td>Click the Action pop-up menu (gear icon) in iCloud Contacts sidebar, then choose "Import vCard". Select the vCard and import.</td>
+      <th class="has-text-right">iCloud 連絡先:</th>
+      <td>iCloudの連絡先サイドバーの[アクション]ポップアップメニュー（歯車アイコン）をクリックし、[vCardのインポート]を選択します。 vCardを選択してインポートします。</td>
     </tr>
     <tr>
-      <th class="has-text-right">Android General:</th>
-      <td>Save the vCard file to Internal Storage. Open the Contacts app, and use the More icon (three vertical dots) to Import Contacts, selecting the vCard from Internal storage.</td>
+      <th class="has-text-right">Android 一般:</th>
+      <td>vCardファイルを内部ストレージに保存します。 連絡先アプリを開き、[詳細]アイコン（3つの縦のドット）を使用して連絡先をインポートし、内部ストレージからvCardを選択します。</td>
     </tr>    
   </tbody>
 </table>
