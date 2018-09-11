@@ -42,7 +42,7 @@ gallery_idNO: 6159794668058542529
 
 ## J-ALERT とは?
 
-J-ALERT is Japan’s emergency broadcast system launched in 2007, used to quickly and automatically disseminate information from the government to the public via satellite and an array of equipment set up nationwide, in cases of natural disasters such as earthquakes, tsunami or floods, or attacks on Japan such as missile launches. 
+J-ALERT is Japan’s emergency broadcast system launched in 2004, used to quickly and automatically disseminate information from the government to the public via satellite and an array of equipment set up nationwide, in cases of natural disasters such as earthquakes, tsunami or floods, or attacks on Japan such as missile launches. 
 
 ## どういう仕組みか? 
 
