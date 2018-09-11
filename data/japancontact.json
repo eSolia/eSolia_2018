@@ -107,16 +107,16 @@
   {
     "@row.id": 8,
     "Id": "8",
-    "Description": "Japan Meteorological Disaster Alerts \"J-ALERT\"",
-    "Description‡": "気象庁災害情報 \"J-ALERT\"",
+    "Description": "Japan Disaster Alerts \"J-ALERT\"",
+    "Description‡": "自然災害・攻撃情報 \"J-ALERT\"",
     "Number": null,
     "Number‡": null,
     "Number Notes": null,
     "Number Notes‡": null,
     "Hours": null,
     "Hours‡": null,
-    "URL": "https://www.jma.go.jp/jma/indexe.html",
-    "URL‡": "https://www.jma.go.jp/jma/index.html",
+    "URL": "https://en.wikipedia.org/wiki/J-Alert",
+    "URL‡": "https://ja.wikipedia.org/wiki/%E5%85%A8%E5%9B%BD%E7%9E%AC%E6%99%82%E8%AD%A6%E5%A0%B1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0",
     "Toll Free Call?": false
   },
   {
