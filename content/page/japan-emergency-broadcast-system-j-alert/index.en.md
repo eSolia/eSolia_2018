@@ -26,12 +26,6 @@ images:
 formcheckboxesNO:
   - Disaster Management
 gallery_idd: 6159794668058542529
-menu:
-  services:
-    Name: J-Alert System
-    Weight: 30
-    Url: /japan-emergency-broadcast-system-j-alert
-    Parent: osproc_en
 ---
 
 <div class="buttons has-addons is-hidden-tablet">
@@ -59,10 +53,7 @@ J-ALERT works basically like this:
   * alerts on TVs and radios
   * push alerts on mobile phones
 
-<img 
-    src="eSolia-J-ALERT-Overview.en.svg" 
-    alt="J-ALERT Overview"
-     /> 
+<img src="eSolia-J-ALERT-Overview.en.svg" alt="J-ALERT Overview"/> 
 
 ## Nature of J-ALERT Alerts?
 
@@ -86,9 +77,3 @@ Further reading:
 
 * [J-ALERT Wikipedia Page](https://en.wikipedia.org/wiki/J-Alert)
 * [Japan FDMA J-Alert Overview (Japanese)](https://www.fdma.go.jp/html/intro/form/pdf/kokuminhogo_unyou/kokuminhogo_unyou_main/J-ALERT_gaiyou.pdf)
-
-
-
-
-
-
