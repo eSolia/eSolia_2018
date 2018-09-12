@@ -1,8 +1,8 @@
 ---
 author: eSolia
-date: 2018-09-07T09:50:41+09:00
-publishdate: 2018-09-07T09:50:41+09:00
-draft: true
+date: 2018-09-12T10:57:44+09:00
+publishdate: 2018-09-12T10:57:44+09:00
+draft: false
 title: Japan J-ALERT Emergency Broadcast System
 slug: japan-emergency-broadcast-system-j-alert
 subtitle: Automatic Alerts for Disasters and Attacks
@@ -25,7 +25,7 @@ images:
   - /img/eSolia-Chicklet-Color-1024px.png
 formcheckboxesNO:
   - Disaster Management
-gallery_idd: 6159794668058542529
+gallery_idNO: 6159794668058542529
 ---
 
 <div class="buttons has-addons is-hidden-tablet">
