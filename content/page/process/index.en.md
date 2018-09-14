@@ -87,11 +87,11 @@ To use it effectively, there's no need to try to handle everything internally. I
 1. License Management
 {{< /punchlist >}}
 
-Processes tend to become more complicated over time, especially when it involves something you're not quite expert in. In the context of a master support agreement, eSolia will skillfully manage them on your behalf, using our refined procedures, or your desired methods.
+Processes tend to become more complicated over time, especially when it involves something you're not quite expert in. In the context of a master support agreement, eSolia will skillfully manage them on your behalf, using our refined procedures, or your desired methods. 
 
 1. Strong project management for changing requirements, and imminent deadlines.
 1. Procurement for your ever-changing hardware and business support software.
-1. Management of your IT systems shutdown, restart, and re-validation, during Japan's building power outages for annual fire inspection.
+1. Management of your IT systems [shutdown, restart, and re-validation](/planned-power-outage-it-management/), during Japan's building power outages for annual fire inspection.
 1. Budget management that considers both efficiency and your wallet.
 1. In cold, isolated data centers, cabling management to tame that spaghetti.
 1. Manage compliance to manage risks and threats.
