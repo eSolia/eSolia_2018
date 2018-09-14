@@ -1,7 +1,7 @@
 ---
 author: eSolia
 authorkey: esolia
-date: 2018-09-11T12:52:31+09:00
+date: 2018-09-14T15:03:31+09:00
 publishdate: 2018-09-11T12:52:31+09:00
 draft: false
 slug: how-to-use-vcards
@@ -35,6 +35,11 @@ vCardは、連絡先情報を共有するためのテキストファイル形式
 ## vCard 読み込み方法
 
 下記のリストからvCardの利用（読み込む）方法をご確認頂くことは可能ですので、[イソリア vCard](/eSolia-Contacts-vCard.vcf)の読み込みをお試し頂けます。
+
+**注意** - _アウトルックユーザの皆様,_ インポートする前にvCardのエンコディングを設定しましょう。しないと、vCardの日本語は文字化けいたします。 
+
+* ツール > オプション > メールフォーマット > 他国語オプション 
+   * 書き出す vCardのエンコディングをUTF8に設定する
 
 <table class="table is-striped is-hoverable is-fullwidth is-bordered is-size-7-mobile is-size-6-tablet is-size-5-desktop">
   <tbody>

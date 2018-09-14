@@ -1,7 +1,7 @@
 ---
 author: eSolia
 authorkey: esolia
-date: 2018-09-11T12:52:31+09:00
+date: 2018-09-14T15:03:31+09:00
 publishdate: 2018-09-10T18:01:13+09:00
 draft: false
 slug: how-to-use-vcards
@@ -37,6 +37,11 @@ A vCard is a text file format standard for sharing contact information, allowing
 ## How to import vCards
 
 You can get an idea of how to use (import) a vCard from the following list, and then try it using [eSolia's vCard](/eSolia-Contacts-vCard.vcf).
+
+**Note** - _If you're an Outlook user,_ be sure to set your preferred encoding for outgoing vCards to "UTF8" before you import. If you don't, the Japanese text contained within our vCard will be garbled. 
+
+* Tools > Options > Mail Format > International Options 
+   * Preferred encoding for outgoing vCards - UTF8
 
 <table class="table is-striped is-hoverable is-fullwidth is-bordered is-size-7-mobile is-size-6-tablet is-size-5-desktop">
   <tbody>
