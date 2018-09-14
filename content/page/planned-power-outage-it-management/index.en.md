@@ -43,6 +43,10 @@ menu:
     Weight: 30
     Url: /planned-power-outage-it-management
     Parent: osproc_en
+  processsub:
+    Name: Planned Power Outage IT Management
+    Weight: 10
+    Url: /planned-power-outage-it-management
 ---
 
 <div class="buttons has-addons is-hidden-tablet">
@@ -54,6 +58,8 @@ menu:
   <a class="button" href="/website-design">Website</a>
   <a class="button" href="/localization">Localization</a>
 </div>
+
+{{< processsubmenu >}}
 
 ## A Japan Regulatory Requirement
 

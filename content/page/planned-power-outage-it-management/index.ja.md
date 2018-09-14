@@ -43,6 +43,10 @@ menu:
     Weight: 30
     Url: /planned-power-outage-it-management
     Parent: osproc_ja
+  processsub:
+    Name: ビル定期停電のIT管理
+    Weight: 10
+    Url: /planned-power-outage-it-management
 ---
 
 <div class="buttons has-addons is-hidden-tablet">
@@ -54,6 +58,8 @@ menu:
   <a class="button" href="/website-design">ウェブサイト</a>
   <a class="button" href="/localization">ローカライゼーション</a>
 </div>
+
+{{< processsubmenu >}}
 
 ## 日本の規則要件について　
 
