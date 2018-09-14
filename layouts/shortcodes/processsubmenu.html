@@ -1,0 +1,10 @@
+<div class="buttons has-addons">
+  <a class="button" href="/process"><span class="icon"><i class="fas fa-anchor"></i></span></a>
+ 
+{{ $currentPage := (.Get 0) }}
+{{ range $.Site.Menus.processsub }}
+
+  <a class="button{{ if $currentPage.IsMenuCurrent "processsub" . }} has-text-danger{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
+{{ end }}
+
+</div>
