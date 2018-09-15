@@ -50,7 +50,7 @@ menu:
   <a class="button" href="/localization">ローカライゼーション</a>
 </div>
 
-{{< processsubmenu >}}
+{{< submenu processsub >}}
 
 IT関連品の廃棄処理　～どうやってPC/サーバ類を廃棄するか～
 

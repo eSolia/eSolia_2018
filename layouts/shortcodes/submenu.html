@@ -1,0 +1,9 @@
+<div class="buttons has-addons">
+  <a class="button" href="/process"><span class="icon"><i class="fas fa-anchor"></i></span></a>
+{{ $currentPage := $.Page }}
+{{ $menuName := .Get 0 }}
+{{ $rangeData := index $.Site.Menus $menuName }}
+{{ range $rangeData }}
+  <a class="button{{ if $currentPage.IsMenuCurrent $menuName . }} is-active{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
+{{ end }}
+</div>

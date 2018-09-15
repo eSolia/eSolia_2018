@@ -1,9 +1,0 @@
-<div class="buttons has-addons">
-  <a class="button" href="/process"><span class="icon"><i class="fas fa-anchor"></i></span></a>
- 
-{{ $currentPage := $.Page }}
-{{ range $.Site.Menus.processsub }}
-  <a class="button{{ if $currentPage.IsMenuCurrent "processsub" . }} is-active{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
-{{ end }}
-
-</div>
