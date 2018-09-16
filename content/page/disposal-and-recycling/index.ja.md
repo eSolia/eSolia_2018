@@ -1,7 +1,7 @@
 ---
 author: イソリア
-date: 2018-09-15T15:52:17+09:00
-publishdate: 2018-09-15T15:52:17+09:00
+date: 2018-09-16T10:35:31+09:00
+publishdate: 2018-09-16T10:35:31+09:00
 draft: true
 title: IT関連品の廃棄処理
 slug: disposal-and-recycling
@@ -15,6 +15,9 @@ tags:
   - プロセス管理
   - アセット管理
   - 廃棄物管理
+  - リサイクル管理
+  - マ二フェッスト
+  - 廃棄証明書
 series:
   - top2
 topics:
@@ -56,12 +59,13 @@ menu:
 
 一般的な対応の流れとしては以下の形で行っております。
 
-1. 廃棄対象となる全てのアセットの情報を集約したインベントリファイルを作成します。（ITアセット番号、資産管理番号、シリアルナンバーや型番、対象品の写真などを含む）
+1. 廃棄対象となる全てのアセットの情報を集約したインベントリファイルを作成します。（ITアセット番号、資産管理番号、シリアルナンバーや型番、サポート契約状況・番号、対象品の写真などを含む）
 1. 関連部門（総務や経理など）との確認の上、弊社で契約のある複数の廃棄業者より適切な業者の見積もりを取得します。
 1. 引き取り日を確定、必要に応じてビル側への作業届けを申請し、廃棄品の回収までを見届けます。
 1. 後日発行される廃棄証明書（マニフェスト）を取得し、関連部門へ提出いたします。
+1. 必要に応じて、アセット管理一覧の更新をします。
 
-<div class="timeline is-centered has-padding-b-l">
+<div class="timeline is-centered has-padding-l">
   <header class="timeline-header">
     <span class="tag is-medium is-esolia-yellow-1">開始</span>
   </header>
@@ -116,8 +120,8 @@ menu:
       <p>業者廃棄証明書取得</p>
     </div>
   </div>    
-  <div class="timeline-item is-esolia-secondary-2-0">
-    <div class="timeline-marker is-esolia-secondary-2-0 is-icon">
+  <div class="timeline-item is-esolia-secondary-2-3">
+    <div class="timeline-marker is-esolia-secondary-2-3 is-icon">
       <i class="fas fa-exchange-alt has-text-white"></i>
     </div>
     <div class="timeline-content">
@@ -134,8 +138,17 @@ menu:
       <p>レポートの提出</p>
     </div>
   </div>  
+    <div class="timeline-item is-esolia-secondary-2-1">
+    <div class="timeline-marker is-esolia-secondary-2-1 is-icon">
+      <i class="fas fa-database has-text-white"></i>
+    </div>
+    <div class="timeline-content">
+      <p class="heading">STEP 8</p>
+      <p>アセット管理一覧の更新</p>
+    </div>
+  </div>  
   <header class="timeline-header">
-    <span class="tag is-medium is-esolia-secondary-2-0">完了</span>
+    <span class="tag is-medium is-esolia-secondary-2-1">完了</span>
   </header>
 </div>
 

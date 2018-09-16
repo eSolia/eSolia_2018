@@ -1,12 +1,12 @@
 ---
 author: eSolia
-date: 2018-05-06T07:07:27+09:00
-publishdate: 2018-05-06T07:07:27+09:00
+date: 2018-09-16T10:35:31+09:00
+publishdate: 2018-09-16T10:35:31+09:00
 draft: true
 title: IT Disposal and Recycling
 slug: disposal-and-recycling
 subtitle: How should you dispose of or recycle that old IT equipment?
-description: Skillful Process Management for Projects, Japan Building Inspection Power Outages, Procurement, Asset Mgt, Compliance, Upgrade or any other IT or business processes. - from eSolia Inc.
+description: eSolia can arrange disposal or recycling and trade-in of your various IT assets - old PCs, monitors, servers or network equipment - as per your constraints and policies. - from eSolia Inc.
 weight: 30
 layout: services
 alternatelocales:
@@ -16,6 +16,8 @@ tags:
   - Asset Management
   - Disposal
   - Recycling
+  - Manifest
+  - Proof of Recycling
 series:
   - top2
 topics:
@@ -46,23 +48,21 @@ menu:
 
 Leave the recycling and disposal process of various old IT equipment to eSolia. We will arrange disposal or recycling of your various IT assets - old PCs, monitors, servers or network equipment - as per your constraints and policies. For example, we will follow your policy for complete data destruction of data in old hard disk drives or other storage media. 
 
-様々なIT機器の廃棄処理も弊社にお任せください。毎年古くなったPCだけでなく、モニタ、サーバ類など多種多様のITアセットの廃棄処理を、御社の必要条件に合わせて実施可能です。企業情報の入ったHDDなどの記憶装置に関しては全て取り出しの上、破砕処理を行います。
+Additionally, we can arrange trade-in of your old IT assets such as PCs or network devices, which can somewhat offset the cost of disposal. Of course, it is also possible to trade-in used IT equipment after removing the hard disks or other storage media, and arranging for their disposal. 
 
-その他ご希望により、PCやネットワーク機器など下取り対象品となるアセットにおいては、廃棄ではなく下取り処理とすることで廃棄料金と相殺することが出来ます。（※HDDなどの記憶装置を取り除いた上での、下取り対応が可能です。）
-
-また廃棄業者からは「マニフェスト」と呼ばれる、国から認められた排出事業者のみが出すことの出来る正式な廃棄証明書を取得し、
-提出させていただきます。
+Finally, we will arrange to supply a "manifest" or certificate of disposal, which can be provided only by government-selected certified vendors. 
 
 ### Step by step
 
-一般的な対応の流れとしては以下の形で行っております。
+What follows is the general process we use, when arranging disposal, recycling or trade-in. 
 
-1. 廃棄対象となる全てのアセットの情報を集約したインベントリファイルを作成します。（ITアセット番号、資産管理番号、シリアルナンバーや型番、対象品の写真などを含む）
-1. 関連部門（総務や経理など）との確認の上、弊社で契約のある複数の廃棄業者より適切な業者の見積もりを取得します。
-1. 引き取り日を確定、必要に応じてビル側への作業届けを申請し、廃棄品の回収までを見届けます。
-1. 後日発行される廃棄証明書（マニフェスト）を取得し、関連部門へ提出いたします。
+1. Create an inventory file, listing up all the IT assets which are subject to disposal, recycling or trade-in (find IT or accounting asset numbers, serial and model numbers, support contract numbers, photographs and so on). 
+1. Confirm with stakeholder groups (general affairs, accounting, IT etc), and arrange quotes from eSolia's selected government-certified disposal vendors. 
+1. Decide handover date, arrange with building superintendent as needed, and steward the rest of the process. 
+1. Receive the official certificate or manifest, complete the eSolia report, and submit both to the appropriate stakeholders. 
+1. Assist with update of your asset inventory lists. 
 
-<div class="timeline is-centered has-padding-b-l">
+<div class="timeline is-centered has-padding-l">
   <header class="timeline-header">
     <span class="tag is-medium is-esolia-yellow-1">Start</span>
   </header>
@@ -114,11 +114,11 @@ Leave the recycling and disposal process of various old IT equipment to eSolia. 
     </div>
     <div class="timeline-content">
       <p class="heading">STEP 5</p>
-      <p>Receive Disposal Certificate</p>
+      <p>Receive Disposal Certificate or "Manifest"</p>
     </div>
   </div>    
-  <div class="timeline-item is-esolia-secondary-2-0">
-    <div class="timeline-marker is-esolia-secondary-2-0 is-icon">
+  <div class="timeline-item is-esolia-secondary-2-3">
+    <div class="timeline-marker is-esolia-secondary-2-3 is-icon">
       <i class="fas fa-exchange-alt has-text-white"></i>
     </div>
     <div class="timeline-content">
@@ -135,11 +135,19 @@ Leave the recycling and disposal process of various old IT equipment to eSolia. 
       <p>Report Submission</p>
     </div>
   </div>  
+  <div class="timeline-item is-esolia-secondary-2-1">
+    <div class="timeline-marker is-esolia-secondary-2-1 is-icon">
+      <i class="fas fa-database has-text-white"></i>
+    </div>
+    <div class="timeline-content">
+      <p class="heading">STEP 8</p>
+      <p>Update Asset Inventory Lists</p>
+    </div>
+  </div>  
   <header class="timeline-header">
-    <span class="tag is-medium is-esolia-secondary-2-0">Complete</span>
+    <span class="tag is-medium is-esolia-secondary-2-1">Complete</span>
   </header>
 </div>
 
-一連の流れは、処分品の量やご要望に応じて早ければ数週間以内に実施することが可能です。ITアセット品の廃棄処理にお困りの方は、是非弊社にお任せください。
-
-MENTION　ASSET
+This process usually requires one to a few weeks, depending upon the amount of equipment to be handled, and each client's unique requirements. Please consider eSolia to handle this process on your behalf.  
+  
