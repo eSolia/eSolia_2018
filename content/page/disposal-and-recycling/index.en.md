@@ -5,7 +5,7 @@ publishdate: 2018-05-06T07:07:27+09:00
 draft: true
 title: IT Disposal and Recycling
 slug: disposal-and-recycling
-subtitle: Relief for your Many Runaway Processes
+subtitle: How should you dispose of or recycle that old IT equipment?
 description: Skillful Process Management for Projects, Japan Building Inspection Power Outages, Procurement, Asset Mgt, Compliance, Upgrade or any other IT or business processes. - from eSolia Inc.
 weight: 30
 layout: services
@@ -13,34 +13,15 @@ alternatelocales:
   - ja-JP
 tags:
   - Process Management
-  - Procurement Process Management
-  - Asset Process Management
-  - Compliance Process Management
-  - Project Process Management
-  - Recycling Process Management
-  - Cabling Process Management
-  - License Process Management
-  - Data Center Process Management
-  - Server Process Management
-  - Planned Power Outage IT Management
+  - Asset Management
+  - Disposal
+  - Recycling
 series:
   - top2
 topics:
   - Outsourcing
-images:
-  - /img/eSolia-Post-Slider-Process-01.png
-  - /img/eSolia-Post-Slider-Process-02.png
-  - /img/eSolia-Post-Slider-Process-03.png
-  - /img/eSolia-Chicklet-Color-1024px.png
-resources:
-  - src: eSolia-Post-Slider-Process-01.png
-    title: New project schedule
-  - src: eSolia-Post-Slider-Process-02.png
-    title: New project budget
-  - src: eSolia-Post-Slider-Process-03.png
-    title: Supporting agreement tracking
 formcheckboxes:
-  - asdf
+  - IT Disposal and Recycling
 gallery_idNO: 6159794668058542529
 menu:
   processsub:
@@ -61,42 +42,104 @@ menu:
 
 {{< submenu processsub >}}
 
-## Double-edged IT
+## A General Disposal Process
 
-If one uses IT efficiently, one can utilize the basic nature of IT freely, and leverage that to receive immeasurable benefits. However, if misunderstood, IT can be a double-edged sword, increasing work and even decreasing efficiency.
+Leave the recycling and disposal process of various old IT equipment to eSolia. We will arrange disposal or recycling of your various IT assets - old PCs, monitors, servers or network equipment - as per your constraints and policies. For example, we will follow your policy for complete data destruction of data in old hard disk drives or other storage media. 
 
-To use it effectively, there's no need to try to handle everything internally. In fact, say goodbye to fear of processes, and leave your process management to eSolia!
+様々なIT機器の廃棄処理も弊社にお任せください。毎年古くなったPCだけでなく、モニタ、サーバ類など多種多様のITアセットの廃棄処理を、御社の必要条件に合わせて実施可能です。企業情報の入ったHDDなどの記憶装置に関しては全て取り出しの上、破砕処理を行います。
 
-### An enemy named "process"
+その他ご希望により、PCやネットワーク機器など下取り対象品となるアセットにおいては、廃棄ではなく下取り処理とすることで廃棄料金と相殺することが出来ます。（※HDDなどの記憶装置を取り除いた上での、下取り対応が可能です。）
 
-{{< punchlist title="Frequently Requested" bgcolor="is-esolia-blue-0">}}
-1. Project Management
-1. Server and Data Center Management
-1. IT Management during Planned Building Power Outages 
-1. Compliance Management
-1. Asset Management
-1. License Management
-{{< /punchlist >}}
+また廃棄業者からは「マニフェスト」と呼ばれる、国から認められた排出事業者のみが出すことの出来る正式な廃棄証明書を取得し、
+提出させていただきます。
 
-Processes tend to become more complicated over time, especially when it involves something you're not quite expert in. In the context of a master support agreement, eSolia will skillfully manage them on your behalf, using our refined procedures, or your desired methods.
+### Step by step
 
-1. Strong project management for changing requirements, and imminent deadlines.
-1. Procurement for your ever-changing hardware and business support software.
-1. Management of your IT systems shutdown, restart, and re-validation, during Japan's building power outages for annual fire inspection.
-1. Budget management that considers both efficiency and your wallet.
-1. In cold, isolated data centers, cabling management to tame that spaghetti.
-1. Manage compliance to manage risks and threats.
-1. Got a bewildering number of assets? Consider them managed.  
-1. License management, so you know who has what version and how many copies are installed.
-1. Warranty management for clear understanding of warranty periods, terms and extensions.
-1. Recycling and disposal management for the pileup of "junk", and secure deletion of data.
+一般的な対応の流れとしては以下の形で行っております。
 
-### The eSolia Philosophy for Process Management
+1. 廃棄対象となる全てのアセットの情報を集約したインベントリファイルを作成します。（ITアセット番号、資産管理番号、シリアルナンバーや型番、対象品の写真などを含む）
+1. 関連部門（総務や経理など）との確認の上、弊社で契約のある複数の廃棄業者より適切な業者の見積もりを取得します。
+1. 引き取り日を確定、必要に応じてビル側への作業届けを申請し、廃棄品の回収までを見届けます。
+1. 後日発行される廃棄証明書（マニフェスト）を取得し、関連部門へ提出いたします。
 
-Each process is different, but in all cases, eSolia performs in a consistent manner:
+<div class="timeline is-centered has-padding-b-l">
+  <header class="timeline-header">
+    <span class="tag is-medium is-esolia-yellow-1">Start</span>
+  </header>
+  <div class="timeline-item is-esolia-yellow-1">
+    <div class="timeline-marker is-esolia-yellow-1 is-icon">
+      <i class="fas fa-clipboard has-text-white"></i>
+    </div>
+    <div class="timeline-content">
+      <p class="heading">STEP 1</p>
+      <p>Create Inventory List</p>
+    </div>
+  </div>
+  <div class="timeline-item is-esolia-yellow-0">
+    <div class="timeline-marker is-esolia-yellow-0 is-icon">
+      <i class="fas fa-exchange-alt has-text-white"></i>
+    </div>
+    <div class="timeline-content">
+      <p class="heading">STEP 2</p>
+      <p>Coordinate with Departments and Vendors</p>
+    </div>
+  </div>
+  <div class="timeline-item is-esolia-secondary-1-0">
+    <div class="timeline-marker is-esolia-secondary-1-0 is-icon">
+      <i class="fas fa-check has-text-white"></i>
+    </div>
+    <div class="timeline-content">
+      <p class="heading">STEP 3</p>
+      <p>Place Order for IT Equipment Handover</p>
+    </div>
+  </div>  
+  <header class="timeline-header">
+    <span class="tag is-medium is-esolia-secondary-1-0">Handover</span>
+  </header>
+  <div class="timeline-item is-esolia-secondary-1-0">
+    <div class="timeline-marker is-esolia-secondary-1-0 is-icon">
+      <i class="fas fa-recycle has-text-white"></i>
+    </div>
+    <div class="timeline-content">
+      <p class="heading">STEP 4</p>
+      <p>Recycling and Disposal Processing</p>
+    </div>
+  </div>
+  <header class="timeline-header">
+    <span class="tag is-medium is-esolia-secondary-1-0">Processing Complete</span>
+  </header>
+  <div class="timeline-item is-esolia-yellow-0">
+    <div class="timeline-marker is-esolia-yellow-0 is-icon">
+      <i class="fas fa-check has-text-white"></i>
+    </div>
+    <div class="timeline-content">
+      <p class="heading">STEP 5</p>
+      <p>Receive Disposal Certificate</p>
+    </div>
+  </div>    
+  <div class="timeline-item is-esolia-secondary-2-0">
+    <div class="timeline-marker is-esolia-secondary-2-0 is-icon">
+      <i class="fas fa-exchange-alt has-text-white"></i>
+    </div>
+    <div class="timeline-content">
+      <p class="heading">STEP 6</p>
+      <p>eSolia Confirmations and Report Creation</p>
+    </div>
+  </div>
+  <div class="timeline-item is-esolia-secondary-2-0">
+    <div class="timeline-marker is-esolia-secondary-2-0 is-icon">
+      <i class="fas fa-clipboard-check has-text-white"></i>
+    </div>
+    <div class="timeline-content">
+      <p class="heading">STEP 7</p>
+      <p>Report Submission</p>
+    </div>
+  </div>  
+  <header class="timeline-header">
+    <span class="tag is-medium is-esolia-secondary-2-0">Complete</span>
+  </header>
+</div>
 
-* We act as an ombudsman on your behalf, keeping your mandate or the best practice in mind, as we negotiate with any involved parties.
-* Each process is performed with supporting documentation as the base, whether that documentation is your standards and mandates, or our best practices.
-* You give the "go sign", but our experts provide the decision support.
-* We'll take end to end responsibility. All processes will have preparation, adjustment, execution, documentation and support afterwards.
-* Results are stored in eSolia's extensive knowledge database, and reports are provided to you.
+一連の流れは、処分品の量やご要望に応じて早ければ数週間以内に実施することが可能です。ITアセット品の廃棄処理にお困りの方は、是非弊社にお任せください。
+
+MENTION　ASSET
