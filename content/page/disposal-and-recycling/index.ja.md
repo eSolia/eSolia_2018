@@ -1,37 +1,28 @@
 ---
 author: イソリア
-date: 2018-05-06T07:07:27+09:00
-publishdate: 2018-05-06T07:07:27+09:00
+date: 2018-09-15T15:52:17+09:00
+publishdate: 2018-09-15T15:52:17+09:00
 draft: true
 title: IT関連品の廃棄処理
 slug: disposal-and-recycling
-subtitle: プロジェクト・購買・資産・コンプライアンスなどプロセス管理はお任せを
-description: イソリアから - 卓逸されたプロジェクト管理や資産管理、ビル法定停電時のITシステム終了と再起動管理、コンプライアンスの徹底から購買のお手伝いまで、ＩＴやビジネス プロセス管理のレベルアップへ
+subtitle: どうやってPC/サーバ類を廃棄するか
+description: イソリアから - 様々なIT機器の廃棄処理も弊社にお任せして、古くなったPC、モニタ、サーバ類など多種多様のITアセットの廃棄処理をします。
 weight: 30
 layout: services
 alternatelocales:
   - en-US
 tags:
   - プロセス管理
+  - アセット管理
   - 廃棄物管理
 series:
   - top2
 topics:
   - アウトソーシング
 images:
-  - /img/eSolia-Post-Slider-Process-01.png
-  - /img/eSolia-Post-Slider-Process-02.png
-  - /img/eSolia-Post-Slider-Process-03.png
   - /img/eSolia-Chicklet-Color-1024px.png
-resources:
-  - src: eSolia-Post-Slider-Process-01.png
-    title: 新規プロジェクトスケジュール
-  - src: eSolia-Post-Slider-Process-02.png
-    title: 新規プロジェクトバジェット
-  - src: eSolia-Post-Slider-Process-03.png
-    title: 関連契約のトラッキング
 formcheckboxes:
-- asdf
+- 廃棄処理
 gallery_idNO: 6159794668058542529
 menu:
   processsub:
@@ -52,69 +43,100 @@ menu:
 
 {{< submenu processsub >}}
 
-IT関連品の廃棄処理　～どうやってPC/サーバ類を廃棄するか～
+## 一般的な廃棄プロセスについて
 
-一般的な廃棄プロセスについて
+様々なIT機器の廃棄処理も弊社にお任せください。毎年古くなったPCだけでなく、モニタ、サーバ類など多種多様のITアセットの廃棄処理を、御社の必要条件に合わせて実施可能です。企業情報の入ったハードディスク HDD などの記憶装置に関しては全て取り出しの上、破砕処理を行います。
 
-様々なIT機器の廃棄処理も弊社にお任せください。
-毎年古くなったPCだけでなく、モニタ、サーバ類など多種多様のITアセットの廃棄処理を、御社の必要条件に合わせて実施可能です。
-企業情報の入ったHDDなどの記憶装置に関しては全て取り出しの上、破砕処理を行います。
-その他ご希望により、PCやネットワーク機器など下取り対象品となるアセットにおいては、
-廃棄ではなく下取り処理とすることで廃棄料金と相殺することが出来ます。（※HDDなどの記憶装置を取り除いた上での、下取り対応が可能です。）
-また廃棄業者からはマニフェストと呼ばれる、国から認められた排出事業者のみが出すことの出来る正式な廃棄証明書を取得し、
+その他ご希望により、PCやネットワーク機器など下取り対象品となるアセットにおいては、廃棄ではなく下取り処理とすることで廃棄料金と相殺することが出来ます。（※HDDなどの記憶装置を取り除いた上での、下取り対応が可能です。）
+
+また廃棄業者からは「マニフェスト」と呼ばれる、国から認められた排出事業者のみが出すことの出来る正式な廃棄証明書を取得し、
 提出させていただきます。
+
+### 流れ
 
 一般的な対応の流れとしては以下の形で行っております。
 
-１．廃棄対象となる全てのアセットの情報を集約したインベントリファイルを作成します。（ITアセット番号、資産管理番号、シリアルナンバーや型番、対象品の写真などを含む）
+1. 廃棄対象となる全てのアセットの情報を集約したインベントリファイルを作成します。（ITアセット番号、資産管理番号、シリアルナンバーや型番、対象品の写真などを含む）
+1. 関連部門（総務や経理など）との確認の上、弊社で契約のある複数の廃棄業者より適切な業者の見積もりを取得します。
+1. 引き取り日を確定、必要に応じてビル側への作業届けを申請し、廃棄品の回収までを見届けます。
+1. 後日発行される廃棄証明書（マニフェスト）を取得し、関連部門へ提出いたします。
 
-２．関連部門（総務や経理など）との確認の上、弊社で契約のある複数の廃棄業者より適切な業者の見積もりを取得します。
+<div class="timeline is-centered has-padding-b-l">
+  <header class="timeline-header">
+    <span class="tag is-medium is-esolia-yellow-1">開始</span>
+  </header>
+  <div class="timeline-item is-esolia-yellow-1">
+    <div class="timeline-marker is-esolia-yellow-1 is-icon">
+      <i class="fas fa-clipboard has-text-white"></i>
+    </div>
+    <div class="timeline-content">
+      <p class="heading">STEP 1</p>
+      <p>インベントリファイル作成</p>
+    </div>
+  </div>
+  <div class="timeline-item is-esolia-yellow-0">
+    <div class="timeline-marker is-esolia-yellow-0 is-icon">
+      <i class="fas fa-exchange-alt has-text-white"></i>
+    </div>
+    <div class="timeline-content">
+      <p class="heading">STEP 2</p>
+      <p>部門・業者コーディネーション</p>
+    </div>
+  </div>
+  <div class="timeline-item is-esolia-secondary-1-0">
+    <div class="timeline-marker is-esolia-secondary-1-0 is-icon">
+      <i class="fas fa-check has-text-white"></i>
+    </div>
+    <div class="timeline-content">
+      <p class="heading">STEP 3</p>
+      <p>廃棄品引き取り申し込み</p>
+    </div>
+  </div>  
+  <header class="timeline-header">
+    <span class="tag is-medium is-esolia-secondary-1-0">引き取り</span>
+  </header>
+  <div class="timeline-item is-esolia-secondary-1-0">
+    <div class="timeline-marker is-esolia-secondary-1-0 is-icon">
+      <i class="fas fa-recycle has-text-white"></i>
+    </div>
+    <div class="timeline-content">
+      <p class="heading">STEP 4</p>
+      <p>リサイクルや廃棄作業</p>
+    </div>
+  </div>
+  <header class="timeline-header">
+    <span class="tag is-medium is-esolia-secondary-1-0">作業完了</span>
+  </header>
+  <div class="timeline-item is-esolia-yellow-0">
+    <div class="timeline-marker is-esolia-yellow-0 is-icon">
+      <i class="fas fa-check has-text-white"></i>
+    </div>
+    <div class="timeline-content">
+      <p class="heading">STEP 5</p>
+      <p>業者廃棄証明書取得</p>
+    </div>
+  </div>    
+  <div class="timeline-item is-esolia-secondary-2-0">
+    <div class="timeline-marker is-esolia-secondary-2-0 is-icon">
+      <i class="fas fa-exchange-alt has-text-white"></i>
+    </div>
+    <div class="timeline-content">
+      <p class="heading">STEP 6</p>
+      <p>イソリア確認・レポート作成</p>
+    </div>
+  </div>
+  <div class="timeline-item is-esolia-secondary-2-0">
+    <div class="timeline-marker is-esolia-secondary-2-0 is-icon">
+      <i class="fas fa-clipboard-check has-text-white"></i>
+    </div>
+    <div class="timeline-content">
+      <p class="heading">STEP 7</p>
+      <p>レポートの提出</p>
+    </div>
+  </div>  
+  <header class="timeline-header">
+    <span class="tag is-medium is-esolia-secondary-2-0">完了</span>
+  </header>
+</div>
 
-３．引き取り日を確定、必要に応じてビル側への作業届けを申請し、廃棄品の回収までを見届けます。
-
-４．後日発行される廃棄証明書（＝マニフェスト）を取得し、関連部門へ提出いたします。
-
-一連の流れは、処分品の量やご要望に応じて早ければ数週間以内に実施することが可能です。
-ITアセット品の廃棄処理にお困りの方は、是非弊社にお任せください。
-
-お問い合わせ
-私たちのサービスやソリューションにご興味を頂けましたか？ 
-是非このフォームからご連絡ください！
-
-## IT管理に怯えるなかれ
-
-ＩＴを効率よく利用すれば、本来持っているポテンシャルを自在に扱う事が可能になり、それにより生み出されるメリットは計り知れないものになるでしょう。 ただしキチンと管理しない事による仕事量の増加、生産性の減少、まさに社員への諸刃になり得るツールなのです。 上手く駆使するには、なにもインターナルでそれら全ての作業を担う必要はありません。そう、プロセス管理に怯える日々にお別れを。
-
-### プロセス撃退法
-
-{{< punchlist title="依頼頻度の高いカテゴリ" bgcolor="is-esolia-blue-0">}}
-1. プロジェクトの管理
-1. サーバー・データセンターの管理
-1. ビル法定停電時のITシステム管理
-1. コンプライアンスの管理
-1. 資産の管理
-1. ライセンスや保証の管理
-{{< /punchlist >}}
-
-日々複雑化するプロセスを当社の洗練されたプロシージャ且つ、貴社の希望に極力沿ったメソッドで対応いたします。
-
-1. 度重なる急な変更、迫るデッドライン、手強いプロジェクト管理の対応
-1. 進化し続けるハードウェア、ビジネスに貢献するソフトウェアの調達
-1. 例年消防検査のためのビル法定停電時におけるITシステムのシャットダウン、再起動、及び動作再検証の管理
-1. 効率性とお財布を考慮した予算管理
-1. 寒く孤独なデータセンターでの運用保守、スパゲッティの様に絡み合う配線の管理など
-1. 現代の大きな脅威、コンプライアンス管理
-1. 目まぐるしく変わっていく資産の管理
-1. 誰がどのバージョンを利用しているのか等、ライセンスの管理
-1. サポート期間や延長など保証の管理
-1. 増えるジャンク、データ消去、ムダと有益のジャッジ。リサイクルや廃棄の管理
-
-### プロセス管理に立ち向かうイソリア哲学
-
-これら一貫性を持った当社の信条をモットーに、難解なプロセスに挑み続けます
-
-* 貴社からの信頼向上という焦点に照準を合わせ、ベンダーや協力会社と円滑に最善策を備えていきます
-* 基準やポリシーを坤軸としながらも、経験と論理を合わせた最良の判断を下します
-* ゴーサインは貴社の手で。ITプロフェッショナルという観点での戦略や助言にて縁の下から支えます
-* 1プロセス1プロセスに責任を。準備、調整、実行、ドキュメント化、フォローアップ含め自信を持ってアシストします
-* プロセスの詳細はデータベース上で精巧に考査され、洗練されたレポートとして貴社に提供します
+一連の流れは、処分品の量やご要望に応じて早ければ数週間以内に実施することが可能です。ITアセット品の廃棄処理にお困りの方は、是非弊社にお任せください。
