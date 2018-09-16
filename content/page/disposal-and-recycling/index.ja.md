@@ -31,7 +31,7 @@ menu:
   processsub:
     Name: IT関連品の廃棄処理
     Weight: 20
-    Url: /disposal-and-recycling
+    Url: /disposal-and-recycling/
 ---
 
 <div class="buttons has-addons is-hidden-tablet">

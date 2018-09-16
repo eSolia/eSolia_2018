@@ -29,7 +29,7 @@ menu:
   processsub:
     Name: IT Disposal and Recycling
     Weight: 20
-    Url: /disposal-and-recycling
+    Url: /disposal-and-recycling/
 ---
 
 <div class="buttons has-addons is-hidden-tablet">
