@@ -2,7 +2,7 @@
 author: イソリア
 date: 2018-09-16T10:35:31+09:00
 publishdate: 2018-09-16T10:35:31+09:00
-draft: true
+draft: false
 title: IT関連品の廃棄処理
 slug: disposal-and-recycling
 subtitle: どうやってPC/サーバ類を廃棄するか
