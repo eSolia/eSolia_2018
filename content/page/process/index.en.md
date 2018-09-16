@@ -1,6 +1,6 @@
 ---
 author: eSolia
-date: 2018-05-06T07:07:27+09:00
+date: 2018-09-16T10:40:21+09:00
 publishdate: 2018-05-06T07:07:27+09:00
 draft: false
 title: Process Management
@@ -98,7 +98,7 @@ Processes tend to become more complicated over time, especially when it involves
 1. Got a bewildering number of assets? Consider them managed.  
 1. License management, so you know who has what version and how many copies are installed.
 1. Warranty management for clear understanding of warranty periods, terms and extensions.
-1. Recycling and disposal management for the pileup of "junk", and secure deletion of data.
+1. [Recycling and disposal management](/disposal-and-recycling) for the pileup of "junk", and secure deletion of data.
 
 ### The eSolia Philosophy for Process Management
 
