@@ -41,12 +41,12 @@ menu:
   services:
     Name: ビル定期停電のIT管理
     Weight: 30
-    Url: /planned-power-outage-it-management
+    Url: /planned-power-outage-it-management/
     Parent: osproc_ja
   processsub:
     Name: ビル定期停電のIT管理
     Weight: 10
-    Url: /planned-power-outage-it-management
+    Url: /planned-power-outage-it-management/
 ---
 
 <div class="buttons has-addons is-hidden-tablet">

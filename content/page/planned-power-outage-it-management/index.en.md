@@ -41,12 +41,12 @@ menu:
   services:
     Name: Planned Power Outage IT Management
     Weight: 30
-    Url: /planned-power-outage-it-management
+    Url: /planned-power-outage-it-management/
     Parent: osproc_en
   processsub:
     Name: Planned Power Outage IT Management
     Weight: 10
-    Url: /planned-power-outage-it-management
+    Url: /planned-power-outage-it-management/
 ---
 
 <div class="buttons has-addons is-hidden-tablet">
