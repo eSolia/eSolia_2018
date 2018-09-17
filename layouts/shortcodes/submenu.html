@@ -1,5 +1,6 @@
 <div class="buttons has-addons">
-  <a class="button" href="/process"><span class="icon"><i class="fas fa-anchor"></i></span></a>
+{{ $anchorUrl := .Get 1 }}
+  <a class="button" href="/{{ $anchorUrl }}"><span class="icon"><i class="fas fa-anchor"></i></span></a>
 {{ $currentPage := $.Page }}
 {{ $menuName := .Get 0 }}
 {{ $rangeData := index $.Site.Menus $menuName }}

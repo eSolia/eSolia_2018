@@ -44,7 +44,7 @@ menu:
   <a class="button" href="/localization">ローカライゼーション</a>
 </div>
 
-{{< submenu processsub >}}
+{{< submenu processsub process >}}
 
 ## 一般的な廃棄プロセスについて
 

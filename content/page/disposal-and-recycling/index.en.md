@@ -42,7 +42,7 @@ menu:
   <a class="button" href="/localization">Localization</a>
 </div>
 
-{{< submenu processsub >}}
+{{< submenu processsub process >}}
 
 ## A General Disposal Process
 

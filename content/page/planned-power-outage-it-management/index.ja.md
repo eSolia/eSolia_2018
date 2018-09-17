@@ -59,7 +59,7 @@ menu:
   <a class="button" href="/localization">ローカライゼーション</a>
 </div>
 
-{{< submenu processsub >}}
+{{< submenu processsub process >}}
 
 ## 日本の規則要件について　
 
