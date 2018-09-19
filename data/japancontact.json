@@ -177,7 +177,7 @@
     "Hours‡": null,
     "URL": "http://www.rcsc.co.jp/safety-tips-en",
     "URL‡": "http://www.rcsc.co.jp/safety",
-    "Toll Free Call?": true
+    "Toll Free Call?": false
   },
   {
     "@row.id": 31,
@@ -192,7 +192,7 @@
     "Hours‡": null,
     "URL": "http://pocketshelter.jp/",
     "URL‡": "http://pocketshelter.jp/",
-    "Toll Free Call?": true
+    "Toll Free Call?": false
   },
   {
     "@row.id": 10,
