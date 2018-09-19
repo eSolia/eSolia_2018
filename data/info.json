@@ -1,5 +1,20 @@
 [
   {
+    "@row.id": 984,
+    "Date": "2018-Sept-19",
+    "Description": "iOS 12 New Features Series: iOS 12 was released yesterday, and besides the greatly improved performance (even for older hardware), one useful feature is in Settings > Screen Time. Use it to see and even limit how much time you are spending in various apps, and even share the information across devices."
+  },
+  {
+    "@row.id": 979,
+    "Date": "2018-Sept-19",
+    "Description": "iOS 12 Security Series 1/5: Apple released its latest update to iOS, the OS on iPhone and iPad. We'll post a few security-related updates over the next few days. First: restrict what can be done from your lock screen in Settings > Touch ID & Passcode. The new feature as of iOS 12 is \"USB accessories\" which helps prevent hacking attacks, but you can also restrict the ability to use Siri or your Wallet etc., from your locked iPhone."
+  },
+  {
+    "@row.id": 978,
+    "Date": "2018-Sept-18",
+    "Description": "In addition to our [Planned Power Outage Management](https://esolia.com/planned-power-outage-it-management/) page, see our latest page by engineering manager H. Maezono, about [Disposal and Recycling](https://esolia.com/disposal-and-recycling/) of IT assets such as old PCs, network equipment or printers. [Request info](https://esolia.com/info-request/) today, for more on how eSolia can assist you manage your IT in Japan. "
+  },
+  {
     "@row.id": 977,
     "Date": "2018-Sept-13",
     "Description": "Japan visitors: recent natural disasters in Kansai and Hokkaido Japan show that you should never underestimate the power of Mother Nature. Japan has the \"J-ALERT\" disaster alert system, and there is a way to get those alerts in English. Get “[NHK WORLD TV](https://apple.co/2EmIeUD)” on your App Store (available for Android also), and enable quake and tsunami alerts in settings. Learn more on eSolia's new page about the [J-ALERT](https://esolia.com/japan-emergency-broadcast-system-j-alert/) system."
