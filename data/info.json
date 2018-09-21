@@ -1,8 +1,23 @@
 [
   {
+    "@row.id": 985,
+    "Date": "2018-Sept-21",
+    "Description": "iOS 12 New Features Series: in Settings > Siri & Search, you can set up \"Siri Shortcuts\" that are like macros for common tasks you do, triggered by a command to Siri."
+  },
+  {
+    "@row.id": 981,
+    "Date": "2018-Sept-21",
+    "Description": "iOS 12 Security Series 3/5: set a stronger device passcode in Settings > Touch ID & Passcode, selecting \"Custom Numeric Code\" and setting it to 6 or 8 digits."
+  },
+  {
+    "@row.id": 980,
+    "Date": "2018-Sept-20",
+    "Description": "iOS 12 Security Series 2/5: if you use the IOS password manager to enter your passwords, you can now see which of your passwords might be compromised. Open Settings > Passwords & Accounts > Website & App Passwords, and notice the small warning symbol next to accounts with the same password as another site. Find such sites and change their passwords."
+  },
+  {
     "@row.id": 984,
     "Date": "2018-Sept-19",
-    "Description": "iOS 12 New Features Series: iOS 12 was released yesterday, and besides the greatly improved performance (even for older hardware), one useful feature is in Settings > Screen Time. Use it to see and even limit how much time you are spending in various apps, and even share the information across devices."
+    "Description": "iOS 12 New Features Series: [iOS 12](https://www.apple.com/ios/ios-12/) was released yesterday, and besides the greatly improved performance (even for older hardware), one useful feature is in Settings > Screen Time. Use it to see and even limit how much time you are spending in various apps, and even share the information across devices."
   },
   {
     "@row.id": 979,
