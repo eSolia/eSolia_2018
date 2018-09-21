@@ -1,4 +1,4 @@
-﻿Description‡,Number‡,Number Notes‡,Hours‡,URL‡,Toll Free Call?,Date Modified
+﻿Description‡,Number‡,Notes‡,Hours‡,URL‡,Toll Free Call?,Date Modified
 火事・救助・救急車,119,,24時間（年中無休）,http://www.tfd.metro.tokyo.jp/,True,2018-06-14 15:15:01
 救急相談センター,#7119,"つながらない場合は…
 23区：03-3212-2323
@@ -14,12 +14,12 @@
 * 防災週間（8月30日9:00～9月5日17:00）
 * 防災とボランティア週間（1月15日9:00～1月21日17:00
 ",災害発生時にサービス提供;体験利用提供日: 毎月1日、15日0:00-24:00,https://www.web171.jp/web171app/disasterTop.do?japanese,True,2018-06-14 17:44:39
-"自然災害・攻撃情報 ""J-ALERT""",,,,https://esolia.co.jp/japan-emergency-broadcast-system-j-alert/,False,2018-09-12 11:06:32
-スマホ用アプリ NHK World TV (設定で警報を有効に),,,,https://apple.co/2EmIeUD,False,2018-06-11 14:48:18
-JAPAN Hospital Guide 多言語GPS連動病院検索、iOSアプリ,,,,https://itunes.apple.com/us/app/japan-hospital-guide/id1296151839?mt=8,False,2018-06-22 10:08:20
-ゆれくるコール 地震情報 アプリ (インアプリ購入有り),,,,http://www.rcsc.co.jp/yurekuru,False,2018-09-19 18:04:52
-Safety Tips、日本国内における緊急地震・津波・噴火・気象などの速報を通知するアプリ,,,,http://www.rcsc.co.jp/safety,False,2018-09-19 18:35:54
-PocketShelter アプリ、近くの避難所確認、大切な人の安否確認,,,,http://pocketshelter.jp/,False,2018-09-19 18:36:03
+「J-ALERT」 システム,,自然災害・攻撃時、全国瞬時警報システム。,,https://esolia.co.jp/japan-emergency-broadcast-system-j-alert/,False,2018-09-21 13:56:35
+NHK ワールドテレビ,,NHKのスマホ用ニュースと警告アプリ。設定で警報を有効にする必要あり。,,https://apple.co/2EmIeUD,False,2018-09-21 13:59:42
+ジャパンホスピタルガイド,,多言語GPS連動病院検索病院検索iOSアプリ「JHG」。,,https://itunes.apple.com/us/app/japan-hospital-guide/id1296151839?mt=8,False,2018-09-21 14:03:46
+ゆれくるコール,,地震情報 アプリ (インアプリ購入有り),,http://www.rcsc.co.jp/yurekuru,False,2018-09-21 14:05:16
+セーフティチップス,,日本国内における緊急地震・津波・噴火・気象などの速報を通知する他国語アプリ。,,http://www.rcsc.co.jp/safety,False,2018-09-21 14:08:03
+ポケットシェルター,,近くの避難所確認（オフライン地図も可）、大切な人の安否確認をさせてくれるスマホ用アプリ。,,http://pocketshelter.jp/,False,2018-09-21 14:10:12
 道路緊急ダイヤル,#9910,,24時間（年中無休）,https://www.mlit.go.jp/road/dia/,True,2018-06-14 16:53:53
 ロードサービス (JAF),#8139,,24時間（年中無休）,http://www.jaf.or.jp/,False,2018-06-13 20:21:37
 電話番号案内,104,,24時間（年中無休）,https://web116.jp/phone/numguide/,False,2018-06-13 20:21:38

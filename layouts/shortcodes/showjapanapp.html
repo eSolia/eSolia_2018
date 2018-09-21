@@ -2,32 +2,20 @@
 <table class="table is-size-6 is-striped is-hoverable is-fullwidth is-bordered">
   <thead>
     <tr>
-      <th>Service</th>
-      <th>Number</th>
-      <th>Number Notes</th>
-      <th>Hours of Operation</th>
-      <th>Toll Free?</th>
+      <th>App Name</th>
+      <th>Notes</th>
       <th>Link</th>
     </tr>
   </thead>
   <tbody>
-    {{ range $.Site.Data.japancontact }}
+    {{ range $.Site.Data.japanapp }}
     <tr>
       <td>
         {{ with (index . "Description") }}{{ . | markdownify}}{{ end }}
       </td>
       <td>
-        {{ with (index . "Number") }}{{ . }}{{ end }}
-      </td>
-      <td>
         {{ with (index . "Notes") }}{{ . | markdownify }}{{ end }}
       </td>      
-      <td>
-        {{ with (index . "Hours") }}{{ . | markdownify }}{{ end }}
-      </td>
-      <td class="has-text-esolia-blue-0">
-        {{ with (index . "Toll Free Call?") }}{{ replace . "true" "✓" | safeHTML }}{{ end }}
-      </td>
       <td>
         {{ with (index . "URL") }}<a href="{{ . | safeHTML }}" target="_blank"><i class="fas fa-external-link-square-alt has-text-esolia-blue-1"></i></a>{{ end }}
       </td>      
@@ -41,31 +29,19 @@
 <table class="table is-size-6 is-striped is-hoverable is-fullwidth is-bordered">
   <thead>
     <tr>
-      <th>サービス</th>
-      <th>番号</th>
+      <th>アプリ名</th>
       <th>備考</th>
-      <th>営業時間</th>
-      <th>通話料無料</th>
       <th>リンク</th>
     </tr>
   </thead>
   <tbody>
-    {{ range $.Site.Data.japancontact }}
+    {{ range $.Site.Data.japanapp }}
     <tr>
       <td>
         {{ with (index . "Description‡") }}{{ . | markdownify}}{{ end }}
       </td>
       <td>
-        {{ with (index . "Number‡") }}{{ . }}{{ end }}
-      </td>
-      <td>
         {{ with (index . "Notes‡") }}{{ . | markdownify }}{{ end }}
-      </td>
-      <td>
-        {{ with (index . "Hours‡") }}{{ . | markdownify }}{{ end }}
-      </td>
-      <td class="has-text-esolia-blue-0">
-        {{ with (index . "Toll Free Call?") }}{{ replace . "true" "✓" }}{{ end }}
       </td>
       <td>
         {{ with (index . "URL‡") }}<a href="{{ . | safeHTML }}" target="_blank"><i class="fas fa-external-link-square-alt has-text-esolia-blue-1"></i></a>{{ end }}

@@ -1,0 +1,62 @@
+[
+  {
+    "@row.id": 8,
+    "Id": "8",
+    "Description": "\"J-ALERT\" System",
+    "Description‡": "「J-ALERT」 システム",
+    "Notes": "Japan Disaster Alert communication system. ",
+    "Notes‡": "自然災害・攻撃時、全国瞬時警報システム。",
+    "URL": "https://esolia.com/japan-emergency-broadcast-system-j-alert/",
+    "URL‡": "https://esolia.co.jp/japan-emergency-broadcast-system-j-alert/"
+  },
+  {
+    "@row.id": 9,
+    "Id": "9",
+    "Description": "NHK World TV",
+    "Description‡": "NHK ワールドテレビ",
+    "Notes": "NHK's News and alert app for Smartphones. Enable alert notifications in settings.",
+    "Notes‡": "NHKのスマホ用ニュースと警告アプリ。設定で警報を有効にする必要あり。",
+    "URL": "https://apple.co/2EmIeUD",
+    "URL‡": "https://apple.co/2EmIeUD"
+  },
+  {
+    "@row.id": 28,
+    "Id": "28",
+    "Description": "JAPAN Hospital Guide",
+    "Description‡": "ジャパンホスピタルガイド",
+    "Notes": "Multilingual iOS smartphone app with GPS guide maps, to help Japan visitors find hospitals and clinics. ",
+    "Notes‡": "多言語GPS連動病院検索病院検索iOSアプリ「JHG」。",
+    "URL": "https://itunes.apple.com/us/app/japan-hospital-guide/id1296151839?mt=8",
+    "URL‡": "https://itunes.apple.com/us/app/japan-hospital-guide/id1296151839?mt=8"
+  },
+  {
+    "@row.id": 29,
+    "Id": "29",
+    "Description": "Yurekuru Call",
+    "Description‡": "ゆれくるコール",
+    "Notes": "Quake alert smartphone app with in-app purchases.",
+    "Notes‡": "地震情報 アプリ (インアプリ購入有り)",
+    "URL": "https://itunes.apple.com/us/app/yurekuru-call/id398954883",
+    "URL‡": "http://www.rcsc.co.jp/yurekuru"
+  },
+  {
+    "@row.id": 30,
+    "Id": "30",
+    "Description": "Safety Tips",
+    "Description‡": "セーフティチップス",
+    "Notes": "A multilingual disaster safety tips and early warning app for quake, tsunami, volcano, weather warnings (etc).",
+    "Notes‡": "日本国内における緊急地震・津波・噴火・気象などの速報を通知する他国語アプリ。",
+    "URL": "http://www.rcsc.co.jp/safety-tips-en",
+    "URL‡": "http://www.rcsc.co.jp/safety"
+  },
+  {
+    "@row.id": 31,
+    "Id": "31",
+    "Description": "PocketShelter",
+    "Description‡": "ポケットシェルター",
+    "Notes": "A multilingual smartphone app, with evacuation area map (offline ok), which helps confirm contacts' safety.",
+    "Notes‡": "近くの避難所確認（オフライン地図も可）、大切な人の安否確認をさせてくれるスマホ用アプリ。",
+    "URL": "http://pocketshelter.jp/",
+    "URL‡": "http://pocketshelter.jp/"
+  }
+]

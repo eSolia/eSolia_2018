@@ -1,4 +1,4 @@
-﻿Description,Number,Number Notes,Hours,URL,Toll Free Call?,Date Modified
+﻿Description,Number,Notes,Hours,URL,Toll Free Call?,Date Modified
 "Emergency Call for Fire, Ambulance or Emergency Rescue",119,,"24x7, 365d",http://www.tfd.metro.tokyo.jp/eng/,True,2018-06-14 15:15:01
 Emergency Advisory Service for non-Emergency Inquiries,#7119,,"24x7, 365d",,False,2018-06-14 18:02:32
 Emergency Call to Police,110,,"24x7, 365d",http://www.keishicho.metro.tokyo.jp/multilingual/english/index.html,True,2018-06-13 20:21:36
@@ -11,12 +11,12 @@ Disaster Voice Message,171,"Testing Availability Dates and Times:
 * New years: 1 Jan 00:00~3 Jan 24:00
 * Disaster prevention week: 30 Aug 9:00~5 Sept 17:00
 * Disaster Prevention and Volunteer Week: 15 Jan 9:00~21 Jan 17:00",Available during disasters. Testing on 1st and 15th.,https://www.web171.jp/,True,2018-06-14 17:44:39
-"Japan Disaster Alerts ""J-ALERT""",,,,https://esolia.com/japan-emergency-broadcast-system-j-alert/,False,2018-09-12 11:06:32
-NHK World TV App for Smart Phones (Enable Alerts in Settings),,,,https://apple.co/2EmIeUD,False,2018-06-11 14:48:18
-"JAPAN Hospital Guide App with GPS Map, for iOS",,,,https://itunes.apple.com/us/app/japan-hospital-guide/id1296151839?mt=8,False,2018-06-22 10:08:20
-Yurekuru Call Quake Alert (In-app purchase),,,,https://itunes.apple.com/us/app/yurekuru-call/id398954883,False,2018-09-19 18:04:52
-"Safety Tips, a multilingual early warning app for quake, tsunami, volcano, weather warnings (etc)",,,,http://www.rcsc.co.jp/safety-tips-en,False,2018-09-19 18:35:54
-"PocketShelter multilingual app, evacuation area map (offline ok), confirm contacts' safety",,,,http://pocketshelter.jp/,False,2018-09-19 18:36:03
+"""J-ALERT"" System",,Japan Disaster Alert communication system. ,,https://esolia.com/japan-emergency-broadcast-system-j-alert/,False,2018-09-21 13:56:35
+NHK World TV,,NHK's News and alert app for Smartphones. Enable alert notifications in settings.,,https://apple.co/2EmIeUD,False,2018-09-21 13:59:42
+JAPAN Hospital Guide,,"Multilingual iOS smartphone app with GPS guide maps, to help Japan visitors find hospitals and clinics. ",,https://itunes.apple.com/us/app/japan-hospital-guide/id1296151839?mt=8,False,2018-09-21 14:03:46
+Yurekuru Call,,Quake alert smartphone app with in-app purchases.,,https://itunes.apple.com/us/app/yurekuru-call/id398954883,False,2018-09-21 14:05:16
+Safety Tips,,"A multilingual disaster safety tips and early warning app for quake, tsunami, volcano, weather warnings (etc).",,http://www.rcsc.co.jp/safety-tips-en,False,2018-09-21 14:08:03
+PocketShelter,,"A multilingual smartphone app, with evacuation area map (offline ok), which helps confirm contacts' safety.",,http://pocketshelter.jp/,False,2018-09-21 14:10:12
 Road Problem Reporting,#9910,,"24x7, 365d",,True,2018-06-14 16:53:53
 Road Service (JAF),#8139,,"24x7, 365d",http://www.jaf.or.jp/e/road_s_info.htm,False,2018-06-13 20:21:37
 Directory Assistance,104,,"24x7, 365d",https://www.ntt-east.co.jp/en/product/option_104.html,False,2018-06-13 20:21:38
