@@ -1,7 +1,7 @@
 ---
 author: eSolia
 authorlink: /about
-date: 2018-09-21T15:40:02+09:00
+date: 2018-10-04T16:30:03+09:00
 publishdate: 2018-09-21T15:25:02+09:00
 description: eSolia Japan Apps - in convenient list format.
 draft: false
@@ -32,8 +32,8 @@ menu:
 
 {{< submenu disastersub japan-disaster >}}
 
-See our list of useful apps below. Japan has the "[J-ALERT](/japan-emergency-broadcast-system-j-alert/)" emergency broadcast system, and some apps such as the "NHK World TV" can receive the alerts in a timely way. 
+See our list of useful apps below. Japan has the "[J-ALERT](/japan-emergency-broadcast-system-j-alert/)" emergency broadcast system, and you can receive these on mobile devices with SIM cards from the major carriers. As an alternative, some apps such as the "NHK World TV" app can receive the alerts in a timely manner. 
 
-eSolia recommends visitors and residents to install these apps from your app store, and confirm settings to receive quake, tsunami and/or breaking news alerts. 
+eSolia recommends visitors and residents to set your mobile device to receive alerts, and install these apps from your app store, confirming settings to receive quake, tsunami and/or breaking news alerts. 
 
 {{< showjapanapp >}}

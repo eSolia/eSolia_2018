@@ -1,5 +1,70 @@
 [
   {
+    "@row.id": 996,
+    "Date": "2018-Oct-03",
+    "Description": "PSA: it seems that clever voice phishing, or \"vishing\" schemes [are really a thing](https://krebsonsecurity.com/2018/10/voice-phishing-scams-are-getting-more-clever/) now. Unfortunately, we all have to be aware of what criminals are doing, and be alert enough to not fall for such a scam. "
+  },
+  {
+    "@row.id": 995,
+    "Date": "2018-Oct-02",
+    "Description": "PSA: Mozilla has released \"[Firefox Monitor](https://monitor.firefox.com)\", a site that checks your email addresses against known security breaches. Scan your email, and change the passwords of any sites it flags."
+  },
+  {
+    "@row.id": 991,
+    "Date": "2018-Oct-01",
+    "Description": "iOS 12 New Features Series: Apple Music now supports searching by song lyrics."
+  },
+  {
+    "@row.id": 994,
+    "Date": "2018-Sept-30",
+    "Description": "PSA: Typhoon Trami moving up Japan now, Tokyo area evening Sun 30 Sept. JR East is suspending all train operations from 8pm. Take precautions and expect travel disruption. 🌀🌀"
+  },
+  {
+    "@row.id": 990,
+    "Date": "2018-Sept-28",
+    "Description": "iOS 12 New Features Series: the new \"[Measure](https://www.youtube.com/watch?v=XPv6_pxrvzw)\" app lets you measure the dimensions of objects around you. This is based on \"ARKit\", an augmented-reality software library which we should see more apps taking advantage of over time."
+  },
+  {
+    "@row.id": 993,
+    "Date": "2018-Sept-27",
+    "Description": "PSA: companies using Cisco products should be aware of the \"[FragmentSmack](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180824-linux-ip-fragment)\" Denial-of-Service (DoS) vulnerability / bug, and make appropriate arrangements. Don't hesitate to ask eSolia if you need assistance. "
+  },
+  {
+    "@row.id": 989,
+    "Date": "2018-Sept-27",
+    "Description": "iOS 12 New Features Series: Do Not Disturb is enhanced, with the ability to enable for a set period, until a location is left, or until the end of an event."
+  },
+  {
+    "@row.id": 988,
+    "Date": "2018-Sept-26",
+    "Description": "iOS 12 New Features Series: Photos has various new features that help you with sharing, searching and so on. In other words, it's more like Google Photos now."
+  },
+  {
+    "@row.id": 983,
+    "Date": "2018-Sept-26",
+    "Description": "iOS 12 Security Series 5/5: Enable 2-factor authentication for your iOS devices. Go to Settings > tap your name > Password & Security, and enable \"Two Factor Authentication\"."
+  },
+  {
+    "@row.id": 987,
+    "Date": "2018-Sept-25",
+    "Description": "iOS 12 New Features Series: FaceTime will allow you to talk with up to 32 people at once, later this fall."
+  },
+  {
+    "@row.id": 982,
+    "Date": "2018-Sept-25",
+    "Description": "iOS 12 Security Series 4/5: we believe that security patches should be applied quickly, so we usually turn on \"Automatic Updates\" in Settings > General > Software Update."
+  },
+  {
+    "@row.id": 992,
+    "Date": "2018-Sept-24",
+    "Description": "See our updated pages related to [Japan Disaster information](https://esolia.com/japan-disaster/), including a list of Japan [emergency phone numbers](https://esolia.com/japan-contacts/) (with CSV download) and a list of [useful Japan apps](https://esolia.com/japan-apps/). 🚀"
+  },
+  {
+    "@row.id": 986,
+    "Date": "2018-Sept-23",
+    "Description": "iOS 12 New Features Series: emergency SOS is now able to share your location with the emergency responder (e.g. 911 in the USA). We hope this feature is adopted widely in the countries where iPhones are in use."
+  },
+  {
     "@row.id": 985,
     "Date": "2018-Sept-21",
     "Description": "iOS 12 New Features Series: in Settings > Siri & Search, you can set up \"Siri Shortcuts\" that are like macros for common tasks you do, triggered by a command to Siri."

@@ -1,13 +1,23 @@
 [
   {
-    "@row.id": 8,
-    "Id": "8",
-    "Description": "\"J-ALERT\" System",
-    "Description‡": "「J-ALERT」 システム",
-    "Notes": "Japan Disaster Alert communication system. ",
-    "Notes‡": "自然災害・攻撃時、全国瞬時警報システム。",
-    "URL": "https://esolia.com/japan-emergency-broadcast-system-j-alert/",
-    "URL‡": "https://esolia.co.jp/japan-emergency-broadcast-system-j-alert/"
+    "@row.id": 32,
+    "Id": "32",
+    "Description": "iOS Emergency Alerts",
+    "Description‡": "iOS 緊急速報",
+    "Notes": "For phones with SIM cards from the major carriers in Japan (SoftBank, KDDI Au, NTT DoCoMo), navigate to iOS Settings, Notifications, then scroll down and tap \"Emergency Alerts\" to ON, to receive alerts directly to your mobile device. ",
+    "Notes‡": "大三キャリアSoftBank、KDDI Au又はNTT DoCoMoのSIMカードでしたら、iOS設定、設置へ移動し、スクロールすると、緊急速報をタップしONにすると、直接モバイル機器にも緊急速報通知が受信頂けます。",
+    "URL": "https://support.apple.com/en-gb/HT202346",
+    "URL‡": "https://support.apple.com/ja-jp/HT202346"
+  },
+  {
+    "@row.id": 33,
+    "Id": "33",
+    "Description": "Android 8.1+ Emergency Alerts",
+    "Description‡": "Android 8.1+ 緊急速報",
+    "Notes": "For mobiles with Android 8.1 (or later), you can directly receive Emergency alerts. Here's how to enable for [SoftBank](https://did2memo.net/2017/09/18/jishin-kinkyu-jishin-sokuhou-settings-android-softbank/), [KDDI Au](https://did2memo.net/2017/09/15/jishin-kinkyu-jishin-sokuhou-settings-android-au/), and [NTT DoCoMo](https://did2memo.net/2017/09/10/jishin-kinkyu-jishin-sokuhou-settings-android-docomo/) (in Japanese). ",
+    "Notes‡": "Android 8.1以降搭載のモバイルでしたら、緊急速報を受信頂けます。異なりますそれぞれの設定方法をご覧ください：[SoftBank](https://did2memo.net/2017/09/18/jishin-kinkyu-jishin-sokuhou-settings-android-softbank/)、[KDDI Au](https://did2memo.net/2017/09/15/jishin-kinkyu-jishin-sokuhou-settings-android-au/)、又は[NTT DoCoMo](https://did2memo.net/2017/09/10/jishin-kinkyu-jishin-sokuhou-settings-android-docomo/) ",
+    "URL": "https://www.engadget.com/2017/12/29/japan-disaster-alerts-android-8-1/",
+    "URL‡": "https://www.tca.or.jp/topics/2017/1225_844.html"
   },
   {
     "@row.id": 9,
