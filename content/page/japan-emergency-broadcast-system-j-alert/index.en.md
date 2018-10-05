@@ -26,6 +26,12 @@ images:
 formcheckboxesNO:
   - Disaster Management
 gallery_idNO: 6159794668058542529
+menu:
+  disastersub:
+    Name: J-ALERT System
+    Weight: 70
+    Identifier: disastersubjalert_en
+    Url: /japan-emergency-broadcast-system-j-alert/
 ---
 
 <div class="buttons has-addons is-hidden-tablet">
@@ -37,6 +43,8 @@ gallery_idNO: 6159794668058542529
   <a class="button" href="/website-design">Website</a>
   <a class="button" href="/localization">Localization</a>
 </div>
+
+{{< submenu disastersub japan-disaster >}}
 
 ## What is J-ALERT?
 

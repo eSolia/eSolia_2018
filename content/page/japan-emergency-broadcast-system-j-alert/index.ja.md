@@ -28,6 +28,12 @@ images:
 formcheckboxesNO:
   - 全国瞬時警報
 gallery_idNO: 6159794668058542529
+menu:
+  disastersub:
+    Name: 全国瞬時警報システム J-ALERT
+    Weight: 70
+    Identifier: disastersubjalert_ja
+    Url: /japan-emergency-broadcast-system-j-alert/
 ---
 
 <div class="buttons has-addons is-hidden-tablet">
@@ -39,6 +45,8 @@ gallery_idNO: 6159794668058542529
   <a class="button" href="/website-design">ウェブサイト</a>
   <a class="button" href="/localization">ローカライゼーション</a>
 </div>
+
+{{< submenu disastersub japan-disaster >}}
 
 ## J-ALERTとは?
 
