@@ -19,6 +19,9 @@
     <link rel="stylesheet" type="text/css" href="/css/main.min.css{{with getenv "MAINCSS_HASH"}}?v={{.}}{{end}}">
     <script src="/js/main.min.js{{with getenv "MAINJS_HASH"}}?v={{.}}{{end}}"></script>
 
+  {{ if .IsHome }}
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.2/moment-with-locales.js" integrity="sha256-uAmtcHxcK7o0T9gFmupKERz4zIJwFBUkWZFtzqUZ5ag=" crossorigin="anonymous"></script>
+  {{ end }}
   {{ if .IsPage }}
   {{if isset .Params "inforequest" }}
     <script src="https://pro.dbflex.net/secure/db/55438/res.aspx/captcha.js"></script>

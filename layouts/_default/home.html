@@ -16,6 +16,41 @@
               <h2 class="subtitle is-4 has-text-white">
                   {{ .Content }}
               </h2>
+              <h3 class="subtitle is-5 has-text-white">
+                  {{- if eq .Site.Language.Lang "en" -}}
+                  Currently in Japan: <span id="displayMoment"></span>
+
+                  <script type="text/javascript">
+                     (function()
+                      {
+                        // instantiate a moment object
+                        var m = moment();
+                        m.locale('en'); 
+                        
+                        // display value of moment object in #displayMoment div
+                        var eDisplayMoment = document.getElementById('displayMoment');
+                        eDisplayMoment.innerHTML = m.format('dddd, LL, HH:mm');
+                        
+                      })();
+                  </script>
+                  {{ else }}
+                  現在時刻: <span id="displayMoment"></span>
+
+                  <script type="text/javascript">
+                     (function()
+                      {
+                        // instantiate a moment object
+                        var m = moment();
+                        m.locale('ja'); 
+                        
+                        // display value of moment object in #displayMoment div
+                        var eDisplayMoment = document.getElementById('displayMoment');
+                        eDisplayMoment.innerHTML = m.format('LLLL');
+                        
+                      })();
+                  </script>
+                  {{ end }}                  
+              </h3>
 
               <button class="button is-esolia-yellow-1 is-medium modal-button" data-target="#modal">{{ i18n "topsectioncus" }}</button>
 
