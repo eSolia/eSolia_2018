@@ -1,5 +1,35 @@
 [
   {
+    "@row.id": 1003,
+    "Date": "2018-Oct-15",
+    "Description": "Tokyo and Kyoto were ranked 1 and 2 as \"favorite cities\" by readers of the US magazine _Conde Nast Traveler_. Being based in Tokyo we love these destinations too, and have been helping businesses succeed in Japan since 1999. [Ask us](https://esolia.com/about-us/) how!"
+  },
+  {
+    "@row.id": 1002,
+    "Date": "2018-Oct-12",
+    "Description": "Google has decided to [shutter their Google+ network for consumers](https://www.blog.google/technology/safety-security/project-strobe/), by end of Aug 2019, but will maintain it will in some form for enterprises. You can [download your data](https://takeout.google.com/settings/takeout?pli=1) before that."
+  },
+  {
+    "@row.id": 1001,
+    "Date": "2018-Oct-11",
+    "Description": "PSA: fall is [Asian giant hornet](https://en.wikipedia.org/wiki/Asian_giant_hornet) mating season in Japan, when these potentially dangerous insects get particularly aggressive. If you're in the country or on a hike: no perfume, wear white, stay quiet, and move away calmly and slowly if you see them. "
+  },
+  {
+    "@row.id": 999,
+    "Date": "2018-Oct-10",
+    "Description": "iOS 12 Tip: you can now Airdrop passwords. Go to Settings, Accounts and Passwords, select the password to share, long press on the password, then use the popup option to Airdrop the password to someone else. "
+  },
+  {
+    "@row.id": 998,
+    "Date": "2018-Oct-09",
+    "Description": "PSA: Mozilla Foundation remains transparent about any security vulnerabilities found in the Firefox browser, but you should update to the latest version, to thwart attacks. eSolia can help keep your systems upgraded. [Contact us](https://esolia.com/info-request/) if you need any help! "
+  },
+  {
+    "@row.id": 1000,
+    "Date": "2018-Oct-08",
+    "Description": "Japan visitors, are you near Yokohama? You might enjoy the [Oktoberfest](https://www.yokohama-akarenga.jp/oktoberfest/) beer festival being held next to Akarenga Warehouse, thru Sunday 14 Oct 2018. Ein Prosit! 🇯🇵🍺🇩🇪"
+  },
+  {
     "@row.id": 997,
     "Date": "2018-Oct-05",
     "Description": "See our updated list of [useful Japan apps](https://esolia.com/japan-apps/), as well as pages related to [Japan Disaster information](https://esolia.com/japan-disaster/), and Japan [emergency phone numbers](https://esolia.com/japan-contacts/) (with CSV download). 🚀"
@@ -107,7 +137,7 @@
   {
     "@row.id": 976,
     "Date": "2018-Sept-12",
-    "Description": "Are you familiar with the \"virtual contact file\" or \"vCard\" format, for exchanging contact information? We published an [eSolia vCard](/eSolia-Contacts-vCard.vcf), which you can easily [import](/post/how-to-use-vcards) into your Address Book. vCards make it easy for you to send your contact information such as your name, email, telephone, web URL, and even your photo or logo, to another person. "
+    "Description": "Are you familiar with the \"virtual contact file\" or \"vCard\" format, for exchanging contact information? We published an [eSolia vCard](/eSolia-Contacts-vCard.vcf), which you can easily [import](https://esolia.com/post/how-to-use-vcards) into your Address Book. vCards make it easy for you to send your contact information such as your name, email, telephone, web URL, and even your photo or logo, to another person. "
   },
   {
     "@row.id": 975,
