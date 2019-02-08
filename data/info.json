@@ -1,5 +1,170 @@
 [
   {
+    "@row.id": 1034,
+    "Date": "2019-Feb-07",
+    "Description": "PSA: Mizuho bank has a [temporary service suspension](https://www.mizuhobank.com/japan/transition/index.html) this weekend through Tue 12 Feb 8AM, related to system upgrades. ATMs and other services cannot be used during this period, so you should withdraw money today, if needed. (Note that this is one of several such suspensions to be aware of.)"
+  },
+  {
+    "@row.id": 1038,
+    "Date": "2019-Jan-29",
+    "Description": "PSA: Apple’s FaceTime has a [serious bug](https://arstechnica.com/gadgets/2019/01/facetime-bug-lets-callers-hear-you-before-you-answer-really/) that lets people remotely listen in via your mobile's mic, without your permission. Looks like Apple will fix soon and may have disabled it server-side, but disable just in case. iOS Settings > pull down > search \"facetime\" > open and toggle off."
+  },
+  {
+    "@row.id": 1037,
+    "Date": "2019-Jan-17",
+    "Description": "International residents, workers, and students in Tokyo: the Tokyo Metropolitan Gov't held its [annual disaster drill](https://www.japantimes.co.jp/?post_type=news&p=1698464) Wed 16 Jan 2019. "
+  },
+  {
+    "@row.id": 1031,
+    "Date": "2019-Jan-15",
+    "Description": "Surely remembering some tragic incidents on the Shinkansen, the Japan Gov't is planning tests to [keep dangerous items off trains](https://www.japantimes.co.jp/news/2019/01/07/national/government-plans-test-systems-detect-dangerous-objects-train-passengers/). We will have to see how it plays out, but good security is generally inconvenient. "
+  },
+  {
+    "@row.id": 1036,
+    "Date": "2019-Jan-14",
+    "Description": "International residents, workers, and students in Tokyo: the Tokyo Metropolitan Gov't is holding its [annual disaster drill](http://www.metro.tokyo.jp/english/topics/2018/181109.html) Wed 16 Jan 2019. "
+  },
+  {
+    "@row.id": 1033,
+    "Date": "2019-Jan-11",
+    "Description": "PSA: Mizuho bank has a [temporary service suspension](https://www.mizuhobank.com/japan/transition/index.html) this weekend through Tue 15 Jan 8AM, related to system upgrades. ATMs and other services cannot be used during this period, so you should withdraw money today, if needed. (Note that this is one of several such suspensions to be aware of.)"
+  },
+  {
+    "@row.id": 1030,
+    "Date": "2019-Jan-09",
+    "Description": "Visitors and residents, Japan has started newly collecting a \"[departure tax](https://www.japantimes.co.jp/news/2019/01/07/national/japan-begins-collecting-%c2%a51000-departure-tax-fund-inbound-tourism-promotion-plan/)\" of 1000 yen, for anyone departing Japan. This goes for nationals, foreign residents or visitors. 💸🇯🇵 "
+  },
+  {
+    "@row.id": 1032,
+    "Date": "2019-Jan-04",
+    "Description": "Happy New Year! Thank you one and all for your support during 2018, and may your 2019 be happy, healthy and prosperous. 🎉"
+  },
+  {
+    "@row.id": 1028,
+    "Date": "2018-Dec-28",
+    "Description": "The eSolia year-end holiday starts today Dec 2​8​ (Fri)​ from 12:00​, and runs through Jan ​6 ​(Sun), 2019​. We will be back in the office from the 7th, and wish everyone a restful break! \"Yoi otoshi wo!\" 🏝🇯🇵"
+  },
+  {
+    "@row.id": 1027,
+    "Date": "2018-Dec-21",
+    "Description": "Regarding the recent ongoing parade of Facebook scandals, leaks and security problems, eSolia has made the decision to close its Facebook page effective immediately. "
+  },
+  {
+    "@row.id": 1026,
+    "Date": "2018-Dec-19",
+    "Description": "PSA: if you're a Tokyo station user, you'll soon notice announcements requesting us to [stand on both sides](https://www.japantimes.co.jp/news/2018/12/18/national/jr-east-asks-passengers-stand-sides-escalators-block-runners-safety-campaign) of the escalator. This is for rider safety, according to JR. 🇯🇵🚈🔶"
+  },
+  {
+    "@row.id": 1025,
+    "Date": "2018-Dec-18",
+    "Description": "On the heels of the revised immigration control law, the Japan gov't is planning \"[translation systems](https://www.japantimes.co.jp/news/2018/12/17/national/politics-diplomacy/government-plans-set-nationwide-network-translation-systems-help-non-japanese/)\" at 100 consultation office locations nationwide, to help cope with the expected influx of foreign nationals in the next few years. We shall see if these and other measures are actually effective. 🇯🇵"
+  },
+  {
+    "@row.id": 1024,
+    "Date": "2018-Dec-17",
+    "Description": "Looking forward to the rugby world cup next year, Beppu has put together a [page with maps](https://enjoyonsen.city.beppu.oita.jp/100tattoo-friendly_beppuonsen_japan/) of \"onsen\" hot springs that welcome visitors with tattoos. Visitors can plan ahead this way. ♨️🇯🇵"
+  },
+  {
+    "@row.id": 1023,
+    "Date": "2018-Dec-14",
+    "Description": "PSA: Mizuho bank has a [temporary service suspension](https://www.mizuhobank.com/japan/transition/index.html) this weekend through Mon 17 Dec 8AM, related to system upgrades. ATMs and other services cannot be used during this period, so you should withdraw money today, if needed. (Note that this is one of several such suspensions to be aware of.)"
+  },
+  {
+    "@row.id": 1022,
+    "Date": "2018-Nov-19",
+    "Description": "Labor Thanksgiving Day has been a national holiday each Nov 23 since World War II, in which Japanese people show their gratitude for labor, and has also traditionally been the day the Shinto \"Niinamesai\" ceremony is held. \"Niinamesai\" is a harvest festival performed by the emperor (and at many shrines in Japan), in which he harvests rice he planted himself, offering it and newly produced sake to the goddess Amaterasu. In doing so, he gives thanks for the year’s harvest, and prays for a bountiful next year.  🇯🇵🍁"
+  },
+  {
+    "@row.id": 1021,
+    "Date": "2018-Nov-16",
+    "Description": "Japan's Cabinet has OK'ed a bill to make [2019's Golden Week a 10 day holiday](https://www.japantimes.co.jp/news/2018/11/13/national/japanese-cabinet-oks-bill-make-10-day-golden-week-holiday-around-2019-imperial-succession/) starting on Sat 27 April, because of the Imperial succession. Mon 29 April, 3-6 May are already holidays, and so 30 April and 2 May are also being made into holidays. 🇯🇵"
+  },
+  {
+    "@row.id": 1020,
+    "Date": "2018-Nov-12",
+    "Description": "Learners of Japanese language, it's that time of year again. Each November, Jiyukokuminsha publishes the \"[U-Can New Words and Buzzwords](https://www.japantimes.co.jp/news/2018/11/07/national/japan-buzzwords-2018/)\" Japan neologisms list. This past year we saw the `#metoo` movement, Japan Rail's first-ever planned service suspension during a typhoon, and \"Sho-Time!\" cheering on the versatile LA Angels baseball player Sho Otani. Is it \"mogumogu\" (snack) time yet? Sodanē...\r\n\r\n"
+  },
+  {
+    "@row.id": 1018,
+    "Date": "2018-Nov-09",
+    "Description": "PSA: Mizuho bank has a [temporary service suspension](https://www.mizuhobank.com/japan/transition/index.html) this weekend through Mon 12 Nov 8AM, related to system upgrades. ATMs and other services cannot be used during this period, so you should withdraw money today, if needed. (Note that this is one of several such suspensions to be aware of.)"
+  },
+  {
+    "@row.id": 1017,
+    "Date": "2018-Nov-05",
+    "Description": "See the works of an artist who changed the way the world thinks about art. The works of Marcel Duchamp are being displayed alone, and alongside Japanese art, to let you ponder his unique and humorous perspective about \"what is art\".  Showing through 9 Dec 2018 at the Tokyo National Museum in Ueno Park, but please confirm dates on the official (Japanese) [website](http://www.duchamp2018.jp). 🍷"
+  },
+  {
+    "@row.id": 1016,
+    "Date": "2018-Nov-02",
+    "Description": "Culture Day, on November 3rd, is a Japan national holiday. Emperor Meiji’s birthday was celebrated on this day, but after WWII, since the constitution of Japan was also promulgated on Nov 3rd, it became the day for people to express their love of freedom and peace and to promote culture. 🇯🇵"
+  },
+  {
+    "@row.id": 1014,
+    "Date": "2018-Nov-01",
+    "Description": "The weather is pleasantly cool and crisp, finally very fall-like. From 3 Nov through 9 Dec, you can visit 9 parks and join the [Tokyo Metropolitan Garden Autumn Leaves Stamp Rally](https://www.tokyo-park.or.jp/event/41581.html#googtrans(en)). The first 10000 people to get stamps from 5 of 9 gardens, can get a 2019 calendar. Stamp cards are available at the gardens, such as Hamarikyu Garden or Rikugien. Take the opportunity to enjoy the beauty of fall in stunning beauty. 🍁"
+  },
+  {
+    "@row.id": 1019,
+    "Date": "2018-Oct-31",
+    "Description": "What is looking, and what is seeing? Have a think about this concept at the SHIMURAbros \"[Seeing is Believing](http://www.po-holdings.co.jp/m-annex/exhibition/index.html)\" exhibition at the Pola Museum Annex in Ginza Tokyo, through 4 Nov 2018."
+  },
+  {
+    "@row.id": 1013,
+    "Date": "2018-Oct-29",
+    "Description": "Japan visitors, if you'd like to visit all over Japan but don't quite have the time, you might enjoy the [Furusato Fair 2018](http://furusatofair.jp), held at Yokohama's Aka-renga Warehouse near Sakuragicho, 2~4 Nov. Enjoy delicious food from Okinawa to Hokkaido, and feel like you visited all over Japan! Enjoy a fireworks display from around 17:00 on Nov 3rd, as well! 🍣🎇"
+  },
+  {
+    "@row.id": 1012,
+    "Date": "2018-Oct-27",
+    "Description": "Looking for a different way to get your thrills on Halloween? How about taking in \"The Scream\" at the [Edvard Munch Exhibition](https://www.tobikan.jp/en/exhibition/2018_munch.html) at Tokyo Metropolitain Art Museum in Ueno. You'll be able to see 100 of the Norwegian painter's works spanning 60 years, from 27 Oct 2018, through 20 Jan 2019. 😱"
+  },
+  {
+    "@row.id": 1011,
+    "Date": "2018-Oct-26",
+    "Description": "If you're in Tokyo on 28 Oct from ~11AM, don't miss the \"[Oedo-kakki](http://nikkyo.net/english/)\" parade, part of the Nihonbashi-Kyobashi Matsuri festival. This area was the starting point connecting old Edo to all points in Japan via the Tokaido road, so this festival parade has 2000 participants performing regional dances from all over Japan (like the Yosakoi-odori from Edo, and the Hanagasa-odori from Yamagata), starting in Kyobashi 2-chome near MEIDI-YA. Wasshoi! 🇯🇵"
+  },
+  {
+    "@row.id": 1015,
+    "Date": "2018-Oct-25",
+    "Description": "Japan visitors, if you're in Tottori Prefecture this weekend, visit Yonago-shi and see the Shigeru Mizuki road. It has bronze statues of famous \"yokai\" ghosts and demons from his beloved \"GeGeGe no Kitaro\" stories, like the cat girl or Kitaro himself. On 27 Oct, you can see the [Yokai Halloween](http://www.sakaiminato.com/site/page/event/youharo/file01.pdf) event, with people dressed up as the characters. Sure to be scary! 👻"
+  },
+  {
+    "@row.id": 1010,
+    "Date": "2018-Oct-24",
+    "Description": "Halloween is celebrated in a big way, around Tokyo's Shibuya district, in the evenings over 5 days from 27 Oct through 31 Oct. Get a costume at Don Quijote or Daiso, enjoy the [Lantern Night Picnic](https://www.facebook.com/events/644910139238717/) at Yoyogi Park on the 27th, and see the \"DJ Police\" at Shibuya Crossing on the 31st. 🎃"
+  },
+  {
+    "@row.id": 1007,
+    "Date": "2018-Oct-23",
+    "Description": "Japan visitors, if you are in Tokyo between Oct 27 and Nov 3, you might enjoy the [Autumn Grand Festival](http://www.meijijingu.or.jp/pdf/akinotaisai_01_2018.pdf), or \"Aki-no-taisai\" to be held at one of Japan's famous power spots and Japan's most-visited shrine, the Meiji Jingu Shrine. Nov 3 was Emperor Meiji's birthday, so there are special events that day, such as \"yabusame\" horse-mounted archery at 13:00. The shrine is near Harajuku, so you can also enjoy some shopping in the area. 🏹⛩️"
+  },
+  {
+    "@row.id": 1009,
+    "Date": "2018-Oct-22",
+    "Description": "Japan visitors, if you happen to be on the island of Kyushu from Friday 26 Oct through Sunday 28 Oct, you can enjoy one of Kyushu's major matsuri festivals. Miyazaki Jingu shrine is dedicated to Jimmu, Japan's first emperor, and its big autumn festival, or \"[aki-no-taisai](http://miyazaki.daa.jp/miyazakijingu/)\", is sure to be a colorful spectacle with portable \"omikoshi\" shrines and \"shishimai\" lions! They say if a shishimai bites you, you won't get sick. So find one, and get bit! ♌"
+  },
+  {
+    "@row.id": 1008,
+    "Date": "2018-Oct-19",
+    "Description": "Oct 23rd 2018 is the start of the \"[霜降 Soukou](http://koyomigyouji.com/24-sou.html)\" season, which, in the old \"Sekki\" 24-season [solar term calendar](https://en.wikipedia.org/wiki/Solar_term) marks the season with the first frost of autumn, when summer has completely ended. It's a beautiful season in Japan, and we really recommend taking full advantage of the delicious food and fall colors of this country in the fall. 🍁☀️"
+  },
+  {
+    "@row.id": 1006,
+    "Date": "2018-Oct-18",
+    "Description": "The [meat festival](http://www.nikufes.jp) held at the [Showa Kinen Park](http://www.showakinen-koen.jp/guide-english/schedule-english/) near Tachikawa, Tokyo, through Oct 21 this weekend, is perfect to satisfy your \"Autumn Appetite\" (or \"shokuyoku no aki\" as it's called in Japan). After you enjoy some delicious meat, you can do some sports to work it off! 🍖🍗🍺 Food tickets are available for purchase at the festival for cash, but e-money like JR's \"[Suica](http://www.jreast.co.jp/e/pass/suica.html)\" card is the most convenient. Be sure to charge it at the station, because you cannot re-charge on site."
+  },
+  {
+    "@row.id": 1005,
+    "Date": "2018-Oct-17",
+    "Description": "Japan visitors, if you are in Tokyo this weekend, you might enjoy the [Kawagoe Festival](https://www.kawagoematsuri.jp/English/index.html), to be held at Kawagoe city on Oct 20th and 21st 2018. From about 19:00, you can see a kind of competition with \"hayashi\" traditional music, where festival floats compete against each other in the big highlight of the show, the \"Hikkawase.\" 🇯🇵"
+  },
+  {
+    "@row.id": 1004,
+    "Date": "2018-Oct-16",
+    "Description": "Japan visitors, are you near Yokohama this weekend? You might enjoy the [Fujisawa Enoshima Fireworks Display](https://enoshimaislandspa.com/fujisawa-enoshima-fireworks-special-plans-2018/), to be held at Katase Enoshima Beach, on Oct 20th 2018, from 18:00 to 18:45, with 3000 fireworks!  🎆  Touring the Enoshima area itself during the day, is also recommended! Come by train, not by car, as the traffic is usually terrible."
+  },
+  {
     "@row.id": 1003,
     "Date": "2018-Oct-15",
     "Description": "Tokyo and Kyoto were ranked 1 and 2 as \"favorite cities\" by readers of the US magazine _Conde Nast Traveler_. Being based in Tokyo we love these destinations too, and have been helping businesses succeed in Japan since 1999. [Ask us](https://esolia.com/about-us/) how!"
