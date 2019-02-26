@@ -25,12 +25,12 @@
                       {
                         // instantiate a moment object
                         var m = moment();
-                        m.locale('en'); 
-                        
+                        m.locale('en');
+
                         // display value of moment object in #displayMoment div
                         var eDisplayMoment = document.getElementById('displayMoment');
-                        eDisplayMoment.innerHTML = m.format('dddd, LL, HH:mm');
-                        
+                        eDisplayMoment.innerHTML = m.utcOffset('+0900').format('dddd, LL, HH:mm');
+
                       })();
                   </script>
                   {{ else }}
@@ -41,15 +41,15 @@
                       {
                         // instantiate a moment object
                         var m = moment();
-                        m.locale('ja'); 
-                        
+                        m.locale('ja');
+
                         // display value of moment object in #displayMoment div
                         var eDisplayMoment = document.getElementById('displayMoment');
-                        eDisplayMoment.innerHTML = m.format('LLLL');
-                        
+                        eDisplayMoment.innerHTML = m.utcOffset('+0900').format('LLLL');
+
                       })();
                   </script>
-                  {{ end }}                  
+                  {{ end }}
               </h3>
 
               <button class="button is-esolia-yellow-1 is-medium modal-button" data-target="#modal">{{ i18n "topsectioncus" }}</button>
