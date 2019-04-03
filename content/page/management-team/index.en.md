@@ -65,8 +65,6 @@ Cogley's goal is to develop eSolia into a global consultancy, focused on providi
 <img class="is-pulled-right has-padding-m" width="200" data-caption="Takumi Fukuoka, eSolia COO (Rick Cogley Photo)" alt="Photo of Takumi Fukuoka, eSolia COO (Rick Cogley Photo)" src="/img/eSolia-COO-Takumi-Fukuoka.jpg" >
 </figure>
 
-Takumi Fukuoka started his career in IT, joining a software development company based in Tokyo in 1994. There, he developed primarily logistics and accounting systems. He then joined PTS Co. Ltd., (acquired in 1999 by Datacraft Asia (now Dimension Data)), and focused his career on system implementations, support and project management.
+After several years working in IT, Takumi Fukuoka joined eSolia as a founding member in July 1999, and joined the board as Director in charge of System Support in 2000. He specializes in project management and IT consulting activities, and has led Administration and General Affairs at eSolia since Sept 2006, becoming COO in Sept 2009.
 
-He joined eSolia as a founding member in July 1999, and joined the board as Director in charge of System Support in 2000. He specializes in project management, and IT consulting activities, and has led Administration and General Affairs at eSolia since Sept 2006, and became COO in Sept 2009.
-
-In his spare time, Fukuoka participates in badminton tournaments, as he has done since his school days. His goal is to have eSolia run as smoothly as possible, to support our growth.
+His goal is to have eSolia run as smoothly as possible, to support our growth.
