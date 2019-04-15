@@ -10,13 +10,13 @@
         <div class="container">
           <div class="columns">
             <div class="column is-8-desktop is-offset-2-desktop">
-              <h1 class="title is-2 is-spaced has-text-white">
+              <h1 class="title is-2 is-size-5-mobile is-spaced has-text-white">
                 {{ .Title }}
               </h1>
-              <h2 class="subtitle is-4 has-text-white">
+              <h2 class="subtitle is-3 is-size-5-mobile has-text-white">
                   {{ .Content }}
               </h2>
-              <h3 class="subtitle is-5 has-text-white">
+              <h3 class="subtitle is-5 is-size-6-mobile has-text-white">
                   {{- if eq .Site.Language.Lang "en" -}}
                   Currently in Japan: <span id="displayMoment"></span>
 
@@ -52,7 +52,7 @@
                   {{ end }}
               </h3>
 
-              <button class="button is-esolia-yellow-1 is-medium modal-button" data-target="#modal">{{ i18n "topsectioncus" }}</button>
+              <button class="button is-esolia-yellow-1 is-size-6-mobile is-medium modal-button" data-target="#modal">{{ i18n "topsectioncus" }}</button>
 
             </div>
           </div>
@@ -89,33 +89,33 @@
     <div class="tile is-ancestor">
         <div class="tile is-parent is-shaded">
           <article class="tile is-child box notification is-esolia-secondary-2-3">
-            <p class="title">{{ i18n "compName" }}</p>
-            <p class="subtitle">{{ i18n "strongfoundations" }}</p>
-            <p>{{ i18n "topsectionintrotext" | safeHTML | markdownify }}</p>
+            <p class="title is-size-4-mobile">{{ i18n "compName" }}</p>
+            <p class="subtitle is-size-6-mobile">{{ i18n "strongfoundations" }}</p>
+            <p class="is-size-7-mobile">{{ i18n "topsectionintrotext" | safeHTML | markdownify }}</p>
           </article>
         </div>
 
         <div class="tile is-parent is-shaded">
           <article class="tile is-child box notification is-esolia-blue-3">
-            <p class="title">{{ i18n "topsectionwwd" }}</p>
-            <p class="subtitle">{{ i18n "topsectionwwdsub" }}</p>
-            <p>{{ i18n "topsectionwwdtext" | safeHTML | markdownify }}</p>
+            <p class="title is-size-4-mobile">{{ i18n "topsectionwwd" }}</p>
+            <p class="subtitle is-size-6-mobile">{{ i18n "topsectionwwdsub" }}</p>
+            <p class="is-size-7-mobile">{{ i18n "topsectionwwdtext" | safeHTML | markdownify }}</p>
           </article>
         </div>
 
         <div class="tile is-parent is-shaded">
           <article class="tile is-child box notification is-esolia-yellow-3">
-            <p class="title">{{ i18n "topsectiontr" }}</p>
-            <p class="subtitle">{{ i18n "topsectiontrsub" }}</p>
-            <p>{{ i18n "topsectiontrtext" | safeHTML | markdownify }}</p>
+            <p class="title is-size-4-mobile">{{ i18n "topsectiontr" }}</p>
+            <p class="subtitle is-size-6-mobile">{{ i18n "topsectiontrsub" }}</p>
+            <p class="is-size-7-mobile">{{ i18n "topsectiontrtext" | safeHTML | markdownify }}</p>
           </article>
         </div>
 
         <div class="tile is-parent is-shaded">
           <article class="tile is-child box notification is-esolia-secondary-1-4">
-            <p class="title">{{ i18n "topsectionwhy" }}</p>
-            <p class="subtitle">{{ i18n "topsectionwhysub" }}</p>
-            <p>{{ i18n "topsectionwhytext" | safeHTML | markdownify }}</p>
+            <p class="title is-size-4-mobile">{{ i18n "topsectionwhy" }}</p>
+            <p class="subtitle is-size-6-mobile">{{ i18n "topsectionwhysub" }}</p>
+            <p class="is-size-7-mobile">{{ i18n "topsectionwhytext" | safeHTML | markdownify }}</p>
           </article>
         </div>
       </div>
@@ -125,8 +125,8 @@
           <div class="tile">
             <div class="tile is-parent is-shaded">
               <article class="tile is-child box notification is-esolia-blue-4">
-                <p class="title">{{ i18n "topsectionvideo" }}</p>
-                <p class="is-italic">{{ i18n "topsectionvideosub" }}</p>
+                <p class="title is-size-4-mobile">{{ i18n "topsectionvideo" }}</p>
+                <p class="is-italic is-size-6-mobile">{{ i18n "topsectionvideosub" }}</p>
                 <figure class="image is-16x9">
                   <a href="https://vimeo.com/rickcogley/review/78135284/7fd60cd0ff" target="_blank"><img src="/img/eSolia-Video-Thumb-16x9-250px.png"></a>
                 </figure>
@@ -148,9 +148,9 @@
               </div>
               <div class="tile is-parent is-shaded">
                 <article class="tile is-child box notification is-esolia-yellow-1">
-                  <p class="title has-text-esolia-blue-0">{{ i18n "topsectiontestimonial" }}</p>
-                  <p class="subtitle is-italic has-margin-r-m"><span class="icon has-text-esolia-blue-1"><i class="fas fa-quote-left"></i></span>{{ i18n "toptestimoninal1" }}</p>
-                  <p class="subtitle is-italic has-margin-l-m"><span class="icon has-text-esolia-secondary-1-1"><i class="fas fa-quote-left"></i></span>{{ i18n "toptestimoninal2" }}</p>
+                  <p class="title is-size-4-mobile has-text-esolia-blue-0">{{ i18n "topsectiontestimonial" }}</p>
+                  <p class="subtitle is-size-6-mobile is-italic has-margin-r-m"><span class="icon has-text-esolia-blue-1"><i class="fas fa-quote-left"></i></span>{{ i18n "toptestimoninal1" }}</p>
+                  <p class="subtitle is-size-6-mobile is-italic has-margin-l-m"><span class="icon has-text-esolia-secondary-1-1"><i class="fas fa-quote-left"></i></span>{{ i18n "toptestimoninal2" }}</p>
                 </article>
               </div>
             </div>
@@ -158,10 +158,10 @@
           <div class="tile">
             <div class="tile is-8 is-parent is-shaded">
               <article class="tile is-child box">
-                <p class="title">{{ i18n "topsectioninfo" }}</p>
-                <p class="subtitle">{{ i18n "topsectioninfosub" }}</p>
+                <p class="title is-size-4-mobile">{{ i18n "topsectioninfo" }}</p>
+                <p class="subtitle is-size-6-mobile">{{ i18n "topsectioninfosub" }}</p>
                   <div id="hideheader" class="has-padding-t-xxs has-margin-l-m">
-                  <span>{{ i18n "topsectioninfotext" | markdownify }}</span>
+                  <span class="is-size-7-mobile">{{ i18n "topsectioninfotext" | markdownify }}</span>
                 　　{{- if eq .Site.Language.Lang "en" -}}
                       <script src="https://pro.dbflex.net/secure/embed.js"
                       data-url="/ev-3440630/db/15331/view.aspx"></script>
@@ -187,10 +187,10 @@
         <div class="tile is-parent is-shaded">
           <article class="tile is-child box">
             <div class="content">
-              <p class="title">{{ i18n "topsectionpledge" }}</p>
-              <p class="subtitle">{{ i18n "topsectionpledgesub" }}</p>
+              <p class="title is-size-4-mobile">{{ i18n "topsectionpledge" }}</p>
+              <p class="subtitle is-size-6-mobile">{{ i18n "topsectionpledgesub" }}</p>
               <div class="content">
-                <p>{{ i18n "topsectionpledgetext" | safeHTML | markdownify }}</p>
+                <p class="is-7 is-size-7-mobile">{{ i18n "topsectionpledgetext" | safeHTML | markdownify }}</p>
 
                 <figure class="image is-256x256">
 <img class="" data-caption="eSolia Logo" alt="Graphic of the eSolia Chicklet Logo" src="/img/eSolia-Chicklet-Color.svg" >
@@ -209,10 +209,10 @@
         </div>
         <div class="tile is-parent is-6 is-shaded">
           <article class="tile is-child box">
-            <p class="title">{{ i18n "topsectionprojects" }}</p>
-            <p class="subtitle">{{ i18n "topsectionprojectssub" }}</p>
+            <p class="title is-size-4-mobile">{{ i18n "topsectionprojects" }}</p>
+            <p class="subtitle is-size-6-mobile">{{ i18n "topsectionprojectssub" }}</p>
             <div id="hideheader" class="has-padding-t-xxs has-margin-l-m">
-            <span>{{ i18n "topsectionprojectstext" | markdownify }}</span>
+            <span class="is-size-7-mobile">{{ i18n "topsectionprojectstext" | markdownify }}</span>
           　　{{- if eq .Site.Language.Lang "en" -}}
                 <script src="https://pro.dbflex.net/secure/embed.js"
 data-url="/ev-3456938/db/15331/view.aspx"></script>
@@ -287,8 +287,8 @@ data-url="/ev-3456939/db/15331/view.aspx"></script>
           </div>
           <div class="column is-two-fifths">
             <div class="content">
-              <h3>{{ i18n "genlatestposts" }}</h3>
-              <ul class="has-padding-t-s">
+              <h3 class="is-size-4-mobile">{{ i18n "genlatestposts" }}</h3>
+              <ul class="has-padding-t-s is-size-7-mobile">
              　{{ range first 6 (where .Data.Pages "Section" "post").ByDate.Reverse }}
                   <li class="link list-has-no-style"><a class="link" href="{{ .Permalink }}">{{ .Title | markdownify }}</a><span class="is-italic">&nbsp;&mdash;&nbsp;{{ .Date.Format "02 Jan, 2006" }}</span></li>
                {{ end }}
@@ -298,8 +298,8 @@ data-url="/ev-3456939/db/15331/view.aspx"></script>
 
           <div class="column is-two-fifths">
             <div class="content">
-              <h3>{{ i18n "genlatestfeature" }}</h3>
-              <ul class="has-padding-t-l">
+              <h3 class="is-size-4-mobile">{{ i18n "genlatestfeature" }}</h3>
+              <ul class="has-padding-t-l is-size-7-mobile">
               {{ with .Site.Taxonomies.series.top1 }}
                 {{ range first 6 . }}
                   <li class="link list-has-no-style"><a class="link" href="{{ .Permalink }}">{{ .Page.Title | markdownify }}</a><span class="is-italic">&nbsp;&mdash;&nbsp;{{ .Date.Format "02 Jan, 2006" }}</span></li>
