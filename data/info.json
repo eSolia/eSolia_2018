@@ -1,5 +1,35 @@
 [
   {
+    "@row.id": 1045,
+    "Date": "2019-Apr-01",
+    "Description": "The new Japan \"gengou\" era name was announced, and it is «Reiwa» 令和. The 239th such era, Reiwa comprises daily-use kanji from a Manyoshu poem, that may be translated as auspicious or orderly or calm, and, peace or harmony, respectively. April is the last month of Heisei, and the Reiwa era will formally begin from May 1st, 2019. Our most sincere wishes for peace on earth, and goodwill to all people.  🇯🇵㊗️\r\n\r\n"
+  },
+  {
+    "@row.id": 1043,
+    "Date": "2019-Mar-27",
+    "Description": "PSA: Apple has released macOS 10.14.4, but if you use Apple Mail.app with Google Mail, then you may want to wait. There are [reports of problems](https://discussions.apple.com/thread/250259379). \r\n\r\n"
+  },
+  {
+    "@row.id": 1042,
+    "Date": "2019-Mar-26",
+    "Description": "Japan Ministry of Justice will accept foreign national visa renewals online starting 25 July 2019, from employers and agents, who can [apply for use](http://www.moj.go.jp/content/001289335.pdf) of the system from this coming Fri, 29 Mar 2019. MOJ states the system will be free to use & available 24x7. 🇯🇵"
+  },
+  {
+    "@row.id": 1041,
+    "Date": "2019-Mar-18",
+    "Description": "Is your Japan branch using Era Year Names (元号, げんごう, gengou) in any apps? If so, you should look into whether a patch or upgrade is needed, for the upcoming name change in May. eSolia can help, so please do not hesitate to [ask us](https://esolia.com/info-request/). 🇯🇵"
+  },
+  {
+    "@row.id": 1040,
+    "Date": "2019-Mar-11",
+    "Description": "Eight years ago at about 14:46 on 11th March 2011, Tohoku Japan got hit with a massive earthquake and tsunami. Our thoughts are with them as they still rebuild even today. Please have a look at our web pages for [Disaster Preparedness](https://esolia.com/japan-disaster/), and install an app like NHK World TV, that will give you multilingual information in case of a disaster. 💓"
+  },
+  {
+    "@row.id": 1039,
+    "Date": "2019-Mar-07",
+    "Description": "PSA: Vulnerabilities have been discovered in Google Chrome versions prior to 72.0.3626.121, which could allow a hacker to remotely execute code. Google [has released](https://chromereleases.googleblog.com/2019/03/stable-channel-update-for-desktop.html) an update, which we recommend you apply immediately. "
+  },
+  {
     "@row.id": 1034,
     "Date": "2019-Feb-07",
     "Description": "PSA: Mizuho bank has a [temporary service suspension](https://www.mizuhobank.com/japan/transition/index.html) this weekend through Tue 12 Feb 8AM, related to system upgrades. ATMs and other services cannot be used during this period, so you should withdraw money today, if needed. (Note that this is one of several such suspensions to be aware of.)"
