@@ -27,7 +27,7 @@ images:
 
 {{< blogbox >}}
 
-## お陰様で
+## お陰様で! 🎋
 
 <figure class="">
 <img class="is-pulled-right has-padding-m" width="200" data-caption="eSolia 20th Anniversary Lozenge" alt="Graphic for eSolia 20th Anniversary" src="/img/eSolia-20th-Lozenge-2019.png" >
