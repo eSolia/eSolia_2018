@@ -30,6 +30,16 @@
     "URL‡": "https://apple.co/2EmIeUD"
   },
   {
+    "@row.id": 34,
+    "Id": "34",
+    "Description": "Digi-Police Anti-Crime App",
+    "Description‡": "防犯アプリ Digi-Police ",
+    "Notes": "Digi Police is an app created by the Tokyo Metropolitan Police Agency, to help fight crime. It has an SOS Message mode, that allows a person being molested (on the train) to stay silent while broadcasting the situation. In Japanese language.",
+    "Notes‡": "Digi Police は、警視庁犯罪抑止対策本部が東京都内の犯罪発生情報や防犯情報をお届けする防犯アプリです。SOSメッセージモードの機能があり、例えば、声を出しにくい場所（電車の中）で痴漢撃退機能機能を使用して画面表示と音声（日本語）でSOSメッセージとして周囲に助けを求めることができます。",
+    "URL": "https://itunes.apple.com/us/app/digi-police/id1079669000?l=ja&ls=1&mt=8",
+    "URL‡": "https://itunes.apple.com/us/app/digi-police/id1079669000?l=ja&ls=1&mt=8"
+  },
+  {
     "@row.id": 28,
     "Id": "28",
     "Description": "JAPAN Hospital Guide",

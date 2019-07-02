@@ -270,6 +270,21 @@
     "Toll Free Call?": false
   },
   {
+    "@row.id": 35,
+    "Id": "35",
+    "Description": "Tokyo Rape Crisis Center",
+    "Description‡": "東京・強姦救援センター",
+    "Number": "03-3207-3692",
+    "Number‡": "03-3207-3692",
+    "Notes": "The Tokyo Rape Crisis Center, established 1983, provides telephone counseling to female victims of sexual violence. The center never reveals the content of counseling under any circumstances to protect victims' privacy. ",
+    "Notes‡": "被害にあった女性のための電話相談を行っています。東京・強姦救援センターは1983年に女性たちによって設立された日本で初めての強姦救援センターです。ボランティアによる任意団体です。相談者のプライバシーは完全に守られます。",
+    "Hours": "Wed 18-21pm, Sat 15-18pm, Japanese only",
+    "Hours‡": "第一・第三・第五水曜日：午後6時～9時 土曜日：午後3時～6時",
+    "URL": "http://www.tokyo-rcc.org/center-hp-english.htm",
+    "URL‡": "http://www.tokyo-rcc.org/center-hp-home.html",
+    "Toll Free Call?": false
+  },
+  {
     "@row.id": 21,
     "Id": "21",
     "Description": "InterFM 76.1 MHz Radio Multi-language Disaster Information",
