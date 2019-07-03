@@ -29,7 +29,7 @@ images:
 ## Thank you! 🎋
 
 <figure class="">
-<img class="is-pulled-right has-padding-m" width="200" data-caption="eSolia 20th Anniversary Lozenge" alt="Graphic for eSolia 20th Anniversary" src="/img/eSolia-20th-Lozenge-2019.png" >
+<img class="is-pulled-right has-padding-m" width="250" data-caption="eSolia 20th Anniversary Lozenge" alt="Graphic for eSolia 20th Anniversary" src="/img/eSolia-20th-Lozenge-2019.png" >
 </figure>
 **eSolia turns 20** this 7th July 2019, and we'd like to extend a warm thank you for your continual support and patronage since we founded eSolia in 1999. As a leading bilingual IT management provider in Japan, we strive to help grow the foundations to support your business, for success in Japan.
 
