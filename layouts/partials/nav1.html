@@ -2,8 +2,9 @@
 <nav class="navbar {{ .navbgcolor }} has-shadow is-spaced">
   <div class="navbar-brand">
     <a class="navbar-item" href="{{ .context.Site.BaseURL }}">
-      <img src="/img/eSolia-Logo-White-Opt-100.png" alt="eSolia Logo" >
+      <img src="/img/eSolia-Logo-White-Opt-100.png" alt="eSolia Logo">
     </a>
+
     <div class="navbar-burger burger" data-target="navMenu">
       <span></span>
       <span></span>
@@ -25,7 +26,6 @@
       <a class="button is-small {{ $.langswcolor }} is-rounded has-margin-l-s is-hidden-desktop" href="/">English</a>
       {{ end }}
       {{ end }}
-
 
       {{ if not .context.IsHome }}
       <a class="navbar-item" href="{{ .context.Site.BaseURL }}">
