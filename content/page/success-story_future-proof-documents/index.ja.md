@@ -6,7 +6,7 @@ draft: false
 slug: success-story_future-proof-documents
 title: データベースに保存している書類データ
 subtitle: を将来においても利用できるテキスト形式ファイルに書き出す
-description: イソリアから - データベースに保管してある書類データを将来性のあるテキストファイルへ定期書き出しするスクリプト開発を行った。
+description: イソリアから - データベースに保管してあるドキュメントデータを将来においても有効なテキストファイルへ定期的に書き出しするスクリプト開発を行った。
 layout: successes
 alternatelocales:
   - en-US
