@@ -20,7 +20,7 @@ jobs:
       - run:
           name: Install AWS CLI (first install pip, the Python package manager)
           command: |
-            apt-get install -y --update python python-dev py-pip build-base
+            apt-get install -y python python-dev py-pip build-base
             pip install awscli
 
       - run:
