@@ -9,7 +9,7 @@ jobs:
     steps:
 
       # install git and jq for json manipulation
-      - run: apk update && apk add git && apk add jq
+      - run: apt-get update && apt-get install -y git && apt-get install -y jq
 
       # checkout the repository
       - checkout
@@ -20,13 +20,13 @@ jobs:
       - run:
           name: Install AWS CLI (first install pip, the Python package manager)
           command: |
-            apk add --update python python-dev py-pip build-base
+            apt-get install -y --update python python-dev py-pip build-base
             pip install awscli
 
       - run:
           name: Install s3deploy from bep
           command: |
-            curl -L https://github.com/bep/s3deploy/releases/download/v2.2.0/s3deploy_2.2.0_Linux-64bit.tar.gz | tar xvz
+            curl -L https://github.com/bep/s3deploy/releases/download/v2.3.2/s3deploy_2.3.2_Linux-64bit.tar.gz | tar xvz
 
       - run:
           name: Run commands to see results on std-out in the circleci web gui log
@@ -50,7 +50,7 @@ jobs:
             curl -k "https://pro.dbflex.net/secure/api/v2/$PRODB_DBNUM/$PRODB_TOKEN/Web%20Project/List%20All%20for%20JSON/select.json" | jq '.' > $HOME/hugo/data/success.json
             curl -k "https://pro.dbflex.net/secure/api/v2/$PRODB_DBNUM/$PRODB_TOKEN/Web%20Information/List%20All%20on%20Website/select.json"  | jq '.' > $HOME/hugo/data/info.json
             curl -k "https://pro.dbflex.net/secure/api/v2/$PRODB_DBNUM/$PRODB_TOKEN/Web%20Japan%20Contact%20and%20App/API%20List%20All/select.json" | jq '.' > $HOME/hugo/data/japancontact.json
-            curl -k "https://pro.dbflex.net/secure/api/v2/$PRODB_DBNUM/$PRODB_TOKEN/Web%20Japan%20Contact%20and%20App/API%20List%20All%20Apps/select.json" | jq '.' > $HOME/hugo/data/japanapp.json            
+            curl -k "https://pro.dbflex.net/secure/api/v2/$PRODB_DBNUM/$PRODB_TOKEN/Web%20Japan%20Contact%20and%20App/API%20List%20All%20Apps/select.json" | jq '.' > $HOME/hugo/data/japanapp.json
             curl -k "https://pro.dbflex.net/secure/api/v2/$PRODB_DBNUM/$PRODB_TOKEN/Web%20Japan%20Contact%20and%20App/API%20List%20for%20CSV/select.csv" -o $HOME/hugo/static/eSolia-Japan-Emergency-Contacts.en.csv
             curl -k "https://pro.dbflex.net/secure/api/v2/$PRODB_DBNUM/$PRODB_TOKEN/Web%20Japan%20Contact%20and%20App/API%20List%20for%20CSV%E2%80%A1/select.csv" -o $HOME/hugo/static/eSolia-Japan-Emergency-Contacts.ja.csv
 
