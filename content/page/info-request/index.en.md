@@ -59,9 +59,7 @@ Thank you sincerely for your interest. Please use the below form to make an enqu
 <p>
 <script
   src="https://pro.dbflex.net/secure/embed.js"
-  data-url="/wr-79586/db/15331/webtorecord.aspx?t=79586"
-  data-onload="webFormLoaded">
-</script>
+  data-url="/wr-79586/db/15331/webtorecord.aspx?t=79586"></script>
 </p>
 
 
