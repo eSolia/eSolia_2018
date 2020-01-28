@@ -9,7 +9,9 @@ jobs:
     steps:
 
       # install git and jq for json manipulation
-      - run: apt-get update && apt-get install -y git && apt-get install -y jq
+      # git and jq now included so can remove
+      # if you need to run apt-get be sure to use sudo
+      # - run: apt-get update && apt-get install -y git && apt-get install -y jq
 
       # checkout the repository
       - checkout
