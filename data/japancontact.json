@@ -90,6 +90,36 @@
     "Toll Free Call?": false
   },
   {
+    "@row.id": 45,
+    "Id": "45",
+    "Description": "Tokyo Novel Coronavirus COVID-19 Information",
+    "Description‡": "東京都 新型コロナウイルス感染症対策サイト",
+    "Number": "0570-550571",
+    "Number‡": "0570-550571",
+    "Notes": "Tokyo residents can contact this helpdesk if they feel concerned about COVID-19. ",
+    "Notes‡": "新型コロナウイルス感染症が心配な時にご連絡する番号。",
+    "Hours": "9:00-21:00, every day",
+    "Hours‡": "9:00-21:00, 毎日",
+    "URL": "https://stopcovid19.metro.tokyo.lg.jp/en/flow/",
+    "URL‡": "https://stopcovid19.metro.tokyo.lg.jp/flow",
+    "Toll Free Call?": true
+  },
+  {
+    "@row.id": 44,
+    "Id": "44",
+    "Description": "OFIX Osaka Foundation of International Exchange",
+    "Description‡": "大阪府国際交流財団",
+    "Number": "06-6941-2297",
+    "Number‡": "06-6941-2297",
+    "Notes": "Answering your COVID-19 infection questions. ",
+    "Notes‡": "COVID-19に関する質問も承ります。",
+    "Hours": "9:00-20:00 Mon & Fri; 9:00-17:30 Tue, Wed & Thu; 13:00-17:00 2nd & 4th Sun",
+    "Hours‡": "月・金曜日 9時から20時 （祝日除く）・ 火・水・木曜日 9時から17時30分まで （祝日除く）・第2、第4日曜日 13時から17時まで",
+    "URL": "http://www.ofix.or.jp/life/index_e.html",
+    "URL‡": "http://www.ofix.or.jp/life/index.html",
+    "Toll Free Call?": false
+  },
+  {
     "@row.id": 7,
     "Id": "7",
     "Description": "Disaster Voice Message",

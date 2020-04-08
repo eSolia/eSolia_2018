@@ -1,5 +1,45 @@
 [
   {
+    "@row.id": 1065,
+    "Date": "2020-Apr-08",
+    "Description": "The Gov't of Japan has declared a state of emergency for Tokyo and surrounding prefectures, related to the global COVID-19 pandemic. eSolia is adjusting its operations accordingly to allow us to provide continued support as usual, working from home as a rule. 🚨"
+  },
+  {
+    "@row.id": 1064,
+    "Date": "2020-Apr-01",
+    "Description": "Japan Postal service is [suspending international service](https://www.post.japanpost.jp/int/information/2020/0401_02_en.html) to many countries as of 2nd April. Take note and plan accordingly. 🏣"
+  },
+  {
+    "@row.id": 1063,
+    "Date": "2020-Mar-23",
+    "Description": "We updated our list of emergency numbers needed by Japan residents and visitors, on [this page](https://esolia.com/japan-contacts), including a CSV download, adding numbers for COVID-19 info in Tokyo and Osaka. Please share with your friends. 🚨"
+  },
+  {
+    "@row.id": 1047,
+    "Date": "2020-Mar-01",
+    "Description": "Registration for the [Tokyo Yamathon](http://tokyo-yamathon.com) will be opening soon. This is an interesting and challenging charity walking event, where participants in teams of 3 or 4 people start walking near Tokyo station at 9am, visit each station on the Yamanote line (a photo at each is the requirement) and try to finish the ~40km by 9pm. 🚶🏽‍♀️🚶🏿‍♂️🚶🏽‍♀️ "
+  },
+  {
+    "@row.id": 1062,
+    "Date": "2020-Jan-23",
+    "Description": "PSA: Japan residents and visitors should be aware of possible spread of pneumonia-like [coronavirus](https://www.japantimes.co.jp/news/2020/01/16/national/science-health/japan-first-coronavirus-case/) after the first confirmed case. Take precautions like wearing a mask, washing your hands and gargling. 😷"
+  },
+  {
+    "@row.id": 1061,
+    "Date": "2020-Jan-10",
+    "Description": "International residents, workers, and students in Tokyo: the Tokyo Metropolitan Gov't will hold its [annual disaster drill](https://bousaikunren.com/en/) Tues 28 Jan 2020. Register by 15 Jan and join in! 🇯🇵⛑🚨"
+  },
+  {
+    "@row.id": 1060,
+    "Date": "2020-Jan-01",
+    "Description": "Happy New Year! Thank you everyone for your support during 2019, and may your 2020 be happy, healthy and prosperous! 🎉🎍"
+  },
+  {
+    "@row.id": 1059,
+    "Date": "2019-Dec-27",
+    "Description": "The eSolia year-end holiday starts today Dec 27 (Fri)​ from 12:00​, and runs through Jan ​5 ​(Sun), 2020​. We will be back in the office from Jan 6th, and wish everyone a restful break! \"Yoi otoshi wo!\" 🏝🇯🇵"
+  },
+  {
     "@row.id": 1057,
     "Date": "2019-Oct-09",
     "Description": "PSA: Typhoon \"Hagibis\" said to be \"strong and violent\" is approaching Japan and should hit Japan from Saturday 12 Oct afternoon through Sunday 13 Oct afternoon. Expect travel delays or stoppages, and avoid going outdoors. 🌀🌀"

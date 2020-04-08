@@ -32,6 +32,7 @@ images:
 <figure class="">
 <img class="is-pulled-right has-padding-m" width="250" data-caption="eSolia 20th Anniversary Lozenge" alt="Graphic for eSolia 20th Anniversary" src="/img/eSolia-20th-Lozenge-2019.png" >
 </figure>
+
 お客様ならびに関係者各位、
  
 平素は格別のご高配を賜り、深く御礼申し上げます。時下ますますご清栄のこととお喜び申し上げます。
