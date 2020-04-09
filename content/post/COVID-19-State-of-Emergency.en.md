@@ -36,7 +36,7 @@ images:
 <img class="is-pulled-right has-padding-m" width="250" data-caption="COVID-19 Sanitation" alt="Japanese Government Sanitation How-to Poster for COVID-19" src="/img/covid-19-sanitation.en.png" >
 </figure>
 
-The Gov't of Japan has declared a _state of emergency_ for Tokyo and 7 surrounding prefectures as of 19:00 7 April 2020, related to the global COVID-19 pandemic. Our thoughts are with our clients, partners and colleagues, and especially with those who have been directly affected in these difficult, terrifying times. 
+The Gov't of Japan has declared a _state of emergency_ for Tokyo and 7 other prefectures (surrounding, or with cities) as of 19:00 7 April 2020, related to the global COVID-19 pandemic. Our thoughts are with our clients, partners and colleagues, and especially with those who have been directly affected in these difficult, terrifying times. 
 
 eSolia is adjusting its operations accordingly to allow us to provide continued support as much as possible given the circumstances. As a rule we are working from home, and observing the Gov't guidelines for sanitation and safety (social-distancing, wearing masks, washing hands, gargling). 
 
