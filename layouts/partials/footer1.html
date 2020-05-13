@@ -23,5 +23,10 @@
 
     </div>
   </div>
+  {{ if not .Site.BuildDrafts }}
+    <!-- Fathom - beautiful, simple website analytics -->
+    <script src="https://scallop.esolia.pro/script.js" site="{{ .Site.Params.Analytics }}" defer></script>
+    <!-- / Fathom -->
+  {{ end }}
 </footer>
 {{ "<!-- LEAVING partial footer1.html -->" | safeHTML }}
