@@ -54,5 +54,7 @@ Rick Cogley, CEO and co-RD
 Takumi Fukuoka, COO and co-RD  
 
 <figure class="">
-<img class="is-pulled-left has-padding-m" width="250" data-caption="COVID-19 Sanitation" alt="Japanese Government Sanitation How-to Poster for COVID-19" src="/img/covid-19-sanitation.en.png" >
+<img class="has-padding-m" width="250" data-caption="COVID-19 Sanitation" alt="Japanese Government Sanitation How-to Poster for COVID-19" src="/img/covid-19-sanitation.en.png" >
 </figure>
+
+<br><br><br>

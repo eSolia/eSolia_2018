@@ -57,5 +57,7 @@ images:
 代表取締役副社長 福岡 琢巳  
 
 <figure class="">
-<img class="is-pulled-left has-padding-m" width="250" data-caption="COVID-19 Sanitation" alt="Japanese Government Sanitation How-to Poster for COVID-19" src="/img/covid-19-sanitation.jpg" >
+<img class="has-padding-m" width="250" data-caption="COVID-19 Sanitation" alt="Japanese Government Sanitation How-to Poster for COVID-19" src="/img/covid-19-sanitation.jpg" >
 </figure>
+
+<br><br><br>
