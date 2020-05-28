@@ -30,10 +30,6 @@ images:
 
 {{< blogbox >}}
 
-<figure class="">
-<img class="is-pulled-right has-padding-m" width="250" data-caption="COVID-19 Sanitation" alt="Japanese Government Sanitation How-to Poster for COVID-19" src="/img/covid-19-sanitation.en.png" >
-</figure>
-
 Please accept our sincere wishes for the health of you, your colleagues and your loved ones, during this difficult and frightening COVID-19 pandemic. The front-line first-responders in healthcare and the government are the real heroes in this situation, and we owe them our grateful thanks. 
 
 On 26th May 2020, the state of emergency was lifted, so we are posting here to let our clients know how we are going to provide support, moving forward. 
@@ -48,6 +44,10 @@ When on site, while taking into account any client guidelines regarding COVID-19
 1. Masks: eSolia personnel will wear masks, and will store extra masks in the IT desk area at your site. 
 1. Hand washing and disinfecting: eSolia personnel will wash and disinfect hands, and IT equipment. We will store extra disinfectant in the IT desk area at your site. 
 1. Cough etiquette: eSolia personnel will observe correct etiquette when coughing. 
+
+<figure class="">
+<img class="is-pulled-right has-padding-m" width="250" data-caption="COVID-19 Sanitation" alt="Japanese Government Sanitation How-to Poster for COVID-19" src="/img/covid-19-sanitation.en.png" >
+</figure>
 
 eSolia will adjust these practices as needed according to government guidelines to reduce the transmission of COVID-19 during the expected second or third waves of the disease, taking into account the health of the individuals and families of our clients, business partners, and eSolia personnel. 
 
