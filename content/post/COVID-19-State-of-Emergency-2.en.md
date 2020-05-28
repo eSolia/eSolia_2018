@@ -1,8 +1,8 @@
 ---
 author: Rick Cogley
 authorkey: rickcogley
-date: 2020-05-27T12:21:27+09:00
-publishdate: 2020-05-27T12:21:27+09:00
+date: 2020-05-28T16:35:50+09:00
+publishdate: 2020-05-28T16:35:50+09:00
 description: eSolia Response during the COVID-19 State of Emergency, Continued
 draft: false
 slug: covid-19-state-of-emergency-2
