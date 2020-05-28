@@ -45,10 +45,6 @@ When on site, while taking into account any client guidelines regarding COVID-19
 1. Hand washing and disinfecting: eSolia personnel will wash and disinfect hands, and IT equipment. We will store extra disinfectant in the IT desk area at your site. 
 1. Cough etiquette: eSolia personnel will observe correct etiquette when coughing. 
 
-<figure class="">
-<img class="is-pulled-right has-padding-m" width="250" data-caption="COVID-19 Sanitation" alt="Japanese Government Sanitation How-to Poster for COVID-19" src="/img/covid-19-sanitation.en.png" >
-</figure>
-
 eSolia will adjust these practices as needed according to government guidelines to reduce the transmission of COVID-19 during the expected second or third waves of the disease, taking into account the health of the individuals and families of our clients, business partners, and eSolia personnel. 
 
 Everyone's flexible cooperation will be critical to seeing an end to this crisis as soon as is possible, so please be smart and stay safe. 
@@ -56,3 +52,7 @@ Everyone's flexible cooperation will be critical to seeing an end to this crisis
 Sincerely,  
 Rick Cogley, CEO and co-RD  
 Takumi Fukuoka, COO and co-RD  
+
+<figure class="">
+<img class="is-pulled-left has-padding-m" width="250" data-caption="COVID-19 Sanitation" alt="Japanese Government Sanitation How-to Poster for COVID-19" src="/img/covid-19-sanitation.en.png" >
+</figure>

@@ -49,10 +49,6 @@ images:
 1. 手洗い・消毒（消毒シート/消毒液の持参）※お客様のITデスクで予備消毒液を常備させていただきます。
 1. 咳エチケットの徹底。
 
-<figure class="">
-<img class="is-pulled-right has-padding-m" width="250" data-caption="COVID-19 Sanitation" alt="Japanese Government Sanitation How-to Poster for COVID-19" src="/img/covid-19-sanitation.jpg" >
-</figure>
-
 政府・自治体から発信される最新なガイドライン、及び、今後の新型コロナウイルス感染症の感染状況を参考に、第2波・第3波による感染拡大防止のため、お客様、お取引先様、社員及び家族の健康・安全を最優先に考え、随時判断の見直しを行ってまいります。 ​
 
 一刻も早く新型コロナウイルス感染症の終息、皆様のご健康を心よりお祈り申し上げます。
@@ -60,4 +56,6 @@ images:
 代表取締役社長 コグレー リック  
 代表取締役副社長 福岡 琢巳  
 
-
+<figure class="">
+<img class="is-pulled-left has-padding-m" width="250" data-caption="COVID-19 Sanitation" alt="Japanese Government Sanitation How-to Poster for COVID-19" src="/img/covid-19-sanitation.jpg" >
+</figure>
