@@ -105,6 +105,21 @@
     "Toll Free Call?": true
   },
   {
+    "@row.id": 46,
+    "Id": "46",
+    "Description": "Foreign Residents Support Center \"FRESC\"",
+    "Description‡": "外国人在留支援センター「FRESC」",
+    "Number": "0570-011000",
+    "Number‡": "0570-011000",
+    "Notes": "FRESC in Yotsuya, Shinjuku Ward, Tokyo (in the Komore Yotsuya building), provides \"one stop\" consultation and assistance to foreign workers. Eight government-affiliated organizations including Immigration, Labor Bureau, JETRO and the Japan Legal Support Center,  have offices there. Reception in 11 languages, despite a Japanese-only website as of 9 July 2020. Alternate phone number 03-5363-3013 for IP phones and overseas. ",
+    "Notes‡": "センターは、外国人からの相談対応、外国人の活用を目指す企業の支援、外国人支援に取り組む地方公共団体の支援などの取組を行う予定です。令和2年7月9日(木)現在、ウェブサイトは日本語のみ。一部のＩＰ電話及び海外からは、03-5363-3013。",
+    "Hours": "9:00-17:00, Except Holidays",
+    "Hours‡": "平日９：００～１７：００。土曜，日曜，祝日，年末年始（１２月２９日～１月３日）は閉庁",
+    "URL": "http://www.moj.go.jp/nyuukokukanri/kouhou/fresc01",
+    "URL‡": "http://www.moj.go.jp/nyuukokukanri/kouhou/fresc01",
+    "Toll Free Call?": false
+  },
+  {
     "@row.id": 44,
     "Id": "44",
     "Description": "OFIX Osaka Foundation of International Exchange",
