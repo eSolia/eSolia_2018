@@ -14,12 +14,12 @@ type: licensepage
 alternatelocales:
   - en-US
 tags:
-    - 規定
-    - プライバシー
-  topics:
-    - Site
-  images:
-    - /img/eSolia-Chicklet-Color-1024px.png
+  - 規定
+  - プライバシー
+topics:
+  - Site
+images:
+  - /img/eSolia-Chicklet-Color-1024px.png
 ---
 
 ## Privacy Statement
