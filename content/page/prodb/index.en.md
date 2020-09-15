@@ -1,7 +1,7 @@
 ---
 author: eSolia
-date: 2018-05-06T07:07:27+09:00
-publishdate: 2018-05-06T07:07:27+09:00
+date: 2020-09-15T19:57:37+09:00
+publishdate: 2020-09-15T19:57:37+09:00
 draft: false
 title: PROdb Cloud Database
 slug: prodb
@@ -150,3 +150,7 @@ Consider PROdb if:
 1. you want to pay a low monthly cost, yet still have all the monthly maintenance taken care of.
 1. you value quick changes and problem resolution.
 1. you want "access anywhere" but with security.
+
+### Terms of Service
+
+PROdb is governed by this [Terms of Service](/prodb-tos) agreement.
