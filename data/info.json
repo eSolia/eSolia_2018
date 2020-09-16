@@ -1,5 +1,10 @@
 [
   {
+    "@row.id": 1072,
+    "Date": "2020-Sept-15",
+    "Description": "We updated the [terms of service](https://esolia.com/prodb-tos) for our cloud database platform \"PROdb\", editing for clarity and formatting. "
+  },
+  {
     "@row.id": 1071,
     "Date": "2020-Sept-15",
     "Description": "We updated our [privacy policy](https://esolia.com/privacy), editing for clarity. "
