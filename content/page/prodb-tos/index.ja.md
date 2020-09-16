@@ -1,12 +1,12 @@
 ---
 author: イソリア
 authorlink: /about
-date: 2020-09-15T19:57:37+09:00
+date: 2020-09-16T10:20:02+09:00
 publishdate: 2020-09-15T19:57:37+09:00
 description: eSolia PROdb Terms of Service - rules for use of eSolia PROdb cloud database. 
 draft: false
 slug: prodb-tos
-title: eSolia PROdb TOS
+title: イソリア PROdb 利用規約
 subtitle: Rules for Use of eSolia PROdb Cloud Database
 weight: 10
 menusection: Site
@@ -16,6 +16,7 @@ alternatelocales:
 tags:
   - 規定
   - 仕様条件
+  - 利用規約
   - TOS
 topics:
   - Site
