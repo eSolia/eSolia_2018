@@ -1,5 +1,10 @@
 [
   {
+    "@row.id": 1073,
+    "Date": "2020-Sept-16",
+    "Description": "We updated our list of emergency numbers needed by Japan residents and visitors, on [this page](https://esolia.com/japan-contacts), including a CSV download, adding the number for the FIND suicide prevention hotline. Please share with your friends. 🚨"
+  },
+  {
     "@row.id": 1072,
     "Date": "2020-Sept-15",
     "Description": "We updated the [terms of service](https://esolia.com/prodb-tos) for our cloud database platform \"PROdb\", editing for clarity and formatting. "
