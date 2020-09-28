@@ -1,13 +1,13 @@
 ---
 author: イソリア
 authorlink: /about
-date: 2020-09-15T17:59:53+09:00
-publishdate: 2020-09-15T17:59:53+09:00
-description: eSolia Privacy Statement - eSolia Inc's policy regarding the collection and use of information that can personally identify you. 
+date: 2020-09-28T17:01:51+09:00
+publishdate: 2020-09-28T17:01:51+09:00
+description: イソリア・プライバシーポリシー - お客様の個人識別が可能な情報の収集および使用に関する株式会社イソリアのポリシー 
 draft: false
 slug: privacy
-title: eSolia Privacy Policy
-subtitle: Regarding the Collection and Use of Information that can Personally Identify You
+title: イソリア・プライバシーポリシー
+subtitle: お客様の個人識別が可能な情報の収集および使用に関して
 weight: 10
 menusection: Site
 type: licensepage
@@ -22,54 +22,55 @@ images:
   - /img/eSolia-Chicklet-Color-1024px.png
 ---
 
-## Privacy Statement
+## プライバシーポリシー
 
-**Updated:** 15 Sept 2020  
-  
-This page explains eSolia Inc's policy regarding the collection and use of information that can personally identify you. By using our websites you are signifying you are in agreement with this policy. 
+**更新日:** 2020年9月28日
 
-### Information Collection and Use
+本ページは、お客様の個人識別が可能な情報の収集および使用に関する株式会社イソリアのポリシーについて説明しています。当社ウェブサイトを利用することにより、お客様は、本ポリシーに同意したことを示しています。
 
-eSolia collects contact information from customers at several different points on our websites: free trial ordering, online support registration and subscription to news. Collected data is stored securely to prevent unauthorized access. 
+### 情報の収集および使用
 
-This information is used to contact the user about the services for which they have expressed interest or are using, and will not be sold, rented or made available to any third party at any time, unless we are required to do so as noted in "Limitation."
+イソリアは、当社のウェブサイトの複数個所（無料トライアルの注文、オンラインサポート登録、ニュース購読）で、お客様から連絡先情報を収集します。収集されたデータは不正なアクセスを防止するため安全に保管されます。
 
-### Registration and Update
+本情報は、ユーザーが興味を示した、または使用しているサービスについてユーザーと連絡をとるために使用されるものであり、「制限」での注記に従ってそうする必要がない限り、いつであれ、第三者に販売、貸与または提供されることはありません。
 
-To use our secure websites, users complete registration forms, providing their contact information such as name and email address, as well as unique identifiers such as a username and password. 
+### 登録および更新
 
-Users are able to update or correct the personally identifiable information they have provided. If a customer wishes to close their account, a method for removal of such information will be provided or we will remove it manually when that is not possible. 
+当社の保護されたウェブサイトを使用するにあたり、ユーザーは、登録フォームに記入し、氏名、Eメールアドレスなどの連絡先情報のほか、ユーザーネーム、パスワードなどの固有の識別情報を提供します。
 
-### Ordering
+ユーザーは、提供した個人識別情報を更新または修正することができます。お客様がアカウントの閉鎖をご希望の場合は、情報を削除する方法が提供されるか、または、それができない場合は当社が手作業で削除します。
 
-To fulfill orders and process billing, we request information from the user or client, such as contact and financial information. 
+### 注文
 
-### Cookies
+注文を履行し請求を処理するために、当社は、ユーザーまたは顧客から、連絡先情報や財務情報などの情報を求めます。
 
-Our sites may generate "cookies". A "cookie" is a piece of data created by your Internet browser, stored on your hard drive and containing certain information related to your use of our sites. Cookies are only used to store encrypted login information, and are in no way linked to any personally identifiable information using our sites. 
+### Cookie
 
-### Log Files
+当社サイトは「Cookie」を生成する場合があります。「Cookie」は、お客様のインターネットブラウザが生成するデータで、お客様のハードドライブに保存され、お客様による当社サイトの利用に関連した特定の情報を含んでいます。Cookieは、暗号化されたログイン情報を保存するためのみに使用されます。当社サイトを利用する際の個人識別情報にリンクされることはありません。
 
-We use IP addresses, browser type, operating system, referring URLs, page views, and access times to analyze trends, administer the site, track user movements, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
+### ログファイル
 
-### Site and Service Updates
+当社は、トレンドの分析、サイトの管理、ユーザー行動の追跡および総体的な使用を目的とした幅広い人口統計情報の収集のために、IPアドレス、ブラウザの種類、オペレーティングシステム、参照URL、ページビュー、およびアクセス時間を使用します。IPアドレス等は、個人識別情報にリンクされません。
 
-We send occasional site and service updates announcements to our customers, for the purposes of smooth service provision and to communicate any issues regarding our services or the customer's account. 
+### サイトおよびサービスの更新
 
-### Limitation
+当社は、サービスの提供、および当社のサービスまたはお客様のアカウントに関する問題をスムーズに連絡するために、当社のお客様に、サイトおよびサービスの更新に関するお知らせをご案内する場合があります。
 
-It is eSolia's policy to respect the privacy of its customers. Therefore we will not monitor, edit or disclose the contents of your personal account unless required to do so by law, in accordance with a judicial or other governmental subpoena, warrant or order, or, in exigent circumstances to act to protect and defend the rights or property of eSolia Inc, or to protect the personal safety of eSolia Inc's customers or the public. 
+### 制限
 
-### Changes in this Privacy Statement
+お客様のプライバシーを尊重することはイソリアのポリシーです。したがって、法律により、司法当局その他政府の召喚状、令状、もしくは命令に従って、株式会社イソリアの権利もしくは財産を保護および防御するために行動する緊急の状況において、または株式会社イソリアのお客様の個人的な安全もしくは公共の保護のために必要である場合を除き、お客様の個人アカウントの内容を監視、編集または開示することはありません。
 
-We reserve the right to modify this privacy statement at any time. We will announce changes to this statement on this website in the news section. 
+### 本プライバシーポリシーの変更
 
-### Contacting eSolia
+当社は、本プライバシーポリシーを随時変更する権利を留保しています。当社は、本ウェブサイトのニュースの項目で、本ポリシーに対する変更を発表します。
 
-If you have any questions or concerns regarding this statement, please contact eSolia Inc.:
+### イソリアへのお問い合わせ
 
-**eSolia Inc.**  
-Sawa Bldg. 6F  
-Nishi-Shinbashi 2-2-2, Minato-ku, Tokyo 105-0003 Japan  
-Tel: 03-6273-3510 | Fax: 03-3593-3511  
+本文書に関してのご質問・お問い合わせは、株式会社イソリアまでご連絡ください。連絡先：
+
+**株式会社イソリア**  
+105-0003東京都港区西新橋2-2-2  
+澤ビル6階  
+電話番号: 03-6273-3510 | ファックス: 03-3593-3511  
 esolia.com | esolia.co.jp  
+  
