@@ -1,13 +1,13 @@
 ---
 author: イソリア
 authorlink: /about
-date: 2020-09-16T10:20:02+09:00
-publishdate: 2020-09-15T19:57:37+09:00
-description: eSolia PROdb Terms of Service - rules for use of eSolia PROdb cloud database. 
+date: 2020-09-28T17:01:51+09:00
+publishdate: 2020-09-28T17:01:51+09:00
+description：イソリアPROdb利用規約 ― PROdbクラウド型データベースの利用に関する規則
 draft: false
 slug: prodb-tos
 title: イソリア PROdb 利用規約
-subtitle: Rules for Use of eSolia PROdb Cloud Database
+subtitle: イソリアPROdbクラウド型データベースの利用に関する規則
 weight: 10
 menusection: Site
 type: licensepage
@@ -24,185 +24,216 @@ images:
   - /img/eSolia-Chicklet-Color-1024px.png
 ---
 
+## 利用規約
 
-## Terms of Service
+**更新日：**2020年9月28日
 
-**Updated:** 15 Sept 2020  
+### 第1章　一般条項
+#### 第1.1条（目的）
+
+株式会社イソリア（以下、「本会社」といいます）は、PROdbクラウド型データベースプラットフォーム（以下、「本サービス」といいます）の利用に関して、以下の規則（以下、「本規則」といいます）を策定しており、これらの規則に従ってサービスを提供するものとします。本サービスのユーザーは、本サービスに同意し、本規則において定めるすべての条項を遵守して利用するものとします。
+
+#### 第1.2条（定義）
+
+本規則において使用し、以下の各項に定める用語の意味は、各項に定めるとおりとします。
+
+1. 「本顧客」とは、本会社の同意に基づき、本規則に基づいて契約が成立している、本会社が提供する本サービスの利用に同意した法人または個人をいいます。
+2. 「管理者」とは、本顧客に所属している個人、または本顧客が業務委託をしている個人、または本顧客が業務委託する法人に所属している個人で、本サービスの利用を監督し、利用の申込みまたは利用条件に対する変更時に本会社との間で連絡窓口となる個人をいいます。
+3. 「ユーザー」とは、本顧客に所属している個人、または本顧客が業務委託をしている個人、または本顧客が業務委託する法人に所属している個人で、本顧客のサービスユーザーIDを使用し本サービスを利用する個人をいいます。
+4. 「サービスユーザーID」とは、各本顧客に発行される、本サービスを利用するためのアクセスIDをいいます。
+5. 「利用開始日」とは、本サービスを利用開始できる日をいいます。
+6. 「オンライン通知」とは、本会社のウェブサイトへの投稿またはEメールなど、通信回線を使用して発表を行う手段をいいます。
+
+#### 第1.3条（基本契約の性質）
+
+1. ユーザーが本サービスに対して複数のライセンスを使用している場合、本規則は、個人の対象ライセンスに適用されるものとします。
+2. 本会社は、本規則に加え、必要に応じて別個の規則を策定することができます。その場合は、別段の定めがない限り、本規則も適用されるものとします。
+3. 本会社は、本顧客の同意を得ずに本規則の全部または一部を変更することができます。さらに、本顧客は、更新された本規則を遵守するものとします。
+4. 本規則が変更された場合は、本会社は管理者に通知するものとし、通知方法はオンライン通知とします。さらに、オンライン通知において別段に定めている場合を除き、変更された本規則は通知が送信された時点から有効となるものとし、新たな本規則は、管理者が通知を受領していない、または通知を確認していない場合であっても、適用されるものとします。
+
+### 第2章　サービスコンテンツ
+#### 第2.1条（サービスコンテンツ）
+
+本サービスには本顧客のデータの管理が含まれ、ユーザーはインターネットを介して対象データを使用することができます。ユーザーは、本規則の定めに従い、インターネットを介して本会社が指定する管理サーバ機器に接続し、本サービスを利用することができます。
+
+#### 第2.2条（サービスコンテンツの変更）
+
+1. 本会社は、本会社が本サービスの提供のために手配した機器、設備および通信回線及びソフトウェア（以下「本会社の機器等」といいます）に関して、外注費、保守費、通信費等本サービスを継続する費用が大幅に値上がりした場合、全体的または部分的にサービス料金を変更することができ、本会社は、本サービスを解約し、本サービスのコンテンツを継続する新たなサービスに切り替えることができます。
+2. ユーザーが本サービスを利用したことにより記録されたデータは、ユーザーまたは管理者がバックアップするものとします。
+
+#### 第2.3条（本サービスの停止）
+
+1. 本会社は、本条のいずれかの項目が適用される場合、本サービスの全部または一部の提供を停止することができます。本会社は、本サービスを停止したことにより本顧客が損害を被った場合であっても、いかなる責任も負わないものとします。
+
+2. 本会社は、本会社の機器等の修理、点検、保守、アップグレードまたは拡張等のために本サービスを停止する場合、遅くともその週間前までに、Eメールまたは本会社のウェブサイト（https://esolia.com, https://esolia.co.jp, https://prodb.esolia.net)を通じて管理者に通知するものとします。かかる通知は送信された時点から有効となるものとし、通知が管理者に届かなかった、または管理者側で通知を確認しなかった場合でも、通知の有効性に影響はないものとします。
+
+3. 本条第2項に定めるEメールまたは本会社のウェブサイトによる通知の期間は、事故の発生など緊急の対応が必要な場合は、短縮することができます。
+
+4. 本会社は、以下の項目のいずれかが適用される場合、管理者に通知するものとします。その場合、本サービスの停止についての事前通知は必要ありません。かかる通知は送信された時点から有効となるものとし、通知が管理者に届かなかった、または管理者側で通知を確認しなかった場合でも、通知の有効性に影響はないものとします。
   
-### Section 1 - General Provisions
-#### Article 1.1 (Objective)
+   (a)申込みフォームまたは提出された文書が不適切であった場合   
+   (b)申込みフォームに記載された詳細（住所、電話番号、管理者等）に変更があったが、変更手続きが取られていない場合  
+   (c)本会社の機器等の不具合  
+   (d)本会社が、コンピューターウイルスを防止するために本会社の機器等の使用を中断する必要があることを確認した場合   
+   (e)本会社が、本会社の機器等の管理および運営を請け負う請負業者に責めを帰すべきサービスの中断を事前に通知されていなかった場合
 
-eSolia Inc. (hereinafter referred to as the "Company") has established the following rules (hereinafter referred to as these "Rules") for the use of the _PROdb cloud database platform_ (hereinafter referred to as the "Service") and shall provide such service in accordance with these rules. Users of the Service shall use the Service having agreed to and in compliance with all items provided for in these Rules.
-
-#### Article 1.2 (Definitions)
-The meaning of the terminology used in these Rules and provided for in each of the following items shall be as set forth in each item.
-1. "Client(s)" refers to corporations or individuals with whom an agreement has been enacted based on these Rules based on the Company's consent, who have agreed to use the Service provided by the Company.
-2. "Administrator(s)" refers to individuals attached to a Client, or individuals subcontracted by a Client, or individuals affiliated to corporations subcontracted by a Client, who oversee use of the Service and act as the point of contact with the Company for applications for use or alterations to usage terms and conditions.
-3. "User(s)" refers to individuals attached to a Client, or individuals subcontracted by a Client, or individuals affiliated to corporations subcontracted by a Client, who make use of the Service using a Client's Service User ID.
-4. "Service User ID" refers to the access ID for using the Service issued to each Client.
-5. "Date of Commencement of Use" refers to the date on which it is possible to start using the Service.
-6. "Online Notification" refers to a method of making announcements which uses telecommunication lines such as posting on the Company’s website or email, etc.
-
-#### Article 1.3 (Basic Contractual Nature)
-1. These Rules shall apply to individual target licenses in the event that Users use multiple licenses for the Service.
-2. The Company may establish separate rules as necessary in addition to these Rules. In such cases, these Rules shall also apply unless otherwise specified.
-3. The Company may alter all or a part of these Rules without the Client’s consent. Furthermore, Clients shall comply with updated versions of these Rules.
-4. In the event that these Rules are altered, the Company shall notify the Administrator and the method of notification used shall be Online Notification. Furthermore, unless otherwise specified in the content of the Online Notification, altered Rules shall be effective from the point in time that the notification is transmitted, and the new Rules shall apply even if the Administrator fails to receive notification or the Administrator fails to confirm notification.
-
-### Section 2 - Service Content
-#### Article 2.1 (Service Content)
-The Service involves the management of Client data and Users may use the target data via the internet. Users may use the Service by connecting to management server equipment specified by the Company via the Internet in accordance with that set forth in these Rules.
-
-#### Article 2.2 (Alterations to Service Content)
-1. The Company may alter the service fee in whole or in part in the event that the cost of continuing the Service such as outsourcing fees, maintenance fees, telecommunication costs, etc. for equipment, facilities and telecommunication lines and software arranged by the Company for the provision of the Service (hereinafter referred to as the "Company's Equipment, etc.") rise significantly, and the Company may revoke the Service and change over to a new service which continues the Service content.
-2. Data recorded as a result of Users using the Service shall be backed up by Users or the Administrator.
-
-#### Article 2.3 (Suspension of Services)
-1. The Company may suspend provision of all or a part of the Service in the event that any of the items in this Article are applicable. The Company shall not assume any responsibility whatsoever even if Clients incur damages following the suspension of the Service.
-2. The Company shall notify the Administrator via email or via the Company's website (https://esolia.com, https://esolia.co.jp, https://prodb.esolia.net) at least one (1) week in advance in the event that the Company suspends the Service for repairs, checks, maintenance, upgrading or expansion, etc. of the Company’s Equipment, etc. Such notification shall be valid from the time it is transmitted and failure of the notification to reach the Administrator or failure on the part of the Administrator to check the notification shall not affect the validity of the notification.
-3. The email or Company website notification term set forth in paragraph 2 of this Article may be shortened when an emergency response is required such as when accidents occur.
-4. The Company shall notify the Administrator in the event that any of the following items are applicable. In such cases, prior notification of the suspension of the Service need not be given. Such notification shall be valid from the time it is transmitted and failure of the notification to reach the Administrator or failure on the part of the Administrator to check the notification shall not affect the validity of the notification.  
+5. 本会社は、本顧客、管理者またはユーザーが以下のいずれかの項目に該当する場合、管理者に通知することなく、本サービスを解除し、本サービスを停止し、または必要なその他の措置を講じることができます。
   
-   (a) When application forms or submitted documents are inadequate  
-   (b) When details stated on application forms have changed such as addresses, telephone numbers, the Administrator, etc., and alteration procedures have not been taken  
-   (c) Defects in the Company's Equipment, etc.  
-   (d) When the Company has acknowledged that it is necessary to discontinue use of the Company’s Equipment, etc. as a means to prevent a computer virus  
-   (e) When the Company has not been preliminarily informed of service discontinuation attributable to a contractor contracted with the management and operation of the Company's Equipment, etc.  
+   (a)本顧客または管理者が虚偽の申告をした場合  
+   (b)本会社または第三者の名誉、信用またはプライバシーを侵害する行為が発生した、または発生するおそれがある場合   
+   (c)本会社または第三者の著作権その他の知的財産権を侵害する行為が発生した、または発生するおそれがある場合   
+   (d)本会社または第三者のシステムまたはデータの喪失、破損または盗用を生じさせる行為が発生した、または発生するおそれがある場合   
+   (e)本顧客による利用料の支払いが確認できない場合   
+   (f)IDもしくはパスワードが悪用された場合、またはIDもしくはパスワードが悪用された可能性が高いと判断された場合   
+   (g)違法な行為もしくは違法な行為の煽動となりやすい行為、または違法な行為となる、もしくは違法な行為をあおるおそれのある行為が発生したと確認された場合   
+   (h)本会社の本サービスの提供を妨げる行為、または本サービスの提供を損なうおそれのある行為が発生したと認められた場合   
+   (i)第三者の本サービスの利用を妨げる、もしくは害する行為、または被害もしくは損害を発生させるおそれのある行為が発生したと確認された場合   
+   (j)本規則の違反があった場合   
+   (k)大災害などの不可抗力により本サービスを提供できない場合   
+   (l)管理者に連絡を取ることができない、または管理者の消息が不明である場合   
+   (m)本会社の機器等の管理および運営を委託されている請負業者もしくは通信事業者による機器の保守および建設工事による、または回線の混乱もしくは自然災害等によるやむを得ない理由がある場合   
+   (n)本顧客の代表者が差し押さえもしくは滞納処分にあった場合、または破産の申立てをした場合、または保佐開始決定もしくは後見開始決定を受けた場合   
+   (o)本顧客が、破産、民事再生手続き、会社更生手続きもしくは特別清算の申立てをした場合、または手形交換所、差し押さえもしくは滞納処分により事業停止処分を受けた場合   
+   (p)本顧客または管理者の要請により本サービスが停止または解除された場合   
+   (q)本会社が必要とみなすその他の合理的な理由がある場合
   
-5. The Company may terminate the Service, suspend the Service or take any other measures necessary, without notifying the Administrator when Clients, Administrators, or Users fall under any of the following items.  
+### 第3章　利用の申込み
+#### 第3.1条（契約の申込みおよび確定）
+
+1. 本サービスの利用に関する利用契約の成立後、支払方法および支払時期が確認され次第、本サービスの利用が開始するものとします。
+2. 以下のいずれかの項目が本顧客に適用される場合、本会社は、申込みを承認することはできません。  
   
-   (a) When Clients or Administrators have submitted fallacies  
-   (b) When acts have occurred or are at risk of occurring which infringe the honor, credibility, or privacy of the Company or a third party  
-   (c) When acts have occurred or are at risk of occurring which infringe the copyrights or other intellectual property rights of the Company or a third party  
-   (d) When acts have occurred or are at risk of occurring which result in the loss, damage, or plagiarism of the Company or a third party’s system or data  
-   (e) When payment of usage fees by Clients cannot be confirmed  
-   (f) When IDs or passwords have been abused or when it is judged that there is a strong possibility that IDs or passwords have been abused  
-   (g) When illegal acts or acts which easily incite illegal acts, or acts at risk of being or inciting illegal acts have been acknowledged as having occurred  
-   (h) When acts which hinder the Company's provision of the Service or acts at risk of injuring provision of the Service have been acknowledged as having occurred  
-   (i) When acts which hinder or inflict damage on third party's use of the Service or acts at risk of injuring or inflicting damage had been acknowledged as having occurred  
-   (j) When these Rules have been violated  
-   (k) When it is not possible to provide the Service due to an act of providence such as a major disaster  
-   (l) When it is not possible to contact an Administrator or when the whereabouts of an Administrator are unclear  
-   (m) When there are unavoidable reasons due to equipment maintenance and construction work by the contractor subcontracted with the management and operation of the Company's Equipment, etc., or by telecommunications operators, or due to circuit disruption or natural disasters, etc.  
-   (n) When a Client representative is subject to seizure or coercive collection, or files a petition for bankruptcy, or is subject to a ruling for commencement of curatorship or a ruling for commencement of guardianship  
-   (o) When a Client has filed a petition for bankruptcy, civil rehabilitation procedures, corporate reorganization procedures, or special liquidation, or is subject to disposition by the suspension of business by clearing houses, seizure, or coercive collection  
-   (p) When the Service is suspended or terminated following a request by a Client or an Administrator  
-   (q) When there are any other rational reasons deemed necessary by the Company  
+   (a)申込内容が 誤っている、不完全または不正確である、または部分的に判読できない場合   
+   (b)以前の規則の違反により、本会社が与えたサービスの利用資格を本会社が取り消した場合   
+   (c)本会社が申込者を本顧客として不適切であるとみなすその他の状況があり、本顧客にその理由を提示した場合 
+
+#### 第3.2条（本契約の期間および更新）
+
+1. 本顧客の最短の有料利用期間は1カ月とします。
+2. 変更手続きまたは解約手続きが取られない限り、当初の利用期間の満了後、利用期間は自動的に1カ月ごとに更新されるものとします。
+
+### 第4章　利用料および支払方法
+#### 第4.1条（請求基準）
+
+1. 本サービスの利用料は、追加のライセンスの数に従って決定されるものとします。
+2. 本サービスは、前払いのホスティングサービスです。ユーザーは、サービスを受領する前に料金を支払うという条件に同意したとみなされるものとします。合意は不要です。さらに、サービスの利用に対して登録料または解約料は発生しません。
+
+#### 第4.2条（契約の解除）
+
+本サービスはいつでも解約することができます。本会社は未利用のサービスについて返金することに同意します（1カ月を超える料金が前払いされていた場合、返金は月単位で行うものとします）。お支払いがない、またはお支払いが確認出来ない場合、本会社は、本顧客へのサービスの提供を停止する権利を留保します。本会社は、本顧客が本サービスを利用し続ける限り、請求期間の定額料金を保証するものとします。
+
+#### 第4.3条（請求および支払い）
+
+1. 本会社は、本規則に定める支払い基準に従って要求される利用料金を本顧客に請求するものとし、本顧客は、本条に定める方法に従って期限までに支払いを行う義務を負うものとします。
+2. 本顧客は、銀行振込手数料または決済サービスプロバイダーの手数料などの利用料の支払いに関する種々の費用に責任を負うものとします。
+
+#### 第4.4条（サービスの停止）
+
+サービスが停止された場合でも、料金は請求されるものとします。ただし、本会社に責めを帰すべき理由により1カ月間の初日から末日までの期間において15日以上サービスが停止された場合は、1カ月分の利用料が100%減額されるものとします。
+
+### 第5章　利用
+#### 第5.1条（管理者の任命）
+
+1. 本顧客は管理者を任命するものとし、かかる旨を本会社に通知するものとします。
+2. 管理者は特定の個人とし、本規則および第3条に定めるその他の規則に定める管理に対する責任を負うものとします。
+3. 管理者の変更があった場合、本顧客は直ちに本会社に通知する義務を負います。
+
+#### 第5.2条（変更の通知）
+
+1. 本顧客は、以下のいずれかの項目が適用される場合、自身で、または管理者を通じて、本会社が定める方法に従い、直ちに変更を本会社に通知する義務を負います。
   
-### Section 3 - Applications for Use
-#### Article 3.1 (Applications and Establishment of Agreements)
-1. Use of the Service shall commence once payment method and timing has been confirmed after the enactment of the usage agreement for the use of Service.
-2. The Company may not approve applications in the event that any of the following items are applicable to Clients.    
-   (a) When application details are false, incomplete, incorrect, or partially illegible  
-   (b) When the Company has revoked eligibility to use the services provided by the Company due to a previous violation of the rules  
-   (c) When there are any other circumstances in which the Company deems the applicant inappropriate as a Client and has indicated such reason to the Client  
+   (a) 住所または所在地を変更しようとする場合、  
+   (b) 社名または商号を変更しようとする場合   
+   (c)代表者または事業主を変更しようとする場合   
+   (d)電話番号または管理者のEメールアドレスを変更しようとする場合   
+   (e)支払方法または支払いに必要な種々の通知の詳細を変更しようとする場合     
+   (f)管理者または管理者の連絡先を変更しようとする場合
+
+2. 本会社が特定の文書が必要と判断した場合、本顧客はかかる文書を提出しなければなりません。
+3. 本顧客は、第2.3条、5のアイテム(ｍ)か(n)に該当する、または該当するおそれがある場合、直ちに本会社に通知しなければなりません。
+
+#### 第5.3条（本顧客の環境保守）
+
+本顧客は、本サービスを利用するためにユーザーが必要とする機器および端末および通信回線について、購入、設置、通信料および接続料等を自己の費用負担で準備する責任を負う。
+
+#### 第5.4条（IDおよびパスワードの管理）
+
+管理者は、取引先コードおよびすべてのサービスユーザーIDを管理する責任を負うものとし、本会社は、サービスユーザーIDまたはパスワードが漏洩したことにより本顧客が被った損害については責任を負わないものとします。さらに、本顧客は、本顧客に貸与されたサービスユーザーIDの違法な使用または不適切な管理により本会社または第三者が損害を被った場合に責任を負うものとします。
+
+本顧客は、サービスユーザーIDおよびパスワードが本顧客の下請業者以外の第三者に開示、漏洩、不正に使用されることのいように、自己の同類の資産を管理する場合と同様の注意をもって、すべてのサービスユーザーIDおよびパスワードを管理するものとします。ただし、検察、警察または規制機関から正当なまたは法に則った情報照会があった場合は、サービスユーザーIDおよびパスワードを開示することができます。
+
+#### 第5.5条（安全性および信頼性）
+
+1. 本サービスは、安全性の高いデータセンター内に設置されています。生体認証ロックを備えた施設は、監視システムにより24時間365日管理され、緊急時の非常用電力源としてディーゼル駆動の発電機を二重に備えています。さらに、サヴィス、Level３およびAT\&Tを通じてインターネット基幹通信網に達するために複数の接続が必要であり、容易に侵入ができない構造です。さらに、施設には、高度な消火システムも設置されています。
+
+2. 本サービスは、デルのサーバハードウェアで起動するマイクロソフトのSQLサーバデータベースを使用しています。
+
+3. 本顧客のデータは、1日1回自動的にバックアップされますが、本顧客のパソコンまたはサーバに定期的にバックアップすることも可能です。
+
+4. プラットフォーム自体も4種類の鍵によるセキュリティを保証しています。
+   
+   (a)プライバシー　インターネットブラウザ：システム間のデータ交換はすべてSSLにより暗号化されています。  `https://`で始まるサイトを閲覧する場合、そのウェブサイトはSSLにより保護された安全なサイトであるという意味で、認証を確認するために南京錠のアイコンをクリックして暗号化状態を確認することができます。確認の方法は、ブラウザおよびそのバージョンにより異なります。  
+   (b)認証　PROdbはすべての側面において認証要求を用いて保護されており、セキュリティを強化するために各々のアクセスが検査されます。  設計および構成に従ってデータの一部が開示されない限り、公式なアクセスはできません。  
+   (c)セグメンテーション　各データベースアプリケーションは完全に区切られており、アプリケーション同士をつなぐことは許可されていません。  本会社から2つのアプリケーションライセンスが取得された場合でも、データがエクスポートおよびインポートされない限り、データを結合することはできません。  
+   (d)アクセス保護　各ユーザーはシステム内で役割が与えられ、本会社は、システムの設計を通じてかかる役割に対するアクセスを確立しています。  完全なアクセス権限が付与されている役割がある一方、一定のアクセス権限しかない役割もあります。
+
+#### 第5.6条（第三者の使用）
+
+ユーザーは、本会社の明示の書面による同意を得ずにサービスを転売し、または営利目的でサービスを利用しないことに同意するものとし、ユーザーは、第三者による違法なアカウントの使用に対し全責任を負うことに同意したとみなされるものとします。
+
+### 第6章　守秘義務
+#### 第6.1条
+
+本会社は、業務の過程において知った個人を識別しうる情報を、当該個人の同意を得ずに第三者に開示してはなりません。ただし、本会社が、法律に基づく公的機関からの問い合わせに従って、または法律に従って、かかる情報を開示する義務を負う場合には、この制限は適用されないものとします。
+
+#### 第6.2条
+
+本会社は、以下のいずれに該当する場合、本顧客から同意を得ずに、必要な情報を使用できます。
+
+   (a)本会社内部で使用される情報を収集し、分析するために使用する場合   
+   (b)本会社のサービスについて説明するために作成される資料の情報源として使用する場合   
+   (c)本顧客が第2.3条、5のアイテム(f)に該当する場合   
+   (d) 検察、警察または規制当局から正当なまたは法に則った情報照会があった場合
+
+#### 第6.3条
+
+本会社は、本契約の解除後であっても、本章の範囲内で本サービスにおける本顧客の登録情報を使用することができます。
+
+#### 第6.4条
+
+本会社は、安定した本サービスを提供するために、各本顧客について、本会社の機器等の使用に関連して、データ登録の状態、データ通信量および接続状況などの管理データを取得することができます。本会社は、かかる管理データを注意深く管理することに責任を負うものとし、本サービスの安定した提供以外の目的で、データが使用、閲覧または開示されないものとします。
+
+### 第7章　雑則
+#### 第7.1条（免責）
+
+1. 本会社は、本顧客による本サービスの利用の結果に関して、ならびに本サービスを利用して記録されるすべてのデータの完全性、網羅性、正確性、信頼性および有用性等に関して、本規則に定める以外で、いかなる保証もしないものとします。
+2. 本会社は、本サービスの遅延、中断、変更、停止または廃止に関連して発生した本顧客の損害に関して、本規則に定めるもの以外、利用料の返金の責任または義務を負わないものとします。
+3. IDとパスワードの管理は、管理者の指示に従い本顧客が慎重に実施するものとします。本サービスの利用がパスワードを使用し、認証されたIDを使用したうえでの場合は、常に正規のユーザーによる使用であるとみなされるものとし、本会社は、正当なユーザーではないユーザーによる利用の場合であっても不正な利用に対して責任を負わないものとします。
+4. 本会社は、もっぱら本顧客による本サービスでの使用のために本会社の機器等を保証するものとし、本会社の機器等を接続するための通信回線、機器、設備およびソフトウェア等に対していかなる責任も負わないものとします。
+
+#### 第7.2条（賠償）
+
+1. 本会社は、本規則に基づく義務の履行に関して故意の、または重大な過失がない場合は、損害賠償に対し責任を負わないものとします。
+2. 本顧客は、本会社およびそれらの取引先および譲受人をすべての不利益から保護し、損害を補償することに同意したとみなされるものとします。したがって、本顧客が第2.3条、5に該当し、または本規則に違反したことにより本会社が直接または間接的に損害を被った場合、本顧客は、本サービスが終了したか否かにかかわらず、損害賠償請求があった場合に本会社の計算基準に基づき損害を賠償する義務を負うものとします。
+
+#### 第7.3条（著作権）
+
+本会社は、本サービスを提供するために本会社が作成したシステムおよびソフトウェアの全部または一部について著作権（二次的著作物を作成する権利およびそのような著作物を使用する権利を含みます）を有するものとし、本顧客は、本会社から許可を得ることなく、本規則において認められた範囲を超えて、スターターキットおよび対象アプリケーションをコピーし、変更し、その他のいかなるフォーマットでも、頒布し、貸与し、または使用してはなりません。さらに、本顧客は、本会社から許可を得ることなく、本会社が所有している商標（サービスマークを含みます）を使用してはなりません。
+
+#### 第7.4条（管轄権を有する裁判所）
+
+本サービスの利用に関して本会社と本顧客との間で紛争が生じたときには、東京地方裁判所を第一審の専属裁判所とします。
+
+### 本TOS契約の変更
+
+当社は、本利用規約を随時変更する権利を留保しています。当社は、本ウェブサイトのニュースの項目で変更を発表します。
+
+### イソリアへの連絡
+
+本文書に関してのご質問・お問い合わせは、株式会社イソリアまでご連絡ください。連絡先：
   
-#### Article 3.2 (Term of Agreement and Renewal)
-1. The shortest fee-based usage term for Clients shall be one (1) month.
-2. Unless amendment procedures or cancellation procedures have been taken, usage terms shall be automatically renewed each month after the expiration of the initial usage term.
-
-### Section 4 - Usage Fees and Method of Payment
-#### Article 4.1 (Charge Criteria)
-1. Fees for use of the Service shall be determined according to the number of additional licenses.
-2. The Service is a pre-paid hosting service. Users shall be deemed to have agreed to the condition that they pay fees prior to receiving the service. There is no agreement. Furthermore, there are no registration fees or cancellation fees for the use of the service.
-
-#### Article 4.2 (Contract Termination)
-The Service may be canceled at any time. The Company agrees to refund unused services (refunds shall be in monthly units in the event that more than one (1) month's worth of fees have been paid in advance). The Company retains the right to suspend provision of the service to Clients in the event that it is not payment or payment procedures cannot be confirmed. The Company shall guarantee a flat rate price per invoice period for as long as Clients continue to use the Service.
-
-#### Article 4.3 (Invoice and Payment)
-1. The Company shall invoice usage fees requested in accordance with payment criteria set forth in these Rules to Clients, and Clients shall assume the obligation to pay according to the methods set forth in this Article and by the deadline.
-2. Clients shall be responsible for various expenses relating to payment of usage fees such as bank transfer charges or payment provider surcharges.
-
-#### Article 4.4 (Service Suspension)
-Fees shall be charged even when services are suspended, however usage fees for one (1) month shall be reduced by 100% in the event that service is suspended for 15 days or more during that period from the first day to the last day of such month due to a reason attributable to the Company.
-
-### Section 5 - Usage
-#### Article 5.1 (Appointment of Administrators)
-1. Clients shall appoint an Administrator and shall inform the Company to such effect.
-2. The Administrator shall be a specific individual, and shall assume responsibility for management set forth in these Rules and in other rules set forth in Article 3.
-3. Clients are obliged to notify the Company immediately in the event that the Administrator changes.
-
-#### Article 5.2 (Notification of Alterations)
-1. Clients are obliged to notify the Company of alterations immediately according to the method set forth by the Company either themselves or via their Administrator when any of the following items are applicable.  
-  
-   (a) When intending to alter an address or location  
-   (b) When intending to alter a corporate name or trade name  
-   (c) When intending to alter the representative or business owner  
-   (d) When intending to alter their telephone number or Administrator's e-mail address  
-   (e) When intending to alter the payment method or details of the various notifications necessary for payment  
-   (f) When intending to alter the Administrator or Administrator contact details  
-  
-2. In the event that the Company deems certain documents to be necessary, Clients must submit such documents.
-3. Clients must immediately notify the Company in the event that they correspond or are at risk of corresponding to item 14 or item 15 of paragraph 5 of Article 6.
-
-#### Article 5.3 (Client Environment Maintenance)
-Clients are responsible for preparing at their own expense, the purchase, installation, telecommunications charges and connection charges, etc. for equipment and terminals and telecommunications lines required by Users in order to use the Service.
-
-#### Article 5.4 (ID and Password Management)
-The Administrator shall assume responsibility for managing customer codes and all Service User IDs, and the Company is shall not assume any responsibility for damages incurred by Clients due to Service User ID or password leakages. Furthermore Clients shall assume responsibility in the event that the Company or a third party suffers damages due to unlawful use or inadequate management of Service User IDs loaned to Clients.
-
-Clients shall manage all Service User IDs and passwords with the same care with which they manage their own similar assets so as to ensure that such Service User IDs and passwords are not disclosed to third parties other than the Client's subcontractors or divulged or wrongfully used; provided however that Service User IDs and passwords may be disclosed in the event of a lawful or orderly information inquiry from a prosecutor, the police or a regulatory authority.
-
-#### Article 5.5 (Safety and Reliability)
-1. The Service is installed within a high security data center. The facilities, which have a biometric authentication lock, are managed 24 hours a day 365 days a year using a surveillance system, and are doubly equipped with a diesel powered generator as an emergency power supply source in emergencies. Furthermore, multiple connections are necessary to reach the Internet backbone via Savvis, Level 3, and AT&T and the structure is such that it is not easy to enter. Moreover, the facilities are also equipped with advanced fire extinguishing functions.
-2. The Service uses a Microsoft SQL server database running on Dell server hardware. 
-3. Client data is automatically backed up once a day, and regular backups to Client PCs or servers is also possible.
-4. The platform itself guarantees four (4) types of key security.  
-  
-   (a) Privacy - Internet browser: data exchange between systems is all encrypted using SSL. When viewing sites starting with `https://`, meaning the website is a secure site protected by SSL, it is possible to check the encryption status by clicking on the lock icon to examine the certificate. The method of confirmation depends upon the browser and its version.    
-   (b) Authentication - all aspects of PROdb are protected using authentication requests, and are checked with each access in order to strengthen security. Official access is not possible unless part of the data is disclosed in accordance with the design and configuration.  
-   (c) Segmentation - each database application is fully partitioned and linking between applications is not permitted. Even if two (2) application licenses have been acquired from the Company, data cannot be combined unless data is exported and imported.  
-   (d) Access Security - each user has been given a role within the system and the Company has established access for such roles through the design of the system. Certain roles have been granted complete access authority whilst other roles only have specific access authority.  
-  
-#### Article 5.6 (Third Party Use)
-Users shall agree not to resell services or use services commercially without the explicit written consent of the Company, and Users shall be deemed to have consented to taking full responsibility for unlawful use of accounts by third parties.
-
-### Section 6 - Confidentiality
-#### Article 6.1
-The Company shall not disclose that information which they become aware of in the course of their work which can identify individuals to third parties without the agreement of the individual concerned; provided however that this limitation shall not apply when the Company has the obligation to disclose such information in accordance with an inquiry from a public agency based on the law or in accordance with the law.
-
-#### Article 6.2
-The Company may use required information without obtaining consent from Clients when any of the following are applicable.  
-  
-   (a) When using to gather and analyze information used within the Company  
-   (b) When using as an information source for materials created in order to explain the Company's services  
-   (c) When Clients correspond to item 6 of paragraph 5 of Article 6  
-   (d) When a lawful or orderly information inquiry has been made by a prosecutor, the police or a regulatory authority  
-  
-#### Article 6.3
-The Company may use Client's registered information in the Service within the scope of this Section even after the termination of this agreement.
-
-#### Article 6.4
-The Company may obtain managerial data such as on the state of data registration, data communication volume, and the connection situation, etc. relating to use of the Company's Equipment, etc. for each Client in order to provide a steady Service. The Company shall be responsible for the careful management of such managerial data, and data shall not be used, browsed, or disclosed, etc. for any purpose other than the stable provision of the Service.
-
-### Section 7 - Miscellaneous Provisions
-#### Article 7.1 (Immunity)
-1. The Company shall not make any guarantees, except for that set forth in these Rules, regarding the outcome of the use of the Service by Clients, and the integrity, completeness, accuracy, reliability, and usability, etc. of all the data recorded using the Service.
-2. The Company shall not assume responsibility or obligations to return usage fees, except for that set forth in these Rules, with regard to Client damage incurred in relation to delays, discontinuation, alterations, suspension or abolition of the Service.
-3. The management of IDs and passwords shall be carefully conducted by Clients based on instructions from the Administrator. Use of the Service using IDs verified using a password shall at all times be deemed to be used by legitimate Users and the Company shall not be responsible for unlawful use even in the case of use by Users who are not the rightful Users.
-4. The Company shall only guarantee the Company's Equipment, etc. for use in the Service by Clients and shall not assume any responsibility whatsoever for telecommunications lines, equipment, facilities, and software, etc. in order to connect the Company's Equipment, etc.
-
-#### Article 7.2 (Indemnity)
-1. The Company shall not assume responsibility for any compensation for damages in the event that there has been no intentional or gross negligence regarding the fulfillment of obligations under these Rules.
-2. Clients shall be deemed to have agreed to protect, compensate, and safeguard the Company and their business partners and transferees from all detriment. Accordingly, in the event that the Company suffers direct or indirect damage due to a Client corresponding to paragraph 5 of Article 6 or violating these Rules, Clients shall be obliged to compensate for damages following a claim for compensation for damages in accordance with the Company's calculation criteria, regardless of whether or not the Service has terminated.
-
-#### Article 7.3 (Copyright)
-The Company shall have copyright for all or a part of the system and software created by the Company in order to provide the Service (including the right to prepare secondary works and the right to use such works), and Clients shall not, without permission from the Company, copy, alter, distribute, loan, or use in any other potential format the starter kit and target applications over and above the scope permitted in these Rules. Furthermore, Clients shall not use trademarks (including service marks) owned by the Company without permission from the Company.
-
-#### Article 7.4 (Court with Jurisdiction)
-The Tokyo District Court shall be the court with exclusive jurisdiction in the first instance in the event that any disputes arise between the Company and Clients in relation to the use of the Service. 
-
-### Changes in this TOS Agreement
-
-We reserve the right to modify this terms of service agreement at any time. We will announce changes on this website in the news section. 
-
-### Contacting eSolia
-
-If you have any questions or concerns regarding this statement, please contact eSolia Inc.:
-
-**eSolia Inc.**  
-Sawa Bldg. 6F  
-Nishi-Shinbashi 2-2-2, Minato-ku, Tokyo 105-0003 Japan  
-Tel: 03-6273-3510 | Fax: 03-3593-3511  
-esolia.com | esolia.co.jp  
-
+**株式会社イソリア**  
+105-0003東京都港区西新橋2-2-2  
+澤ビル6階  
+電話番号: 03-6273-3510 | ファックス: 03-3593-3511  
+esolia.com | esolia.co.jp

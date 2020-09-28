@@ -1,8 +1,8 @@
 ---
 author: eSolia
 authorlink: /about
-date: 2020-09-15T19:57:37+09:00
-publishdate: 2020-09-15T19:57:37+09:00
+date: 2020-09-28T17:01:51+09:00
+publishdate: 2020-09-28T17:01:51+09:00
 description: eSolia PROdb Terms of Service - rules for use of eSolia PROdb cloud database. 
 draft: false
 slug: prodb-tos
@@ -24,7 +24,7 @@ images:
 
 ## Terms of Service
 
-**Updated:** 15 Sept 2020  
+**Updated:** 28 Sept 2020  
   
 ### Section 1 - General Provisions
 #### Article 1.1 (Objective)
@@ -104,7 +104,7 @@ The Service involves the management of Client data and Users may use the target 
 2. The Service is a pre-paid hosting service. Users shall be deemed to have agreed to the condition that they pay fees prior to receiving the service. There is no agreement. Furthermore, there are no registration fees or cancellation fees for the use of the service.
 
 #### Article 4.2 (Contract Termination)
-The Service may be canceled at any time. The Company agrees to refund unused services (refunds shall be in monthly units in the event that more than one (1) month's worth of fees have been paid in advance). The Company retains the right to suspend provision of the service to Clients in the event that it is not payment or payment procedures cannot be confirmed. The Company shall guarantee a flat rate price per invoice period for as long as Clients continue to use the Service.
+The Service may be canceled at any time. The Company agrees to refund unused services (refunds shall be in monthly units in the event that more than one (1) month's worth of fees have been paid in advance). The Company retains the right to suspend provision of the service to Clients in the event of non-payment or payment procedures cannot be confirmed. The Company shall guarantee a flat rate price per invoice period for as long as Clients continue to use the Service.
 
 #### Article 4.3 (Invoice and Payment)
 1. The Company shall invoice usage fees requested in accordance with payment criteria set forth in these Rules to Clients, and Clients shall assume the obligation to pay according to the methods set forth in this Article and by the deadline.
@@ -130,7 +130,7 @@ Fees shall be charged even when services are suspended, however usage fees for o
    (f) When intending to alter the Administrator or Administrator contact details  
   
 2. In the event that the Company deems certain documents to be necessary, Clients must submit such documents.
-3. Clients must immediately notify the Company in the event that they correspond or are at risk of corresponding to item 14 or item 15 of paragraph 5 of Article 6.
+3. Clients must immediately notify the Company in the event that they correspond or are at risk of corresponding to item 14 or item 15 of paragraph 5 of Article 2.3.
 
 #### Article 5.3 (Client Environment Maintenance)
 Clients are responsible for preparing at their own expense, the purchase, installation, telecommunications charges and connection charges, etc. for equipment and terminals and telecommunications lines required by Users in order to use the Service.
@@ -163,7 +163,7 @@ The Company may use required information without obtaining consent from Clients 
   
    (a) When using to gather and analyze information used within the Company  
    (b) When using as an information source for materials created in order to explain the Company's services  
-   (c) When Clients correspond to item 6 of paragraph 5 of Article 6  
+   (c) When Clients correspond to item 6 of paragraph 5 of Article 2.3  
    (d) When a lawful or orderly information inquiry has been made by a prosecutor, the police or a regulatory authority  
   
 #### Article 6.3
@@ -181,7 +181,7 @@ The Company may obtain managerial data such as on the state of data registration
 
 #### Article 7.2 (Indemnity)
 1. The Company shall not assume responsibility for any compensation for damages in the event that there has been no intentional or gross negligence regarding the fulfillment of obligations under these Rules.
-2. Clients shall be deemed to have agreed to protect, compensate, and safeguard the Company and their business partners and transferees from all detriment. Accordingly, in the event that the Company suffers direct or indirect damage due to a Client corresponding to paragraph 5 of Article 6 or violating these Rules, Clients shall be obliged to compensate for damages following a claim for compensation for damages in accordance with the Company's calculation criteria, regardless of whether or not the Service has terminated.
+2. Clients shall be deemed to have agreed to protect, compensate, and safeguard the Company and their business partners and transferees from all detriment. Accordingly, in the event that the Company suffers direct or indirect damage due to a Client corresponding to paragraph 5 of Article 2.3 or violating these Rules, Clients shall be obliged to compensate for damages following a claim for compensation for damages in accordance with the Company's calculation criteria, regardless of whether or not the Service has terminated.
 
 #### Article 7.3 (Copyright)
 The Company shall have copyright for all or a part of the system and software created by the Company in order to provide the Service (including the right to prepare secondary works and the right to use such works), and Clients shall not, without permission from the Company, copy, alter, distribute, loan, or use in any other potential format the starter kit and target applications over and above the scope permitted in these Rules. Furthermore, Clients shall not use trademarks (including service marks) owned by the Company without permission from the Company.
