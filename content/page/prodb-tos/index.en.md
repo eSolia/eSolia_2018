@@ -29,7 +29,7 @@ images:
 ### Section 1 - General Provisions
 #### Article 1.1 (Objective)
 
-eSolia Inc. (hereinafter referred to as the "Company") has established the following rules (hereinafter referred to as these "Rules") for the use of the _PROdb cloud database platform_ (hereinafter referred to as the "Service") and shall provide such service in accordance with these rules. Users of the Service shall use the Service having agreed to and in compliance with all items provided for in these Rules.
+eSolia Inc. (hereinafter referred to as the "Company") has established the following rules (hereinafter referred to as these "Rules") for the use of the [ _PROdb cloud database platform_ ](/prodb) (hereinafter referred to as the "Service") and shall provide such service in accordance with these rules. Users of the Service shall use the Service having agreed to and in compliance with all items provided for in these Rules.
 
 #### Article 1.2 (Definitions)
 The meaning of the terminology used in these Rules and provided for in each of the following items shall be as set forth in each item.
