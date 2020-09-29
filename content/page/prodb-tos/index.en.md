@@ -1,8 +1,8 @@
 ---
 author: eSolia
 authorlink: /about
-date: 2020-09-28T17:01:51+09:00
-publishdate: 2020-09-28T17:01:51+09:00
+date: 2020-09-29T09:56:09+09:00
+publishdate: 2020-09-29T09:56:09+09:00
 description: eSolia PROdb Terms of Service - rules for use of eSolia PROdb cloud database. 
 draft: false
 slug: prodb-tos
@@ -24,7 +24,7 @@ images:
 
 ## Terms of Service
 
-**Updated:** 28 Sept 2020  
+**Updated:** 29 Sept 2020  
   
 ### Section 1 - General Provisions
 #### Article 1.1 (Objective)
