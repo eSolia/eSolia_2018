@@ -41,15 +41,15 @@ The Japanese Ministry of Internal Affairs and Communications [Telework Informati
 
 Let’s breakdown each of the teleworking challenges you might be facing and categorize them. 
 
-* Organizational Challenges
+* **Organizational Challenges**
    * Lack of understanding in “Risk management on information leakage”, “Need for establishment & 
 ongoing auditing of an IT Security Policy”, and “Need for IT investment”. 
-* Technological Challenges
+* **Technological Challenges**
    * Lack of technical knowledge in choosing the right tools needed for the IT Security Policy, as well as the
 design and execution of on-going audits needed after the implementation.
-* Staffing Challenges
+* **Staffing Challenges**
    * Lack of knowledge on how to train staff in understanding the organization's IT Structure, or usage of IT-related tools/software.
-* Human Resource Management Challenges
+* **Human Resource Management Challenges**
    * Lack of an employee check-in / check-out capture or management system.
    * Lack of labor guidelines for proper teleworking management ([e.g.](https://www.mhlw.go.jp/content/000553510.pdf)).
 
