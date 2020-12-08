@@ -1,13 +1,28 @@
 [
   {
-    "@row.id": 1073,
-    "Date": "2020-Sept-16",
-    "Description": "We updated our list of emergency numbers needed by Japan residents and visitors, on [this page](https://esolia.com/japan-contacts), including a CSV download, adding the number for the FIND suicide prevention hotline. Please share with your friends. 🚨"
+    "@row.id": 1077,
+    "Date": "2020-Oct-14",
+    "Description": "Are you struggling with establishing Telework systems or guidelines? Getting an update on the current situation, identifying the actual problems, and also providing clear solutions will improve the efficiency of teleworking. See our latest [blog post](https://esolia.com/post/why-does-telework-fail/) on the subject from Ops Manager Ena Ishikawa, and don't hesitate to contact us if we can be of assistance! 🚀  "
+  },
+  {
+    "@row.id": 1076,
+    "Date": "2020-Sept-29",
+    "Description": "We updated the [terms of service](https://esolia.com/prodb-tos) for our cloud database platform \"PROdb\", editing for clarity and typographical errors. "
+  },
+  {
+    "@row.id": 1075,
+    "Date": "2020-Sept-28",
+    "Description": "We updated our [privacy policy](https://esolia.com/privacy), editing for clarity. "
   },
   {
     "@row.id": 1074,
-    "Date": "2020-Sept-15",
+    "Date": "2020-Sept-28",
     "Description": "We updated the [terms of service](https://esolia.com/prodb-tos) for our cloud database platform \"PROdb\", editing for clarity. "
+  },
+  {
+    "@row.id": 1073,
+    "Date": "2020-Sept-16",
+    "Description": "We updated our list of emergency numbers needed by Japan residents and visitors, on [this page](https://esolia.com/japan-contacts), including a CSV download, adding the number for the FIND suicide prevention hotline. Please share with your friends. 🚨"
   },
   {
     "@row.id": 1072,
