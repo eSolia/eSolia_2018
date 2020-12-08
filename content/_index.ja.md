@@ -1,5 +1,5 @@
 +++
-date = "2019-07-13T11:22:35+09:00"
+date = "2020-12-08T19:24:05+09:00"
 draft = "false"
 tags = ["イソリア"]
 title = "eSolia Bilingual IT Outsourcing"
