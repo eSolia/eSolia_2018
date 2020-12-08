@@ -17,7 +17,7 @@ other = "〒105-0003 東京都港区西新橋2-2-2、澤ビルディング6F"
 other = "連絡先情報"
 
 [eSoliaContactsMore]
-other = "弊社サービスやソリューションに関する初めてのお問い合わせは、[このページから](/info-request/)、よろしくお願い致します。"
+other = "当社サービスやソリューションに関する初めてのお問い合わせは、[こちらのページ](/info-request/)から、お願い致します。"
 
 [langName]
 other = "日本語"
@@ -101,7 +101,7 @@ other = "営業の方でしょうか?"
 other = "こちらのフォームでは、営業連絡をお断り致します。"
 
 [gen404message]
-other = "イソリアに興味をお持ちいただきまして誠にありがとうございます。お探しのページは、当サイトに見つかりません。アドレスが間違ってるか、変更されている場合もあります。下記の一覧からお探しいただくか、本サイトの[検索機能](/search)又は、[一般お問い合わせフォーム](/info-request/)からお問い合わせください。ご検討のほど、どうぞよろしくお願いします。"
+other = "イソリアに興味をお持ちいただきまして誠にありがとうございます。お探しのページは、当サイトに見つかりません。アドレスが間違っているか、変更されている場合もあります。下記の一覧からお探しいただくか、本サイトの[検索機能](/search)又は、[一般お問い合わせフォーム](/info-request/)からお問い合わせください。"
 
 [gen404subtitle]
 other = "エラーが発生しました"
@@ -152,13 +152,13 @@ other = "ライセンス"
 other = "プライバシー"
 
 [genlatestfeature]
-other = "おすすめ コンテンツ"
+other = "おすすめコンテンツ"
 
 [genlatestposts]
 other = "最新記事"
 
 [genmoreinfo]
-other = "つづきを読む"
+other = "続きを読む"
 
 [genviewgooglemap]
 other = "グーグルマップで見る"
@@ -239,31 +239,31 @@ other = "ラベル"
 other = "イソリアにお任せください"
 
 [topsectioncus]
-other = "弊社連絡先"
+other = "連絡先"
 
 [topsectionwhy]
 other = "なぜイソリアか？"
 
 [topsectionwhysub]
-other = "弊社の強み"
+other = "当社の強み"
 
 [topsectionwhytext]
-other = "[チーム体制にて](/why-esolia)、一般的なIT部門が持っているすべてのスキルを提供いたします。異文化環境下での経験を持つマルチリンガルのプロフェショナルな人材の確保に努めており、日本側チームや外国側のチームと効率よくコミュニケーションが取れて、代わりにベンダーとの交渉を行います。<br><br>サポート作業しながら、長年開発された当社の支援システムを使い、ドキュメント作成や標準化されたレポートも、ご提供致します。"
+other = "[チーム体制にて](/why-esolia)、一般的なIT部門が持つすべてのスキルを提供いたします。イソリアでは、異文化環境下での業務の経験を持ち、マルチリンガルかつプロフェショナルな人材の確保に努めております。そのため海外チームとも効率よくコミュニケーションが取れ、貴社の代わりにベンダーとの交渉を行います。サポート作業しながら、長年開発された当社の支援システムを使い、ドキュメント作成や標準化されたレポートも、ご提供致します。"
 
 [topsectiontestimonial]
 other = "お客様の声"
 
 [topsectionpledge]
-other = "弊社の誓いは"
+other = "行動規範"
 
 [topsectionpledgesub]
-other = "弊社の約束"
+other = "イソリアの誓い"
 
 [topsectionpledgetext]
 other = """
 * 必要とされたものだけを請求し、水増し請求のような「仕事を作る」事はいたしません。
 * 業界ベストプラクティスに基づくか、貴社のプロセスで素早く行動します。
-* お受けした作業やトラブルは、最後まで徹底して対応し、率直に報告を行います。
+* お受けした作業やトラブルは、最後まで徹底して対応し、正直に報告を行います。
 * 私達は企業の健全性と安定性をもって行動しており、お客様と長期的な関係を促進する様、最善の努力を致します。
 <br><br>
 [続きを読む](/esolia-code-of-conduct)"""
@@ -287,7 +287,7 @@ other = "長年の経験"
 other = "プロジェクト成功"
 
 [topsectiontrtext]
-other = "当社はミックスカルチャーに焦点をあてたグローバル企業であり過去に複雑なプロジェクトを数多く手がけ、クリエイティブな問題解決と[プロジェクト管理](/project-management)をお客様へ提供しております。<br><br>これまでの[成功実績](/success-stories)と経験を基に、貴社のITシステム全般に対するソリューションを見出し、チャレンジを推し進めることに多大な自信を持っています。"
+other = "当社はミックスカルチャーに焦点をあてたグローバル企業であり過去に複雑なプロジェクトを数多く手がけ、クリエイティブな問題解決と[プロジェクト管理](/project-management)をお客様へ提供しております。<br><br>これまでの[成功実績](/success-stories)と経験を基に、貴社のITシステム全般に対するソリューションを見出し、チャレンジを推し進めることに自信を持っております。"
 
 [topsectionvideo]
 other = "紹介ビデオ"
@@ -299,19 +299,19 @@ other = "クリックでビデオが表示されます"
 other = "プロジェクト"
 
 [topsectionprojectssub]
-other = "最近完了した一覧"
+other = "最新のプロジェクト"
 
 [topsectionprojectstext]
-other = "全プロジェクト含まれてる[一覧](/success-stories)も、[RSSフィード](https://pro.dbflex.net/secure/public/db/15331/rss.ashx?view=3456963&user=40863e67a24a41e281eac29548bc68b2)もご覧ください。"
+other = "[全てのプロジェクト](/success-stories)、[RSSフィード](https://pro.dbflex.net/secure/public/db/15331/rss.ashx?view=3456963&user=40863e67a24a41e281eac29548bc68b2)もご覧ください。"
 
 [topsectioninfo]
 other = "情報"
 
 [topsectioninfosub]
-other = "イソリアより、最新のショートポスト"
+other = "最新のショートポスト"
 
 [topsectioninfotext]
-other = "全ポスト含まれてる[一覧](/post)も、[RSSフィード](https://pro.dbflex.net/secure/public/db/15331/rss.ashx?view=3461317&user=40863e67a24a41e281eac29548bc68b2)もご覧ください。"
+other = "[全てのポスト](/post)、[RSSフィード](https://pro.dbflex.net/secure/public/db/15331/rss.ashx?view=3461317&user=40863e67a24a41e281eac29548bc68b2)もご覧ください。"
 
 [newsarchivearticlesbyyear]
 other = "記事"
@@ -431,10 +431,10 @@ other = "強固な基盤"
 other = "お問い合わせ"
 
 [infoformblurb]
-other = "私たちのサービスやソリューションにご興味を頂けましたか？ <br>是非[このフォーム](/info-request/)からご連絡ください！"
+other = "私たちのサービスやソリューションにご興味を頂けましたか？ <br>是非[こちらのフォーム](/info-request/)からご連絡ください！"
 
 [infoformblurb2]
-other = "御社のこのようなプロジェクトをお任せ頂けますか？<br>是非[このフォーム](/info-request/)からご連絡ください！"
+other = "貴社のこのようなプロジェクトをお任せ頂けますか？<br>是非[こちらのフォーム](/info-request/)からご連絡ください！"
 
 [searchresults]
 other = "検索した文字列:"
@@ -443,7 +443,7 @@ other = "検索した文字列:"
 other = "検索するテキストをご記入してください"
 
 [readmore]
-other = "続いて読む"
+other = "続きを読む"
 
 [blogboxauthor]
 other = "著者"
