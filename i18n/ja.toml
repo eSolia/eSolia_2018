@@ -470,7 +470,7 @@ other = "トピック付きコンテンツ"
 other = "全トピック: "
 
 [topstatspros]
-other = "何名以上の担当エンジニア"
+other = "担当エンジニア数"
 
 [topstatspart]
 other = "信頼のおけるパートナー数"
