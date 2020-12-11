@@ -1,8 +1,8 @@
 ---
 author: イソリア
 authorlink: /about
-date: 2018-09-21T15:40:02+09:00
-publishdate: 2018-09-21T17:00:02+09:00
+date: 2020-12-11T15:40:02+09:00
+publishdate: 2020-12-11T15:40:02+09:00
 description: イソリア 日本滞在中自然災害時、知っておきたい、便利な連絡先一覧やアプリなど
 draft: false
 slug: japan-disaster
