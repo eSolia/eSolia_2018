@@ -1,10 +1,10 @@
 ---
-date: 2018-05-31T11:50:53+09:00
-publishdate: 2018-05-31T11:50:53+09:00
-description: イソリアの成功事例について - プロジェクトを成功させたいならイソリアにお任せください
+date: 2020-12-11T13:00:00+09:00
+publishdate: 2020-12-11T13:00:00+09:00
+description: イソリアの成功事例について - プロジェクトを成功させるためにぜひイソリアにお任せください
 draft: false
 slug: success-stories
-subtitle: プロジェクトを成功させたいならイソリアにお任せください
+subtitle: プロジェクトを成功させるためにぜひイソリアにお任せください
 weight: 50
 layout: successes
 alternatelocales:
@@ -52,7 +52,7 @@ menu:
 
 ## プロジェクト一覧
 
-下記、我が社の完了プロジェクトの一覧（完了日、簡易説明）、又はサイドバーにある「選定成功事例」のリンクをご覧ください。
+下記は完了プロジェクトの一覧（完了日と、簡易的な説明）です。より詳しくは、サイドバーにある「選定成功事例」のリンクをご覧ください。
 
 <a class="" href="https://pro.dbflex.net/secure/public/db/15331/rss.ashx?view=3456963&user=40863e67a24a41e281eac29548bc68b2">
 <span class="icon has-text-esolia-yellow-2"><i class="fas fa-rss-square"></i></span>
