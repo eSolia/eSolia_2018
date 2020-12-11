@@ -52,7 +52,7 @@ menu:
 
 ## プロジェクト一覧
 
-下記は完了プロジェクトの一覧（完了日と、簡易的な説明）です。より詳しくは、サイドバーにある「選定成功事例」のリンクをご覧ください。
+下記は完了プロジェクトの一覧（完了日と、簡易的な説明）です。<br>より詳しくは、サイドバーにある「選定成功事例」のリンクをご覧ください。
 
 <a class="" href="https://pro.dbflex.net/secure/public/db/15331/rss.ashx?view=3456963&user=40863e67a24a41e281eac29548bc68b2">
 <span class="icon has-text-esolia-yellow-2"><i class="fas fa-rss-square"></i></span>

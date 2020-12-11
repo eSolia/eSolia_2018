@@ -4,8 +4,8 @@ date: 2019-07-22T09:46:43+09:00
 publishdate: 2019-07-22T09:46:43+09:00
 draft: false
 slug: success-story_future-proof-documents
-title: データベースに保存している書類データ
-subtitle: を将来においても利用できるテキスト形式ファイルに書き出す
+title: データベースからドキュメントを抽出
+subtitle: 将来性のあるテキストファイル へ
 description: イソリアから - データベースに保管してあるドキュメントデータを将来においても有効なテキストファイルへ定期的に書き出しするスクリプト開発を行った。
 layout: successes
 alternatelocales:
@@ -29,7 +29,7 @@ formcheckboxes:
 gallery_id: 109989173467424472552
 menu:
   main:
-    Name: 将来に有効な形式書類
+    Name: 将来性のあるテキストファイルへの書き出し
     Weight: 70
     Parent: success_index_ja
     Identifier: successfutureproofdocs_ja
@@ -37,7 +37,7 @@ menu:
     Pre: fa-flag-checkered
     Post: データベースからテキスト形式ファイル
   successes:
-    Name: 将来に有効な形式書類
+    Name: 将来性のあるテキストファイルへの書き出し
     Identifier: ssfpdocs_ja
     Url: /success-story_future-proof-documents
     Parent: sucsideindex_ja
