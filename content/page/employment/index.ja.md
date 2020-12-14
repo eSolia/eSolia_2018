@@ -80,7 +80,7 @@ menu:
 * 語学スキル
 * 目的・目指しているポジション
 * 保有資格 (_例:_ A+, Network+, Security+, ITIL, MCP, MCSE, MCSD, CNE, Cisco CCIE, PMP)
-* その他関連するメンバーシップ
+* 関連する職能団体のメンバーシップ（任意）
 * 学歴
 * 職歴
 
