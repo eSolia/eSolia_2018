@@ -1,11 +1,11 @@
 ---
 author: イソリア
-date: 2018-09-10T18:16:02+09:00
-publishdate: 2018-06-14T11:26:10+09:00
-description: イソリアの会社案内 - ビジョン、会社概要、主なビジネス、住所やアクセス地図、その他一般情報。
+date: 2020-12-14T10:00:00+09:00
+publishdate: 2020-12-14T10:00:00+09:00
+description: 会社案内 - ビジョン、会社概要、主なビジネス、住所やアクセス地図、その他一般情報。
 draft: false
 slug: about
-subtitle: 弊社のビジョン、概要、主なビジネス、住所やアクセス地図、その他の情報
+subtitle: ビジョン、概要、主なビジネス、住所、その他の情報
 weight: 10
 layout: about
 alternatelocales:
@@ -33,7 +33,7 @@ menu:
     Identifier: basic_info_ja
     Url: /about
     Pre: fa-info-circle
-    Post: 株式会社イソリアの基礎的な情報
+    Post: 株式会社イソリアの基本的な情報
   aboutside:
     Name: 会社概要
     Weight: 10
@@ -58,7 +58,7 @@ menu:
 <img class="" data-caption="イソリアロゴ" alt="イソリアロゴ画像" src="/img/eSolia-Chicklet-Color.svg" >
 </figure>
 
-イソリアが掲げるITサービスのビジョンは、ITアウトソーシング・ビジネスのマーケットリーダーとして、ビジネス・文化・即時性に対する強い認識を持ち、「分かりやすく」且つ「他の手本となる」ITサービスをお客様に提供することです。
+イソリアが掲げるITサービスのビジョンは、ITアウトソーシング・ビジネスのマーケットリーダーとして、ビジネス・文化・即時性に対する強い認識を持ち、「分かりやすく」かつ「他の手本となる」ITサービスをお客様に提供することです。
 
 <figure class="image is-256x256 is-hidden-tablet">
 <img class="" data-caption="イソリアロゴ" alt="イソリアロゴ画像" src="/img/eSolia-Chicklet-Color.svg" >
@@ -69,7 +69,7 @@ menu:
 
 ### 会社概要
 
-会社概要をご覧頂く上に、弊社の[vCard](/eSolia-Contacts-vCard.vcf)を[読み込み](/post/how-to-use-vcards)して見ませんか。
+会社概要をご覧頂く上で、弊社の[vCard](/eSolia-Contacts-vCard.vcf)を[読み込み](/post/how-to-use-vcards)してみませんか。
 
 <table class="table is-striped is-hoverable is-fullwidth is-bordered is-size-7-mobile is-size-6-tablet is-size-5-desktop">
   <tbody>
@@ -81,7 +81,7 @@ menu:
     </tr>
     <tr>
       <th class="has-text-right is-uppercase">お問合せ</th>
-      <td>弊社サービスに関する<a href="/info-request">お問合せフォーム</a>、又は<a href="mailto:info@esolia.co.jp">info@esolia.co.jp</a>までどうぞ。</td>
+      <td>弊社サービスに関しては<a href="/info-request">こちらのフォーム</a>、又は<a href="mailto:info@esolia.co.jp">info@esolia.co.jp</a>までお問い合わせください。</td>
     </tr>
     <tr>
       <th class="has-text-right is-uppercase">役員</th>
@@ -108,7 +108,7 @@ menu:
 * プロジェクト管理
 * システム エンジニアリング - 構築、導入、展開、調査、アップグレード
 * トレーニング
-* オンライン 一般ビジネス データーベス サービス
+* オンライン 一般ビジネス データベース サービス
 
 ### アクセス
 
