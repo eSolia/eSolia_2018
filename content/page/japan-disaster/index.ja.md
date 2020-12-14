@@ -6,7 +6,7 @@ publishdate: 2020-12-11T15:40:02+09:00
 description: イソリア 日本滞在中自然災害時、知っておきたい、便利な連絡先一覧やアプリなど
 draft: false
 slug: japan-disaster
-title: イソリア 日本自然災害情報
+title: 防災情報
 subtitle: 電話番号、アプリなど
 weight: 55
 layout: about
@@ -20,7 +20,7 @@ images:
   - /img/eSolia-Chicklet-Color-1024px.png
 menu:
   main:
-    Name: 自然災害情報
+    Name: 防災情報
     Weight: 55
     Parent: about_index_ja
     Identifier: esoliajapandisaster_ja
@@ -28,14 +28,14 @@ menu:
     Pre: fa-check
     Post: 日本の緊急連絡先一覧や便利なアプリ
   aboutside:
-    Name: 自然災害情報
+    Name: 防災情報
     Weight: 55
     Parent: aboutsideindex_ja
     Identifier: aboutsidejapandisaster_ja
     Url: /japan-disaster
 ---
 
-日本において自然災害の発生率は非常に高いため、弊社では緊急時に必要となる電話番号やアプリなどの一覧を作成しております。<br>
+日本において自然災害の発生率は非常に高いため、イソリアでは緊急時に必要となる電話番号やアプリなどの一覧を作成しております。<br>
 緊急速報の受信後、まずご自身の安全確保ができましたら、英語が少しでも出来る方は、困っている訪日外国人を避難所まで案内してあげましょう。<br>
 
 以下のページをご覧頂き、ご友人やお知り合いの方にもご共有ください。
