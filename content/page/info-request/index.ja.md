@@ -6,7 +6,7 @@ description: イソリア - 弊社サービスやソリューションについ�
 draft: false
 slug: info-request
 inforequest: true
-subtitle: 弊社サービスやソリューションについてお問い合わせするなら、このページから！
+subtitle: イソリアのサービスやソリューションについてのお問い合わせはこちらから
 weight: 10
 warning: sales
 layout: about
@@ -32,7 +32,7 @@ menu:
     Identifier: esoliainforequest_ja
     Url: /info-request
     Pre: fa-check
-    Post: 気軽にお聞きください
+    Post: お気軽にお問い合わせください
   aboutside:
     Name: お問い合わせ
     Weight: 45
@@ -52,7 +52,7 @@ menu:
 ---
 
 イソリアに興味をお持ちいただきまして誠にありがとうございます。
-弊社サービスやソリューション、他に何か質問や資料請求等が御座いましたら、下記のお問い合わせフォームをご記入ください。
+サービスやソリューション、その他のご質問や資料請求のご希望等ございましたら、下記のお問い合わせフォームへご記入ください。
 お問い合わせに関しては速やかにご返信に致します。
 
 <p>
