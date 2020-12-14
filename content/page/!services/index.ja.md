@@ -1,6 +1,6 @@
 ---
-date: 2015-05-09T00:05:19.000Z
-publishdate: 2012-01-10T00:05:19.000Z
+date: 2020-12-14T00:05:19.000Z
+publishdate: 2012-12-14T00:05:19.000Z
 description: 株式会社イソリアのサービス ： Our Solutions to Meet Your Multi-cultural, Project or System Challenges
 draft: false
 slug: services
