@@ -8,6 +8,8 @@ title = "eSolia Bilingual IT Outsourcing"
   Priority = "1"
 +++
 
+<span class="tag is-danger is-large">28日〜1月4日まで、年末年始休暇中。よいお年をお迎えください！ 🇯🇵㊗️</span><br><br>
+
 お陰様でイソリアはこのたび<span class="has-text-esolia-yellow-2">創立21周年</span>を迎えることが出来ました。バイリンガルITアウトソーシングのイソリアが、頼れるIT部門として貴社のサポートを担当致します。<br><br>
 特定ITスキルを持つマルチリンガル且つプロフェッショナルな私たちが、貴社のプロジェクトを成功に導きます。是非ともイソリアにお任せください！ 
 <br><br>
