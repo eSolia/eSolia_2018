@@ -161,4 +161,4 @@ PROdbはどんなケースでも柔軟に対応できます。例えば、過去
 
 PROdb はこの [利用規約](/prodb-tos) の元で運用しております。
 
-リアルタイム [システム ステータス監視](https://uptime.esolia.pro) ページもご覧ください。
+リアルタイム <a class="link" href="https://uptime.esolia.pro" target="_blank">システム ステータス監視</a> ページもご覧ください。
