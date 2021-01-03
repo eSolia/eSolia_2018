@@ -139,6 +139,9 @@ other = "ギャラリー"
 [genhomename]
 other = "ホーム"
 
+[genstatusname]
+other = "システム アップタイム ステータス"
+
 [gencolophonname]
 other = "奥付"
 

@@ -1,6 +1,6 @@
 ---
 author: イソリア
-date: 2020-09-15T19:57:37+09:00
+date: 2021-01-03T18:02:34+09:00
 publishdate: 2020-09-15T19:57:37+09:00
 draft: false
 title: PROdbクラウド型データベース
@@ -84,7 +84,6 @@ menu:
 <div class="buttons has-addons is-hidden-tablet">
   <a class="button" href="/solutions"><span class="icon"><i class="fas fa-anchor"></i></span></a>
   <a class="button is-active" href="/prodb">PROdb クラウド型データーベース</a>
-  <a class="button" href="/procr">PROcr 通話録音</a>
   <a class="button" href="/japan-expat-home-setup">外国人ホームPC設定</a>  
 </div>
 
@@ -161,3 +160,5 @@ PROdbはどんなケースでも柔軟に対応できます。例えば、過去
 ### 利用規約
 
 PROdb はこの [利用規約](/prodb-tos) の元で運用しております。
+
+リアルタイム [システム ステータス監視](https://uptime.esolia.pro) ページもご覧ください。

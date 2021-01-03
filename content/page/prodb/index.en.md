@@ -1,6 +1,6 @@
 ---
 author: eSolia
-date: 2020-09-15T19:57:37+09:00
+date: 2021-01-03T18:02:34+09:00
 publishdate: 2020-09-15T19:57:37+09:00
 draft: false
 title: PROdb Cloud Database
@@ -86,7 +86,6 @@ menu:
 <div class="buttons has-addons is-hidden-tablet">
   <a class="button" href="/solutions"><span class="icon"><i class="fas fa-anchor"></i></span></a>
   <a class="button is-active" href="/prodb">PROdb Cloud Database</a>
-  <a class="button" href="/procr">PROcr Call Recording</a>
   <a class="button" href="/japan-expat-home-setup">Expat Home Setup</a>  
 </div>
 
@@ -154,3 +153,5 @@ Consider PROdb if:
 ### Terms of Service
 
 PROdb is governed by this [Terms of Service](/prodb-tos) agreement.
+
+See also our [status monitoring](https://uptime.esolia.pro) page.

@@ -139,6 +139,9 @@ other = "Gallery"
 [genhomename]
 other = "Home"
 
+[genstatusname]
+other = "System Uptime Status"
+
 [gencolophonname]
 other = "Colophon"
 

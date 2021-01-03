@@ -310,6 +310,14 @@ Analytics = "YHYBNXPJ"
     weight = 55
 
 [[languages.en.menu.toolslist]]
+name = "Uptime Monitor"
+identifier = "en_uptime"
+url = "https://uptime.esolia.pro"
+pre = "eSolia Uptime Monitor built with real-time data from a GitHub repository using GitHub Actions, Issues, and Pages. Powered by Upptime."
+post = "_blank"
+weight = 11
+
+[[languages.en.menu.toolslist]]
     name = "Zerobin"
     identifier = "en_zerobin"
     url = "https://zerobin.esolia.com"
@@ -555,6 +563,14 @@ help  = "ヘルプ"
     identifier = "ja_topics"
     url = "/topics"
     weight = 55
+
+[[languages.ja.menu.toolslist]]
+    name = "Uptime Monitor"
+    identifier = "ja_uptime"
+    url = "https://uptime.esolia.pro"
+    pre = "イソリアのアップタイム監視システムは、Githubリポジトリーのアクション、イッシュー、ページの組合わせで、リアルタイムでシステムステータス確認を可能にしてくれます。パワード・バイ・Upptime"
+    post = "_blank"
+    weight = 11
 
 [[languages.ja.menu.toolslist]]
     name = "ゼロビン"
