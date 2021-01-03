@@ -1,6 +1,6 @@
 ---
 author: イソリア
-date: 2018-05-06T07:07:27+09:00
+date: 2021-01-03T18:02:34+09:00
 publishdate: 2018-05-06T07:07:27+09:00
 draft: false
 title: 来日外国人向け...
@@ -79,7 +79,6 @@ menu:
 <div class="buttons has-addons is-hidden-tablet">
   <a class="button" href="/solutions"><span class="icon"><i class="fas fa-anchor"></i></span></a>
   <a class="button" href="/prodb">PROdb クラウド型データーベース</a>
-  <a class="button" href="/procr">PROcr 通話録音</a>
   <a class="button is-active" href="/japan-expat-home-setup">外国人ホームPC設定</a>  
 </div>
 

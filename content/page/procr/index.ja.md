@@ -2,7 +2,7 @@
 author: イソリア
 date: 2018-05-06T07:07:27+09:00
 publishdate: 2018-05-06T07:07:27+09:00
-draft: false
+draft: true
 title: PROcr 電話録音
 slug: procr
 subtitle: 多機能レコーディング PROcrで通話録音、コールセンターの質や顧客満足度を飛躍的にアップ
@@ -79,6 +79,8 @@ menu:
   <a class="button is-active" href="/procr">PROcr 通話録音</a>
   <a class="button" href="/japan-expat-home-setup">外国人ホームPC設定</a>  
 </div>
+
+DEPRECATED
 
 ## IP PBX 電話録音
 

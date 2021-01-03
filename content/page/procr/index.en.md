@@ -2,7 +2,7 @@
 author: eSolia
 date: 2018-05-06T07:07:27+09:00
 publishdate: 2018-05-06T07:07:27+09:00
-draft: false
+draft: true
 title: PROcr
 slug: procr
 subtitle: VoIP Call Recording Never Sounded So Good
@@ -74,6 +74,8 @@ menu:
   <a class="button is-active" href="/procr">PROcr Call Recording</a>
   <a class="button" href="/japan-expat-home-setup">Expat Home Setup</a>  
 </div>
+
+DEPRECATED
 
 ## IP PBX Call Recording
 

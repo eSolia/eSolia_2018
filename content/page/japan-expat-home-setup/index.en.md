@@ -1,6 +1,6 @@
 ---
 author: eSolia
-date: 2018-05-06T07:07:27+09:00
+date: 2021-01-03T18:02:34+09:00
 publishdate: 2018-05-06T07:07:27+09:00
 draft: false
 title: Home Computer Setup
@@ -76,7 +76,6 @@ menu:
 <div class="buttons has-addons is-hidden-tablet">
   <a class="button" href="/solutions"><span class="icon"><i class="fas fa-anchor"></i></span></a>
   <a class="button" href="/prodb">PROdb Cloud Database</a>
-  <a class="button" href="/procr">PROcr Call Recording</a>
   <a class="button is-active" href="/japan-expat-home-setup">Expat Home Setup</a>  
 </div>
 
