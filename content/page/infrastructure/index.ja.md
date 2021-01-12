@@ -81,7 +81,7 @@ menu:
 
 ## インフラストラクチャとは
 
-{{< punchlist title="サーバルームから床下、壁でも何処へでも" bgcolor="is-esolia-blue-1">}}
+{{< punchlist title="サーバルームからどこへでも" bgcolor="is-esolia-blue-1">}}
 1. 電気、電話、LAN配線
 1. ネットワークスイッチ、ルーター等の更新
 1. 各種サーバの設定・構築
