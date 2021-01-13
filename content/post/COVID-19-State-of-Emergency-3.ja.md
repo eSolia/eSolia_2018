@@ -39,7 +39,7 @@ images:
 
 <ol>
 <li><b>イソリアの体制 - 緊急事態宣言発令～当面の間</b></li><br>
-  <table border="table is-bordered">
+  <table class="table is-bordered">
     <tr>
       <th> </th>
       <th>Stage3</th>
