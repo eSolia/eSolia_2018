@@ -131,12 +131,12 @@ images:
     </ol>
   上記ケースはいずれも該当者には所轄の保健所の指示に従っていただくことが大前提となりますが、社員間の接触および客先での接触などについて、該当者の勤務状況・最終出勤・接触者などの履歴を確認させていただきます。ご協力のほど、よろしくお願いいたします。
 
-  <span style="background-color:yellow">[①感染の疑いがある場合/②感染者になってしまった場合]</span>
+  <span style="background-color:yellow">[①感染の疑いがある場合/②感染者になってしまった場合]</span><br>
   <font color="red">政府及び各自治体による最新の受診ガイドラインに従ってください。</font>
   　
   <font color="red">[発熱症状がある方]</font>
-  <strong>東京都民</strong>は<a href="https://www.fukushihoken.metro.tokyo.lg.jp/iryo/kansen/coronasodan.files/hatunetu.pdf" target="_blank">「都民の皆さまへ　～新型コロナウイルス感染症が心配なとき～」<a/>をご確認ください。<br>
-  <strong>神奈川県民</strong>は<a href="https://www.pref.kanagawa.jp/docs/ga4/covid19/ms/hybrid_20201102-2.html" target="_blank">「神奈川県発熱等診療予約センター」<a/>及び<a href="https://www.pref.kanagawa.jp/docs/ga4/covid19/indication.html" target="_blank">「新型コロナウイルス感染症専用ダイヤル」<a/>をご確認ください。<br>
+  <strong>東京都民</strong>は<a href="https://www.fukushihoken.metro.tokyo.lg.jp/iryo/kansen/coronasodan.files/hatunetu.pdf" target="_blank">「都民の皆さまへ　～新型コロナウイルス感染症が心配なとき～」</a>をご確認ください。<br>
+  <strong>神奈川県民</strong>は<a href="https://www.pref.kanagawa.jp/docs/ga4/covid19/ms/hybrid_20201102-2.html" target="_blank">「神奈川県発熱等診療予約センター」<a/>及び<a href="https://www.pref.kanagawa.jp/docs/ga4/covid19/indication.html" target="_blank">「新型コロナウイルス感染症専用ダイヤル」</a>をご確認ください。<br>
 
   ※以下東京都の情報となります。<br>
 
@@ -156,7 +156,7 @@ images:
   →内容によっては地域の身近な医療機関を紹介、または、新型コロナ外来の受診。
   </ol>
 
-  <span style="background-color:yellow">[③濃厚接触者/疑いとなった場合/④同居家族が感染になった場合]</span>
+  <span style="background-color:yellow">[③濃厚接触者/疑いとなった場合/④同居家族が感染になった場合]</span><br>
   各自治体の保健所の指示に従ってください。ＰＣＲ検査結果が陰性だった場合でも、「患者（確定例）」の感染可能期間の最終曝露日から 14 日間の健康観察が指示されます。
   ご家族が感染者になってしまった場合は、同居者は原則濃厚接触者に該当します。
 
