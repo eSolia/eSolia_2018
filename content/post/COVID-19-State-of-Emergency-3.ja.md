@@ -7,7 +7,7 @@ description: COVID-19 緊急事態宣言後のイソリアのサポート対応�
 draft: true
 slug: covid-19-state-of-emergency-3
 layout: post
-subtitle: イソリアはどのようにサポートを行い続きますか
+subtitle: イソリアのサポート
 postsummary: COVID-19 緊急事態宣言後のイソリアのサポート対応
 alternatelocales:
   - en-US
