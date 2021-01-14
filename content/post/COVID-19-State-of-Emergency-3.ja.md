@@ -31,11 +31,11 @@ images:
 {{< blogbox >}}
 
 
-1月8日午前0時をもって1都3県に緊急事態宣言再度発令されました。
-今後のイソリアの体制について、ご案内いたします。
+1月8日午前0時をもって1都3県に緊急事態宣言再度発令されました。<br>
 
-今回は経済活動を維持しつつ特に飲食店に限定したところもありますが、引き続き最も重要視とされるのは「身体的距離の確保」、「３密（密集、密接、密閉）の回避」ということ、そして、政府から発表された<a href="https://corona.go.jp/prevention/pdf/atarashii_seikatsu.pdf" target="_blank">「新しい生活仕様」</a>及び<a href="https://www.fukushihoken.metro.tokyo.lg.jp/iryo/kansen/kannsenyobouhandbook.files/tominmukehandbook.pdf" target="_blank">「新型コロナウイルス感染症　都民向け感染予防ハンドブック」</a>（令和2年12月17日版）に基づいて、感染拡大予防対策を徹底して行っていただきますようお願いいたします。
+今回は経済活動を維持しつつ特に飲食店に限定したところもありますが、引き続き最も重要視されるのは「身体的距離の確保」、「３密（密集、密接、密閉）の回避」です。そして、政府から発表された<a href="https://corona.go.jp/prevention/pdf/atarashii_seikatsu.pdf" target="_blank">「新しい生活仕様」</a>及び<a href="https://www.fukushihoken.metro.tokyo.lg.jp/iryo/kansen/kannsenyobouhandbook.files/tominmukehandbook.pdf" target="_blank">「新型コロナウイルス感染症　都民向け感染予防ハンドブック」</a>（令和2年12月17日版）に基づいて、感染拡大予防対策を徹底して行っていきましょう。<br>
 
+今後のイソリアの体制について、ご案内いたします。<br>
 
 <ol>
 <li><b>イソリアの体制 - 緊急事態宣言発令～当面の間</b></li><br>
