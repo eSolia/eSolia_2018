@@ -134,9 +134,9 @@ images:
   <font color="red">政府及び各自治体による最新の受診ガイドラインに従ってください。</font><br><br>
   <font color="red">[発熱症状がある方]</font><br>
   <strong>東京都民</strong>は<a href="https://www.fukushihoken.metro.tokyo.lg.jp/iryo/kansen/coronasodan.files/hatunetu.pdf" target="_blank">「都民の皆さまへ　～新型コロナウイルス感染症が心配なとき～」</a>をご確認ください。<br>
-  <strong>神奈川県民</strong>は<a href="https://www.pref.kanagawa.jp/docs/ga4/covid19/ms/hybrid_20201102-2.html" target="_blank">「神奈川県発熱等診療予約センター」</a>及び<a href="https://www.pref.kanagawa.jp/docs/ga4/covid19/indication.html" target="_blank">「新型コロナウイルス感染症専用ダイヤル」</a>をご確認ください。<br>
+  <strong>神奈川県民</strong>は<a href="https://www.pref.kanagawa.jp/docs/ga4/covid19/ms/hybrid_20201102-2.html" target="_blank">「神奈川県発熱等診療予約センター」</a>及び<a href="https://www.pref.kanagawa.jp/docs/ga4/covid19/indication.html" target="_blank">「新型コロナウイルス感染症専用ダイヤル」</a>をご確認ください。<br><br>
 
-  ※以下東京都の情報となります。<br>
+  ※以下東京都の情報となります。
 
   <ol>
   <li>かかりつけ医（自治体や医師会のホームページも活用）への電話相談 </li>
