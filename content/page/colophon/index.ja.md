@@ -1,6 +1,6 @@
 ---
 author: イソリア
-date: 2018-05-06T07:07:27+09:00
+date: 2021-01-18T11:48:03+09:00
 publishdate: 2018-05-06T07:07:27+09:00
 description: イソリア 奥付 - 当サイトが利用するテクノロジー
 draft: false
@@ -90,7 +90,7 @@ _Hugoは、イソリア推薦SSGです。_
 
 ## データ
 
-ホームページのショートポスト一覧とプロジェクト一覧は、又、[ニュース一覧](https://esolia.com/post) や [成功事例のプロジェクト一覧](https://esolia.com/success-stories) のパージについて、表示データを弊社のクラウド型データーベースの[PROdb](https://esolia.com/prodb)から引っ張ってます。[お問い合わせ](https://esolia.com/info-request) フォームも、PROdbへデータを書き込んでます。それから、スパム防止対策のため、Google [Re-Captcha](https://www.google.com/recaptcha/intro/android.html)を使ってお問い合わせフォームをスパマーから守ってます。
+ホームページのお知らせ一覧とプロジェクト一覧は、又、[ニュース一覧](https://esolia.com/post) や [成功事例のプロジェクト一覧](https://esolia.com/success-stories) のパージについて、表示データを弊社のクラウド型データーベースの[PROdb](https://esolia.com/prodb)から引っ張ってます。[お問い合わせ](https://esolia.com/info-request) フォームも、PROdbへデータを書き込んでます。それから、スパム防止対策のため、Google [Re-Captcha](https://www.google.com/recaptcha/intro/android.html)を使ってお問い合わせフォームをスパマーから守ってます。
 
 ## ホスティング
 

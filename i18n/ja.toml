@@ -311,7 +311,7 @@ other = "[全てのプロジェクト](/success-stories)、[RSSフィード](htt
 other = "情報"
 
 [topsectioninfosub]
-other = "最新のショートポスト"
+other = "最新のお知らせ"
 
 [topsectioninfotext]
 other = "[全てのポスト](/post)、[RSSフィード](https://pro.dbflex.net/secure/public/db/15331/rss.ashx?view=3461317&user=40863e67a24a41e281eac29548bc68b2)もご覧ください。"
@@ -320,7 +320,7 @@ other = "[全てのポスト](/post)、[RSSフィード](https://pro.dbflex.net/
 other = "記事"
 
 [newsarchiveshortposts]
-other = "ショートポスト"
+other = "お知らせ"
 
 [newsarchivemenu]
 other = "ニュース"
