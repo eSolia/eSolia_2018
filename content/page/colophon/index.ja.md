@@ -90,7 +90,7 @@ _Hugoは、イソリア推薦SSGです。_
 
 ## データ
 
-ホームページのお知らせ一覧とプロジェクト一覧は、又、[ニュース一覧](https://esolia.com/post) や [成功事例のプロジェクト一覧](https://esolia.com/success-stories) のパージについて、表示データを弊社のクラウド型データーベースの[PROdb](https://esolia.com/prodb)から引っ張ってます。[お問い合わせ](https://esolia.com/info-request) フォームも、PROdbへデータを書き込んでます。それから、スパム防止対策のため、Google [Re-Captcha](https://www.google.com/recaptcha/intro/android.html)を使ってお問い合わせフォームをスパマーから守ってます。
+ホームページのお知らせ一覧とプロジェクト一覧は、[ニュース一覧](https://esolia.com/post) や [成功事例のプロジェクト一覧](https://esolia.com/success-stories) のパージについて、表示データを当社のクラウド型データーベースの[PROdb](https://esolia.com/prodb)から引用しています。[お問い合わせ](https://esolia.com/info-request) フォームも、PROdbへデータを書き込んでいます。また、スパム防止対策のため、Google [Re-Captcha](https://www.google.com/recaptcha/intro/android.html)を使ってお問い合わせフォームをスパマーから守っています。
 
 ## ホスティング
 
