@@ -312,7 +312,7 @@ Analytics = "YHYBNXPJ"
 [[languages.en.menu.toolslist]]
 name = "Uptime Monitor"
 identifier = "en_uptime"
-url = "https://uptime.esolia.pro"
+url = "http://uptime.esolia.pro"
 pre = "eSolia Uptime Monitor built with real-time data from a GitHub repository using GitHub Actions, Issues, and Pages. Powered by Upptime."
 post = "_blank"
 weight = 11

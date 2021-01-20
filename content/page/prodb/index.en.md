@@ -1,6 +1,6 @@
 ---
 author: eSolia
-date: 2021-01-05T09:51:30+09:00
+date: 2021-01-20T08:54:41+09:00
 publishdate: 2020-09-15T19:57:37+09:00
 draft: false
 title: PROdb Cloud Database
@@ -154,4 +154,4 @@ Consider PROdb if:
 
 PROdb is governed by this [Terms of Service](/prodb-tos) agreement. Users can enter a support request [using this form](/prodb-support).
 
-See also our <a class="link" href="https://uptime.esolia.pro" target="_blank">uptime status monitoring</a> page.
+See also our <a class="link" href="http://uptime.esolia.pro" target="_blank">uptime status monitoring</a> page.

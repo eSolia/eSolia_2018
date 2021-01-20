@@ -1,6 +1,6 @@
 ---
 author: イソリア
-date: 2021-01-05T09:51:30+09:00
+date: 2021-01-20T08:54:41+09:00
 publishdate: 2020-09-15T19:57:37+09:00
 draft: false
 title: PROdbクラウド型データベース
@@ -163,4 +163,4 @@ PROdb はこの [利用規約](/prodb-tos) の元、運用しております。
 
 すでにご利用の方へのサポートのご依頼は[こちらのページ](/prodb-support)からお願いいたします。
 
-リアルタイム <a class="link" href="https://uptime.esolia.pro" target="_blank">システム ステータス監視</a> ページもご覧ください。
+リアルタイム <a class="link" href="http://uptime.esolia.pro" target="_blank">システム ステータス監視</a> ページもご覧ください。
