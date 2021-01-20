@@ -67,18 +67,17 @@ menu:
 
 ## 私たちの価値
 
-イソリアの価値は何をどれだけしたという事よりも、どれ程お客様の役に立ち、有益だと感じて頂く事にあります。
+イソリアの価値は何をどれだけしたかという「量」よりも、どれ程お客様の役に立ち、有益だと感じていただくことができたかという「質」にあります。
 我々は依頼をただこなす一般的なアウトソースのベンダーとは異なります。
-これを可能にするために我々は：
 
 <i class="small mdi-social-people grey-text text-darken-2 left"></i> イソリアはエンジニアを単体で派遣することはありません。 私たちは常に **チームで動きます。** これにより、幅広い知識やスキルをもって包括的に対応することができ、ヘルプデスクからネットワーク、セキュリティのデザインやプロジェクトマネージメントまで、一般のIT部で必要になるすべてのスキルをカバーすることができます。
 
 <i class="small mdi-hardware-security grey-text text-darken-2 left"></i> イソリアは**お客様の問題**を解決します。単にITベンダーとしてだけではなく、私たちは常にお客様のスタッフとして動き、企業ITポリシーに従って、私たちの経験とスキルを用い、お客様の環境と調和しつつ最善な結果を出します。
 
-<i class="small mdi-communication-forum grey-text text-darken-2 left"></i> イソリアは多言語を習得し、生まれとは違う国の文化を経験したプロフェッショナルを採用しています。これにより**強いコミュニケーションスキル**を習得し、問題を解決できる能力が備わっております。
+<i class="small mdi-communication-forum grey-text text-darken-2 left"></i> イソリアは、出身国以外で生活したことのあるマルチリンガルなプロフェッショナルを採用するよう努めています。これにより**強いコミュニケーションスキル**を習得し、問題を解決できる能力が備わっております。
 
-<i class="small mdi-action-bookmark-outline grey-text text-darken-2 left"></i> 強いコミュニケーション能力だけでなく、マイクロソフトやシスコ、CompTIAやITILなどの資格の取得も積極的に推進しております。
-イソリアの新規プロフェッショナルは**基本的なIT知識を身に着ける**為、最初にCompTIA A+, Network+ やITIL Foundationなどの資格を取得しております。
+<i class="small mdi-action-bookmark-outline grey-text text-darken-2 left"></i> 良好なコミュニケーション能力だけでなく、マイクロソフトやシスコ、CompTIAやITILなどの資格の取得も積極的に推進しております。
+イソリアの新規エンジニアチームメンバーは**基本的なIT知識を身に着ける**為、まずCompTIA A+、 Network+ やITIL Foundationなどの資格を取得します。
 
 <i class="small mdi-editor-mode-edit grey-text text-darken-2 left"></i> イソリアのプロフェッショナルはプロセスに則って確実に業務を完遂し、**情報のドキュメント化**をします。特にドキュメント化はリスクを最小限に収めるための必須事項で、徹底しております。
 
