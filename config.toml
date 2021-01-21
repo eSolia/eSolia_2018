@@ -312,7 +312,7 @@ Analytics = "YHYBNXPJ"
 [[languages.en.menu.toolslist]]
 name = "Uptime Monitor"
 identifier = "en_uptime"
-url = "http://uptime.esolia.pro"
+url = "https://status.esolia.pro"
 pre = "eSolia Uptime Monitor built with real-time data from a GitHub repository using GitHub Actions, Issues, and Pages. Powered by Upptime."
 post = "_blank"
 weight = 11
@@ -567,7 +567,7 @@ help  = "ヘルプ"
 [[languages.ja.menu.toolslist]]
     name = "Uptime Monitor"
     identifier = "ja_uptime"
-    url = "https://uptime.esolia.pro"
+    url = "https://status.esolia.pro"
     pre = "イソリアのアップタイム監視システムは、Githubリポジトリーのアクション、イッシュー、ページの組合わせで、リアルタイムでシステムステータス確認を可能にしてくれます。パワード・バイ・Upptime"
     post = "_blank"
     weight = 11

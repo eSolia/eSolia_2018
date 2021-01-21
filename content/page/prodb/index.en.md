@@ -154,4 +154,4 @@ Consider PROdb if:
 
 PROdb is governed by this [Terms of Service](/prodb-tos) agreement. Users can enter a support request [using this form](/prodb-support).
 
-See also our <a class="link" href="http://uptime.esolia.pro" target="_blank">uptime status monitoring</a> page.
+See also our <a class="link" href="https://status.esolia.pro" target="_blank">uptime status monitoring</a> page.

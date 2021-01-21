@@ -163,4 +163,4 @@ PROdb はこの [利用規約](/prodb-tos) の元、運用しております。
 
 すでにご利用の方へのサポートのご依頼は[こちらのページ](/prodb-support)からお願いいたします。
 
-リアルタイム <a class="link" href="http://uptime.esolia.pro" target="_blank">システム ステータス監視</a> ページもご覧ください。
+リアルタイム <a class="link" href="https://status.esolia.pro" target="_blank">システム ステータス監視</a> ページもご覧ください。
