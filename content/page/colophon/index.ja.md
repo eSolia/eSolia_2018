@@ -95,7 +95,7 @@ _Hugoは、イソリア推薦SSGです。_
 ## ホスティング
 
 このサイトの日本語版も英語版も、[Amazon AWS「S3」](https://aws.amazon.com/jp/s3/?nc1=h_ls) オブジェクトストレージでホスティングし、
-同社のコンテンツ配信ネットワーク (CDN)[「CloudFront」](https://aws.amazon.com/jp/cloudfront/?nc1=h_ls)でグローバルにご提供してます。又、[ドメインネームシステム (DNS)](https://aws.amazon.com/jp/route53/what-is-dns/)は堅牢かつ高速な[「Route53」](https://aws.amazon.com/route53/), を利用しています。
+同社のコンテンツ配信ネットワーク (CDN)[「CloudFront」](https://aws.amazon.com/jp/cloudfront/?nc1=h_ls)で提供しています。又、[ドメインネームシステム (DNS)](https://aws.amazon.com/jp/route53/what-is-dns/)安心かつ高速な[「Route53」](https://aws.amazon.com/route53/), を利用しています。
 
 このサイトの[レポジトリ](https://github.com/eSolia/eSolia)は[Github(ギットハブ)](https://github.com)にてホストされています。
 
@@ -111,8 +111,8 @@ _Hugoは、イソリア推薦SSGです。_
 
 ## ありがとう!
 
-通常世の中のウェブサイトはこの様な「どのサービスを利用しているか」などの内容を記載することは多くはないと思いますが、どの様なサイトであれ上記の様な色々なサービスの恩恵を受けて完成されていることを忘れてはいけません。
+通常世の中のウェブサイトはこの様に「どのサービスを利用しているか」という内容を記載することは多くはないと思いますが、どのサイトであれ色々なサービスの恩恵を受けていることを忘れてはいけません。
 
-最後に、沢山の時間を費やししてくれたイソリアのみんなにありがとう。
+最後に、沢山の時間を費やしてくれたイソリアのみんなにありがとう。
 
 _さぁ、仕事に戻ろう！_
