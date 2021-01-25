@@ -47,7 +47,7 @@ images:
 </figure>
 
 [巨人の肩の上にのる](https://ja.wikipedia.org/wiki/%E5%B7%A8%E4%BA%BA%E3%81%AE%E8%82%A9%E3%81%AE%E4%B8%8A)という西洋の比喩表現がありますが、このサイトもその例外ではありません。
-以前のイソリアのサイトは「Rapidweaver」や「Typo3」にて作成されたものでした。各システムにはそれぞれの強みがありましたが、様々な理由から私達が利用していたそういったシステムには、アップグレードや依存関係などに関連するいくつかの脆弱性がありました。
+以前のイソリアのサイト作成に使用していた各システムにはそれぞれの強みがありましたが、一方で、アップグレードや依存関係などに関連するいくつかの脆弱性がありました。
 
 <figure class="image is-256x256 is-hidden-tablet">
 <img class="" data-caption="イソリアロゴ" alt="イソリアロゴ画像" src="/img/eSolia-Chicklet-Color.svg" >
@@ -99,7 +99,7 @@ _Hugoは、イソリア推薦SSGです。_
 
 このサイトの[レポジトリ](https://github.com/eSolia/eSolia)は[Github(ギットハブ)](https://github.com)にてホストされています。
 
-## 我々は Humans(.txt) だ
+## Humans(.txt) 
 
 [``Humans.txt``](/humans.txt) ファイルをご存知でしょうか。[Humans.txt](http://humanstxt.org)はウェブサイトの奥付（サイト作製には何を実際に使ったかなど）の作る方法を比較的標準化しようとする試みであり、また検索エンジンのクローラープログラムに指示するrobots.txtととも関係してます。
 
