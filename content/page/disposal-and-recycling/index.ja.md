@@ -1,7 +1,7 @@
 ---
 author: イソリア
-date: 2018-09-16T10:35:31+09:00
-publishdate: 2018-09-16T10:35:31+09:00
+date: 2021-01-25T10:35:31+09:00
+publishdate: 2021-01-25T10:35:31+09:00
 draft: false
 title: IT関連品の廃棄処理
 slug: disposal-and-recycling
