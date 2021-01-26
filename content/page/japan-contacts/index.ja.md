@@ -6,8 +6,8 @@ publishdate: 2018-06-22T10:12:16+09:00
 description: イソリア 日本に滞在するなら知っておきたい、便利な連絡先一覧表
 draft: false
 slug: japan-contacts
-title: イソリア 日本での緊急連絡先一覧
-subtitle: 便利な一覧表形式
+title: 緊急時連絡先一覧
+subtitle: 便利な一覧表
 weight: 55
 layout: about
 alternatelocales:
