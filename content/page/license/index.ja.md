@@ -27,7 +27,7 @@ images:
 
 ## テキストとマルチメディア コンテンツのライセンス
 
-指摘がなければ、当サイトのコンテンツ （ソースコードじゃないテキスト、写真、ビデオ、グラフィク、図など）の著作権は株式会社イソリアにあります。
+特に記載がなければ、当サイトのコンテンツ （ソースコードじゃないテキスト、写真、ビデオ、グラフィック、図など）の著作権は株式会社イソリアにあります。
 
 ## ソースコードのライセンス
 
@@ -35,15 +35,15 @@ images:
 
 ### The MIT License
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+<em>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</em>
 
 ### MIT Licenseの要約
 
-要約すると、MIT Licenseとは次のようなライセンスである。
+要約すると、MIT Licenseとは次のようなライセンスです。
 
-このソフトウェアを誰でも無償で無制限に扱って良い。ただし、著作権表示および本許諾表示をソフトウェアのすべての複製または重要な部分に記載しなければならない。
-作者または著作権者は、ソフトウェアに関してなんら責任を負わない。
+<em>このソフトウェアを誰でも無償で無制限に扱えます。ただし、著作権表示および本許諾表示をソフトウェアのすべての複製または重要な部分に記載すること。
+作者または著作権者は、ソフトウェアに関して責任を負わない。</em>
