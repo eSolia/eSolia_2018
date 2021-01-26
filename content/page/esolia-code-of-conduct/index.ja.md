@@ -1,11 +1,11 @@
 ---
 author: イソリア
-date: 2018-05-06T07:07:27+09:00
-publishdate: 2018-05-06T07:07:27+09:00
+date: 2021-01-26T07:07:27+09:00
+publishdate: 2021-01-26T07:07:27+09:00
 description: イソリアの行動規範 -質の高いパフォーマンスを提供しお客様との信頼関係を促進する為の行動規範を定めています。
 draft: false
 slug: esolia-code-of-conduct
-title: 弊社の行動規範
+title: 行動規範
 subtitle: イソリアの誓い
 weight: 35
 alternatelocales:
@@ -43,14 +43,14 @@ menu:
 
 ## 誓い
 
-日々の行動規範を遂行し、以下当社の誓いを実践してまいります。
+日々の行動規範を遂行し、以下の誓いを実践してまいります。
 
-<span class="icon is-small has-text-esolia-yellow-4 has-padding-l-m has-padding-r-m"><i class="fas fa-check-circle"></i></span> 貴社のプロセスや、業界でよく取り組まれているアプローチに基づいて、素早く実行できるように行動いたします。<br><br>
-<span class="icon is-small has-text-esolia-yellow-4 has-padding-l-m has-padding-r-m"><i class="fas fa-check-circle"></i></span> 当社の主契約はタイムアンドマテリアルでのご提供となりますが、必要とされたものだけを請求し、水増し請求のような「仕事を作る」事はいたしません。<br><br>
-<span class="icon is-small has-text-esolia-yellow-4 has-padding-l-m has-padding-r-m"><i class="fas fa-check-circle"></i></span> 状況確認報告や作業報告については、透明性をもって全てそのまま報告を行う。 <br><br>
+<span class="icon is-small has-text-esolia-yellow-4 has-padding-l-m has-padding-r-m"><i class="fas fa-check-circle"></i></span> ご指定のプロセスや、業界でよく取り組まれているアプローチに基づいて、素早く実行できるように行動いたします。<br><br>
+<span class="icon is-small has-text-esolia-yellow-4 has-padding-l-m has-padding-r-m"><i class="fas fa-check-circle"></i></span> 当社の主契約はタイムアンドマテリアルでのご提供となりますが、必要とされたものだけを請求し、「仕事を作る」ような水増し請求はいたしません。<br><br>
+<span class="icon is-small has-text-esolia-yellow-4 has-padding-l-m has-padding-r-m"><i class="fas fa-check-circle"></i></span> 状況確認報告や作業報告については、透明性をもって全てそのまま報告を行います。 <br><br>
 <span class="icon is-small has-text-esolia-yellow-4 has-padding-l-m has-padding-r-m"><i class="fas fa-check-circle"></i></span> お客様と長期的な関係を促進するために、ご契約期間やボリュームによってより魅力的なプロフェショナルレートを提供いたします。<br><br>
-<span class="icon is-small has-text-esolia-yellow-4 has-padding-l-m has-padding-r-m"><i class="fas fa-check-circle"></i></span> 私達は企業の健全性と安定性をもって行動しており、悪い商習慣や駆け引きに決して従事しておりません。<br><br>
-<span class="icon is-small has-text-esolia-yellow-4 has-padding-l-m has-padding-r-m"><i class="fas fa-check-circle"></i></span> お受けした作業やトラブルへの対応は、当社が責任を持って最後まで徹底して対応いたします。<br><br>
+<span class="icon is-small has-text-esolia-yellow-4 has-padding-l-m has-padding-r-m"><i class="fas fa-check-circle"></i></span> 私達は企業の健全性と安定性をもって行動しており、非倫理的な商習慣や駆け引きに決して従事しません。<br><br>
+<span class="icon is-small has-text-esolia-yellow-4 has-padding-l-m has-padding-r-m"><i class="fas fa-check-circle"></i></span> お受けした作業やトラブルへの対応は、責任を持って最後まで徹底して対応いたします。<br><br>
 
 ## 行動規範
 
@@ -65,4 +65,4 @@ menu:
 1. お客様のビジネス、文書、情報に対する守秘義務を徹底する。
 1. 資質向上と能力開発を最大化できる機会と環境を提供する。
 1. お客様からの評価、信頼、尊敬をいただけるよう行動する。
-1. サービスを提供するお客様や業務を支えてくれる人々に対して、完全でプロフェッショナルな態度を維持するよう努力する。
+1. サービスを提供するお客様や業務を支えてくれる人々に対して、プロフェッショナルな態度を維持するよう努力する。
