@@ -1,8 +1,8 @@
 ---
 author: イソリア
 authorlink: /about
-date: 2018-09-21T15:40:02+09:00
-publishdate: 2018-06-22T10:12:16+09:00
+date: 2021-01-26T15:40:02+09:00
+publishdate: 2021-01-26T15:12:16+09:00
 description: イソリア 日本に滞在するなら知っておきたい、便利な連絡先一覧表
 draft: false
 slug: japan-contacts
