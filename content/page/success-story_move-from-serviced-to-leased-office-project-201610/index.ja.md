@@ -1,12 +1,12 @@
 ---
 author: eSolia
-date: 2018-05-16T15:44:09+09:00
-publishdate: 2018-05-16T15:44:09+09:00
+date: 2021-02-04T15:44:09+09:00
+publishdate: 2021-02-04T15:44:09+09:00
 draft: false
 slug: success-story_move-from-serviced-to-leased-office
 title: 日本での販売開始以前に「居抜き」オフィス移転
 subtitle: グローバル医療機器メーカーにて
-description: イソリアから - 日本販売許可が下りるに伴って、サービスオフィスから、「居抜き」契約でリース事務所に移転させた。
+description: イソリアから - 日本販売許可が下りるに伴い、サービスオフィスから「居抜き」契約でリース事務所に移転。
 layout: successes
 alternatelocales:
   - en-US
