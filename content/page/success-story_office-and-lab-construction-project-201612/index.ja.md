@@ -6,7 +6,7 @@ draft: false
 slug: success-story_office-and-lab-construction-project
 title: 事務所とラボ工事、移転
 subtitle: グローバル電子顕微鏡メーカーにて
-description: イソリアから - 東京新事務所にて、オフィスとラボ工事やIT更新作業のプロジェクトマネジメントを実施し、東京と横浜のオフィスを移転させた。
+description: イソリアから - 東京新事務所にて、オフィスとラボ工事やIT更新作業のプロジェクトマネジメントを実施し、東京と横浜のオフィスを移転。
 layout: successes
 alternatelocales:
   - en-US
