@@ -4,7 +4,7 @@ draft = "false"
 layout = "newsarchive"
 tags = ["ブログ","ニュース","お知らせ","ポスト","アーカイブ"]
 title = "ニュース一覧"
-subtitle = "下記はイソリア記事及びお知らせの一覧"
+subtitle = "下記はイソリア記事及びお知らせの一覧です"
 aliases = [
     "/news"
 ]
