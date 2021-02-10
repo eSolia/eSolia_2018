@@ -38,12 +38,12 @@ Our fixed office there is small, but the big advantage is our professionals can 
 Our new address and phone numbers are as follows:  
 
 Shiodome City Center 5F (WORKSTYLING)  
-1-5-2 Higashi-Shimbashi, Minato-ku, Tokyo, Japan, 105-7108  
+1-5-2 Higashi-Shimbashi, Minato-ku, Tokyo, Japan, 105-7105  
 
 
 Tel: <a href="tel:+813-4577-3380">03-4577-3380</a> (Main)  
-Tel: <a href="tel:+813-4577-3388">03-4577-3380</a> (teamITMS)  
-Tel: <a href="tel:+813-4577-3389">03-4577-3380</a> (Urgent Support)  
+Tel: <a href="tel:+813-4577-3388">03-4577-3388</a> (teamITMS)  
+Tel: <a href="tel:+813-4577-3389">03-4577-3389</a> (Urgent Support)  
 Fax: 03-4577-3309  
 
 eSolia Inc.  
