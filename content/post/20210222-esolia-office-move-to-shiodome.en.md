@@ -31,13 +31,13 @@ images:
   
 Dear Clients, Partners and Colleagues:  
   
-eSolia is moving! We have had a long run in Toranomon — almost 10 years — and due to the COVID-19 pandemic, our office has sat largely unused for quite a while. We took the decision to move out of Sawa Building, into a modern "shared office", at the WORKSTYLING Shiodome City Center facility at JR Shimbashi.  
+eSolia is moving! We have had a long run in Toranomon — almost 10 years — and due to the COVID-19 pandemic, our office has sat largely unused for quite a while. We took the decision to move out of Sawa Building, into a modern "shared office", at the Work Styling Shiodome City Center facility at JR Shimbashi.  
 
 Our fixed office there is small, but the big advantage is our professionals can now reserve space for meetings or individual work time, at many locations across the city. That's a big win for our flexibility, and should mean more efficiency in terms of movement.  
 
 Our new address and phone numbers are as follows:  
 
-Shiodome City Center 5F (WORKSTYLING)  
+Shiodome City Center 5F (Work Styling)  
 1-5-2 Higashi-Shimbashi, Minato-ku, Tokyo, Japan, 105-7105  
 
 

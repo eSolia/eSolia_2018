@@ -5,13 +5,13 @@ other = "eSolia"
 other = "eSolia Inc."
 
 [hqAddress1]
-other = "Shiodome City Center 5F (WorkStyling), 1-5-2 Higashi-Shimbashi,"
+other = "Shiodome City Center 5F (Work Styling), 1-5-2 Higashi-Shimbashi,"
 
 [hqAddress2]
 other = "Minato-ku, Tokyo, Japan, 105-7105"
 
 [hqAddress]
-other = "Shiodome City Center 5F (WorkStyling), 1-5-2 Higashi-Shimbashi, Minato-ku, Tokyo, Japan, 105-7105"
+other = "Shiodome City Center 5F (Work Styling), 1-5-2 Higashi-Shimbashi, Minato-ku, Tokyo, Japan, 105-7105"
 
 [eSoliaContacts]
 other = "Contact Points"

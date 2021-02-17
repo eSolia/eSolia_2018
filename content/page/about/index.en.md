@@ -77,7 +77,7 @@ See the following general information about eSolia, and [import](/post/how-to-us
   <tbody>
     <tr>
       <th class="has-text-right is-uppercase">Headquarters</th>
-      <td>Shiodome City Center 5F (WorkStyling), 1-5-2 Higashi-Shimbashi, <br>
+      <td>Shiodome City Center 5F (Work Styling), 1-5-2 Higashi-Shimbashi, <br>
       Minato-ku, Tokyo, Japan, 105-7105<br>
     <em>Main:</em> <a href="tel:+813-4577-3380">+813-4577-3380</a><br>
     <em>teamITMS:</em> <a href="tel:+813-4577-3388">+813-4577-3388</a><br>
