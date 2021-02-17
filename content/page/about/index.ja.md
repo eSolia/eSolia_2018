@@ -75,9 +75,12 @@ menu:
   <tbody>
     <tr>
       <th class="has-text-right is-uppercase">本社</th>
-      <td>〒105-0003 東京都港区西新橋2-2-2 <br>澤ビル6階<br>
-    <em>TEL(代表):</em> <a href="tel:+81-3-6273-3510">+81-3-6273-3510</a><br>
-    <em>FAX:</em> +81-3-3593-3511</td>
+      <td>〒105-7105　東京都港区東新橋一丁目５番２号　
+      <br>汐留シティセンター５階（Work Styling）<br>
+    <em>TEL(代表):</em> <a href="tel:+813-4577-3380">+813-4577-3380</a><br>
+    <em>TEL(teamITMS):</em> <a href="tel:+813-4577-3388">+813-4577-3388</a><br>
+    <em>TEL(緊急サポート):</em> <a href="tel:+813-4577-3389">+813-4577-3389</a><br>
+    <em>FAX:</em> +813-4577-3309</td>
     </tr>
     <tr>
       <th class="has-text-right is-uppercase">お問合せ</th>
