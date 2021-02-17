@@ -167,7 +167,7 @@ other = "More Info"
 other = "View on Google Maps"
 
 [eSoliaMapBlurb]
-other = "Find us on <a itemprop='hasMap' href='https://goo.gl/maps/cBQznrRSzJ92' target='_blank'>Google Maps</a>, <a itemprop='hasMap' href='http://ln.esolia.co.jp/sawaapplemap' target='_blank'>Apple Maps</a>, or click the image to zoom."
+other = "Find us on <a itemprop='hasMap' href='https://goo.gl/maps/cBQznrRSzJ92' target='_blank'>Google Maps</a>, <a itemprop='hasMap' href='http://ln.esolia.co.jp/shiodomeapplemap' target='_blank'>Apple Maps</a>, or click the image to zoom."
 
 [languagename]
 other = "English"

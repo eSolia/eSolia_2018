@@ -167,7 +167,7 @@ other = "続きを読む"
 other = "グーグルマップで見る"
 
 [eSoliaMapBlurb]
-other = "マップ（<a itemprop='hasMap' href='https://goo.gl/maps/cBQznrRSzJ92' target='_blank'>google</a>・<a itemprop='hasMap' href='http://ln.esolia.co.jp/sawaapplemap' target='_blank'>apple</a>）、または、下記の地図画像をクリックしてご覧いただけます。"
+other = "マップ（<a itemprop='hasMap' href='https://goo.gl/maps/cBQznrRSzJ92' target='_blank'>google</a>・<a itemprop='hasMap' href='http://ln.esolia.co.jp/shiodomeapplemap' target='_blank'>apple</a>）、または、下記の地図画像をクリックしてご覧いただけます。"
 
 [languagename]
 other = "日本語"
