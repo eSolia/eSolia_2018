@@ -69,7 +69,10 @@ We reserve the right to modify this privacy statement at any time. We will annou
 If you have any questions or concerns regarding this statement, please contact eSolia Inc.:
 
 **eSolia Inc.**  
-Sawa Bldg. 6F  
-Nishi-Shinbashi 2-2-2, Minato-ku, Tokyo 105-0003 Japan  
-Tel: 03-6273-3510 | Fax: 03-3593-3511  
+Shiodome City Center 5F (WorkStyling), 1-5-2 Higashi-Shimbashi, <br>
+      Minato-ku, Tokyo, Japan, 105-7105<br>
+    <em>Main:</em> <a href="tel:+813-4577-3380">+813-4577-3380</a><br>
+    <em>teamITMS:</em> <a href="tel:+813-4577-3388">+813-4577-3388</a><br>
+    <em>Urgent Support:</em> <a href="tel:+813-4577-3389">+813-4577-3389</a><br>
+    <em>FAX:</em> +813-4577-3309<br> 
 esolia.com | esolia.co.jp  
