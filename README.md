@@ -26,7 +26,7 @@ About Hugo, we learn:
 
 > Hugo is written for speed and performance. Great care has been taken to ensure that Hugo build time is as short as possible. We're talking milliseconds to build your entire site for most setups.
 
-In fact, it takes far longer to upload the site to your web space, than it does for Hugo to generate it.
+In fact, it takes far longer to upload the site to your web space, than it does for Hugo to generate it. At the very least, it saves you time and money in CI build minutes! 
 
 Hugo is downloadable as a single binary file, written in Go, which means it will run on just about any platform, just by running the file. There are no complex installations and dependencies to deal with.
 
