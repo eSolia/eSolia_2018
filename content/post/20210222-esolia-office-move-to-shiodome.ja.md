@@ -1,14 +1,14 @@
 ---
 author: eSolia
 authorkey: esolia
-date: 2021-02-03T00:00:27+09:00
-publishdate: 2021-02-03T00:00:27+09:00
+date: 2021-02-20T20:27:29+09:00
+publishdate: 2021-02-20T20:27:29+09:00
 description: イソリアより - オフィス移転のお知らせ
 draft: true
 slug: 20210222-esolia-office-move-to-shiodome
 layout: post
 subtitle: 虎ノ門から汐留へ
-postsummary: 
+postsummary: 約１０年間虎ノ門エリアを営業活動の拠点としてまいりましたが、COVID-19の感染拡大に伴うリモートワークの普及により、長期間に渡ってオフィスを使用することはありませんでした。そこで、モダンなシェアオフィスに移転することを決定いたしました。
 alternatelocales:
   - en-US
 tags:
@@ -21,13 +21,12 @@ topics:
 authors:
   - イソリア
 images:
-  - 
-  - 
+  - /img/eSolia-Map-Shiodome-16x9-1200px.png
 ---
 
 {{< blogbox >}}
 
-##　オフィス移転のお知らせ
+## オフィス移転のお知らせ
   
 拝啓  
   
@@ -43,10 +42,10 @@ images:
   
 敬具  
   
-株式会社イソリア  
-代表取締役社長　ジェームズ・コグレー  
-代表取締役副社長　福岡 琢巳  
-teamITMS 一同  
+**株式会社イソリア**  
+_代表取締役社長　ジェームズ・コグレー_  
+_代表取締役副社長　福岡 琢巳_  
+_teamITMS 一同_  
   
 記  
   
@@ -54,10 +53,11 @@ teamITMS 一同
 東京都港区東新橋一丁目５番２号  
 汐留シティセンター５階（Work Styling）  
   
-Tel: <a href="tel:+813-4577-3380">03-4577-3380</a> (代表)  
-Tel: <a href="tel:+813-4577-3388">03-4577-3388</a> (teamITMS)  
-Tel: <a href="tel:+813-4577-3389">03-4577-3389</a> (緊急サポート)  
-Fax: 03-4577-3309  
+**Tel:** <a href="tel:+813-4577-3380">03-4577-3380</a> (代表)  
+**Tel:** <a href="tel:+813-4577-3388">03-4577-3388</a> (teamITMS)  
+**Tel:** <a href="tel:+813-4577-3389">03-4577-3389</a> (緊急サポート)  
+**Fax:** 03-4577-3309  
   
-MAP BUTTON
-Google Map: https://goo.gl/maps/vEKdsAk6qcRyXnYS9
+<a href="https://goo.gl/maps/vEKdsAk6qcRyXnYS9" class="button is-esolia-yellow-1 is-size-6-mobile is-medium" target="_blank">グーグルマップ</a>
+
+<img src="/img/eSolia-Map-Shiodome-16x9-1200px.png" alt="新事務所近辺地図のスクリーンショット" width="800">

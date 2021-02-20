@@ -1,33 +1,32 @@
 ---
 author: eSolia
 authorkey: esolia
-date: 2021-02-03T00:00:27+09:00
-publishdate: 2021-02-03T00:00:27+09:00
-description: イソリアより - オフィス移転のお知らせ
+date: 2021-02-20T20:27:29+09:00
+publishdate: 2021-02-20T20:27:29+09:00
+description: Our office is moving to Shiodome - A blog post from eSolia
 draft: true
 slug: 20210222-esolia-office-move-to-shiodome
 layout: post
-subtitle: 虎ノ門から汐留へ
-postsummary: 
+subtitle: From Toranomon to Shimbashi
+postsummary: Due to COVID causing our office to sit unused, we decided to change to a modern shared office. 
 alternatelocales:
   - en-US
 tags:
-  - オフィス移転
-  - 汐留
-title: オフィス移転
-titlewbr: オフィス移転
+  - Move
+  - Shiodome
+title: Moving Office
+titlewbr: Moving Office
 topics:
-  - アナウンス
+  - Announcement
 authors:
-  - イソリア
+  - eSolia
 images:
-  - 
-  - 
+  - /img/eSolia-Map-Shiodome-16x9-1200px.png
 ---
 
 {{< blogbox >}}
 
-##　オフィス移転のお知らせ
+## We're Moving!
   
 Dear Clients, Partners and Colleagues:  
   
@@ -40,22 +39,20 @@ Our new address and phone numbers are as follows:
 Shiodome City Center 5F (Work Styling)  
 1-5-2 Higashi-Shimbashi, Minato-ku, Tokyo, Japan, 105-7105  
 
+**Tel:** <a href="tel:+813-4577-3380">03-4577-3380</a> (Main)  
+**Tel:** <a href="tel:+813-4577-3388">03-4577-3388</a> (teamITMS)  
+**Tel:** <a href="tel:+813-4577-3389">03-4577-3389</a> (Urgent Support)  
+**Fax:** 03-4577-3309  
 
-Tel: <a href="tel:+813-4577-3380">03-4577-3380</a> (Main)  
-Tel: <a href="tel:+813-4577-3388">03-4577-3388</a> (teamITMS)  
-Tel: <a href="tel:+813-4577-3389">03-4577-3389</a> (Urgent Support)  
-Fax: 03-4577-3309  
-
-eSolia Inc.  
-Rick Cogley  
-Takumi Fukuoka  
-teamITMS  
+**eSolia Inc.**  
+_Rick Cogley_  
+_Takumi Fukuoka_  
+_teamITMS_  
   
-MAP BUTTON
+We will be officially moved as of **February 22nd, 2021**, and hope for many more years of service to and with you.
   
-MAP BUTTON
-Google Map: https://goo.gl/maps/vEKdsAk6qcRyXnYS9
-We will be officially moved as of February 22nd, 2021, and hope for many more years of service to and with you.
+<a href="https://goo.gl/maps/vEKdsAk6qcRyXnYS9" class="button is-esolia-yellow-1 is-size-6-mobile is-medium" target="_blank">Google Map</a>
 
+<img src="/img/eSolia-Map-Shiodome-16x9-1200px.png" alt="Screenshot of Map to New Office" width="800">
 
   
