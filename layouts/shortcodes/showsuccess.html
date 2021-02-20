@@ -1,5 +1,4 @@
 {{ $id := .Get 0 }}
-
 {{ range where .Site.Data.success ".Id" $id }}
 {{ if eq $.Site.Language.Lang "en" }}
 <h2>Project Background</h2>

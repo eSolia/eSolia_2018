@@ -49,4 +49,4 @@ menu:
     Weight: 60
 ---
 
-{{< showsuccess 405 >}}
+{{< showsuccess "405" >}}
