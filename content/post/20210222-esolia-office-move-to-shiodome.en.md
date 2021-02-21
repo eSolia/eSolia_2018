@@ -1,14 +1,14 @@
 ---
 author: eSolia
 authorkey: esolia
-date: 2021-02-20T20:27:29+09:00
-publishdate: 2021-02-20T20:27:29+09:00
-description: Our office is moving to Shiodome - A blog post from eSolia
+date: 2021-02-22T01:27:29+09:00
+publishdate: 2021-02-22T01:27:29+09:00
+description: Our office has moved to Shiodome - A blog post from eSolia
 draft: true
 slug: 20210222-esolia-office-move-to-shiodome
 layout: post
 subtitle: From Toranomon to Shimbashi
-postsummary: Due to COVID causing our office to sit unused, we decided to change to a modern shared office. 
+postsummary: Due to COVID causing our office to sit unused, we decided to move to a modern and flexible shared office. 
 alternatelocales:
   - en-US
 tags:
@@ -26,11 +26,11 @@ images:
 
 {{< blogbox >}}
 
-## We're Moving!
+## We've Moved!
   
 Dear Clients, Partners and Colleagues:  
   
-eSolia is moving! We have had a long run in Toranomon — almost 10 years — and due to the COVID-19 pandemic, our office has sat largely unused for quite a while. We took the decision to move out of Sawa Building, into a modern "shared office", at the Work Styling Shiodome City Center facility at JR Shimbashi.  
+eSolia has had a long run in Toranomon — almost 10 years — and due to the COVID-19 pandemic, our office had sat largely unused for quite a while. We took the decision to move out of the Sawa Building near Toranomon station, into a modern "shared office", at the Work Styling facility on the 5th floor of Shiodome City Center, at JR Shimbashi.  
 
 Our fixed office there is small, but the big advantage is our professionals can now reserve space for meetings or individual work time, at many locations across the city. That's a big win for our flexibility, and should mean more efficiency in terms of movement.  
 
@@ -49,7 +49,7 @@ _Rick Cogley_
 _Takumi Fukuoka_  
 _teamITMS_  
   
-We will be officially moved as of **February 22nd, 2021**, and hope for many more years of service to and with you.
+Shiodome is our official address as of **February 22nd, 2021**, and we hope for many more years of service to and with you.
   
 <a href="https://goo.gl/maps/vEKdsAk6qcRyXnYS9" class="button is-esolia-yellow-1 is-size-6-mobile is-medium" target="_blank">Google Map</a>
 

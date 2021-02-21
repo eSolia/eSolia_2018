@@ -1,8 +1,8 @@
 ---
 author: eSolia
 authorkey: esolia
-date: 2021-02-20T20:27:29+09:00
-publishdate: 2021-02-20T20:27:29+09:00
+date: 2021-02-22T01:27:29+09:00
+publishdate: 2021-02-22T01:27:29+09:00
 description: イソリアより - オフィス移転のお知らせ
 draft: true
 slug: 20210222-esolia-office-move-to-shiodome
