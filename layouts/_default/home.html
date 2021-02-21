@@ -235,14 +235,38 @@
             <div id="hideheader" class="has-padding-t-xxs has-margin-l-m">
             <span class="is-size-7-mobile">{{ i18n "topsectionprojectstext" | markdownify }}</span>
           　　{{- if eq .Site.Language.Lang "en" -}}
-                <script src="https://pro.dbflex.net/secure/embed.js"
-data-url="/ev-3456938/db/15331/view.aspx"></script>
+                <table class="table is-striped is-hoverable is-fullwidth is-bordered is-size-7-mobile is-size-7-tablet is-size-6-desktop">
+                  <tbody>
+                  {{ $urlPre := "https://pro.dbflex.net" }}
+                  {{ $projE := getJSON $urlPre "/secure/api/v2/15331/25ABDEE3357D416283C0D66B9C872076/Web%20Project/API%20List%20All%20EN/select.json" }}
+                  {{ range first 8 $projE }}
+                     <tr>
+                       <th class="has-text-right" style="white-space: nowrap;">{{ .Date }}</th>
+                       <td>{{ .Description | markdownify }}</td>
+                       <td>{{ with (index . "Client Type") }}{{ . }}{{ end }}</td>
+                       <td>{{ with (index . "Details URL") }}<a href="{{ . }}" class="button is-size-6-mobile is-medium">Details</a>{{ end }}</td>
+                     </tr>
+                  {{ end }}
+                  </tbody>
+                </table>
                 <a class="" href="https://pro.dbflex.net/secure/public/db/15331/rss.ashx?view=3456957&user=40863e67a24a41e281eac29548bc68b2">
                 <span class="icon has-text-esolia-yellow-2"><i class="fas fa-rss-square"></i></span>
                 </a>
           　　{{- else -}}
-              　<script src="https://pro.dbflex.net/secure/embed.js"
-data-url="/ev-3456939/db/15331/view.aspx"></script>
+              　<table class="table is-striped is-hoverable is-fullwidth is-bordered is-size-7-mobile is-size-7-tablet is-size-6-desktop">
+                <tbody>
+                {{ $urlPre := "https://pro.dbflex.net" }}
+                {{ $projJ := getJSON $urlPre "/secure/api/v2/15331/25ABDEE3357D416283C0D66B9C872076/Web%20Project/API%20List%20All%20JP/select.json" }}
+                {{ range first 8 $projJ }}
+                   <tr>
+                     <th class="has-text-right" style="white-space: nowrap;">{{ .DateJP }}</th>
+                     <td>{{ .記事 | markdownify }}</td>
+                     <td>{{ with (index . "顧客タイプ") }}{{ . }}{{ end }}</td>
+                     <td>{{ with (index . "詳細URL") }}<a href="{{ . }}" class="button is-size-6-mobile is-medium">詳細</a>{{ end }}</td>
+                   </tr>
+                {{ end }}
+                </tbody>
+              </table>
                 <a class="" href="https://pro.dbflex.net/secure/public/db/15331/rss.ashx?view=3456963&user=40863e67a24a41e281eac29548bc68b2">
                 <span class="icon has-text-esolia-yellow-2"><i class="fas fa-rss-square"></i></span>
                 </a>
