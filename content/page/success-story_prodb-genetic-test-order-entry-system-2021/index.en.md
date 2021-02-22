@@ -26,16 +26,16 @@ formcheckboxes:
 gallery_id: 
 menu:
   main:
-    Name: 検査依頼入力システム
+    Name: Genetic Test Order Entry System
     Weight: 70
     Parent: success_index_ja
     Identifier: successhugosite1_ja
     Url: /success-story_bilingual-website-built-with-hugo
     Pre: fa-flag-checkered
-    Post: 遺伝子検査の依頼入力を速く、簡単に
+    Post: Increase Order Accuracy with Automation
   successes:
-    Name: 遺伝子検査の依頼入力システム
-    Identifier: sshugosite1_ja
+    Name: Genetic Test Order Entry System
+    Identifier: successoedb1_en
     Url: /success-story_prodb-genetic-test-order-entry-system-2021
     Parent: sucsideindex_ja
     Weight: 70
