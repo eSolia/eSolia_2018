@@ -1,0 +1,14 @@
+<table class="table is-striped is-hoverable is-fullwidth is-bordered is-size-7-mobile is-size-7-tablet is-size-6-desktop">
+  <tbody>
+  {{ $urlPre := "https://pro.dbflex.net" }}
+  {{ $projJ := getJSON $urlPre "/secure/api/v2/15331/25ABDEE3357D416283C0D66B9C872076/Web%20Project/API%20List%20All%20JP/select.json" }}
+  {{ range $projJ }}
+     <tr>
+       <th class="has-text-right" style="white-space: nowrap;">{{ .DateJP }}</th>
+       <td>{{ .記事 | markdownify }}</td>
+       <td>{{ with (index . "顧客タイプ") }}{{ . }}{{ end }}</td>
+       <td>{{ with (index . "詳細URL") }}<a href="{{ . }}" class="button is-danger is-size-6-mobile is-small">詳細</a>{{ end }}</td>
+     </tr>
+  {{ end }}
+  </tbody>
+</table>

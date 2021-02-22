@@ -5,13 +5,13 @@ other = "eSolia"
 other = "eSolia Inc."
 
 [hqAddress1]
-other = "Sawa Bldg. 6F, Nishi-Shimbashi 2-2-2"
+other = "Shiodome City Center 5F (Work Styling), 1-5-2 Higashi-Shimbashi,"
 
 [hqAddress2]
-other = "Minato-ku, Tokyo, Japan 105-0003"
+other = "Minato-ku, Tokyo, Japan, 105-7105"
 
 [hqAddress]
-other = "Sawa Bldg. 6F, Nishi-Shimbashi 2-2-2, Minato-ku, Tokyo, Japan 105-0003"
+other = "Shiodome City Center 5F (Work Styling), 1-5-2 Higashi-Shimbashi, Minato-ku, Tokyo, Japan, 105-7105"
 
 [eSoliaContacts]
 other = "Contact Points"
@@ -167,7 +167,7 @@ other = "More Info"
 other = "View on Google Maps"
 
 [eSoliaMapBlurb]
-other = "Find us on <a itemprop='hasMap' href='https://goo.gl/maps/cBQznrRSzJ92' target='_blank'>Google Maps</a>, <a itemprop='hasMap' href='http://ln.esolia.co.jp/sawaapplemap' target='_blank'>Apple Maps</a>, or click the image to zoom."
+other = "Find us on <a itemprop='hasMap' href='https://goo.gl/maps/cBQznrRSzJ92' target='_blank'>Google Maps</a>, <a itemprop='hasMap' href='http://ln.esolia.co.jp/shiodomeapplemap' target='_blank'>Apple Maps</a>, or click the image to zoom."
 
 [languagename]
 other = "English"

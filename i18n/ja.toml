@@ -5,13 +5,13 @@ other = "イソリア"
 other = "株主総会イソリア"
 
 [hqAddress1]
-other = "〒105-0003 東京都港区西新橋2-2-2"
+other = "〒105-7105　東京都港区東新橋一丁目５番２号"
 
 [hqAddress2]
-other = "澤ビルディング6F"
+other = "汐留シティセンター５階（Work Styling）"
 
 [hqAddress]
-other = "〒105-0003 東京都港区西新橋2-2-2、澤ビルディング6F"
+other = "〒105-7105　東京都港区東新橋一丁目５番２号　汐留シティセンター５階（Work Styling）"
 
 [eSoliaContacts]
 other = "連絡先情報"
@@ -167,7 +167,7 @@ other = "続きを読む"
 other = "グーグルマップで見る"
 
 [eSoliaMapBlurb]
-other = "マップ（<a itemprop='hasMap' href='https://goo.gl/maps/cBQznrRSzJ92' target='_blank'>google</a>・<a itemprop='hasMap' href='http://ln.esolia.co.jp/sawaapplemap' target='_blank'>apple</a>）、または、下記の地図画像をクリックしてご覧いただけます。"
+other = "マップ（<a itemprop='hasMap' href='https://goo.gl/maps/cBQznrRSzJ92' target='_blank'>google</a>・<a itemprop='hasMap' href='http://ln.esolia.co.jp/shiodomeapplemap' target='_blank'>apple</a>）、または、下記の地図画像をクリックしてご覧いただけます。"
 
 [languagename]
 other = "日本語"

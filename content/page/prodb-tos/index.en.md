@@ -1,7 +1,7 @@
 ---
 author: eSolia
 authorlink: /about
-date: 2020-09-29T09:56:09+09:00
+date: 2021-02-21T13:50:32+09:00
 publishdate: 2020-09-29T09:56:09+09:00
 description: eSolia PROdb Terms of Service - rules for use of eSolia PROdb cloud database. 
 draft: false
@@ -24,7 +24,7 @@ images:
 
 ## Terms of Service
 
-**Updated:** 29 Sept 2020  
+**Updated:** 22 Feb 2021  
   
 ### Section 1 - General Provisions
 #### Article 1.1 (Objective)
@@ -198,7 +198,10 @@ We reserve the right to modify this terms of service agreement at any time. We w
 If you have any questions or concerns regarding this statement, please contact eSolia Inc.:
 
 **eSolia Inc.**  
-Sawa Bldg. 6F  
-Nishi-Shinbashi 2-2-2, Minato-ku, Tokyo 105-0003 Japan  
-Tel: 03-6273-3510 | Fax: 03-3593-3511  
+Shiodome City Center 5F (Work Styling), 1-5-2 Higashi-Shimbashi, <br>
+      Minato-ku, Tokyo, Japan, 105-7105<br>
+    <em>Main:</em> <a href="tel:+813-4577-3380">+813-4577-3380</a><br>
+    <em>teamITMS:</em> <a href="tel:+813-4577-3388">+813-4577-3388</a><br>
+    <em>Urgent Support:</em> <a href="tel:+813-4577-3389">+813-4577-3389</a><br>
+    <em>FAX:</em> +813-4577-3309<br>  
 esolia.com | esolia.co.jp  

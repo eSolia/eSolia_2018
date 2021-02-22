@@ -1,6 +1,6 @@
 ---
 author: eSolia
-date: 2018-09-10T18:16:02+09:00
+date: 2021-02-21T13:50:32+09:00
 publishdate: 2018-06-14T11:26:10+09:00
 description: About eSolia - vision, general information such as HQ address, contact information, map, directors, and lines of business.
 draft: false
@@ -77,9 +77,12 @@ See the following general information about eSolia, and [import](/post/how-to-us
   <tbody>
     <tr>
       <th class="has-text-right is-uppercase">Headquarters</th>
-      <td>Sawa Building 6F, Nishi-Shimbashi 2-2-2,<br>
-    Minato-ku, Tokyo 105-0003 Japan<br>
-    <em>TEL:</em> <a href="tel:+81-3-6273-3510">+81-3-6273-3510</a> | <em>FAX:</em> +81-3-3593-3511</td>
+      <td>Shiodome City Center 5F (Work Styling), 1-5-2 Higashi-Shimbashi, <br>
+      Minato-ku, Tokyo, Japan, 105-7105<br>
+    <em>Main:</em> <a href="tel:+813-4577-3380">+813-4577-3380</a><br>
+    <em>teamITMS:</em> <a href="tel:+813-4577-3388">+813-4577-3388</a><br>
+    <em>Urgent Support:</em> <a href="tel:+813-4577-3389">+813-4577-3389</a><br>
+    <em>FAX:</em> +813-4577-3309<br></td>
     </tr>
     <tr>
       <th class="has-text-right is-uppercase">Contact</th>

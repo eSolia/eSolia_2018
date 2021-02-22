@@ -1,7 +1,7 @@
 ---
 author: eSolia
 authorlink: /about
-date: 2020-09-15T17:59:53+09:00
+date: 2021-02-21T13:50:32+09:00
 publishdate: 2020-09-15T17:59:53+09:00
 description: eSolia Privacy Statement - eSolia Inc's policy regarding the collection and use of information that can personally identify you. 
 draft: false
@@ -24,7 +24,7 @@ images:
 
 ## Privacy Statement
 
-**Updated:** 15 Sept 2020  
+**Updated:** 22 Feb 2021  
   
 This page explains eSolia Inc's policy regarding the collection and use of information that can personally identify you. By using our websites you are signifying you are in agreement with this policy. 
 
@@ -69,7 +69,10 @@ We reserve the right to modify this privacy statement at any time. We will annou
 If you have any questions or concerns regarding this statement, please contact eSolia Inc.:
 
 **eSolia Inc.**  
-Sawa Bldg. 6F  
-Nishi-Shinbashi 2-2-2, Minato-ku, Tokyo 105-0003 Japan  
-Tel: 03-6273-3510 | Fax: 03-3593-3511  
+Shiodome City Center 5F (Work Styling), 1-5-2 Higashi-Shimbashi, <br>
+      Minato-ku, Tokyo, Japan, 105-7105<br>
+    <em>Main:</em> <a href="tel:+813-4577-3380">+813-4577-3380</a><br>
+    <em>teamITMS:</em> <a href="tel:+813-4577-3388">+813-4577-3388</a><br>
+    <em>Urgent Support:</em> <a href="tel:+813-4577-3389">+813-4577-3389</a><br>
+    <em>FAX:</em> +813-4577-3309<br> 
 esolia.com | esolia.co.jp  

@@ -61,14 +61,35 @@
                 <a class="" href="https://pro.dbflex.net/secure/public/db/15331/rss.ashx?view=3461316&user=40863e67a24a41e281eac29548bc68b2">
                 <span class="icon has-text-esolia-yellow-2"><i class="fas fa-rss-square"></i></span>
                 </a>
-                <script src="https://pro.dbflex.net/secure/embed.js"
-        data-url="/ev-3461316/db/15331/view.aspx"></script>
+                <table class="table is-striped is-hoverable is-fullwidth is-bordered is-size-7-mobile is-size-7-tablet is-size-6-desktop">
+                  <tbody>
+                  {{ $urlPre := "https://pro.dbflex.net" }}
+                  {{ $newsE := getJSON $urlPre "/secure/api/v2/15331/25ABDEE3357D416283C0D66B9C872076/Web%20Information/API%20List%20All%20EN/select.json" }}
+                  {{ range $newsE }}
+                     <tr>
+                       <th class="has-text-right" style="white-space: nowrap;">{{ .Date }}</th>
+                       <td>{{ .Description | markdownify }}</td>
+                     </tr>
+                  {{ end }}
+                  </tbody>
+                </table>
+
                 {{- else -}}
                 <a class="" href="https://pro.dbflex.net/secure/public/db/15331/rss.ashx?view=3461317&user=40863e67a24a41e281eac29548bc68b2">
                 <span class="icon has-text-esolia-yellow-2"><i class="fas fa-rss-square"></i></span>
                 </a>
-                <script src="https://pro.dbflex.net/secure/embed.js"
-        data-url="/ev-3461317/db/15331/view.aspx"></script>
+                <table class="table is-striped is-hoverable is-fullwidth is-bordered is-size-7-mobile is-size-7-tablet is-size-6-desktop">
+                  <tbody>
+                  {{ $urlPre := "https://pro.dbflex.net" }}
+                  {{ $newsJ := getJSON $urlPre "/secure/api/v2/15331/25ABDEE3357D416283C0D66B9C872076/Web%20Information/API%20List%20All%20JP/select.json" }}
+                  {{ range $newsJ }}
+                     <tr>
+                       <th class="has-text-right" style="white-space: nowrap;">{{ .DateJP }}</th>
+                       <td>{{ .記事 | markdownify }}</td>
+                     </tr>
+                  {{ end }}
+                  </tbody>
+                </table>
                 {{- end -}}
           </div>
         </div>

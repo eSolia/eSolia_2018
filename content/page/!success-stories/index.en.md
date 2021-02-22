@@ -1,5 +1,5 @@
 ---
-date: 2018-05-31T11:50:53+09:00
+date: 2021-02-21T13:50:32+09:00
 publishdate: 2018-05-31T11:50:53+09:00
 description: About eSolia Success Stories - you can rely on our team to bring your Japan project to a successful conclusion.
 draft: false
@@ -57,7 +57,5 @@ Browse this list of our projects with completion date, and see the selected succ
 <a class="" href="https://pro.dbflex.net/secure/public/db/15331/rss.ashx?view=3456957&user=40863e67a24a41e281eac29548bc68b2">
 <span class="icon has-text-esolia-yellow-2"><i class="fas fa-rss-square"></i></span>
 </a>
-<span id="hideheader" class="has-padding-t-xs">
-<script src="https://pro.dbflex.net/secure/embed.js"
-  data-url="/ev-3456957/db/15331/view.aspx"></script>
-</span>
+{{< listprojen >}}
+
