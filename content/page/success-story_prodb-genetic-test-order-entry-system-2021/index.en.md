@@ -28,9 +28,9 @@ menu:
   main:
     Name: Genetic Test Order Entry System
     Weight: 70
-    Parent: success_index_ja
-    Identifier: successhugosite1_ja
-    Url: /success-story_bilingual-website-built-with-hugo
+    Parent: success_index_en
+    Identifier: successoedb1_en
+    Url: /success-story_prodb-genetic-test-order-entry-system-2021
     Pre: fa-flag-checkered
     Post: Increase Order Accuracy with Automation
   successes:
