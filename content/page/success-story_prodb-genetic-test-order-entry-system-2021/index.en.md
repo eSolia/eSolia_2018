@@ -2,34 +2,36 @@
 author: eSolia
 date: 2021-02-22T14:00:14+09:00
 publishdate: 2021-02-22T14:00:14+09:00
-draft: true
+draft: false
 slug: success-story_prodb-genetic-test-order-entry-system-2021
-title: 検査依頼入力システムの開発
-subtitle: 医療関係事業の為
-description: イソリアから - 遺伝子検査の依頼入力を速く、簡単に
+title: Development of Genetic Test Order Entry System
+subtitle: To Increase Efficiency and Reduce Order Entry Errors
+description: From eSolia - Faster and More Efficient Genetic Test Order Entry
 layout: successes
 alternatelocales:
-  - en-US
+  - ja-JP
 tags:
-  - ウェブ開発
+  - Front-end Web
+  - Back-end Web
   - PROdb
-  - プロジェクトマネジメント
-  - プロマネ
-  - プロジェクト管理
-  - IT技術
+  - Database
+  - SI
+  - PM
+  - Project Management
+  - IT Engineering
 topics:
-  - 成功事例
+  - Success Stories
 images:  
   - /img/eSolia-Chicklet-Color-1024px.png
 formcheckboxes:
-  - ウェブ開発
-gallery_id: 
+  - Web Development
+gallery_id: dummy
 menu:
   main:
     Name: Genetic Test Order Entry System
-    Weight: 70
+    Weight: 7
     Parent: success_index_en
-    Identifier: successoedb1_en
+    Identifier: successorderentrydb_en
     Url: /success-story_prodb-genetic-test-order-entry-system-2021
     Pre: fa-flag-checkered
     Post: Increase Order Accuracy with Automation
@@ -37,8 +39,9 @@ menu:
     Name: Genetic Test Order Entry System
     Identifier: successoedb1_en
     Url: /success-story_prodb-genetic-test-order-entry-system-2021
-    Parent: sucsideindex_ja
+    Parent: sucsideindex_en
     Weight: 70
 ---
 
 {{< showsuccess "505" >}}
+
