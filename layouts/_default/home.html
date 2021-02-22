@@ -244,7 +244,7 @@
                        <th class="has-text-right" style="white-space: nowrap;">{{ .Date }}</th>
                        <td>{{ .Description | markdownify }}</td>
                        <td>{{ with (index . "Client Type") }}{{ . }}{{ end }}</td>
-                       <td>{{ with (index . "Details URL") }}<a href="{{ . }}" class="button is-size-6-mobile is-medium">Details</a>{{ end }}</td>
+                       <td>{{ with (index . "Details URL") }}<a href="{{ . }}" class="button is-danger is-size-6-mobile is-small">Details</a>{{ end }}</td>
                      </tr>
                   {{ end }}
                   </tbody>
@@ -262,7 +262,7 @@
                      <th class="has-text-right" style="white-space: nowrap;">{{ .DateJP }}</th>
                      <td>{{ .記事 | markdownify }}</td>
                      <td>{{ with (index . "顧客タイプ") }}{{ . }}{{ end }}</td>
-                     <td>{{ with (index . "詳細URL") }}<a href="{{ . }}" class="button is-size-6-mobile is-medium">詳細</a>{{ end }}</td>
+                     <td>{{ with (index . "詳細URL") }}<a href="{{ . }}" class="button is-danger is-size-6-mobile is-small">詳細</a>{{ end }}</td>
                    </tr>
                 {{ end }}
                 </tbody>
