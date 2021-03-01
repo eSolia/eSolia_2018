@@ -1,7 +1,7 @@
 ---
 authorkey: enaishikawa
 author: Ena Ishikawa
-date: 2021-03-01T11:00:49+09:00
+date: 2021-03-01T16:30:25+09:00
 publishdate: 2021-03-01T11:00:49+09:00
 description: 電話問題解決の糸口は？
 draft: false
@@ -24,7 +24,7 @@ topics:
 authors:
   - Ena Ishikawa
 images:
-  - /img/eSolia-Post-Telework-01.png
+  - /img/eSolia-Post-Telework-Telephone-Problem-01.png
   - /img/eSolia-Chicklet-Color-1024px.png
 ---
 
