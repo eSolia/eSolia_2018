@@ -1,43 +1,82 @@
 ---
 authorkey: enaishikawa
 author: Ena Ishikawa
-date: 2020-10-14T16:16:49+09:00
-publishdate: 2020-10-14T16:16:49+09:00
-description: Getting an update on the current situation, identifying the actual problems, and also providing clear solutions will improve the efficiency of teleworking.
+date: 2021-03-01T11:00:49+09:00
+publishdate: 2021-03-01T11:00:49+09:00
+description: Where to begin when solving phone related problems
 draft: true
 slug: telework-and-telephone-system-problems
 layout: post
-subtitle: Categorize the problem and proceed from many angles
-postsummary: Getting an update on the current situation, identifying the actual problems, and also providing clear solutions will improve the efficiency of teleworking.
 alternatelocales:
-  - ja-JP
+  - en-US
+title: Problems with Teleworking and calls
+subtitle: Should BYOD policy be implemented?
+description: Where to begin when solving phone related problems
+post summary: First categorize the problems with phones, then move to solving the problems.
+
 tags:
-  - Telework
-  - Teleworking
-  - Telework Guidelines
-  - Work-life balance
-  - Remote work
-  - Home-based teleworkers
-  - At-home work
-  - Subsidies
-  - Grants
-  - Workplace consciousness
-  - Workplace awareness
-title: Telework, why is it not "working" out?
+Legacy PBX
+IP-PBX
+Cloud PBX
+FMC
+BYOD
 topics:
-  - Experience Stories
+  - 
 authors:
   - Ena Ishikawa
 images:
-  - /img/eSolia-Post-Telework-01.png
-  - /img/eSolia-Chicklet-Color-1024px.png
+- /img/eSolia-Post-Telework-01.png
+ - /img/eSolia-Chicklet-Color-1024px.png
+  
 ---
 
 {{< blogbox >}}
+Problems with Teleworking and your Telephone system.... should a BYOD (Bring/use your own device) policy be implemented?
 
-ENGLISH CONTENT
-https://gist.github.com/RickCogley/53202a244447a6f9a46d16d51196a1f0
-BELOW ASK ESOLIA SECTION OK AS IS, BUT MAYBE DIFFERENT LINKS???
+
+After the implementation of teleworking, some companies are realizing that their current phone system has become an obstacle in preventing them from operating smoothly.
+
+For those that implemented teleworking after the State of Emergency Announcement by the Japanese government back in April 2020, most are doing rather well utilizing telecommunication tools such as “MS Teams” or “Zoom” for web meetings, voice chats and text chats, instead of using traditional telephones.
+
+These types of tools work great for communications within the company and with partner companies that you already established good relations with, but there is no guarantee that all of your business partners are equipped with or able to telecommunicate in the same fashion.
+
+Furthermore, for situations like getting emergency requests or reminders from clients, answering quick inquiries, or trying to contact an employee who should have been online but is not, the fact that in these circumstances traditional phone calls are still needed poses quite a problem.
+
+In that sense, no matter how many Web Meeting or Chat Systems are implemented into our work environment, the need for traditional phone calls is still very much a reality. 
+
+For companies that already started teleworking, some employees who did not get a company-assigned cell phone, might start to use their personal phones for work. In the industry, we refer to this practice as BYOD (Bring your own device).  
+
+For the BYOD problems that might occur during Teleworking, let us categorize them.  
+
+* Problems with Privacy
+   * Due to the sudden implementation of Teleworking, companies might have to resort to a BYOD(Bring Your Own Device) policy, although some employees might not feel comfortable using their own smartphones for work.
+   * When the company implements BYOD and uses PBX or IP-PBX to transfer calls, some employees might feel their privacies are being intruded on due to their personal cell phone numbers showing up in those calls.
+* Problems with Cost Management
+   * Problems with cost management like phone bills, due to private calls which will also appear on the same phone bill when BYOD is implemented.
+   * Extra cost due to Call Transferring Fees
+   * Due to planned or limited budget, the company is unwilling to put money into buying more smart phones for employees. 
+* Problems with Operation
+   * When getting a transferred call from the office PBX, the receiver is unable to view the actual caller’s ID & info, due to the fact that the call is being transferred from the office.
+   * Missing a business chance when the receiver missed a call that was call transferred (No call back info).
+* Problem with Security
+   * Due to many applications being installed independently, the problem of privacy and security arrives. There is a possibility that of the many applications being used, some might not be secure and trustworthy enough to protect important corporate information.
+   * Accidently syncing files from work to private cloud services.
+   * Information leakage through private SNS. 
+   * If a MDM which can be used to remotely erase data and block access is not implemented, your company device could be at a higher risk of leaking important information when a device is lost.
+
+So, what are the options available for you to deal with and solve the above problems?
+Depending on the business, everyone’s problems are all different and unique.
+eSolia can help you solve each and everyone of those problems.
+With our experience and knowledge, we will provide you with fast services and fast solutions, so don’t hesitate to give us a try..
+
+Please send your questions and requests here:
+
+https://esolia.co.jp/info-request/
+
+eSolia
+
+<Related Information>
+Legacy PBX, IP-PB, Cloud PBX, FMC, BYOD 
 
 ## Ask eSolia!
 
