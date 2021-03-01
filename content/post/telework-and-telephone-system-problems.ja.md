@@ -30,6 +30,10 @@ images:
 
 {{< blogbox >}}
 
+<figure class="">
+<img class="is-pulled-right has-padding-m" width="400" data-caption="Remote Work Image from Undraw" alt="Remote Work Image from Undraw" src="/img/eSolia-Post-Telework-Telephone-Problem-01.svg" >
+</figure>
+
 いざ、テレワークを導入しても電話の問題がスムーズなオペレーションを阻む障害物となっている企業も有るようです。
 4月の緊急事態宣言以降テレワークを導入した企業では、電話よりもむしろMS Teams / Zoom 等のコミュニケーションツールにて音声通話、Webミーティング、チャット等うまく活用しているかと思います。
 

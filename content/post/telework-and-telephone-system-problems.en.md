@@ -30,6 +30,10 @@ images:
 
 {{< blogbox >}}
 
+<figure class="">
+<img class="is-pulled-right has-padding-m" width="400" data-caption="Remote Work Image from Undraw" alt="Remote Work Image from Undraw" src="/img/eSolia-Post-Telework-Telephone-Problem-01.svg" >
+</figure>
+
 After the implementation of teleworking, some companies are realizing that their current phone system has become an obstacle in preventing them from operating smoothly. For those that implemented teleworking after the State of Emergency Announcement by the Japanese government back in April 2020, most are doing rather well utilizing telecommunication tools such as “MS Teams” or “Zoom” for web meetings, voice chats and text chats, instead of using traditional telephones.
 
 These types of tools work great for communications within the company and with partner companies that you already established good relations with, but there is no guarantee that all of your business partners are equipped with or able to telecommunicate in the same fashion. Furthermore, for situations like getting emergency requests or reminders from clients, answering quick inquiries, or trying to contact an employee who should have been online but is not, the fact that in these circumstances traditional phone calls are still needed poses quite a problem.
