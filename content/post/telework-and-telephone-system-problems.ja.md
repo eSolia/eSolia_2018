@@ -4,7 +4,7 @@ author: Ena Ishikawa
 date: 2021-03-01T11:00:49+09:00
 publishdate: 2021-03-01T11:00:49+09:00
 description: 電話問題解決の糸口は？
-draft: true
+draft: false
 slug: telework-and-telephone-system-problems
 layout: post
 alternatelocales:
@@ -20,19 +20,16 @@ tags:
   - FMC
   - BYOD
 topics:
-  - 
+  - 経験談
 authors:
   - Ena Ishikawa
 images:
 - /img/eSolia-Post-Telework-01.png
 - /img/eSolia-Chicklet-Color-1024px.png
-  
-  
 ---
 
 {{< blogbox >}}
 テレワークでの電話問題。私物活用BYODってどうなの？
-
 
 いざ、テレワークを導入しても電話の問題がスムーズなオペレーションを阻む障害物となっている企業も有るようです。
 4月の緊急事態宣言以降テレワークを導入した企業では、電話よりもむしろMS Teams / Zoom 等のコミュニケーションツールにて音声通話、Webミーティング、チャット等うまく活用しているかと思います。
@@ -69,20 +66,8 @@ images:
    * プライベートなSNSを通じて情報漏洩が発生する
    * 遠隔データ消去、遠隔ロック等に対応するMDMをインストールしていない事により紛失した際のリスクがさらに高まる
 
-
 さて、どのような対処方法、解決方法があるでしょうか？
 企業によって、抱えている問題は様々です。その問題を一つ一つひも解いて解決するお手伝いをさせて頂きます。弊社の経験豊富な知識と迅速なサービスをお試し下さい。
-
-お問い合わせはこちらまで↓
-
-https://esolia.co.jp/info-request/
-
-eSolia
-
-
-<関連情報>
-レガシーPBX, IP-PB, クラウドPBX, FMC, BYOD 
-
 
 ## イソリアにお任せください！
 
