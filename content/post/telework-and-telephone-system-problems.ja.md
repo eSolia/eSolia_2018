@@ -19,6 +19,7 @@ tags:
   - クラウドPBX
   - FMC
   - BYOD
+  - リモート
 topics:
   - 経験談
 authors:
@@ -31,7 +32,7 @@ images:
 {{< blogbox >}}
 
 <figure class="">
-<img class="is-pulled-right has-padding-m" width="400" data-caption="Remote Work Image from Undraw" alt="Remote Work Image from Undraw" src="/img/eSolia-Post-Telework-Telephone-Problem-01.svg" >
+<img class="is-pulled-right has-padding-m" width="400" data-caption="Undraw.coのご提供で、リモートワークに関する画像" alt="Undraw.coのご提供で、リモートワークに関する画像" src="/img/eSolia-Post-Telework-Telephone-Problem-01.svg" >
 </figure>
 
 いざ、テレワークを導入しても電話の問題がスムーズなオペレーションを阻む障害物となっている企業も有るようです。

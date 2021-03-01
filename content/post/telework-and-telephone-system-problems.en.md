@@ -19,6 +19,7 @@ tags:
   - Cloud PBX
   - FMC
   - BYOD
+  - Remote
 topics:
   - experience stories
 authors:
@@ -31,7 +32,7 @@ images:
 {{< blogbox >}}
 
 <figure class="">
-<img class="is-pulled-right has-padding-m" width="400" data-caption="Remote Work Image from Undraw" alt="Remote Work Image from Undraw" src="/img/eSolia-Post-Telework-Telephone-Problem-01.svg" >
+<img class="is-pulled-right has-padding-m" width="400" data-caption="Remote Work Image from Undraw.co" alt="Remote Work Image from Undraw.co" src="/img/eSolia-Post-Telework-Telephone-Problem-01.svg" >
 </figure>
 
 After the implementation of teleworking, some companies are realizing that their current phone system has become an obstacle in preventing them from operating smoothly. For those that implemented teleworking after the State of Emergency Announcement by the Japanese government back in April 2020, most are doing rather well utilizing telecommunication tools such as “MS Teams” or “Zoom” for web meetings, voice chats and text chats, instead of using traditional telephones.
