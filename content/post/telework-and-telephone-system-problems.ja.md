@@ -9,8 +9,8 @@ slug: telework-and-telephone-system-problems
 layout: post
 alternatelocales:
   - en-US
-title: テレワーク、電話問題
-subtitle: BYODってどうなの？
+title: テレワークでの電話問題
+subtitle: 私物活用BYODってどうなの？
 description: 電話問題解決の糸口は？
 postsummary: 問題をカテゴライズ化してから電話の問題は解決する事が重要です。
 tags:
@@ -24,19 +24,16 @@ topics:
 authors:
   - Ena Ishikawa
 images:
-- /img/eSolia-Post-Telework-01.png
-- /img/eSolia-Chicklet-Color-1024px.png
+  - /img/eSolia-Post-Telework-01.png
+  - /img/eSolia-Chicklet-Color-1024px.png
 ---
 
 {{< blogbox >}}
-テレワークでの電話問題。私物活用BYODってどうなの？
 
 いざ、テレワークを導入しても電話の問題がスムーズなオペレーションを阻む障害物となっている企業も有るようです。
 4月の緊急事態宣言以降テレワークを導入した企業では、電話よりもむしろMS Teams / Zoom 等のコミュニケーションツールにて音声通話、Webミーティング、チャット等うまく活用しているかと思います。
 
-
 このようなツールは社内や信頼関係が既に構築されている既存の取引先とのやり取りでは問題なく利用できる事が多いのですが、全ての取引先が柔軟に対応して頂けるとは限りません。
-
 
 また、顧客からの緊急連絡、催促、問い合わせ対応、何故か仕事中なのにオンラインで捕まらない従業員(笑) とのお電話でのやり取り等、まだまだ一定の電話需要があるのも事実で、また厄介な問題です。
 

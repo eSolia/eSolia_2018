@@ -9,8 +9,8 @@ slug: telework-and-telephone-system-problems
 layout: post
 alternatelocales:
   - en-US
-title: Problems with Teleworking and calls
-subtitle: Should BYOD policy be implemented?
+title: Challenges with Teleworking and Regular Phone Calls
+subtitle: Should a BYOD policy be implemented?
 description: Where to begin when solving phone related problems
 post summary: First categorize the problems with phones, then move to solving the problems.
 tags:
