@@ -40,17 +40,17 @@ For companies that already started teleworking, some employees who were not assi
 
 For the BYOD problems that might occur during Teleworking, let us categorize them.  
 
-* Problems with Privacy
+* **Problems with Privacy**
    * Due to the sudden implementation of Teleworking, companies might have to resort to a BYOD policy, although some employees might not feel comfortable using their own smartphones for work.
    * When the company implements BYOD and uses PBX or IP-PBX to transfer calls, some employees might feel their privacy is being invaded due to their personal cell phone numbers showing up in caller id or call logs.
-* Problems with Cost Management
+* **Problems with Cost Management**
    * Problems with cost management like phone bills, due to private calls which will also appear on the same phone bill when BYOD is implemented.
    * Extra cost due to call transfer fees. 
    * Due to planned or limited budget, the company is unwilling to put money into buying more smart phones for employees. 
-* Problems with Operation
+* **Problems with Operation**
    * When getting a transferred call from the office PBX, the receiver is unable to view the actual caller’s ID & info, due to the fact that the call is being transferred from the office.
    * Missing a business chance when the receiver missed a call that was call transferred ("Caller Unknown").
-* Problems with Security
+* **Problems with Security**
    * Due to many applications being installed independently, the problem of privacy and security increases. There is a possibility that of the many applications being used, some might not be secure and trustworthy enough to protect important corporate information.
    * Accidentally syncing files from work to private cloud services.
    * Information leakage through private SNS. 
