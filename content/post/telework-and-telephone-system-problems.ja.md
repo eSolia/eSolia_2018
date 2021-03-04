@@ -3,7 +3,6 @@ authorkey: enaishikawa
 author: Ena Ishikawa
 date: 2021-03-01T16:30:25+09:00
 publishdate: 2021-03-01T11:00:49+09:00
-description: 電話問題解決の糸口は？
 draft: false
 slug: telework-and-telephone-system-problems
 layout: post
