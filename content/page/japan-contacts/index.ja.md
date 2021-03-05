@@ -1,9 +1,9 @@
 ---
 author: イソリア
 authorlink: /about
-date: 2021-01-26T15:40:02+09:00
-publishdate: 2021-01-26T15:12:16+09:00
-description: イソリア 日本に滞在するなら知っておきたい、便利な連絡先一覧表
+date: 2021-03-05T15:00:02+09:00
+publishdate: 2021-03-05T15:00:02+09:00
+description: イソリアスタッフからのおすすめ - 日本に滞在している方へ。知っておきたい、滞在中に便利な緊急連絡先やアプリの一覧表のご案内
 draft: false
 slug: japan-contacts
 title: 緊急時連絡先一覧

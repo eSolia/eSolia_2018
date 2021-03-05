@@ -2,13 +2,11 @@
 author: eSolia
 authorkey: esolia
 date: 2021-02-22T01:27:29+09:00
-publishdate: 2021-02-22T01:27:29+09:00
-description: イソリアより - オフィス移転のお知らせ
+description: イソリアより - オフィス移転のお知らせ　2021年2月22日より汐留エリアに移転することになりましたのでご案内申し上げます。
 draft: false
 slug: 20210222-esolia-office-move-to-shiodome
 layout: post
 subtitle: 虎ノ門から汐留へ
-postsummary: 約１０年間虎ノ門エリアを営業活動の拠点としてまいりましたが、COVID-19の感染拡大に伴うリモートワークの普及により、長期間に渡ってオフィスを使用することはありませんでした。そこで、モダンなシェアオフィスに移転することを決定いたしました。
 alternatelocales:
   - en-US
 tags:
