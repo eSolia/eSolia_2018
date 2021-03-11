@@ -1,12 +1,11 @@
 ---
 author: eSolia
-date: 2021-02-22T14:00:14+09:00
-publishdate: 2021-02-22T14:00:14+09:00
+date: 2022-03-05T14:00:14+09:00
 draft: false
 slug: success-story_prodb-genetic-test-order-entry-system-2021
 title: 遺伝子検査の依頼入力システム
 subtitle: 医療関係事業の為
-description: イソリアから - 遺伝子検査の依頼入力を速く、簡単に
+description: イソリアより - プロジェクト管理の提供、および遺伝子検査会社の検査入力依頼システムの設計・開発プロジェクトを成功させました。
 layout: successes
 alternatelocales:
   - en-US
