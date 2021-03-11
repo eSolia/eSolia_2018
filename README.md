@@ -6,7 +6,7 @@ Circle CI Status: [![CircleCI](https://circleci.com/gh/RickCogley/eSolia_2018.sv
 
 ## Latest iteration
 
-As they say, we "[stand on the shoulders of giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants "Wikipedia article about etymology of standing on the shoulders of giants")", and this site is certainly no exception.
+As they say, we "[stand on the shoulders of giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants "Wikipedia article about etymology of standing on the shoulders of giants")", and our site is no exception.
 
 This iteration can be summarized as follows: 
 
