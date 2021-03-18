@@ -2,7 +2,6 @@
 author: eSolia
 authorkey: esolia
 date: 2019-07-07T00:00:27+09:00
-publishdate: 2019-07-07T00:00:27+09:00
 description: 20th Anniversary Announcement and New Website for eSolia Inc.
 draft: false
 slug: 20th-anniversary

@@ -2,7 +2,6 @@
 author: eSolia
 authorkey: esolia
 date: 2016-07-07T08:45:15+09:00
-publishdate: 2016-07-07T08:45:15+09:00
 description: イソリアより - 17周年、創立記念日のお知らせ。
 draft: false
 slug: 17th-anniversary

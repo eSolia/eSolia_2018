@@ -1,7 +1,6 @@
 ---
 author: eSolia
 date: 2021-01-20T08:54:41+09:00
-publishdate: 2018-05-06T07:07:27+09:00
 description: Why eSolia - information about our mandate, value, process, practices and tools.
 draft: false
 slug: why-esolia

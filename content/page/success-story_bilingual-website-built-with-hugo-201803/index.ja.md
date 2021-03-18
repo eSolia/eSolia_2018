@@ -1,7 +1,6 @@
 ---
 author: eSolia
 date: 2018-05-21T14:50:14+09:00
-publishdate: 2018-05-21T14:50:14+09:00
 draft: false
 slug: success-story_bilingual-website-built-with-hugo
 title: モダン且つモバイルファーストウェブサイト

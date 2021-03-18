@@ -1,7 +1,6 @@
 ---
 author: イソリア
 date: 2021-01-20T08:54:41+09:00
-publishdate: 2012-01-10T00:05:19.000Z
 description: 何故イソリアか - 弊社の使命、価値、プロセス、活動、ツールなどについて
 draft: false
 slug: why-esolia

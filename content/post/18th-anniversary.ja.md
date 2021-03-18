@@ -2,7 +2,6 @@
 author: eSolia
 authorkey: esolia
 date: 2017-07-07T08:45:15+09:00
-publishdate: 2017-07-07T08:45:15+09:00
 description: イソリアより - 創立記念日と新ウェブサイトのお知らせ。
 draft: false
 slug: 18th-anniversary
