@@ -5,7 +5,7 @@ draft: false
 title: IT関連品の廃棄処理
 slug: disposal-and-recycling
 subtitle: PC/サーバ類を廃棄するには
-description: 様々なIT機器の廃棄処理もイソリアにお任せを。古くなったPC、モニタ、サーバ類など多種多様のITアセットの廃棄処理をします。
+description: 様々なIT機器の廃棄 、 リサイクル も イソリア にお任せください。古くなったパソコン、モニタ、サーバ類など多種多様のITアセットの廃棄処理をします。
 weight: 30
 layout: services
 alternatelocales:

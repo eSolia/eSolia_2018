@@ -1,6 +1,6 @@
 ---
 date: 2021-01-20T00:05:19.000Z
-description: システム、プロジェクト、他国語チャレンジに、イソリアソリューションで対応
+description: システム、プロジェクト、他国語へのチャレンジに、イソリアのソリューションで対応
 draft: false
 slug: solutions
 subtitle: お客様のお悩みに、即対応
