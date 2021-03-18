@@ -1,6 +1,5 @@
 ---
 date: 2021-01-20T00:05:19.000Z
-publishdate: 2021-01-20T00:05:19.000Z
 description: システム、プロジェクト、他国語チャレンジに、イソリアソリューションで対応
 draft: false
 slug: solutions

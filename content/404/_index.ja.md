@@ -1,7 +1,6 @@
 ---
 author: イソリア
 date: 2021-02-04T07:07:27+09:00
-publishdate: 2021-02-04T07:07:27+09:00
 description: イソリア 404 ページが見つかりません - 全コンテンツのリンクを一つのページに
 draft: false
 noindex: true

@@ -1,6 +1,5 @@
 ---
 date: 2021-02-21T13:50:32+09:00
-publishdate: 2018-05-31T11:50:53+09:00
 description: About eSolia Success Stories - you can rely on our team to bring your Japan project to a successful conclusion.
 draft: false
 slug: success-stories
