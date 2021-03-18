@@ -1,7 +1,6 @@
 ---
 author: イソリア
 date: 2021-01-12T10:40:21+09:00
-publishdate: 2021-01-12T07:07:27+09:00
 draft: false
 title: プロセス管理
 slug: process

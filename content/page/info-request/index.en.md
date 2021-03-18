@@ -1,7 +1,6 @@
 ---
 author: eSolia
 date: 2018-06-15T10:15:29+09:00
-publishdate: 2018-06-15T10:15:29+09:00
 description: eSolia Information Request - prospective clients can request more information about us on this page.
 draft: false
 slug: info-request

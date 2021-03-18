@@ -1,7 +1,6 @@
 ---
 author: eSolia
 date: 2018-05-26T15:20:27+09:00
-publishdate: 2018-05-26T15:20:27+09:00
 description: Message from eSolia - a video letter from team eSolia to you.
 draft: false
 slug: message-from-esolia

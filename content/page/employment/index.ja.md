@@ -1,7 +1,6 @@
 ---
 author: イソリア
 date: 2020-12-14T10:00:27+09:00
-publishdate: 2020-12-14T10:00:27+09:00
 description: イソリア採用情報 - 当社では、同じ目的意識をもって歩んでいける人材を求めています。ぜひお問い合わせください。
 draft: false
 slug: employment

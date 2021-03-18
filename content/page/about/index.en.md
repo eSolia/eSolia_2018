@@ -1,7 +1,6 @@
 ---
 author: eSolia
 date: 2021-02-21T13:50:32+09:00
-publishdate: 2018-06-14T11:26:10+09:00
 description: About eSolia - vision, general information such as HQ address, contact information, map, directors, and lines of business.
 draft: false
 slug: about

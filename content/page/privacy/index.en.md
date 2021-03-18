@@ -2,7 +2,6 @@
 author: eSolia
 authorlink: /about
 date: 2021-02-21T13:50:32+09:00
-publishdate: 2020-09-15T17:59:53+09:00
 description: eSolia Privacy Statement - eSolia Inc's policy regarding the collection and use of information that can personally identify you. 
 draft: false
 slug: privacy

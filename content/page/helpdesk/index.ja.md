@@ -1,7 +1,6 @@
 ---
 author: イソリア
 date: 2020-12-14T07:07:27+09:00
-publishdate: 2020-12-14T07:07:27+09:00
 draft: false
 title: ヘルプデスク
 slug: helpdesk
