@@ -8,7 +8,6 @@ draft: false
 slug: 17th-anniversary
 layout: post
 subtitle: 17 Years already on 7 July 2016!
-postsummary: Join eSolia in celebrating our 17th anniversary on 7th July 2016.
 alternatelocales:
   - ja-JP
 tags:

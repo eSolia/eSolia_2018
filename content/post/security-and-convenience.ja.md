@@ -2,13 +2,11 @@
 authorkey: esolia
 author: イソリア
 date: 2015-07-07T14:46:15+09:00
-publishdate: 2015-07-06T08:46:15+09:00
 description: イソリアからのブログポスト、セキュリティと利便性
 draft: false
 slug: security-and-convenience
 layout: post
 subtitle: 割合を見極める
-postsummary: 近年さまざまなクラウド化が進み、いつでもどこでも仕事ができる環境が増えている。いつの時代も利便性は常にセキュリティと相反し、一方を高めれば一方に影響が出るものだ。今後クラウドサービスを検討するにあたりＩＴはどのような判断をしていく必要があるだろうか。
 alternatelocales:
   - en-US
 tags:

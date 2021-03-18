@@ -2,14 +2,12 @@
 authorkey: rickcogley
 author: Rick Cogley
 date: 2018-05-01T07:07:27+09:00
-publishdate: 2018-05-01T07:07:27+09:00
 description: Why eSolia chose the static site generator Hugo - a blog post from eSolia Inc.
 draft: false
 slug: why-did-esolia-choose-hugo
 layout: post
 title: Why Did eSolia Choose Hugo?
 subtitle: A static site generator optimized for performance
-postsummary: eSolia has used various systems to generate and publish our websites over the years, but recently settled on and re-built our sites using the static site generator "Hugo". Hugo is not only easy to use, and fast when building our sites, but also is available as a single, easy-to-install binary file for Mac, Linux and Windows.
 alternatelocales:
   - ja-JP
 tags:

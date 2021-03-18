@@ -2,14 +2,12 @@
 author: eSolia
 authorkey: esolia
 date: 2018-09-14T15:03:31+09:00
-publishdate: 2018-09-11T12:52:31+09:00
 draft: false
 slug: how-to-use-vcards
 layout: post
 title: vCardの使用方法
 subtitle: 連絡先情報を素早くアドレス帳に追加する方法
 description: vCardをアドレス帳に読み込み方法 - eSolia Inc.ブログ記事
-postsummary: vCardは簡単に連絡先情報を交換できる電子名刺です。
 alternatelocales:
   - en-US
 tags:

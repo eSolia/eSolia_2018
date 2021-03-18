@@ -8,7 +8,6 @@ draft: false
 slug: 19th-anniversary
 layout: post
 subtitle: 創立記念日のご挨拶、お陰様で間もなく20周年！
-postsummary: 株式会社イソリアは平成30年7月7日をもちまして創立19周年を迎える事となりました。当社サービス内容などより一層の内容充実に努めてまいりますので、今後ともどうぞよろしくお願い申し上げます。
 alternatelocales:
   - en-US
 tags:

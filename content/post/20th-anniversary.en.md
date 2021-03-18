@@ -8,7 +8,6 @@ draft: false
 slug: 20th-anniversary
 layout: post
 subtitle: With a little help from our friends, we are 20!
-postsummary: Join eSolia in celebrating our 20th anniversary on 7th July 2019.
 alternatelocales:
   - ja-JP
 tags:

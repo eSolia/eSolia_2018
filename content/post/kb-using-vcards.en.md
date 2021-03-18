@@ -2,14 +2,12 @@
 author: eSolia
 authorkey: esolia
 date: 2018-09-14T15:03:31+09:00
-publishdate: 2018-09-10T18:01:13+09:00
 draft: false
 slug: how-to-use-vcards
 layout: post
 title: Using vCards
 subtitle: to rapidly add contact information to your address book
 description: How to import a vCard into your Address Book - a blog post from eSolia Inc.
-postsummary: vCards are electronic business cards that allow people to exchange contact information easily.
 alternatelocales:
   - ja-JP
 tags:

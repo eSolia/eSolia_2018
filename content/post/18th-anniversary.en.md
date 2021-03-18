@@ -8,7 +8,6 @@ draft: false
 slug: 18th-anniversary
 layout: post
 subtitle: 18 Years young!
-postsummary: Join eSolia in celebrating our 18th anniversary on 7th July 2017.
 alternatelocales:
   - ja-JP
 tags:

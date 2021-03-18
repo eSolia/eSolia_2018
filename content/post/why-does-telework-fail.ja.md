@@ -2,13 +2,11 @@
 authorkey: enaishikawa
 author: Ena Ishikawa
 date: 2020-10-14T16:16:49+09:00
-publishdate: 2020-10-14T16:16:49+09:00
 description: 現状のヒアリング、課題の明確化、洗い出しを行った上で効率的なテレワークの実現が可能となります。
 draft: false
 slug: why-does-telework-fail
 layout: post
 subtitle: 多角的に進めよう
-postsummary: 現状のヒアリング、課題の明確化、洗い出しを行った上で効率的なテレワークの実現が可能となります。
 alternatelocales:
   - en-US
 tags:

@@ -2,14 +2,12 @@
 author: Hidekazu Maezono
 authorkey: hidekazumaezono
 date: 2018-02-06T07:07:27+09:00
-publishdate: 2018-02-06T07:07:27+09:00
 draft: false
 slug: bill-shock-is-never-funny
 layout: post
 title: 笑えないパケ死
 subtitle: データローミングについて
 description: イソリアからのブログポスト、笑えないパケ死、データローミングについて
-postsummary: 御社では海外での利用についてもユーザへ正しく周知はされておりますか。海外出張時にはデータローミング機能に気をつけるのが必須です。
 alternatelocales:
   - en-US
 tags:

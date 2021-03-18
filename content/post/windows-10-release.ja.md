@@ -2,13 +2,11 @@
 authorkey: esolia
 author: イソリア
 date: 2015-07-21T14:00:15+09:00
-publishdate: 2015-07-21T14:00:15+09:00
 description: イソリアからのブログポスト、Windows 10 リリース
 draft: false
 slug: windows-10-release
 layout: post
 subtitle: 2015年7月29日についに配布が開始される
-postsummary: 2015年7月29日についにWindows 10の配布が開始される。既に多くのメディアで紹介されている通り、MicrosoftはWindows 10を最後のOSとすると発表している。今後はMacOSなどと同じように、無料でのパッチという形で更新されると思われる。
 alternatelocales:
   - en-US
 tags:

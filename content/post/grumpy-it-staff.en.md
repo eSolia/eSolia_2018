@@ -2,14 +2,12 @@
 authorkey: enaishikawa
 author: Ena Ishikawa
 date: 2015-10-09T15:30:15+09:00
-publishdate: 2015-10-09T15:30:15+09:00
 draft: false
 slug: risks-with-grumpy-it-staff
 layout: post
 title: Risks of Grumpy IT Staffers
 subtitle: Should you outsource your IT?
 description: Got grumpy IT staffers? Should you outsource? - a blog post from eSolia Inc.
-postsummary: With less than 200 employees, companies might benefit from outsourcing their IT operations to an expert team like eSolia.
 alternatelocales:
   - ja-JP
 tags:

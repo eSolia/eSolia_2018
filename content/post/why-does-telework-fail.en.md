@@ -2,13 +2,11 @@
 authorkey: enaishikawa
 author: Ena Ishikawa
 date: 2020-10-14T16:16:49+09:00
-publishdate: 2020-10-14T16:16:49+09:00
 description: Getting an update on the current situation, identifying the actual problems, and also providing clear solutions will improve the efficiency of teleworking.
 draft: false
 slug: why-does-telework-fail
 layout: post
 subtitle: Categorize the problem and proceed from many angles
-postsummary: Getting an update on the current situation, identifying the actual problems, and also providing clear solutions will improve the efficiency of teleworking.
 alternatelocales:
   - ja-JP
 tags:

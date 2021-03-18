@@ -2,14 +2,12 @@
 authorkey: rickcogley
 author: Rick Cogley
 date: 2018-05-01T07:07:27+09:00
-publishdate: 2018-05-01T07:07:27+09:00
 description: イソリアからのブログポスト、イソリアが何故Hugoと言うサイトジェネレーターを選択したのか。
 draft: false
 slug: why-did-esolia-choose-hugo
 layout: post
 title: 何故Hugoを選択したのか?
 subtitle: パフォーマンスを重視した静的サイトジェネレータ
-postsummary: かつてイソリアは様々なシステムを利用してウェブサイトの作製と公開を行ってきたが、最新のウェブサイト再構築プロジェクトに静的サイトゲネレーターHugoを選択した。ヒューゴは使いやすく、早いでけでなく、Mac、Windows、Linuxへのインストールと管理が容易である。
 alternatelocales:
   - en-US
 tags:
