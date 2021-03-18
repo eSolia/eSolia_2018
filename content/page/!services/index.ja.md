@@ -1,6 +1,6 @@
 ---
 date: 2020-12-14T00:05:19.000Z
-description: 株式会社イソリアのサービス ： Our Solutions to Meet Your Multi-cultural, Project or System Challenges
+description: 株式会社イソリアのサービス ： 多文化、プロジェクト、またはシステムの課題に対応するためのソリューション
 draft: false
 slug: services
 subtitle: 貴社の課題に対するソリューション
