@@ -5,7 +5,7 @@ draft: false
 slug: success-story_bilingual-website-built-with-hugo
 title: モダン且つモバイルファーストウェブサイト
 subtitle: 学会協議会の為
-description: イソリアから - 学会協議会の為、ウェブ開発とプロジェクトマネジメントを実施し、バイリンガル且つモバイルフレンドリーなウェブサイトを立ち上げた。
+description: イソリアから - 学会協議会の為、ウェブ開発とプロジェクトマネジメントを実施し、バイリンガルかつスマホ表示でも見やすいサイトを立ち上げました。
 layout: successes
 alternatelocales:
   - en-US

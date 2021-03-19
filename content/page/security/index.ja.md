@@ -5,7 +5,7 @@ draft: false
 title: セキュリティ
 slug: security
 subtitle: セキュリティ強化、ITコンプライアンス確立、リスク回避で安心
-description: イソリアより - コンプライアンスやセキュリティの信頼性監査、強固なセキュリティをソフト＆ハードにて実装。システムも心もセキュアに。
+description: イソリアより - ITコンプライアンスやセキュリティの信頼性を確立、強固なセキュリティをソフト＆ハードにて実装。
 weight: 50
 layout: services
 alternatelocales:
