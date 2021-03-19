@@ -5,7 +5,7 @@ draft: false
 title: 日本の全国瞬時警報システム J-ALERT
 slug: japan-emergency-broadcast-system-j-alert
 subtitle: 自然災害発生などの緊急情報を速やかに国民へ
-description: イソリアから - 全国瞬時警報システムについて
+description: イソリアから - 全国瞬時警報システムについてご説明いたします。
 weight: 30
 layout: about
 alternatelocales:

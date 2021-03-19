@@ -5,7 +5,7 @@ draft: false
 title: マネージメント
 slug: management
 subtitle: 多様なITプロジェクトにバイリンガルなサポートを
-description: イソリア マネージメント - 多種多様なプロジェクトを多方面、多言語でのサポートを実現
+description: イソリア マネージメント - 多種多様なプロジェクトに対し、多方面・多言語でのサポートを実現しています。
 weight: 10
 layout: services
 alternatelocales:
