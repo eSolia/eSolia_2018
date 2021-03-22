@@ -1,6 +1,6 @@
 ---
 author: イソリア
-date: 2021-01-26T10:57:44+09:00
+date: 2021-03-22T08:54:41+09:00
 draft: false
 title: 日本の全国瞬時警報システム J-ALERT
 slug: japan-emergency-broadcast-system-j-alert

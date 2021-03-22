@@ -1,6 +1,6 @@
 ---
 author: イソリア
-date: 2021-02-02T11:36:53+09:00
+date: 2021-03-22T08:54:41+09:00
 draft: false
 title: ビル定期停電のIT管理
 slug: planned-power-outage-it-management
