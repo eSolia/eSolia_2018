@@ -1,7 +1,6 @@
 ---
 author: eSolia
 date: 2021-01-14T09:40:16+09:00
-publishdate: 2021-01-14T09:40:16+09:00
 description: eSolia PROdb Support Request - clients can request support for PROdb via this page.
 draft: false
 slug: prodb-support

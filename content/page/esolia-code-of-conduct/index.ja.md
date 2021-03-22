@@ -1,7 +1,6 @@
 ---
 author: イソリア
 date: 2021-01-26T07:07:27+09:00
-publishdate: 2021-01-26T07:07:27+09:00
 description: イソリアの行動規範 -質の高いパフォーマンスを提供しお客様との信頼関係を促進する為の行動規範を定めています。
 draft: false
 slug: esolia-code-of-conduct

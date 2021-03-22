@@ -1,7 +1,6 @@
 ---
 author: イソリア
 date: 2021-01-12T18:02:34+09:00
-publishdate: 2021-01-12T07:07:27+09:00
 draft: false
 title: 日本に来たばかりの方へ
 subtitle: 自宅パソコンシステム購入や設定サポート

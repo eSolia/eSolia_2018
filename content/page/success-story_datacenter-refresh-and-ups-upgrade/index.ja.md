@@ -1,7 +1,6 @@
 ---
 author: イソリア
 date: 2021-02-04T07:07:27+09:00
-publishdate: 2021-02-04T07:07:27+09:00
 draft: false
 slug: success-story_datacenter-refresh-and-ups-upgrade
 title: データーセンター刷新及びUPSアップグレード

@@ -2,7 +2,6 @@
 author: イソリア
 authorlink: /about
 date: 2021-02-21T13:50:32+09:00
-publishdate: 2020-09-29T09:56:09+09:00
 description: イソリアPROdb利用規約 ― PROdbクラウド型データベースの利用に関する規則
 draft: false
 slug: prodb-tos

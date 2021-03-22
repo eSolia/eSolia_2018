@@ -1,7 +1,6 @@
 ---
 author: イソリア
 date: 2021-02-21T13:50:32+09:00
-publishdate: 2018-05-06T07:07:27+09:00
 description: イソリアのサイトマップ - 全コンテンツのリンクを一つのページに
 draft: false
 slug: sitemap

@@ -1,6 +1,5 @@
 ---
 date: 2021-01-20T07:07:27+09:00
-publishdate: 2021-01-20T07:07:27+09:00
 description: お問い合わせ、ありがとうございました - 株式会社イソリア
 draft: false
 noindex: true

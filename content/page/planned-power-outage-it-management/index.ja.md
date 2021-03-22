@@ -1,12 +1,11 @@
 ---
 author: イソリア
-date: 2021-02-02T11:36:53+09:00
-publishdate: 2021-02-02T11:36:53+09:00
+date: 2021-03-22T08:54:41+09:00
 draft: false
 title: ビル定期停電のIT管理
 slug: planned-power-outage-it-management
 subtitle: ITスキル及び緊急対応経験が必須
-description: 消防検査及びビル全館停電中におけるIT管理
+description: イソリアのマネジメント - 消防検査及びビル全館停電中におけるIT管理
 weight: 30
 layout: services
 alternatelocales:

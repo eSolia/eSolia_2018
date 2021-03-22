@@ -1,7 +1,6 @@
 ---
 author: eSolia
 date: 2018-05-21T14:30:37+09:00
-publishdate: 2018-05-21T14:30:37+09:00
 draft: false
 slug: success-story_bilingual-website-built-with-hugo
 title: Modern, Mobile-First Website

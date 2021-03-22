@@ -1,7 +1,6 @@
 ---
 author: eSolia
 date: 2018-06-07T19:01:45+09:00
-publishdate: 2018-06-07T19:01:45+09:00
 draft: false
 title: IT Management for Planned Power Outages
 slug: planned-power-outage-it-management

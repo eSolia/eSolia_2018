@@ -1,7 +1,6 @@
 ---
 author: イソリア
 date: 2021-01-14T09:40:16+09:00
-publishdate: 2021-01-14T09:40:16+09:00
 description: イソリア PROdb サポート依頼 - ユーザーの皆様は当ページからサポートをご依頼できます
 draft: false
 slug: prodb-support

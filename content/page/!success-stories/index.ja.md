@@ -1,6 +1,5 @@
 ---
 date: 2021-02-21T13:50:32+09:00
-publishdate: 2020-12-11T13:00:00+09:00
 description: イソリアの成功事例について - プロジェクトを成功させるためにぜひイソリアにお任せください
 draft: false
 slug: success-stories

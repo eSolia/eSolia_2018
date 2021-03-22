@@ -2,13 +2,11 @@
 author: Rick Cogley
 authorkey: rickcogley
 date: 2020-05-28T16:35:50+09:00
-publishdate: 2020-05-28T16:35:50+09:00
 description: COVID-19 緊急事態宣言後のイソリアのサポート対応、その２
 draft: false
 slug: covid-19-state-of-emergency-2
 layout: post
 subtitle: イソリアはどのようにサポートを行い続きますか
-postsummary: COVID-19 緊急事態宣言後のイソリアのサポート対応はどうなるか
 alternatelocales:
   - en-US
 tags:

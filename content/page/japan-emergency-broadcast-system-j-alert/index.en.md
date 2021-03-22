@@ -1,7 +1,6 @@
 ---
 author: eSolia
 date: 2018-09-12T10:57:44+09:00
-publishdate: 2018-09-12T10:57:44+09:00
 draft: false
 title: Japan J-ALERT Emergency Broadcast System
 slug: japan-emergency-broadcast-system-j-alert

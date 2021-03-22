@@ -2,13 +2,11 @@
 author: Rick Cogley
 authorkey: rickcogley
 date: 2020-05-28T16:35:50+09:00
-publishdate: 2020-05-28T16:35:50+09:00
 description: eSolia Response during the COVID-19 State of Emergency, Continued
 draft: false
 slug: covid-19-state-of-emergency-2
 layout: post
 subtitle: How is eSolia continuing to handle support during COVID?
-postsummary: How eSolia is continuing to handle your support during the COVID-19 state of emergency.
 alternatelocales:
   - ja-JP
 tags:

@@ -1,7 +1,6 @@
 ---
 author: eSolia
 date: 2021-01-03T18:02:34+09:00
-publishdate: 2018-05-06T07:07:27+09:00
 draft: false
 title: Home Computer Setup
 slug: japan-expat-home-setup

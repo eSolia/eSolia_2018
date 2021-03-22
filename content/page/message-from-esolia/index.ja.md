@@ -1,7 +1,6 @@
 ---
 author: イソリア
 date: 2021-02-01T15:20:27+09:00
-publishdate: 2021-02-01T15:20:27+09:00
 description: イソリアから - 当ウェブサイトへお越しいただいた皆様へのメッセージ、ビデオ紹介
 draft: false
 slug: message-from-esolia

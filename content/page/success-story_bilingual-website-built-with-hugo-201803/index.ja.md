@@ -1,12 +1,11 @@
 ---
 author: eSolia
-date: 2018-05-21T14:50:14+09:00
-publishdate: 2018-05-21T14:50:14+09:00
+date: 2021-03-22T08:54:41+09:00
 draft: false
 slug: success-story_bilingual-website-built-with-hugo
 title: モダン且つモバイルファーストウェブサイト
 subtitle: 学会協議会の為
-description: イソリアから - 学会協議会の為、ウェブ開発とプロジェクトマネジメントを実施し、バイリンガル且つモバイルフレンドリーなウェブサイトを立ち上げた。
+description: イソリアから - 学会協議会の為、ウェブ開発とプロジェクトマネジメントを実施し、バイリンガルかつスマホ表示でも見やすいサイトを立ち上げました。
 layout: successes
 alternatelocales:
   - en-US

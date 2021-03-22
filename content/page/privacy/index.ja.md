@@ -2,7 +2,6 @@
 author: イソリア
 authorlink: /about
 date: 2021-02-21T13:50:32+09:00
-publishdate: 2020-09-28T17:01:51+09:00
 description: イソリア・プライバシーポリシー - お客様の個人識別が可能な情報の収集および使用に関する株式会社イソリアのポリシー 
 draft: false
 slug: privacy

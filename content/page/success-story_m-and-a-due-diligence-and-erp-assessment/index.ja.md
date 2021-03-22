@@ -1,7 +1,6 @@
 ---
 author: イソリア
 date: 2021-02-04T07:07:27+09:00
-publishdate: 2021-02-04T07:07:27+09:00
 draft: false
 slug: success-story_m-and-a-due-diligence-and-erp-assessment
 title: アメリカ市場参入における企業買収段階のITデューデリジェンス

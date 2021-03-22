@@ -1,7 +1,6 @@
 ---
 author: イソリア
 date: 2021-01-20T08:54:41+09:00
-publishdate: 2020-09-15T19:57:37+09:00
 draft: false
 title: PROdbクラウド型データベース
 slug: prodb

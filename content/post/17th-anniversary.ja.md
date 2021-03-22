@@ -2,13 +2,11 @@
 author: eSolia
 authorkey: esolia
 date: 2016-07-07T08:45:15+09:00
-publishdate: 2016-07-07T08:45:15+09:00
 description: イソリアより - 17周年、創立記念日のお知らせ。
 draft: false
 slug: 17th-anniversary
 layout: post
 subtitle: 17周年、創立記念日のご挨拶
-postsummary: 株式会社イソリアは平成２８年７月７日をもちまして創立17周年を迎える事となりました。当社サービス内容などより一層の内容充実に努めてまいりますので、今後ともどうぞよろしくお願い申し上げます。
 alternatelocales:
   - en-US
 tags:

@@ -2,13 +2,11 @@
 author: eSolia
 authorkey: esolia
 date: 2016-07-07T08:45:15+09:00
-publishdate: 2016-07-07T08:45:15+09:00
 description: 17th Anniversary Announcement from eSolia Inc.
 draft: false
 slug: 17th-anniversary
 layout: post
 subtitle: 17 Years already on 7 July 2016!
-postsummary: Join eSolia in celebrating our 17th anniversary on 7th July 2016.
 alternatelocales:
   - ja-JP
 tags:

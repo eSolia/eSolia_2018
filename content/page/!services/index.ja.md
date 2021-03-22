@@ -1,7 +1,6 @@
 ---
-date: 2020-12-14T00:05:19.000Z
-publishdate: 2012-12-14T00:05:19.000Z
-description: 株式会社イソリアのサービス ： Our Solutions to Meet Your Multi-cultural, Project or System Challenges
+date: 2021-03-22T08:54:41+09:00
+description: イソリアは、バイリンガルなスタッフで多様な文化にも対応。培ってきたスキルや経験から、貴社の課題を解決します。
 draft: false
 slug: services
 subtitle: 貴社の課題に対するソリューション

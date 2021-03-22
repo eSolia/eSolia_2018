@@ -1,6 +1,5 @@
 ---
 date: 2018-05-06T07:07:27+09:00
-publishdate: 2018-05-06T07:07:27+09:00
 description: eSolia Outsourcing for Japan IT - five steps to success - Agree, Discover, Plan, Implement and Maintain - to be completed for a successful engagement.
 draft: false
 slug: outsourcing

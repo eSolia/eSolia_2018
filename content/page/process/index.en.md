@@ -1,7 +1,6 @@
 ---
 author: eSolia
 date: 2018-09-16T10:40:21+09:00
-publishdate: 2018-05-06T07:07:27+09:00
 draft: false
 title: Process Management
 slug: process

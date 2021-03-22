@@ -1,7 +1,6 @@
 ---
 author: イソリア
 date: 2020-12-15T10:00:27+09:00
-publishdate: 2020-12-15T10:00:27+09:00
 draft: false
 title: 効果的なトレーニング
 titlewbr: 効果的なトレーニング

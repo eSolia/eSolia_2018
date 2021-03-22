@@ -1,7 +1,6 @@
 ---
 author: eSolia
 date: 2021-02-01T07:07:27+09:00
-publishdate: 2021-02-01T07:07:27+09:00
 description: イソリアのマネージメント チーム - CEO ジェームズ R. コグレー、COO 福岡 琢巳
 draft: false
 slug: management-team

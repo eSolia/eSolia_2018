@@ -1,6 +1,5 @@
 ---
 date: 2018-05-06T07:07:27+09:00
-publishdate: 2018-05-06T07:07:27+09:00
 description: About eSolia - we build and leverage strong foundations, so that your company can meet its business commitments.
 draft: false
 slug: about-us

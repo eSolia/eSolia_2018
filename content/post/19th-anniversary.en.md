@@ -2,13 +2,11 @@
 author: eSolia
 authorkey: esolia
 date: 2018-07-07T00:00:27+09:00
-publishdate: 2018-07-07T00:00:27+09:00
 description: 19th Anniversary Announcement and New Website for eSolia Inc.
 draft: false
 slug: 19th-anniversary
 layout: post
 subtitle: Nineteen means, we're almost 20!
-postsummary: Join eSolia in celebrating our 19th anniversary on 7th July 2018.
 alternatelocales:
   - ja-JP
 tags:

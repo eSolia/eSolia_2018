@@ -2,14 +2,12 @@
 authorkey: enaishikawa
 author: Ena Ishikawa
 date: 2015-10-09T15:30:15+09:00
-publishdate: 2015-10-09T15:30:15+09:00
 draft: false
 slug: risks-with-grumpy-it-staff
 layout: post
 title: 不機嫌なIT担当のリスク
 subtitle: アウトソースを考えてみるべき？
 description: イソリアからのブログポスト、不機嫌なIT担当、アウトソースを考えてみるべき？
-postsummary: 従業員200名以下であれば、ITはアウトソースした方が効率的の場合があります。
 alternatelocales:
   - en-US
 tags:

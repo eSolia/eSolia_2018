@@ -10,7 +10,6 @@ layout: post
 title: This is the Title
 subtitle: and this is the subtitle
 description: イソリアからのブログポスト、One or two sentence description.
-postsummary: This is the summary seen on the top page of the site, describing the post.
 alternatelocales:
   - en-US
 tags:

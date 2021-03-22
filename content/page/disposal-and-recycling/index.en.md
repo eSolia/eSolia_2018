@@ -1,7 +1,6 @@
 ---
 author: eSolia
 date: 2018-09-16T10:35:31+09:00
-publishdate: 2018-09-16T10:35:31+09:00
 draft: false
 title: IT Disposal and Recycling
 slug: disposal-and-recycling

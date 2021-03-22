@@ -1,6 +1,5 @@
 ---
 date: 2018-05-06T07:07:27+09:00
-publishdate: 2018-05-06T07:07:27+09:00
 description: 株式会社イソリアのアウトソーシング - 成功に導く五つのステップ - 契約締結、ディスカバリー、計画、実行、管理
 draft: false
 slug: outsourcing

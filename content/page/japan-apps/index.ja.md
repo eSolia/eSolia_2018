@@ -2,7 +2,6 @@
 author: イソリア
 authorlink: /about
 date: 2021-01-26T14:30:03+09:00
-publishdate: 2021-01-26T14:30:02+09:00
 description: イソリア 日本に滞在するなら知っておきたい、便利なアプリ一覧表
 draft: false
 slug: japan-apps

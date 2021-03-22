@@ -1,7 +1,6 @@
 ---
 author: eSolia
 date: 2019-07-22T09:46:43+09:00
-publishdate: 2019-07-22T09:46:43+09:00
 draft: false
 slug: success-story_future-proof-documents
 title: データベースからドキュメントを抽出

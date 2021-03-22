@@ -2,13 +2,11 @@
 author: eSolia
 authorkey: esolia
 date: 2021-02-22T01:27:29+09:00
-publishdate: 2021-02-22T01:27:29+09:00
 description: Our office has moved to Shiodome - A blog post from eSolia
 draft: false
 slug: 20210222-esolia-office-move-to-shiodome
 layout: post
 subtitle: From Toranomon to Shimbashi
-postsummary: Due to COVID causing our office to sit unused, we decided to move to a modern and flexible shared office. 
 alternatelocales:
   - en-US
 tags:

@@ -1,7 +1,6 @@
 ---
 author: eSolia
 date: 2018-05-14T15:00:37+09:00
-publishdate: 2018-05-14T15:00:37+09:00
 draft: false
 slug: success-story_office-and-lab-construction-project
 title: 事務所とラボ工事、移転

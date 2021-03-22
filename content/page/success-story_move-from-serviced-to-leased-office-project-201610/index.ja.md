@@ -1,7 +1,6 @@
 ---
 author: eSolia
 date: 2021-02-04T15:44:09+09:00
-publishdate: 2021-02-04T15:44:09+09:00
 draft: false
 slug: success-story_move-from-serviced-to-leased-office
 title: 日本での販売開始以前に「居抜き」オフィス移転

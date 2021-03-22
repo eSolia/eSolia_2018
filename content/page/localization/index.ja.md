@@ -1,12 +1,11 @@
 ---
 author: イソリア
 date: 2021-01-12T07:07:27+09:00
-publishdate: 2021-01-12T07:07:27+09:00
 draft: false
 title: ローカライゼーション
 slug: localization
 subtitle: IT系翻訳をバイリンガルエンジニアがよりナチュラルに
-description: ネイティブによって整合性のとれたローカライゼーションを様々な分野で。
+description: イソリア では 他国語に精通したスタッフによる整合性のとれた翻訳を様々な分野で提供します。
 weight: 60
 layout: services
 alternatelocales:

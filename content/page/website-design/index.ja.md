@@ -1,12 +1,11 @@
 ---
 author: イソリア
-date: 2018-05-06T07:07:27+09:00
-publishdate: 2018-05-06T07:07:27+09:00
+date: 2021-03-22T08:54:41+09:00
 draft: false
 title: ウェブサイト デザイン
 slug: website-design
 subtitle: 新規も既存も多言語でもウェブサイト構築のデザインをサポート
-description: イソリアから - 新時代と貴社目的に合ったウェブサイト デザインの構築を。新規、既存、多言語でもどうぞ。
+description: イソリアから - 新時代と貴社目的に合ったウェブサイト デザインの構築を。新規・既存の方問いません。バイリンガルサイトもお気軽にお問い合わせください。
 weight: 55
 layout: services
 alternatelocales:

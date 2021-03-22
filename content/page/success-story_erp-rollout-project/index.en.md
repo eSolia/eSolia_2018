@@ -1,7 +1,6 @@
 ---
 author: eSolia
 date: 2018-05-06T07:07:27+09:00
-publishdate: 2018-05-06T07:07:27+09:00
 draft: false
 slug: success-story_erp-rollout-project
 title: ERP Project Rollout

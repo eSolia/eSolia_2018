@@ -1,7 +1,6 @@
 ---
 author: イソリア
 date: 2021-01-18T11:48:03+09:00
-publishdate: 2018-05-06T07:07:27+09:00
 description: イソリア 奥付 - 当サイトが利用するテクノロジー
 draft: false
 slug: colophon

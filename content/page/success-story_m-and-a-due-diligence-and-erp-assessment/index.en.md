@@ -1,7 +1,6 @@
 ---
 author: eSolia
 date: 2018-05-06T07:07:27+09:00
-publishdate: 2018-05-06T07:07:27+09:00
 draft: false
 slug: success-story_m-and-a-due-diligence-and-erp-assessment
 title: M&A Due Diligence and ERP Confirmation

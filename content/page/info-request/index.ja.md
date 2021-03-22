@@ -1,8 +1,7 @@
 ---
 author: イソリア
-date: 2018-06-15T10:15:29+09:00
-publishdate: 2018-06-15T10:15:29+09:00
-description: イソリア - 弊社サービスやソリューションについてお問い合わせするなら、このページのフォームからどうぞ
+date: 2021-03-22T08:54:41+09:00
+description: イソリア - 弊社サービスやソリューションについてのお問い合わせは、こちらのページのフォームからどうぞ
 draft: false
 slug: info-request
 inforequest: true

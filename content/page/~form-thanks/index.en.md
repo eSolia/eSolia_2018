@@ -1,6 +1,5 @@
 ---
 date: 2018-05-06T07:07:27+09:00
-publishdate: 2018-05-06T07:07:27+09:00
 description: Thank you for your interest - eSolia Inc.
 draft: false
 noindex: true
