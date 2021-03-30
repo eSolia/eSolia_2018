@@ -1,7 +1,7 @@
 ---
 author: eSolia
 date: 2021-02-22T14:00:14+09:00
-draft: false
+draft: true
 slug: success-story_prodb-genetic-test-order-entry-system-2021
 title: Development of Genetic Test Order Entry System
 subtitle: To Increase Efficiency and Reduce Order Entry Errors

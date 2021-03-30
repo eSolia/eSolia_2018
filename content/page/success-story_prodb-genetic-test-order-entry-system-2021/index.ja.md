@@ -1,7 +1,7 @@
 ---
 author: eSolia
-date: 2022-03-05T14:00:14+09:00
-draft: false
+date: 2021-03-05T14:00:14+09:00
+draft: true
 slug: success-story_prodb-genetic-test-order-entry-system-2021
 title: 遺伝子検査の依頼入力システム
 subtitle: 医療関係事業の為
