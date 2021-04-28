@@ -20,7 +20,7 @@ This iteration can be summarized as follows:
 
 ### Go Hugo
 
-[Hugo](http://gohugo.io) is a Static Site Generator, which makes it simple to use html "templates" to merge your css, javascript, images and content written in the [Markdown](http://daringfireball.net/projects/markdown/) format, into a publishable website.
+[Hugo](http://gohugo.io) is a Static Site Generator, which makes it trivial to use html "templates" to merge your css, javascript, images and content written in the [Markdown](http://daringfireball.net/projects/markdown/) format, into a publishable website.
 
 About Hugo, we learn:
 
