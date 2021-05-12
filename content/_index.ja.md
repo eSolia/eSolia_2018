@@ -1,5 +1,5 @@
 +++
-date = "2021-02-21T13:50:32+09:00"
+date = "2021-05-12T12:10:01+09:00"
 draft = "false"
 tags = ["イソリア"]
 title = "eSolia Bilingual IT Outsourcing"
@@ -9,9 +9,9 @@ title = "eSolia Bilingual IT Outsourcing"
 +++
 
 <!-- <span class="tag is-danger is-large">1月4日まで年末年始休暇中。あけましておめでとうございます！ 🇯🇵㊗️</span><br><br> -->
-<span class="tag is-danger is-large">5月5日までゴールデンウィーク休暇中。🇯🇵🎏</span><br>
+<!-- <span class="tag is-danger is-large">5月5日までゴールデンウィーク休暇中。🇯🇵🎏</span><br>-->
 <a href="/post/20210222-esolia-office-move-to-shiodome/" class="button is-danger is-size-6-mobile is-medium">引っ越しました! 🎉</a><br><br>
 お陰様でイソリアはこのたび<span class="has-text-esolia-yellow-2">創立21周年</span>を迎えることが出来ました。バイリンガルITアウトソーシングのイソリアが、頼れるIT部門として貴社のサポートを担当致します。<br><br>
 特定ITスキルを持つマルチリンガル且つプロフェッショナルな私たちが、貴社のプロジェクトを成功に導きます。是非ともイソリアにお任せください！ 
 <br><br>
-COVID-19 新型コロナウイルスの世界的なパンデミックによる影響を受けられた全ての方々に謹んでお見舞い申し上げます。当社サポート対応については[こちらのページ](/post/covid-19-state-of-emergency/)をご参照ください。
+COVID-19 新型コロナウイルスの世界的なパンデミックによる影響を受けられた全ての方々に謹んでお見舞い申し上げます。当社サポート対応については[こちらのページ](/post/covid-19-state-of-emergency-3/)をご参照ください。
