@@ -29,7 +29,7 @@ images:
 {{< blogbox >}}
 
 
-2021年4月25日、東京を含む４つの都府県に発令されていた緊急事態宣言が、5月31日まで延長されることが決定されました。<br>
+2021年4月25日から東京を含む４つの都府県に発令されていた緊急事態宣言が、5月31日まで延長されることが決定されました。<br>
 
 今回最も重要視されるのは「人流の抑制」です。そして、政府から発表された<a href="https://corona.go.jp/emergency/" target="_blank">「感染症対策」</a>及び<a href="https://www.fukushihoken.metro.tokyo.lg.jp/iryo/kansen/kannsenyobouhandbook.files/tominmukehandbook.pdf" target="_blank">「新型コロナウイルス感染症　都民向け感染予防ハンドブック」</a>（令和2年12月17日版）に基づいて、感染拡大予防対策を徹底して行っていきましょう。<br>
 
