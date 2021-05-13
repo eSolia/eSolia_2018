@@ -110,7 +110,7 @@ This time, the SoE is focused more on restaurant businesses, however the the mai
     </ul>
 <li><b>Daily life</b></li>
     <ul>
-      <li>Refrain from going out after 8pm unless absolutely necessary, and avoid the 3Cs. When leaving the house for a valid reason, such as to go shopping or to seek medical assistance, keep it as brief as possible.</li>
+      <li>Refrain from going out unless absolutely necessary, and avoid the 3Cs. When leaving the house for a valid reason, such as to go shopping or to seek medical assistance, keep it as brief as possible.</li>
       <li>Take proper measures against infection in both public and private, such as refraining from having meals or drinks with people other than your family members.</li>
       <li>Dinners among employees are also prohibited for the duration of the state of emergency.</li>
     </ul>
