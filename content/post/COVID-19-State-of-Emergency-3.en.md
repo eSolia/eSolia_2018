@@ -2,7 +2,7 @@
 author: Rick Cogley
 authorkey: rickcogley
 date: 2021-01-13T09:21:08+09:00
-description: eSolia Response during the COVID-19 State of Emergency, Part 4
+description: eSolia Response during the COVID-19 State of Emergency, Part 3
 draft: false
 slug: covid-19-state-of-emergency-3
 layout: post
