@@ -1,7 +1,7 @@
 ---
 author: Rick Cogley
 authorkey: rickcogley
-date: 2021-05-13T09:21:08+09:00
+date: 2021-05-14T09:00:08+09:00
 description: eSolia Response during the COVID-19 State of Emergency, Part 4
 draft: false
 slug: covid-19-state-of-emergency-4
@@ -30,7 +30,7 @@ images:
 
 A state of emergency (SoE) to four prefectures including Tokyo has been extended until May 31st 2021. This post will explain eSolia’s approach and policy.
 
-This time, the SoE is focused more on restaurant businesses, however the the main messages of “social distancing” and “avoid the 3 Cs (Crowded places, Close-contact settings and Closed spaces)” continue. Please take thorough preventive measures against the spread of COVID-19 based on <a href="https://corona.go.jp/prevention/pdf/atarashii_seikatsu.pdf" target="_blank">“New Corona Prevention lifestyle”</a> and <a href="https://www.fukushihoken.metro.tokyo.lg.jp/iryo/kansen/kannsenyobouhandbook.files/tominmukehandbook.pdf" target="_blank">“COVID-19 Infection Prevention Handbook for the General Public”</a> (17th December 2020) issued by the government (<a href="https://www.hosp.tohoku-mpu.ac.jp/data/covid/COVID_handbook_ver02-2_en_20200424.pdf" target="_blank">English Version</a>). Our staff are asked to adhere strictly to the following regarding eSolia’s system and when visiting clients onsite.
+This time, the SoE is focused on reducing the flow of people, however the main messages of  “social distancing” and “avoid the 3 Cs (Crowded places, Close-contact settings and Closed spaces)” continue. Please take thorough preventive measures against the spread of COVID-19 based on <a href="https://corona.go.jp/prevention/pdf/atarashii_seikatsu.pdf" target="_blank">“New Corona Prevention lifestyle”</a> and <a href="https://www.fukushihoken.metro.tokyo.lg.jp/iryo/kansen/kannsenyobouhandbook.files/tominmukehbver1.pdf" target="_blank">“COVID-19 Infection Prevention Handbook for the General Public”</a> (17th December 2020) issued by the government (<a href="https://www.hosp.tohoku-mpu.ac.jp/data/covid/COVID_handbook_ver02-2_en_20200424.pdf" target="_blank">English Version</a>). Our staff are asked to adhere strictly to the following regarding eSolia’s system and when visiting clients onsite.
 
 <ol>
 <li><b>eSolia's system—state of emergency</b></li><br>
