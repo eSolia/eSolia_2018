@@ -1,6 +1,6 @@
 ---
 author: eSolia
-date: 2021-01-20T08:54:41+09:00
+date: 2021-08-30T11:12:50+09:00
 description: Why eSolia - information about our mandate, value, process, practices and tools.
 draft: false
 slug: why-esolia
@@ -110,7 +110,7 @@ As mentioned elsewhere, we have sets of tools developed over years of experience
 * Engineering report system
 * Procedure and policy system
 * Client information storage system
-* [Secure text](https://zerobin.esolia.com/) paste system, for sending passwords securely
+* [Secure text](https://salty.esolia.pro/en/) encryption system, for sharing passwords securely
 * Document management
 * Source code management
 * Physical tools for engineering jobs

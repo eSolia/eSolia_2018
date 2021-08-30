@@ -288,9 +288,9 @@ Analytics = "YHYBNXPJ"
     weight = 222
 
 [[languages.en.menu.side]]
-    name = "Zerobin"
-    identifier = "en_zerobin"
-    url = "https://zerobin.esolia.com"
+    name = "Salty"
+    identifier = "en_salty"
+    url = "https://salty.esolia.pro/en/"
     post = "_blank"
     parent = "tools"
     weight = 22
@@ -318,10 +318,10 @@ post = "_blank"
 weight = 11
 
 [[languages.en.menu.toolslist]]
-    name = "Zerobin"
-    identifier = "en_zerobin"
-    url = "https://zerobin.esolia.com"
-    pre = "eSolia Zerobin is a secure paste service, built upon Seb Sauvage's ZEROBIN system, an opensource 'pastebin' where the server has zero knowledge of pasted data. Data is encrypted and decrypted in the browser using 256-bit AES."
+    name = "Salty"
+    identifier = "en_salty"
+    url = "https://salty.esolia.pro/en/"
+    pre = "eSolia Salty is a secure, portable text encryption service, coded by Neatnik. Enter text to encrypt and a key, then share the encrypted string and key separately. No data is stored on our server."
     post = "_blank"
     weight = 22
 
@@ -543,9 +543,9 @@ help  = "ヘルプ"
     weight = 222
 
 [[languages.ja.menu.side]]
-    name = "ゼロビン"
-    identifier = "ja_zerobin"
-    url = "https://zerobin.esolia.com/?language=jp"
+    name = "ソルティー"
+    identifier = "ja_salty"
+    url = "https://salty.esolia.pro"
     post = "_blank"
     parent = "tools"
     weight = 22
@@ -573,10 +573,10 @@ help  = "ヘルプ"
     weight = 11
 
 [[languages.ja.menu.toolslist]]
-    name = "ゼロビン"
-    identifier = "ja_zerobin"
-    url = "https://zerobin.esolia.com/?language=jp"
-    pre = "ゼロビンとは、セブソーバッジュ氏の'Zerobin'を元に立てた、イソリア セキュアー ペースト サービスです。サーバー側では、暗号化する文字列の元の形を全く知る事が出来ず、あなたのデータは、ブラウザーの中で256ビットAES方式で暗号化されるので安心できます。"
+    name = "ソルティー"
+    identifier = "ja_salty"
+    url = "https://salty.esolia.pro"
+    pre = "ソルティーとは、Neatnik社提供のNaClを利用した効率の良いテキスト暗号システムです。暗号したいテキストをキーと一緒に入力して、別々で共有すると安全にパスワードなど配布出来ます。データは弊社サーバーには保存しません。"
     post = "_blank"
     weight = 22
 
