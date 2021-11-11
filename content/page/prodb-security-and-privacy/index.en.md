@@ -105,7 +105,7 @@ PROdb customers' database structure and workflow configuration is considered by 
 
 ### Changes in this Document
 
-We reserve the right to modify this terms of service agreement at any time. We will announce changes on this website in the news section. 
+We reserve the right to modify this document at any time. We will announce changes on this website in the news section. 
 
 ### Contacting eSolia
 
