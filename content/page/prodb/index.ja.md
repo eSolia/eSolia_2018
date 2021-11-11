@@ -1,6 +1,6 @@
 ---
 author: イソリア
-date: 2021-01-20T08:54:41+09:00
+date: 2021-11-11T13:51:05+09:00
 draft: false
 title: PROdbクラウド型データベース
 slug: prodb
@@ -156,10 +156,10 @@ PROdbはどんなケースでも柔軟に対応できます。
 1. 迅速な変更と問題解決を重視している
 1. どこでもアクセスできるようにしたいが、セキュリティも確保したい
 
-### 利用規約
+### 大切な参考情報
 
 PROdb はこの [利用規約](/prodb-tos) の元、運用しております。
 
 すでにご利用の方へのサポートのご依頼は[こちらのページ](/prodb-support)からお願いいたします。
 
-リアルタイム <a class="link" href="https://status.esolia.pro" target="_blank">システム ステータス監視</a> ページもご覧ください。
+[セキュリティおよびプライバシーポリシー](/prodb-security-and-privacy) ページや、リアルタイム <a class="link" href="https://status.esolia.pro" target="_blank">システム ステータス監視</a> ページもご覧ください。

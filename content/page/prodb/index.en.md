@@ -1,6 +1,6 @@
 ---
 author: eSolia
-date: 2021-01-20T08:54:41+09:00
+date: 2021-11-11T13:51:05+09:00
 draft: false
 title: PROdb Cloud Database
 slug: prodb
@@ -149,8 +149,8 @@ Consider PROdb if:
 1. you value quick changes and problem resolution.
 1. you want "access anywhere" but with security.
 
-### Terms of Service
+### Important Additional Information
 
 PROdb is governed by this [Terms of Service](/prodb-tos) agreement. Users can enter a support request [using this form](/prodb-support).
 
-See also our <a class="link" href="https://status.esolia.pro" target="_blank">uptime status monitoring</a> page.
+See also our [Security and Privacy](/prodb-security-and-privacy) and <a class="link" href="https://status.esolia.pro" target="_blank">uptime status monitoring</a> pages.
