@@ -28,7 +28,7 @@ images:
   
 The privacy of your data is very important to us. This document explains how your data is stored, where it is stored and whether it is stored securely. 
 
-"PROdb" is our brand name for the applications eSolia develops and hosts via the PaaS "dbFLEX", owned and operated by [ForeSoft](https://www.foresoft.net/). This document's use of the brand name "PROdb" refers to the PaaS service. 
+"[PROdb](/prodb)" is our brand name for the applications eSolia develops and hosts via the PaaS "dbFLEX", owned and operated by [ForeSoft](https://www.foresoft.net/). This document's use of the brand name "PROdb" refers to the PaaS service. 
 
 ### Security
 #### Infrastructure
