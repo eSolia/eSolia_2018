@@ -21,6 +21,19 @@ enableRobotsTXT = "true"
     topic = "topics"
     series = "series"
 
+[security]
+  enableInlineShortcodes = false
+  [security.exec]
+    allow = ['^dart-sass-embedded$', '^go$', '^npx$', '^postcss$']
+    osEnv = ['(?i)^(PATH|PATHEXT|APPDATA|TMP|TEMP|TERM)$']
+
+  [security.funcs]
+    getenv = ['^HUGO_', 'PWD', 'MAINCSS_HASH']
+
+  [security.http]
+    methods = ['(?i)GET|POST']
+    urls = ['.*']
+
 [markup]
   defaultMarkdownHandler = "goldmark"
   [markup.blackFriday]
