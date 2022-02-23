@@ -28,7 +28,7 @@ enableRobotsTXT = "true"
     osEnv = ['(?i)^(PATH|PATHEXT|APPDATA|TMP|TEMP|TERM)$']
 
   [security.funcs]
-    getenv = ['^HUGO_', 'PWD', 'MAINCSS_HASH', 'MAINJS_HASH', 'BUCAJS_HASH']
+    getenv = ['^HUGO_', 'PWD', 'MAINCSS_HASH', 'MAINJS_HASH', 'BUCAJS_HASH', 'BUSTJS_HASH']
 
   [security.http]
     methods = ['(?i)GET|POST']
