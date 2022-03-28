@@ -8,6 +8,9 @@ bin-release/
 # Other files and folders
 .settings/
 
+# lock
+*.lock
+
 # Executables
 *.swf
 *.air
