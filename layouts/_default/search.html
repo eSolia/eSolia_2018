@@ -130,7 +130,7 @@
 
       const getUrl = (query) => {
         const encodedQuery = encodeURIComponent(query)
-        const url = {{ .URL }}
+        const url = {{ .Permalink }}
         return (encodedQuery)
           ? `${url}?${queryParam}=${encodedQuery}`
           : url
