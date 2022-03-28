@@ -15,6 +15,21 @@
     "Toll Free Call?": true
   },
   {
+    "@row.id": 48,
+    "Id": "48",
+    "Description": "Kokoro no mimi",
+    "Description‡": "こころの耳：働く人のメンタルヘルス・ポータルサイト",
+    "Number": "0120-565-455",
+    "Number‡": "0120-565-455",
+    "Notes": "\"Kokoro no Mimi\" Telephone Consultation supports workers, their families, and designated HR personnel in charge of labor at their companies. Contact them about any mental health problems due to overwork, and to take advantage of their \"stress check\" program, started from Dec 2015. Your privacy will be strictly maintained. ",
+    "Notes‡": "働く人の「こころの耳電話相談」では、全国の労働者の皆様やその家族、企業の人事労務担当者の方々からの電話相談を受け付けています。メンタルヘルス不調や、2015年12月から新たに実施されたストレスチェック制度、過重労働による健康障害の防止対策などについての困りごと、お悩みなどを相談できる窓口です。プライバシーは厳守されますので、安心してご利用ください。",
+    "Hours": "17:00-22:00 Mon & Tue; 10:00-16:00 Sat & Sun, Except Holidays",
+    "Hours‡": "月曜日・火曜日 17:00～22:00 ／ 土曜日・日曜日 10:00～16:00 （祝日、年末年始はのぞく）",
+    "URL": "https://kokoro.mhlw.go.jp/",
+    "URL‡": "https://kokoro.mhlw.go.jp/",
+    "Toll Free Call?": true
+  },
+  {
     "@row.id": 1,
     "Id": "1",
     "Description": "Emergency Call for Fire, Ambulance or Emergency Rescue",

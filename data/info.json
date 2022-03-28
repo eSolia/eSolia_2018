@@ -1,5 +1,70 @@
 [
   {
+    "@row.id": 1097,
+    "Date": "2021-Nov-01",
+    "Description": "We refreshed the [security and privacy policy](https://esolia.com/prodb-security-and-privacy) page for our cloud database platform \"PROdb\". "
+  },
+  {
+    "@row.id": 1096,
+    "Date": "2021-Sept-10",
+    "Description": "The Gov't of Japan has extended the state of emergency through end of September 2021, and eSolia is still [taking care in our operations](https://esolia.com/post/covid-19-state-of-emergency-4/), providing continued support as usual, and working from home when possible. Watch this space for updates to our stance regarding the same, and thank you for your ongoing support and business! 🚨"
+  },
+  {
+    "@row.id": 1094,
+    "Date": "2021-Sept-03",
+    "Description": "Our thoughts are with our clients and colleagues in New York City, during the recent devastating flooding. Please take care. "
+  },
+  {
+    "@row.id": 1095,
+    "Date": "2021-Aug-12",
+    "Description": "eSolia will be closed from tomorrow 13-16 Aug 2021 inclusive, for the traditional o-bon holiday. Clients: please use emergency contact as per separate email. 🍉"
+  },
+  {
+    "@row.id": 1093,
+    "Date": "2021-Aug-10",
+    "Description": "We had a busy fiscal year-end, successfully completing two major office move projects, and a website launch with [PROdb](https://esolia.com/prodb/) backend to allow healthcare professionals nationwide to register to use an order entry system. See our [Success Story page](https://esolia.com/success-stories/) for highlights! 🚀🎉"
+  },
+  {
+    "@row.id": 1092,
+    "Date": "2021-Aug-06",
+    "Description": "We updated our list of emergency numbers needed by Japan residents and visitors, on [this page](https://esolia.com/japan-contacts), including a CSV download, adding the number for the \"Kokoro-no-mimi\" Telephone Consultation line for labor issues. Please share with your friends. 🚨"
+  },
+  {
+    "@row.id": 1091,
+    "Date": "2021-Jul-07",
+    "Description": "Thanks to you, we can celebrate eSolia's 22nd Anniversary! We founded [eSolia Inc](https://esolia.com/about/) on 7th July 1999 for IT service excellence, and have continued to work on our service maturity over the last year, flexibly surviving the challenges posed by the ongoing COVID-19 pandemic. Thank you for another successful year, and here's to everyone's health and happiness going forward! 🎉㊗️"
+  },
+  {
+    "@row.id": 1090,
+    "Date": "2021-May-13",
+    "Description": "The Gov't of Japan has extended the state of emergency through end of May 2021, and eSolia is still [taking care in our operations](https://esolia.com/post/covid-19-state-of-emergency-4/), providing continued support as usual, and working from home when possible. Watch this space for updates to our stance regarding the same, and thank you for your ongoing support and business! 🚨"
+  },
+  {
+    "@row.id": 1089,
+    "Date": "2021-Apr-29",
+    "Description": "Japan is in the \"Golden Week\" holiday, starting today 29th April and running through 5th May 2021. We will be back in the office from 6th May. We hope everyone stays safe and healthy, and we wish you a restful break. 🎏🇯🇵"
+  },
+  {
+    "@row.id": 1088,
+    "Date": "2021-Mar-22",
+    "Description": "The Gov't of Japan has lifted the state of emergency, but eSolia is still [taking care in our operations](https://esolia.com/post/covid-19-state-of-emergency-3/), providing continued support as usual, and working from home as a rule. Watch this space for updates to our stance regarding the same, and thank you for your ongoing support and business! 🚨"
+  },
+  {
+    "@row.id": 1087,
+    "Date": "2021-Mar-11",
+    "Description": "Our PROdb cloud database was experiencing some [system trouble](https://status.esolia.pro/0e778f27-7dc4-4242-9a2c-18ae69a9026e/) as of around 9:00AM on 11 March 2021, and upon investigation, it turned out to be a problem with Oracle Dyn Managed DNS. Their incident report can be viewed [here](https://www.dynstatus.com/incidents/x8psymmjc5bw). Thank you for your patience, if this problem impacted you. "
+  },
+  {
+    "@row.id": 1086,
+    "Date": "2021-Mar-01",
+    "Description": "Are you struggling with establishing Telework systems or guidelines? Getting an update on the current situation, identifying the actual problems, and also providing clear solutions will improve the efficiency of teleworking. See our latest [blog post](https://esolia.com/post/telework-and-telephone-system-problems/) on the subject from Ops Manager Ena Ishikawa, and don't hesitate to contact us if we can be of assistance! 🚀  "
+  },
+  {
+    "@row.id": 1085,
+    "Date": "2021-Feb-23",
+    "Description": "We successfully completed a major project to develop an order entry database on our PROdb platform, allowing physicians nationwide to generate order documents for genetic tests. See the [Success Story page](https://esolia.com/success-story_prodb-genetic-test-order-entry-system-2021/) for details. 🚀"
+  },
+  {
     "@row.id": 1084,
     "Date": "2021-Feb-22",
     "Description": "eSolia has moved! As of 22 Feb 2021, our office is at the Work Styling facility on the 5th floor of the Shiodome City Center, at JR Shimbashi station. We look forward to many more years of service to you! Read more [about it here](https://esolia.com/post/20210222-esolia-office-move-to-shiodome/). 🎊㊗️🍾 "
