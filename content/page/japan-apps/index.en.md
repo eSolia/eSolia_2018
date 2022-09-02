@@ -1,7 +1,7 @@
 ---
 author: eSolia
 authorlink: /about
-date: 2022-09-02T09:42:13+09:00
+date: 2022-09-02T10:42:13+09:00
 description: eSolia Japan Apps - in convenient list format.
 draft: false
 slug: japan-apps
