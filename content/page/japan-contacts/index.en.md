@@ -1,7 +1,7 @@
 ---
 author: eSolia
 authorlink: /about
-date: 2018-09-21T15:40:02+09:00
+date: 2022-09-21T10:22:03+09:00
 description: eSolia Japan Contact Numbers - in convenient list format.
 draft: false
 slug: japan-contacts

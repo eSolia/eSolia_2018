@@ -1,7 +1,7 @@
 ---
 author: eSolia
 authorlink: /about
-date: 2018-09-24T20:06:02+09:00
+date: 2022-09-21T10:22:03+09:00
 description: eSolia Japan Disaster Information - phone number list, apps, etc.
 draft: false
 slug: japan-disaster
