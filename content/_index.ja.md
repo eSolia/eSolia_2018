@@ -11,7 +11,9 @@ title = "eSolia Bilingual IT Outsourcing"
 <!-- <span class="tag is-danger is-large">1月4日まで年末年始休暇中。あけましておめでとうございます！ 🇯🇵㊗️</span><br><br> -->
 <!-- <span class="tag is-danger is-large">8月16日までお盆休暇中。🇯🇵🪷</span><br> -->
 <!-- <a href="/post/20210222-esolia-office-move-to-shiodome/" class="button is-danger is-size-6-mobile is-medium">引っ越しました! 🎉</a> -->
-<span class="tag is-danger is-large">イソリアはペーパーレス実施中で、お見積もり、納品書、請求書をPDFのみにさせて頂いております。ご理解、ご協力、誠にありがとうございます。♻️</span>
+<span class="tag is-danger is-large">イソリアはペーパーレス実施中で、お見積もり、納品書、請求書をPDFのみ</span>
+<span class="tag is-danger is-large">にさせて頂いております。ご理解、ご協力、誠にありがとうございます。♻️</span>
+
 <br><br>
 お陰様でイソリアはこのたび<span class="has-text-esolia-yellow-2">創立23周年</span>を迎えることが出来ました。バイリンガルITアウトソーシングのイソリアが、頼れるIT部門として貴社のサポートを担当致します。<br><br>
 特定ITスキルを持つマルチリンガル且つプロフェッショナルな私たちが、貴社のプロジェクトを成功に導きます。是非ともイソリアにお任せください！ 
