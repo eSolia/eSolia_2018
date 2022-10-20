@@ -6,7 +6,7 @@
     Owner: eSolia Inc.
     Contact: http://esolia.com/about
     Twitter: @eSolia_Inc
-    Developer: Rick Cogley
+    Developers: Rick Cogley, Kylie Cogley
 
 /* THANKS */
 
@@ -39,9 +39,7 @@
 
     Site Repository: Github, https://github.com/rickcogley/eSolia_2018
 
-    Site Hosting: Webfaction, http://www.webfaction.com/?affiliate=rcogley
-
-    DNS Hosting: Amazon AWS Route53, https://aws.amazon.com/route53/
+    Site and DNS Hosting: Amazon AWS S3, Cloudfront, Route53, https://aws.amazon.com/route53/
 
     Markup: Markdown, http://daringfireball.net/projects/markdown/
 
@@ -50,4 +48,4 @@
 	Launched: 2018/05/06
 	Languages: English / Japanese
 	Doctype: HTML5
-	IDE: BBEdit, iTerm2, SmartGit
+	IDE: VS Code, Kitty, SmartGit, Bash Scripts

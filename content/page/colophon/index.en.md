@@ -1,6 +1,6 @@
 ---
 author: eSolia
-date: 2018-05-06T07:07:27+09:00
+date: 2022-10-21T08:38:37+09:00
 description: eSolia Colophon - the technology behind this site.
 draft: false
 slug: colophon
@@ -19,8 +19,9 @@ tags:
   - Typography
   - Hosting
   - AWS
+  - S3
+  - Cloudfront
   - Route53
-  - Webfaction
   - Ryo Gothic
   - Typekit
   - Hugo
@@ -34,7 +35,6 @@ topics:
 images:
   - /img/hugo-logo.png
   - /img/noto.png
-  - /img/webfaction-logo.png
   - /img/eSolia-Chicklet-Color-1024px.png
 ---
 

@@ -1,6 +1,6 @@
 ---
 author: イソリア
-date: 2021-01-18T11:48:03+09:00
+date: 2022-10-21T08:38:37+09:00
 description: イソリア 奥付 - 当サイトが利用するテクノロジー
 draft: false
 slug: colophon
@@ -19,8 +19,9 @@ tags:
   - タイポグラフィー
   - ホスティング
   - AWS
+  - S3
+  - Cloudfront
   - Route53
-  - Webfaction
   - Hugo
   - Go言語
   - Go
@@ -35,7 +36,6 @@ topics:
 images:
   - /img/hugo-logo.png
   - /img/noto.png
-  - /img/webfaction-logo.png
   - /img/eSolia-Chicklet-Color-1024px.png
 ---
 
