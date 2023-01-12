@@ -1,4 +1,4 @@
-# eSolia Inc English & Japanese Sites
+# eSolia Inc English & Japanese Sites 
 
 README for our English <https://esolia.com> & 日本語 <https://esolia.co.jp> sites.
  
