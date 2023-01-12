@@ -15,7 +15,7 @@ title = "eSolia Bilingual IT Outsourcing"
 <!-- <span class="tag is-danger is-large">レポートなどのPDFをメールの配信のみとさせて頂いております。</span> -->
 <!-- <span class="tag is-danger is-large">ご理解、ご協力の程、誠にありがとうございます。♻️</span> -->
 
-<span class="tag is-danger is-large">ISO 27001 ISMS <a href="https://esolia.pro/ismsexecmemo" class="">適⽤宣⾔書</a> 及び <a href="https://esolia.pro/basesecpol" class="">情報セキュリティ基本⽅針書</a> 🚀</span>
+<span class="tag is-danger is-large">ISO 27001 ISMS <a href="https://esolia.pro/ismsexecmemo" class="has-text-esolia-yellow-2">経営群実施断言メモ</a> 及び <a href="https://esolia.pro/basesecpol" class="has-text-esolia-yellow-2">情報セキュリティ基本⽅針書</a> 🚀</span>
 
 <br><br>
 お陰様でイソリアはこのたび<span class="has-text-esolia-yellow-2">創立23周年</span>を迎えることが出来ました。バイリンガルITアウトソーシングのイソリアが、頼れるIT部門として貴社のサポートを担当致します。<br><br>
