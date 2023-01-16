@@ -15,7 +15,7 @@ title = "eSolia Bilingual IT Outsourcing"
 <!-- <span class="tag is-danger is-large">such as quotes and invoices or reports in PDF format via email only. </span> -->
 <!-- <span class="tag is-danger is-large">We appreciate your understanding and cooperation in this matter. ♻️</span> -->
 
-<span class="tag is-danger is-large">ISO 27001 ISMS <a href="https://esolia.pro/ismsexecmemo" class="has-text-esolia-yellow-2">executive support statement</a> and <a href="https://esolia.pro/basesecpol" class="has-text-esolia-yellow-2">base security policy</a> 🚀</span>
+<span class="tag is-danger is-large">ISO 27001 ISMS&nbsp;<a href="https://esolia.pro/ismsexecmemo" class="has-text-esolia-yellow-2">executive support statement</a>&nbsp;and&nbsp;<a href="https://esolia.pro/basesecpol" class="has-text-esolia-yellow-2">base security policy</a>&nbsp;🚀</span>
 
 
 <br><br>
