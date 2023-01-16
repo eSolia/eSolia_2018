@@ -121,5 +121,5 @@ menu:
 * 文章管理
 * 開発ソースコード管理
 * 物理的なエンジニアツール
-* [アップタイム監視](https://status.esolia.pro/) システム
+* [アップタイム監視](https://uptime.esolia.pro/) システム
 

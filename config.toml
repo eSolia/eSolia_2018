@@ -325,8 +325,8 @@ Analytics = "YHYBNXPJ"
 [[languages.en.menu.toolslist]]
 name = "Uptime Monitor"
 identifier = "en_uptime"
-url = "https://status.esolia.pro"
-pre = "eSolia Uptime Monitor powered by Apex Ping and Apex Up."
+url = "https://uptime.esolia.pro"
+pre = "eSolia Uptime Monitor powered by Upptime."
 post = "_blank"
 weight = 11
 
@@ -580,8 +580,8 @@ help  = "ヘルプ"
 [[languages.ja.menu.toolslist]]
     name = "Uptime Monitor"
     identifier = "ja_uptime"
-    url = "https://status.esolia.pro"
-    pre = "イソリアのアップタイム監視システムは、リアルタイムでシステムステータス確認を可能にしてくれます。パワード・バイ・Apex Ping & Apex Up"
+    url = "https://uptime.esolia.pro"
+    pre = "イソリアのアップタイム監視システムは、リアルタイムでシステムステータス確認を可能にしてくれます。パワード・バイ・Upptime"
     post = "_blank"
     weight = 11
 
