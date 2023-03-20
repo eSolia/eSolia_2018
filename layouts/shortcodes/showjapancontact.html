@@ -11,7 +11,11 @@
     </tr>
   </thead>
   <tbody>
-    {{ range $.Site.Data.japancontact }}
+    {{ $token := getenv "PRODBTOKEN15331" }}
+    {{ $bearertoken := printf "Bearer %s" $token }}
+    {{ $urlPre := "https://pro.dbflex.net" }}
+    {{ $contactEN := getJSON $urlPre "/secure/api/v2/15331/Web%20Japan%20Contact%20and%20App/API%20List%20All/select.json" (dict "Authorization" $bearertoken) }}
+    {{ range $contactEN }}
     <tr>
       <td>
         {{ with (index . "Description") }}{{ . | markdownify}}{{ end }}
@@ -21,7 +25,7 @@
       </td>
       <td>
         {{ with (index . "Notes") }}{{ . | markdownify }}{{ end }}
-      </td>      
+      </td>
       <td>
         {{ with (index . "Hours") }}{{ . | markdownify }}{{ end }}
       </td>
@@ -30,7 +34,7 @@
       </td>
       <td>
         {{ with (index . "URL") }}<a href="{{ . | safeHTML }}" target="_blank"><i class="fas fa-external-link-square-alt has-text-esolia-blue-1"></i></a>{{ end }}
-      </td>      
+      </td>
     </tr>
   {{ end }}
   </tbody>
@@ -50,7 +54,11 @@
     </tr>
   </thead>
   <tbody>
-    {{ range $.Site.Data.japancontact }}
+    {{ $token := getenv "PRODBTOKEN15331" }}
+    {{ $bearertoken := printf "Bearer %s" $token }}
+    {{ $urlPre := "https://pro.dbflex.net" }}
+    {{ $contactJP := getJSON $urlPre "/secure/api/v2/15331/Web%20Japan%20Contact%20and%20App/API%20List%20All/select.json" (dict "Authorization" $bearertoken) }}
+    {{ range $contactJP }}
     <tr>
       <td>
         {{ with (index . "Description‡") }}{{ . | markdownify}}{{ end }}
@@ -69,7 +77,7 @@
       </td>
       <td>
         {{ with (index . "URL‡") }}<a href="{{ . | safeHTML }}" target="_blank"><i class="fas fa-external-link-square-alt has-text-esolia-blue-1"></i></a>{{ end }}
-      </td>      
+      </td>
     </tr>
   {{ end }}
   </tbody>
