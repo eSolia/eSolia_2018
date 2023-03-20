@@ -25,10 +25,10 @@ enableRobotsTXT = "true"
   enableInlineShortcodes = false
   [security.exec]
     allow = ['^dart-sass-embedded$', '^go$', '^npx$', '^postcss$']
-    osEnv = ['(?i)^(PATH|PATHEXT|APPDATA|TMP|TEMP|TERM)$']
+    osEnv = ['(?i)^((HTTPS?|NO)_PROXY|PATH(EXT)?|APPDATA|TE?MP|TERM|GO\w+)$']
 
   [security.funcs]
-    getenv = ['^HUGO_', 'PWD', 'MAINCSS_HASH', 'MAINJS_HASH', 'BUCAJS_HASH', 'BUSTJS_HASH']
+    getenv = ['^HUGO_', '^CI$', 'PRODB', 'PWD', 'MAINCSS_HASH', 'MAINJS_HASH', 'BUCAJS_HASH', 'BUSTJS_HASH']
 
   [security.http]
     methods = ['(?i)GET|POST']
