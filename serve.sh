@@ -13,9 +13,9 @@ rm -i -rf $HOME/dev/eSolia_2018/data/success.json
 rm -i -rf $HOME/dev/eSolia_2018/data/info.json
 # /usr/local/opt/curl/bin/curl --silent -k "https://pro.dbflex.net/secure/api/v2/15331/$(cat $HOME/.ssh/tokens/prodb-01)/Web%20Information/List%20All%20on%20Website/select.json" | /usr/local/bin/jq '.' > $HOME/dev/eSolia_2018/data/info.json
 rm -i -rf $HOME/dev/eSolia_2018/data/japancontact.json
-/usr/local/opt/curl/bin/curl --silent -k "https://pro.dbflex.net/secure/api/v2/15331/$(cat $HOME/.ssh/tokens/prodb-01)/Web%20Japan%20Contact%20and%20App/API%20List%20All/select.json" | /usr/local/bin/jq '.' > $HOME/dev/eSolia_2018/data/japancontact.json
+#/usr/local/opt/curl/bin/curl --silent -k "https://pro.dbflex.net/secure/api/v2/15331/$(cat $HOME/.ssh/tokens/prodb-01)/Web%20Japan%20Contact%20and%20App/API%20List%20All/select.json" | /usr/local/bin/jq '.' > $HOME/dev/eSolia_2018/data/japancontact.json
 rm -i -rf $HOME/dev/eSolia_2018/data/japanapp.json
-/usr/local/opt/curl/bin/curl --silent -k "https://pro.dbflex.net/secure/api/v2/15331/$(cat $HOME/.ssh/tokens/prodb-01)/Web%20Japan%20Contact%20and%20App/API%20List%20All%20Apps/select.json" | /usr/local/bin/jq '.' > $HOME/dev/eSolia_2018/data/japanapp.json
+#/usr/local/opt/curl/bin/curl --silent -k "https://pro.dbflex.net/secure/api/v2/15331/$(cat $HOME/.ssh/tokens/prodb-01)/Web%20Japan%20Contact%20and%20App/API%20List%20All%20Apps/select.json" | /usr/local/bin/jq '.' > $HOME/dev/eSolia_2018/data/japanapp.json
 rm -i -rf $HOME/dev/eSolia_2018/static/eSolia-Japan-Emergency-Contacts.en.csv
 /usr/local/opt/curl/bin/curl --silent -k "https://pro.dbflex.net/secure/api/v2/15331/$(cat $HOME/.ssh/tokens/prodb-01)/Web%20Japan%20Contact%20and%20App/API%20List%20for%20CSV/select.csv" -o $HOME/dev/eSolia_2018/static/eSolia-Japan-Emergency-Contacts.en.csv
 rm -i -rf $HOME/dev/eSolia_2018/static/eSolia-Japan-Emergency-Contacts.ja.csv
