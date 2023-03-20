@@ -1,5 +1,11 @@
 {{ $id := .Get 0 }}
-{{ range where .Site.Data.success ".Id" $id }}
+
+{{ $token := getenv "PRODBTOKEN15331" }}
+{{ $bearertoken := printf "Bearer %s" $token }}
+{{ $urlPre := "https://pro.dbflex.net" }}
+{{ $successALL := getJSON $urlPre "/secure/api/v2/15331/Web%20Project/List%20All%20for%20JSON/select.json" (dict "Authorization" $bearertoken) }}
+
+{{ range where $successALL ".Id" $id }}
 {{ if eq $.Site.Language.Lang "en" }}
 <h2>Project Background</h2>
 <p>{{ with (index . "Project Background") }}{{ . | markdownify | safeHTML }}{{ end }}</p>
