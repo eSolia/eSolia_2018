@@ -63,8 +63,11 @@
                 </a>
                 <table class="table is-striped is-hoverable is-fullwidth is-bordered is-size-7-mobile is-size-7-tablet is-size-6-desktop">
                   <tbody>
+
+                  {{ $token := getenv "PRODBTOKEN15331" }}
+                  {{ $bearertoken := printf "Bearer %s" $token }}
                   {{ $urlPre := "https://pro.dbflex.net" }}
-                  {{ $newsE := getJSON $urlPre "/secure/api/v2/15331/25ABDEE3357D416283C0D66B9C872076/Web%20Information/API%20List%20All%20EN/select.json" }}
+                  {{ $newsE := getJSON $urlPre "/secure/api/v2/15331/Web%20Information/API%20List%20All%20EN/select.json" (dict "Authorization" $bearertoken) }}
                   {{ range $newsE }}
                      <tr>
                        <th class="has-text-right" style="white-space: nowrap;">{{ .Date }}</th>
@@ -80,8 +83,10 @@
                 </a>
                 <table class="table is-striped is-hoverable is-fullwidth is-bordered is-size-7-mobile is-size-7-tablet is-size-6-desktop">
                   <tbody>
+                  {{ $token := getenv "PRODBTOKEN15331" }}
+                  {{ $bearertoken := printf "Bearer %s" $token }}
                   {{ $urlPre := "https://pro.dbflex.net" }}
-                  {{ $newsJ := getJSON $urlPre "/secure/api/v2/15331/25ABDEE3357D416283C0D66B9C872076/Web%20Information/API%20List%20All%20JP/select.json" }}
+                  {{ $newsJ := getJSON $urlPre "/secure/api/v2/15331/Web%20Information/API%20List%20All%20JP/select.json" (dict "Authorization" $bearertoken) }}
                   {{ range $newsJ }}
                      <tr>
                        <th class="has-text-right" style="white-space: nowrap;">{{ .DateJP }}</th>
