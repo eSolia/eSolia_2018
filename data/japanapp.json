@@ -10,6 +10,16 @@
     "URL‡": "https://support.apple.com/ja-jp/HT202346"
   },
   {
+    "@row.id": 49,
+    "Id": "49",
+    "Description": "NERV Disaster Prevention Application",
+    "Description‡": "NERV 防災アプリ",
+    "Notes": "NERV is an app that delivers optimized disaster prevention and weather information, such as earthquake, tsunami and volcanic eruption alerts, or flood and landslide information based on the user's registered location. Japan residents and visitors can get real time information to help them take appropriate action. ",
+    "Notes‡": "NERV防災アプリは、地震・津波・噴火の速報や様々な災害危険度（土砂災害・浸水害・洪水害）の防災気象情報を利用者の登録地点に基づき、最適化して自動配信するサービスです。利用者が迅速な判断や行動を取れるようにリアルタイムで災害情報を得ることができます。",
+    "URL": "https://nerv.app/en/",
+    "URL‡": "https://nerv.app/"
+  },
+  {
     "@row.id": 33,
     "Id": "33",
     "Description": "Android 8.1+ Emergency Alerts",

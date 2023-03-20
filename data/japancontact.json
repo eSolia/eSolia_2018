@@ -195,6 +195,21 @@
     "Toll Free Call?": true
   },
   {
+    "@row.id": 50,
+    "Id": "50",
+    "Description": "NEXCO Highway Radio 1620 kHz",
+    "Description‡": "NEXCO 東日本 ハイウェイラジオ 1620 kHz",
+    "Number": null,
+    "Number‡": null,
+    "Notes": "From antennas installed along Expressways, Nexco provides road traffic information via AM radio broadcasting (on 1620 kHz) updated every 5 minutes.",
+    "Notes‡": "高速道路に沿って設置したアンテナから、東日本高速道路株式会社は、AMラジオ放送（1620kHz）を通じて5分毎更新で、道路交通情報を提供しています。",
+    "Hours": "24x7, 365d",
+    "Hours‡": "24x7, 365日",
+    "URL": "https://www.e-nexco.co.jp/en/activity/safety/detail_06.html",
+    "URL‡": "https://www.e-nexco.co.jp/activity/safety/detail_06.html",
+    "Toll Free Call?": true
+  },
+  {
     "@row.id": 11,
     "Id": "11",
     "Description": "Road Service (JAF)",

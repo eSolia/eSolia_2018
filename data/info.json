@@ -1,5 +1,60 @@
 [
   {
+    "@row.id": 1108,
+    "Date": "2023-Jan-17",
+    "Description": "Happy New Year! As we build our ISO 27001 ISMS on SharePoint, we have released a [statement of executive support](https://esolia.pro/ismsexecmemo) and our initial high level [base security policy](https://esolia.pro/basesecpol) (Japanese with English synopsis). Thanking you for your business and support in the coming year, as always. 🎍\r\n"
+  },
+  {
+    "@row.id": 1106,
+    "Date": "2022-Dec-28",
+    "Description": "The eSolia year-end holiday starts today Dec 28 (Wed)​ from 15:00​, and runs through Jan ​4 ​(Wed), 2021​. We will be back at work from Jan 5th, and wish everyone a restful break! \"Yoi otoshi wo!\" 🇯🇵㊗️\r\n"
+  },
+  {
+    "@row.id": 1107,
+    "Date": "2022-Dec-27",
+    "Description": "Thank you for your business and support. eSolia has completed our migration to MS 365, and it should give us better compatibility with client systems. Our first related internal project is to build our ISO 27001 ISMS on SharePoint. Wish us luck! 🎊\r\n"
+  },
+  {
+    "@row.id": 1105,
+    "Date": "2022-Nov-30",
+    "Description": "eSolia is officially pursuing ISO 27001 information security ISMS certification, and migrating our systems to MS 365 for better client system compatibility going forward. Thank you for your patience, and continued business and support! 🎯 "
+  },
+  {
+    "@row.id": 1104,
+    "Date": "2022-Oct-14",
+    "Description": "To promote a paperless environment, eSolia is issuing commercial papers such as quotes and invoices or reports in PDF format via email only. We appreciate your understanding and cooperation in this matter. ♻️"
+  },
+  {
+    "@row.id": 1103,
+    "Date": "2022-Sept-21",
+    "Description": "We updated our big list of [Japan Emergency Contacts](https://esolia.com/japan-contacts/) to include \"Highway Radio\" emergency broadcasts. 📻"
+  },
+  {
+    "@row.id": 1102,
+    "Date": "2022-Sept-01",
+    "Description": "See our updated list of [useful Japan apps](https://esolia.com/japan-apps/) (added the NERV disaster information app), as well as pages related to [Japan Disaster information](https://esolia.com/japan-disaster/), and Japan [emergency phone numbers](https://esolia.com/japan-contacts/) (with CSV download). 🚀"
+  },
+  {
+    "@row.id": 1101,
+    "Date": "2022-Aug-17",
+    "Description": "Team eSolia is back at work from today 17th Aug. Thank you for your patience while we work through any requests that we received during the holidays. 🚀"
+  },
+  {
+    "@row.id": 1099,
+    "Date": "2022-Jul-28",
+    "Description": "eSolia will be closed from 13-16 Aug 2022 inclusive, for the traditional o-bon holiday. Clients: please use emergency contact as per separate email we will send before the break. 🍉"
+  },
+  {
+    "@row.id": 1100,
+    "Date": "2022-Jul-07",
+    "Description": "Thanks to you, we can celebrate eSolia's 23nd Anniversary! We founded [eSolia Inc](https://esolia.com/about/) on 7th July 1999 for IT service excellence, and have continued to work on our service maturity over the last year including working towards getting ISO 27001 certification, while flexibly surviving the challenges posed by the ongoing COVID-19 pandemic. Thank you for another successful year, and here's to everyone's health and happiness going forward! 🎉㊗️"
+  },
+  {
+    "@row.id": 1098,
+    "Date": "2022-Mar-28",
+    "Description": "To enhance security, we changed the [password policy](https://pro.dbflex.net/secure/db/15331/res.aspx/eSolia%20PROdb%20Password%20Policy.pdf) for PROdb cloud database users on the <https://pro.dbflex.net> domain, setting the minimum number of characters in passwords to 14. Please keep it in mind the next time you change your password, and thank you for your understanding and cooperation. "
+  },
+  {
     "@row.id": 1097,
     "Date": "2021-Nov-01",
     "Description": "We refreshed the [security and privacy policy](https://esolia.com/prodb-security-and-privacy) page for our cloud database platform \"PROdb\". "

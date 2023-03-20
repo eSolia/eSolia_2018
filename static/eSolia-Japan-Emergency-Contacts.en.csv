@@ -28,6 +28,7 @@ Disaster Voice Message,171,"Testing Availability Dates and Times:
 * Disaster prevention week: 30 Aug 9:00~5 Sept 17:00
 * Disaster Prevention and Volunteer Week: 15 Jan 9:00~21 Jan 17:00",Available during disasters. Testing on 1st and 15th.,https://www.web171.jp/,True,2018-06-14 17:44:39
 Road Problem Reporting,#9910,,"24x7, 365d",,True,2018-06-14 16:53:53
+NEXCO Highway Radio 1620 kHz,,"From antennas installed along Expressways, Nexco provides road traffic information via AM radio broadcasting (on 1620 kHz) updated every 5 minutes.","24x7, 365d",https://www.e-nexco.co.jp/en/activity/safety/detail_06.html,True,2022-09-21 10:15:12
 Road Service (JAF),#8139,,"24x7, 365d",http://www.jaf.or.jp/e/road_s_info.htm,False,2018-06-13 20:21:37
 Directory Assistance,104,,"24x7, 365d",https://www.ntt-east.co.jp/en/product/option_104.html,False,2018-06-13 20:21:38
 Time Announcement Service,117,,"24x7, 365d",https://www.ntt-east.co.jp/en/contact/,False,2018-06-13 20:21:38
