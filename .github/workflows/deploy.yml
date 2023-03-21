@@ -1,0 +1,92 @@
+name: Deploy to Deno Deploy
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events for main or dev
+  # Deno Deploy project is linked to one branch, usually main, but will
+  # generate a non-production deploy URL for branches other than main
+  push:
+    branches: [ main, dev ]
+  pull_request:
+    branches: [ main, dev ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+  schedule:
+    # At 17:05 GMT every day, middle of the night in Japan.
+    - cron: '5 01 * * *'
+
+# A workflow run is made up of one or more
+# jobs that can run sequentially or in parallel
+jobs:
+  deploy:
+    name: Deploy
+    runs-on: ubuntu-latest
+    permissions:
+      id-token: write # Allows authentication with Deno Deploy.
+      contents: write # Allows cloning the repo. Need write this time, because we git push
+
+    steps:
+      - name: Clone repository
+        uses: actions/checkout@v3
+        with:
+          submodules: true # Fetch Hugo themes (true or recursive)
+          fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest' # May fail if there's a breaking change, but just check logs for errors
+          extended: 'true' # Need extended for anything fancy
+      - name: Check
+        run: |
+            which hugo
+            hugo version
+            which jq
+
+      - name: Refresh data then build site public with Hugo
+        env:
+            PRODBTOKEN15331: ${{ secrets.PRODBTOKEN15331 }}
+        run: |
+            DT=`date +'%Y%m%d-%H%M%S'`
+            echo '1' $GITHUB_REF
+            echo '2' ${{ github.ref }}
+            echo '3' ${{ github.ref_name }}
+            echo '4' ${{ github.head_ref }}
+            echo '5' ${{ github.base_ref }}
+            rm -rf static/eSolia-Japan-Emergency-Contacts.en.csv
+            rm -rf static/eSolia-Japan-Emergency-Contacts.ja.csv
+            curl -k "https://pro.dbflex.net/secure/api/v2/15331/$PRODBTOKEN15331/Web%20Japan%20Contact%20and%20App/API%20List%20for%20CSV/select.csv" -o static/eSolia-Japan-Emergency-Contacts.en.csv
+            curl -k "https://pro.dbflex.net/secure/api/v2/15331/$PRODBTOKEN15331/Web%20Japan%20Contact%20and%20App/API%20List%20for%20CSV%E2%80%A1/select.csv" -o static/eSolia-Japan-Emergency-Contacts.ja.csv
+            echo "=BUILD=" && hugo --gc --minify --verbose --ignoreCache -v -e=${{ github.ref_name || github.base_ref }}
+
+      - name: Deploy JA site to Deno Deploy
+        id: deploy # needed to be able to get outputs from this step below
+        uses: denoland/deployctl@v1
+        with:
+          project: esolia-co-jp # the name of the project on Deno Deploy
+          entrypoint: index.ts # wraps the static output files
+          root: public/ja # Where the built HTML/CSS/JS files are located.
+
+      - name: Deploy EN site to Deno Deploy
+        id: deploy # needed to be able to get outputs from this step below
+        uses: denoland/deployctl@v1
+        with:
+          project: esolia-com # the name of the project on Deno Deploy
+          entrypoint: index.ts # wraps the static output files
+          root: public/en # Where the built HTML/CSS/JS files are located.
+
+      - name: Check folder contents and output
+        run: |
+            ls
+            echo "====== PUBLIC ======"
+            ls public
+            echo "====== STEPS ======"
+            echo '${{ toJSON(steps) }}'
+
+      - name: Ping Slack esolia-websites channel
+        uses: bryannice/gitactions-slack-notification@2.0.0
+        env:
+          SLACK_INCOMING_WEBHOOK: ${{ secrets.SLACK_INCOMING_WEBHOOK }}
+          SLACK_TITLE: 'Deno Deploy eSolia.com and .co.jp'
+          SLACK_MESSAGE: 'Git Commit: ${{ github.sha }} on ${{ github.ref }} from ${{ github.repository }}. Deployment URL: ${{ steps.deploy.outputs.url }}'
