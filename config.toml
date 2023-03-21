@@ -325,8 +325,8 @@ Analytics = "YHYBNXPJ"
 [[languages.en.menu.toolslist]]
 name = "Uptime Monitor"
 identifier = "en_uptime"
-url = "https://uptime.esolia.pro"
-pre = "eSolia Uptime Monitor powered by Upptime."
+url = "https://updown.io/p/4isvl"
+pre = "eSolia Uptime Monitor powered by updown.io."
 post = "_blank"
 weight = 11
 
@@ -580,8 +580,8 @@ help  = "ヘルプ"
 [[languages.ja.menu.toolslist]]
     name = "Uptime Monitor"
     identifier = "ja_uptime"
-    url = "https://uptime.esolia.pro"
-    pre = "イソリアのアップタイム監視システムは、リアルタイムでシステムステータス確認を可能にしてくれます。パワード・バイ・Upptime"
+    url = "https://updown.io/p/4isvl"
+    pre = "イソリアのアップタイム監視システムは、リアルタイムでシステムステータス確認を可能にしてくれます。パワード・バイ・Updown.io"
     post = "_blank"
     weight = 11
 

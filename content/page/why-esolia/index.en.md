@@ -114,4 +114,4 @@ As mentioned elsewhere, we have sets of tools developed over years of experience
 * Document management
 * Source code management
 * Physical tools for engineering jobs
-* [Uptime Monitor](https://uptime.esolia.pro/) system
+* [Uptime Monitor](https://updown.io/p/4isvl) system
