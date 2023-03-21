@@ -61,7 +61,7 @@ jobs:
             echo "=BUILD=" && hugo --gc --minify --verbose --ignoreCache -v -e=${{ github.ref_name || github.base_ref }}
 
       - name: Deploy JA site to Deno Deploy
-        id: deploy # needed to be able to get outputs from this step below
+        id: deploy1 # needed to be able to get outputs from this step below
         uses: denoland/deployctl@v1
         with:
           project: esolia-co-jp # the name of the project on Deno Deploy
@@ -69,7 +69,7 @@ jobs:
           root: public/ja # Where the built HTML/CSS/JS files are located.
 
       - name: Deploy EN site to Deno Deploy
-        id: deploy # needed to be able to get outputs from this step below
+        id: deploy2 # needed to be able to get outputs from this step below
         uses: denoland/deployctl@v1
         with:
           project: esolia-com # the name of the project on Deno Deploy
