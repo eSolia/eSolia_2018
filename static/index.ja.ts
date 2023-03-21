@@ -32,8 +32,9 @@ app.use(async (ctx) => {
     });
   } catch {
     ctx.response.status = 404;
-    ctx.response.body = "404 File not found.";
+    ctx.response.body = "お探しのページは、当サイトに見つかりません。アドレスが間違ってるか、変更されている場合もあります。当サイトの検索機能をお使いください: https://esolia.co.jp/search";
   }
 });
 
 await app.listen({ port: 8000 });
+
