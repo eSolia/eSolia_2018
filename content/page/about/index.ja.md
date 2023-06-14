@@ -95,6 +95,10 @@ menu:
       <td>1999年7月7日</td>
     </tr>
     <tr>
+      <th class="has-text-right is-uppercase">適格請求書登録番号</th>
+      <td>T4-0104-0109-3761</td>
+    </tr>
+    <tr>
       <th class="has-text-right is-uppercase">URL</th>
       <td><em>英語:</em> <a href="https://esolia.com">esolia.com</a><br>
     <em>日本語:</em> <a href="https://esolia.co.jp">esolia.co.jp</a></td>

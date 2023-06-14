@@ -97,6 +97,10 @@ See the following general information about eSolia, and [import](/post/how-to-us
       <td>7 July 1999</td>
     </tr>
     <tr>
+      <th class="has-text-right is-uppercase">Invoice System Registration №</th>
+      <td>T4-0104-0109-3761</td>
+    </tr>
+    <tr>
       <th class="has-text-right is-uppercase">Web Properties</th>
       <td><em>English:</em> <a href="https://esolia.com">esolia.com</a><br>
     <em>Japanese:</em> <a href="https://esolia.co.jp">esolia.co.jp</a></td>
