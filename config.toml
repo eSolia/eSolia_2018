@@ -118,11 +118,11 @@ help  = "Help"
 
 [languages]
 [languages.en]
-[languages.en.params]
     baseURL = "https://esolia.com/"
     title = "eSolia Inc."
     languageName = "English"
-    weight = 1
+    weight = 1 
+[languages.en.params]
     # For RSS only, apparently
     languageCode = "en-US"
     googleAnalytics = "UA-1040233-7"
@@ -368,11 +368,11 @@ weight = 11
     weight = 10
 
 [languages.ja]
-[languages.ja.params]
     baseURL = "https://esolia.co.jp/"
     title = "イソリア"
     languageName = "日本語"
     weight = 2
+[languages.ja.params]
     # For RSS only, apparently
     languageCode = "ja"
     hasCJKLanguage = "true"
