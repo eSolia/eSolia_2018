@@ -118,16 +118,15 @@ help  = "Help"
 
 [languages]
 [languages.en]
-baseURL = "https://esolia.com/"
-title = "eSolia Inc."
-languageName = "English"
-weight = 1
-# For RSS only, apparently
-languageCode = "en-US"
-googleAnalytics = "UA-1040233-7"
-Analytics = "YHYBNXPJ"
-
 [languages.en.params]
+    baseURL = "https://esolia.com/"
+    title = "eSolia Inc."
+    languageName = "English"
+    weight = 1
+    # For RSS only, apparently
+    languageCode = "en-US"
+    googleAnalytics = "UA-1040233-7"
+    Analytics = "YHYBNXPJ"
     linkedin = "english-link"
     locale = "en-US"
     alternatelocales = ["ja-JP"]
@@ -369,24 +368,23 @@ weight = 11
     weight = 10
 
 [languages.ja]
-baseURL = "https://esolia.co.jp/"
-title = "イソリア"
-languageName = "日本語"
-weight = 2
-# For RSS only, apparently
-languageCode = "ja"
-hasCJKLanguage = "true"
-googleAnalytics = "UA-1040233-8"
-Analytics = "RQJNOLGM"
-
 [languages.ja.params]
+    baseURL = "https://esolia.co.jp/"
+    title = "イソリア"
+    languageName = "日本語"
+    weight = 2
+    # For RSS only, apparently
+    languageCode = "ja"
+    hasCJKLanguage = "true"
+    googleAnalytics = "UA-1040233-8"
+    Analytics = "RQJNOLGM"
     linkedin = "リンクドイン"
     locale = "ja-JP"
     alternatelocales = ["en-US"]
     description = "東京をベースにしたITマネージメントやサポート会社、株式会社イソリアのウェブサイト"
     keywords = ["東京","東京近郊","都内","23区","ICT","IT","バイリンガル","サポート","アウトソーシング","外注","ヘルプデスク","ウェブサイト","マネージメント","コンサルティング","開発","統括","日本"]
     author = "チーム イソリア"
-    accountableperson = "コブレー ジェームズ"
+    accountableperson = "コグレー ジェームズ"
     entityname = "株式会社イソリア"
     # Used when a given page doesn't set its own.
     defaultDescription = "このコンテンツはイソリアの提供でお送りいたします。"

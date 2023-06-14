@@ -23,5 +23,5 @@ rm -i -rf $HOME/dev/eSolia_2018/static/eSolia-Japan-Emergency-Contacts.ja.csv
 
 echo "Serve hugo (ctrl-c to exit)..."
 cd $HOME/dev/eSolia_2018
-hugo server --navigateToChanged --buildDrafts --buildFuture --watch --verbose --source="$HOME/dev/eSolia_2018" --config="$HOME/dev/eSolia_2018/config.toml" --port=1366 --enableGitInfo --ignoreCache
+hugo server --panicOnWarning --navigateToChanged --buildDrafts --buildFuture --watch --verbose --source="$HOME/dev/eSolia_2018" --config="$HOME/dev/eSolia_2018/config.toml" --port=1366 --enableGitInfo --ignoreCache
 
