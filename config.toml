@@ -390,9 +390,7 @@ weight = 11
     defaultDescription = "このコンテンツはイソリアの提供でお送りいたします。"
     defaultKeywords = "イソリア"
     ISO8601 = "2006-01-02T15:04:05JST"
-
-[languages.ja.navigation]
-help  = "ヘルプ"
+    help = "ヘルプ"
 
 [[languages.ja.menu.main]]
     name = "ニュース"
