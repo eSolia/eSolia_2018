@@ -58,7 +58,7 @@ jobs:
             rm -rf static/eSolia-Japan-Emergency-Contacts.ja.csv
             curl -k "https://pro.dbflex.net/secure/api/v2/15331/$PRODBTOKEN15331/Web%20Japan%20Contact%20and%20App/API%20List%20for%20CSV/select.csv" -o static/eSolia-Japan-Emergency-Contacts.en.csv
             curl -k "https://pro.dbflex.net/secure/api/v2/15331/$PRODBTOKEN15331/Web%20Japan%20Contact%20and%20App/API%20List%20for%20CSV%E2%80%A1/select.csv" -o static/eSolia-Japan-Emergency-Contacts.ja.csv
-            echo "=BUILD=" && hugo --gc --minify --verbose --ignoreCache -v -e=${{ github.ref_name || github.base_ref }}
+            echo "=BUILD=" && hugo --panicOnWarning --gc --minify --verbose --ignoreCache -v -e=${{ github.ref_name || github.base_ref }}
 
       - name: Deploy JA site to Deno Deploy
         id: deploy1 # needed to be able to get outputs from this step below
