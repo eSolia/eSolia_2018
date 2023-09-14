@@ -1,5 +1,5 @@
 +++
-date = "2023-08-23T11:57:05+09:00"
+date = "2023-09-14T11:35:28+09:00"
 draft = "false"
 tags = ["イソリア"]
 title = "eSolia Bilingual IT Outsourcing"
@@ -19,7 +19,7 @@ title = "eSolia Bilingual IT Outsourcing"
 <span class="tag is-danger is-large">弊社の ISO 27001に基づく <a href="https://esolia.pro/ismsexecmemo" class="has-text-esolia-yellow-2"> ISMSの実施の宣言メモ </a> 及び <a href="https://esolia.pro/basesecpol" class="has-text-esolia-yellow-2"> 情報セキュリティ基本⽅針書 </a> 🚀</span>
 
 <br><br>
-お陰様でイソリアはこのたび<span class="has-text-esolia-yellow-2">創立23周年</span>を迎えることが出来ました。バイリンガルITアウトソーシングのイソリアが、頼れるIT部門として貴社のサポートを担当致します。<br><br>
+お陰様でイソリアはこのたび<span class="has-text-esolia-yellow-2">創立24周年</span>を迎えることが出来ました。バイリンガルITアウトソーシングのイソリアが、頼れるIT部門として貴社のサポートを担当致します。<br><br>
 特定ITスキルを持つマルチリンガル且つプロフェッショナルな私たちが、貴社のプロジェクトを成功に導きます。是非ともイソリアにお任せください！ 
 <br><br>
 COVID-19 新型コロナウイルスの世界的なパンデミックによる影響を受けられた全ての方々に謹んでお見舞い申し上げます。当社サポート対応については[こちらのページ](/post/covid-19-state-of-emergency-4/)をご参照ください。

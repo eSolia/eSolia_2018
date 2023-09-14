@@ -1,5 +1,5 @@
 +++
-date = "2023-08-23T11:57:05+09:00"
+date = "2023-09-14T11:35:28+09:00"
 draft = "false"
 tags = ["eSolia"]
 title = "eSolia Bilingual IT Outsourcing"
@@ -20,5 +20,5 @@ title = "eSolia Bilingual IT Outsourcing"
 
 
 <br><br>
-<i>Rely on eSolia to act as your virtual Japan IT department. Our professionals speak multiple languages, and have a wide range of IT skills to cover your needs. Thanks to you, we passed our <span class="has-text-esolia-yellow-2">23rd Anniversary</span> on 7th July, and we are aiming for many more years in business. Trust us with your projects, and leverage our experience to help you succeed in Japan!</i> <br><br>
+<i>Rely on eSolia to act as your virtual Japan IT department. Our professionals speak multiple languages, and have a wide range of IT skills to cover your needs. Thanks to you, we passed our <span class="has-text-esolia-yellow-2">24th Anniversary</span> on 7th July, and we are aiming for many more years in business. Trust us with your projects, and leverage our experience to help you succeed in Japan!</i> <br><br>
 Our sincere thoughts are with all of those who have been impacted by the global COVID-19 pandemic. [Read More](/post/covid-19-state-of-emergency-4/) about how we are providing support in the meantime.  
