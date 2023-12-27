@@ -8,7 +8,7 @@ title = "eSolia Bilingual IT Outsourcing"
   Priority = "1"
 +++
 
-<span class="tag is-danger is-large">eSolia will be on Holiday from noon 28 Dec 2023, through 4 Jan 2024. Happy New Year! 🇯🇵㊗️</span><br><br>  
+<span class="tag is-danger is-large">eSolia will be on Holiday through 4 Jan 2024. Happy New Year! 🇯🇵㊗️</span><br><br>  
 <!-- <span class="tag is-danger is-large">We're back after Obon Week! 🇯🇵🪷</span><br>  -->
 <!-- <span class="tag is-danger is-large">On Holiday through 16 Aug. Happy Obon Week! 🇯🇵🪷</span><br> -->
 <!-- <a href="/post/20210222-esolia-office-move-to-shiodome/" class="button is-danger is-size-6-mobile is-medium">eSolia Has Moved! 🎉</a> -->
