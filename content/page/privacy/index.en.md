@@ -1,7 +1,7 @@
 ---
 author: eSolia
 authorlink: /about
-date: 2021-02-21T13:50:32+09:00
+date: 2024-01-11T10:59:16+09:00
 description: eSolia Privacy Statement - eSolia Inc's policy regarding the collection and use of information that can personally identify you. 
 draft: false
 slug: privacy
@@ -23,41 +23,61 @@ images:
 
 ## Privacy Statement
 
-**Updated:** 22 Feb 2021  
+**Updated:** 11 Jan 2024  
   
-This page explains eSolia Inc's policy regarding the collection and use of information that can personally identify you. By using our websites you are signifying you are in agreement with this policy. 
+eSolia Inc. (eSolia hereafter) makes every effort to protect and secure the personally identifiable information "PII" that you supply to us via our sites, or that may receive from you in providing professional services, and this page explains our policy regarding its collection and use. Your use of our websites or services indicates your agreement with this policy. 
 
 ### Information Collection and Use
 
-eSolia collects contact information from customers at several different points on our websites: free trial ordering, online support registration and subscription to news. Collected data is stored securely to prevent unauthorized access. 
+eSolia commits to safe and secure administration of any PII collected, and to protect it from unauthorized access, loss, corruption or leakage. 
 
-This information is used to contact the user about the services for which they have expressed interest or are using, and will not be sold, rented or made available to any third party at any time, unless we are required to do so as noted in "Limitation."
+### PII Collection Purpose
 
-### Registration and Update
+* To allow us to contact you when you enter information in our web inquiry form regarding our professional services.
+* To allow us to send direct emails such as newsletters or service announcements. 
+* To sign up for trials or paid accounts for our PROdb cloud database.
+* To answer survey or questionnaire questions. 
+* To allow us to contact client users via email, phone or letter, in the course of providing professional services. 
+* To allow us to confirm your organization's financial information. 
+* To allow us to contact you with commercial papers such as contracts and contract addenda, quotes, purchase order forms, e-sign requests, invoices, delivery notices, account statements, project reports or similar.
 
-To use our secure websites, users complete registration forms, providing their contact information such as name and email address, as well as unique identifiers such as a username and password. 
+We will not collect PII for purposes other than the above without your permission. 
 
-Users are able to update or correct the personally identifiable information they have provided. If a customer wishes to close their account, a method for removal of such information will be provided or we will remove it manually when that is not possible. 
+### PII Sharing Limitation
 
-### Ordering
+eSolia respects the privacy of its customers, and will not sell, rent or make available your PII to any third party at any time, except in the following cases: 
 
-To fulfill orders and process billing, we request information from the user or client, such as contact and financial information. 
+* We have your explicit permission. 
+* We are required by law or judicial or other governmental subpoena.
+* In exigent circumstances to act to protect and defend the rights or property of eSolia Inc, or to protect the personal safety of eSolia Inc's customers or the public. 
+* To continue provision of the same services under a different entity name, for example in the case of a merger. 
+
+### PII Storage
+
+We store your PII in the following locations: 
+
+* Microsoft M365 - Office files and OneDrive / Sharepoint - Japan and Asia Pacific DCs
+* PROdb Cloud Database "Contacts", "Inquiries" -related tables - Chicago USA DC
+* Bulk Email System "Mailing List" - AWS US-East-1 Server 
+* Yayoi Accounting System - Contact List - Local Server in Shiodome Tokyo office
+
+### PII-related Requests
+
+You may contact us regarding the following: 
+
+* What PII of yours does eSolia currently hold. 
+* Addition, Correction or Deletion of your PII. 
+* Cease usage of your PII.  
+
+In some cases there may be a way to directly add, edit or delete your own PII from our systems. 
 
 ### Cookies
 
-Our sites may generate "cookies". A "cookie" is a piece of data created by your Internet browser, stored on your hard drive and containing certain information related to your use of our sites. Cookies are only used to store encrypted login information, and are in no way linked to any personally identifiable information using our sites. 
+Our sites may generate and store information in "cookies". A "cookie" is a piece of data created by your Internet browser, stored on your hard drive and containing certain information related to your use of the specific website that generated it. Our cloud database uses cookies to store encrypted login information, user preferences and locations visited in the site. No cookies we generate contain PII. 
 
 ### Log Files
 
-We use IP addresses, browser type, operating system, referring URLs, page views, and access times to analyze trends, administer the site, track user movements, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
-
-### Site and Service Updates
-
-We send occasional site and service updates announcements to our customers, for the purposes of smooth service provision and to communicate any issues regarding our services or the customer's account. 
-
-### Limitation
-
-It is eSolia's policy to respect the privacy of its customers. Therefore we will not monitor, edit or disclose the contents of your personal account unless required to do so by law, in accordance with a judicial or other governmental subpoena, warrant or order, or, in exigent circumstances to act to protect and defend the rights or property of eSolia Inc, or to protect the personal safety of eSolia Inc's customers or the public. 
+With regard to our websites, we log only basic information such as IP addresses, browser type, operating system, referring URLs, page views, and access times to analyze trends, allow us to administer the site, track which location was accessed, and gather broad demographic information for aggregate use. Logged information is not linked to PII.
 
 ### Changes in this Privacy Statement
 
