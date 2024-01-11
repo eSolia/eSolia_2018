@@ -33,15 +33,15 @@ eSolia commits to safe and secure administration of any PII collected, and to pr
 
 ### PII Collection Purpose
 
+We will not collect PII for purposes other than the following without your permission:
+
 * To allow us to contact you when you enter information in our web inquiry form regarding our professional services.
 * To allow us to send direct emails such as newsletters or service announcements. 
 * To sign up for trials or paid accounts for our PROdb cloud database.
 * To answer survey or questionnaire questions. 
 * To allow us to contact client users via email, phone or letter, in the course of providing professional services. 
 * To allow us to confirm your organization's financial information. 
-* To allow us to contact you with commercial papers such as contracts and contract addenda, quotes, purchase order forms, e-sign requests, invoices, delivery notices, account statements, project reports or similar.
-
-We will not collect PII for purposes other than the above without your permission. 
+* To allow us to contact you with commercial papers such as contracts and contract addenda, quotes, purchase order forms, e-sign requests, invoices, delivery notices, account statements, project reports or similar. 
 
 ### PII Sharing Limitation
 
