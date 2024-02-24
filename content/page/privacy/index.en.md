@@ -1,7 +1,7 @@
 ---
 author: eSolia
 authorlink: /about
-date: 2024-01-11T14:59:16+09:00
+date: 2024-02-24T10:59:16+09:00
 description: eSolia Privacy Statement - eSolia Inc's policy regarding the collection and use of information that can personally identify you. 
 draft: false
 slug: privacy
@@ -23,7 +23,7 @@ images:
 
 ## Privacy Statement
 
-**Updated:** 11 Jan 2024  
+**Updated:** 24 Feb 2024  
   
 eSolia Inc. (eSolia hereafter) makes every effort to protect and secure the personally identifiable information "PII" that you supply to us via our sites, or that may receive from you in providing professional services, and this page explains our policy regarding its collection and use. Your use of our websites or services indicates your agreement with this policy. 
 
@@ -57,6 +57,7 @@ eSolia respects the privacy of its customers, and will not sell, rent or make av
 We store your PII in the following locations: 
 
 * Microsoft M365 - Office files and OneDrive / Sharepoint - Japan and Asia Pacific DCs
+* AFI Backup - Backup of M365 files - Europe DC
 * PROdb Cloud Database "Contacts", "Inquiries" -related tables - Chicago USA DC
 * Bulk Email System "Mailing List" - AWS US-East-1 Server 
 * Yayoi Accounting System - Contact List - Local Server in Shiodome Tokyo office
