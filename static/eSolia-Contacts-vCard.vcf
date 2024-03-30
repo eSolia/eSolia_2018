@@ -1,6 +1,6 @@
 BEGIN:VCARD
 VERSION:3.0
-item1.EMAIL;TYPE=INTERNET:info@esolia.co.jp
+item1.EMAIL;TYPE=INTERNET:hello@esolia.co.jp
 item1.X-ABLabel:General
 item2.TEL:+81-3-4577-3380
 item2.X-ABLabel:Main

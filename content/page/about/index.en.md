@@ -85,7 +85,7 @@ See the following general information about eSolia, and [import](/post/how-to-us
     </tr>
     <tr>
       <th class="has-text-right is-uppercase">Contact</th>
-      <td>Request <a href="/info-request">Information about our Services</a>, or email to <a href="mailto:info@esolia.co.jp">info@esolia.co.jp</a>.</td>
+      <td>Request <a href="/info-request">Information about our Services</a>, or email to <a href="mailto:hello@esolia.co.jp">hello@esolia.co.jp</a>.</td>
     </tr>
     <tr>
       <th class="has-text-right is-uppercase">Directors</th>

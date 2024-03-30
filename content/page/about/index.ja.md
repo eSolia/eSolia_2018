@@ -83,7 +83,7 @@ menu:
     </tr>
     <tr>
       <th class="has-text-right is-uppercase">お問合せ</th>
-      <td>弊社サービスに関しましては<a href="/info-request">こちらのフォーム</a>、又は<a href="mailto:info@esolia.co.jp">info@esolia.co.jp</a>までお問い合わせください。</td>
+      <td>弊社サービスに関しましては<a href="/info-request">こちらのフォーム</a>、又は<a href="mailto:hello@esolia.co.jp">hello@esolia.co.jp</a>までお問い合わせください。</td>
     </tr>
     <tr>
       <th class="has-text-right is-uppercase">役員</th>
