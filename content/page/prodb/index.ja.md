@@ -1,6 +1,6 @@
 ---
 author: イソリア
-date: 2021-11-11T13:51:05+09:00
+date: 2024-03-30T10:00:32+09:00
 draft: false
 title: PROdbクラウド型データベース
 slug: prodb
@@ -162,4 +162,4 @@ PROdb はこの [利用規約](/prodb-tos) の元、運用しております。
 
 すでにご利用の方へのサポートのご依頼は[こちらのページ](/prodb-support)からお願いいたします。
 
-[セキュリティおよびプライバシーポリシー](/prodb-security-and-privacy) ページや、リアルタイム <a class="link" href="https://updown.io/p/4isvl" target="_blank">システム ステータス監視</a> ページもご覧ください。
+[セキュリティおよびプライバシーポリシー](/prodb-security-and-privacy)、[特定商取引法に基づく表記](prodb-commercial-disclosure) 及び、リアルタイム <a class="link" href="https://updown.io/p/4isvl" target="_blank">システム ステータス監視</a> ページもご覧ください。

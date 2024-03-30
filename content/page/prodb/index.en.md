@@ -1,6 +1,6 @@
 ---
 author: eSolia
-date: 2022-02-24T09:58:58+09:00
+date: 2024-03-30T10:00:32+09:00
 draft: false
 title: PROdb Cloud Database
 slug: prodb
@@ -151,6 +151,6 @@ Consider PROdb if:
 
 ### Important Additional Information
 
-PROdb is governed by this [Terms of Service](/prodb-tos) agreement. Users can enter a support request [using this form](/prodb-support).
+PROdb is governed by this [Terms of Service](/prodb-tos) agreement. Users can enter a support request as described [on this page](/prodb-support).
 
-See also our [Security and Privacy](/prodb-security-and-privacy) and <a class="link" href="https://updown.io/p/4isvl" target="_blank">uptime status monitoring</a> pages.
+See also our [Security and Privacy](/prodb-security-and-privacy), [Commercial Disclosure](prodb-commercial-disclosure), and <a class="link" href="https://updown.io/p/4isvl" target="_blank">uptime status monitoring</a> pages.
