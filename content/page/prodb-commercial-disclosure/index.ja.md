@@ -33,8 +33,7 @@ images:
     </tr>
     <tr>
       <th class="has-text-right is-uppercase">所在地</th>
-      <td>〒105-7105　東京都港区東新橋一丁目５番２号<br>
-      汐留シティセンター５階（Work Styling）</td>
+      <td>〒105-7105　東京都港区東新橋一丁目５番２号、汐留シティセンター５階（Work Styling）</td>
     </tr>
     <tr>
       <th class="has-text-right is-uppercase">電話番号</th>
@@ -51,9 +50,7 @@ images:
     </tr>
     <tr>
       <th class="has-text-right is-uppercase">交換および返品（返金ポリシー）</th>
-      <td>延長可能なテスト期間中、無料で一つのデータベースをご利用頂けます。本サービスは期間毎前払い制ですが、
-    いつでも解約することができます。未利用のサービスについて返金することに同意します
-    （1カ月を超える料金が前払いされていた場合、返金は月単位で行うものとします）。</td>
+      <td>延長可能なテスト期間中、無料で一つのデータベースをご利用頂けます。本サービスは期間毎前払い制ですが、いつでも解約することができます。未利用のサービスについて返金することに同意します（1カ月を超える料金が前払いされていた場合、返金は月単位で行うものとします）。</td>
     </tr>
     <tr>
       <th class="has-text-right is-uppercase">引渡時期</th>
@@ -78,7 +75,7 @@ images:
     <tr>
       <th class="has-text-right is-uppercase">追加手数料等の追加料金</th>
       <td>消費税 - 10%<br>
-      カード払い手数料 - 4%<br>
+      カード払い手数料 - 4%
       </td>
     </tr> 
   </tbody>

@@ -33,8 +33,7 @@ images:
     </tr>
     <tr>
       <th class="has-text-right is-uppercase">Address</th>
-      <td>Shiodome City Center 5F (Work Styling), 1-5-2 Higashi-Shimbashi, <br>
-      Minato-ku, Tokyo, Japan, 105-7105</td>
+      <td>Shiodome City Center 5F (Work Styling), 1-5-2 Higashi-Shimbashi, Minato-ku, Tokyo, Japan, 105-7105</td>
     </tr>
     <tr>
       <th class="has-text-right is-uppercase">Phone Number</th>
@@ -51,11 +50,7 @@ images:
     </tr> 
     <tr>
       <th class="has-text-right is-uppercase">Exchanges and Returns Policy</th>
-      <td>An extendable trial period is available while customers test 
-      the service. The service is pre-paid per period, but may be canceled 
-      at any time. Refunds are available for unused service in monthly units 
-      in the event that more than one (1) month’s worth of fees have been 
-      paid in advance. </td>
+      <td>An extendable trial period is available while customers test the service. The service is pre-paid per period, but may be cancelled at any time. Refunds are available for unused service in monthly units in the event that more than one (1) month’s worth of fees have been paid in advance. </td>
     </tr>     
     <tr>
       <th class="has-text-right is-uppercase">Delivery Times</th>
