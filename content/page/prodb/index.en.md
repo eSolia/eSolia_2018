@@ -153,4 +153,4 @@ Consider PROdb if:
 
 PROdb is governed by this [Terms of Service](/prodb-tos) agreement. Users can enter a support request as described [on this page](/prodb-support).
 
-See also our [Security and Privacy](/prodb-security-and-privacy), [Commercial Disclosure](prodb-commercial-disclosure), and <a class="link" href="https://updown.io/p/4isvl" target="_blank">uptime status monitoring</a> pages.
+See also our [Security and Privacy](/prodb-security-and-privacy), [Commercial Disclosure](/prodb-commercial-disclosure), and <a class="link" href="https://updown.io/p/4isvl" target="_blank">uptime status monitoring</a> pages.
