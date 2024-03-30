@@ -160,6 +160,6 @@ PROdbはどんなケースでも柔軟に対応できます。
 
 PROdb はこの [利用規約](/prodb-tos) の元、運用しております。
 
-すでにご利用の方へのサポートのご依頼は[こちらのページ](/prodb-support)からお願いいたします。
+すでにご利用の方のサポートご依頼は[こちらのページ](/prodb-support)からお願いいたします。
 
 [セキュリティおよびプライバシーポリシー](/prodb-security-and-privacy)、[特定商取引法に基づく表記](/prodb-commercial-disclosure) 及び、リアルタイム <a class="link" href="https://updown.io/p/4isvl" target="_blank">システム ステータス監視</a> ページもご覧ください。
