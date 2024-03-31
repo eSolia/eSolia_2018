@@ -21,7 +21,7 @@ images:
   - /img/eSolia-Chicklet-Color-1024px.png
 ---
 
-## Commercial Disclosure
+## Commercial Disclosure for [PROdb](/prodb)
 
 **Updated:** 30 March 2024  
 
@@ -65,7 +65,7 @@ images:
       <td>Payment is due prior to usage period, without regard to payment method.</td>
     </tr>  
     <tr>
-      <th class="has-text-right is-uppercase">Pricing</th>
+      <th class="has-text-right is-uppercase">Pricing for [PROdb](/prodb)</th>
       <td>Annual Basic Subscription (1 Standard User License Included) - JPY 120,000 / year<br>
       Additional Standard User Licenses - JPY 5,000 / month<br>
       Optional Unlimited 'External User' License - JPY 300,000 / year<br>

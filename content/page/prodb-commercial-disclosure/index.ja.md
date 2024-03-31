@@ -21,7 +21,7 @@ images:
   - /img/eSolia-Chicklet-Color-1024px.png
 ---
 
-## 特定商取引法に基づく表記
+## [PROdb](/prodb) の特定商取引法に基づく表記
 
 **更新日:** 2024年3月30日
 
@@ -65,7 +65,7 @@ images:
       <td>何れの決済方法でも、ご利用期間の前に決済確認してからご利用頂けます。</td>
     </tr>  
     <tr>
-      <th class="has-text-right is-uppercase">販売価格</th>
+      <th class="has-text-right is-uppercase">[PROdb](/prodb)の販売価格</th>
       <td>年間基本サブスクリプション (1つの標準ユーザライセンスを含む) - JPY 120,000 / 年<br>
       追加標準ユーザライセンス - JPY 5,000 / 月<br>
       オプション「無制限外部ユーザー」ライセンス - JPY 300,000 / 年<br>
