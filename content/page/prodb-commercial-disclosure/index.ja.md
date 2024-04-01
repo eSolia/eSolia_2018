@@ -1,7 +1,7 @@
 ---
 author: イソリア
 authorlink: /about
-date: 2024-03-30T10:00:32+09:00
+date: 2024-04-01T10:00:32+09:00
 description: イソリアPROdb - 特定商取引法に基づく表記
 draft: false
 slug: prodb-commercial-disclosure
@@ -23,7 +23,7 @@ images:
 
 ## [PROdb](/prodb) の特定商取引法に基づく表記
 
-**更新日:** 2024年3月30日
+**更新日:** 2024年4月1日
 
 <table class="table is-striped is-hoverable is-fullwidth is-bordered is-size-7-mobile is-size-6-tablet is-size-5-desktop">
   <tbody>

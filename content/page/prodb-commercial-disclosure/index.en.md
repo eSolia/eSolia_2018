@@ -1,7 +1,7 @@
 ---
 author: eSolia
 authorlink: /about
-date: 2024-03-30T10:00:32+09:00
+date: 2024-04-01T10:00:32+09:00
 description: eSolia PROdb - Commercial Disclosure Page 
 draft: false
 slug: prodb-commercial-disclosure
@@ -23,7 +23,7 @@ images:
 
 ## Commercial Disclosure for [PROdb](/prodb)
 
-**Updated:** 30 March 2024  
+**Updated:** 1 April 2024  
 
 <table class="table is-striped is-hoverable is-fullwidth is-bordered is-size-7-mobile is-size-6-tablet is-size-5-desktop">
   <tbody>
