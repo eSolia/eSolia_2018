@@ -50,7 +50,7 @@ images:
     </tr> 
     <tr>
       <th class="has-text-right is-uppercase">Exchanges and Returns Policy</th>
-      <td>An extendable trial period is available while customers test the service. The service is pre-paid per period, but may be cancelled at any time. Refunds are available for unused service in monthly units in the event that more than one (1) month’s worth of fees have been paid in advance. </td>
+      <td>Customers may test the PROdb service on single database at no cost, and the trial period may be extended. While the service is pre-paid per period, it may be cancelled at any time. Refunds are available for unused service, in monthly units, in the event that more than one (1) month’s worth of fees have been paid in advance. </td>
     </tr>     
     <tr>
       <th class="has-text-right is-uppercase">Delivery Times</th>
@@ -62,7 +62,7 @@ images:
     </tr>  
     <tr>
       <th class="has-text-right is-uppercase">Payment Periods</th>
-      <td>Payment is due prior to usage period, without regard to payment method.</td>
+      <td>Please arrange payment before the deadline indicated on the invoice. No matter the payment method selected, the service may be used once we confirm payment. </td>
     </tr>  
     <tr>
       <th class="has-text-right is-uppercase">Pricing for [PROdb](/prodb)</th>
@@ -76,6 +76,7 @@ images:
       <th class="has-text-right is-uppercase">Additional Fees</th>
       <td>Japan Consumption Tax - 10% as of April 2024<br>
       Surcharge for Credit Card Usage - 4%<br>
+      Customer is responsible for any fees associated with local bank wire transfers.
       </td>
     </tr>  
   </tbody>
