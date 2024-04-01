@@ -75,7 +75,7 @@ images:
     <tr>
       <th class="has-text-right is-uppercase">追加手数料等の追加料金</th>
       <td>消費税 - 10%<br>
-      カード払い手数料 - 4%<br>
+      カード払い手数料 <sup>※</sup> - 4%<br>
       ※ 国内銀行振込をご利用の場合、お客様にて振込手数料のご負担をお願いいたします。
       </td>
     </tr> 
