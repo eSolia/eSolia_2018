@@ -1,5 +1,5 @@
 +++
-date = "2024-01-11T10:59:16+09:00"
+date = "2024-04-26T7:59:16+09:00"
 draft = "false"
 tags = ["eSolia"]
 title = "eSolia Bilingual IT Outsourcing"
@@ -9,7 +9,11 @@ title = "eSolia Bilingual IT Outsourcing"
 +++
 
 <!-- <span class="tag is-danger is-large">eSolia will be on Holiday through 4 Jan 2024. Happy New Year! 🇯🇵㊗️</span><br><br>   -->
-<span class="tag is-danger is-large">We're back after the New Year break! 🇯🇵🎍</span><br>
+<!-- <span class="tag is-danger is-large">We're back after the New Year break! 🇯🇵🎍</span><br> -->
+
+<span class="tag is-danger is-large">It's the Golden Week Holiday from 29 April to 6 May 2024. Happy GW! 🇯🇵🎏</span><br><br>  
+<!-- <span class="tag is-danger is-large">We're back after the Golden Week break! 🇯🇵🎏</span><br> -->
+
 <!-- <span class="tag is-danger is-large">We're back after Obon Week! 🇯🇵🪷</span><br>  -->
 <!-- <span class="tag is-danger is-large">On Holiday through 16 Aug. Happy Obon Week! 🇯🇵🪷</span><br> -->
 <!-- <a href="/post/20210222-esolia-office-move-to-shiodome/" class="button is-danger is-size-6-mobile is-medium">eSolia Has Moved! 🎉</a> -->
