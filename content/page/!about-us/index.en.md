@@ -40,4 +40,4 @@ We have a [successful track record](/success-stories) of delivering results exec
 
 At eSolia, we sow the seeds that help you build your business on strong IT foundations. [Contact us](/info-request), and let us begin helping your company meet its business commitments today.
 
-<img srcset="/img/eSolia-Logo-Flat-2015.svg" src="/img/eSolia-Logo-Flat-2015.png" alt="eSolia Logo" width="80%">
+<img srcset="/img/eSolia-Logo-Flat-2015.svg" src="/img/logo_horiz_darkblue_bgtransparent 2_web.png" alt="eSolia Logo" width="80%">
