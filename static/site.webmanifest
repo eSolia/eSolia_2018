@@ -1,5 +1,5 @@
 {
-    "name": "eSolia",
+    "name": "eSolia Inc.",
     "short_name": "eSolia",
     "icons": [
         {
@@ -50,6 +50,6 @@
     ],
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
-    "start_url": "https://esolia.com",
+    "start_url": "https://esolia.co.jp/",
     "display": "standalone"
 }
