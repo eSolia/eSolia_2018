@@ -38,4 +38,4 @@ menu:
 
 確固たる信念・そして基盤を持つイソリアに[是非ともご相談下さい](/info-request)。貴社のビジネスを支えるITシステムが、より一層力強い土台となるようお手伝いいたします。貴社との末永い関係を社員一同心待ちにしております。
 
-<img srcset="/img/eSolia-Logo-Flat-2015.svg" src="/img/logo_horiz_darkblue_bgtransparent 2_web.png" alt="eSolia Logo" width="80%">
+<img srcset="/img/logo_horiz_darkblue_bgtransparent.svg" src="/img/logo_horiz_darkblue_bgtransparent 2_web.png" alt="eSolia Logo" width="80%">
