@@ -19,7 +19,7 @@ tags:
 topics:
   - 成功事例
 images:  
-  - /img/eSolia-Chicklet-Color-1024px.png
+  - /img/symbol_darkblue_bgtransparent 2_web.png
 formcheckboxes:
   - ウェブ開発
 gallery_id: dummy

@@ -32,7 +32,7 @@ images:
   - /img/eSolia-Post-Slider-Helpdesk-01.png
   - /img/eSolia-Post-Slider-Helpdesk-02.png
   - /img/eSolia-Post-Slider-Helpdesk-03.jpg
-  - /img/eSolia-Chicklet-Color-1024px.png
+  - /img/symbol_darkblue_bgtransparent 2_web.png
 resources:
   - src: eSolia-Post-Slider-Helpdesk-01.png
     title: PROdb 新規チケット画面

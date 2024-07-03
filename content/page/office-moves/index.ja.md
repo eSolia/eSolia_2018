@@ -30,7 +30,7 @@ images:
   - /img/eSolia-Post-Slider-Office-Moves-03.jpg
   - /img/eSolia-Post-Slider-Office-Moves-04.jpg
   - /img/eSolia-Post-Slider-Office-Moves-05.jpg
-  - /img/eSolia-Chicklet-Color-1024px.png
+  - /img/symbol_darkblue_bgtransparent 2_web.png
 resources:
   - src: eSolia-Post-Slider-Office-Moves-01.jpg
     title: IP デスクフォン

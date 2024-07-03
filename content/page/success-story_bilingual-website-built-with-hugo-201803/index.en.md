@@ -23,7 +23,7 @@ tags:
 topics:
   - Success Stories
 images:  
-  - /img/eSolia-Chicklet-Color-1024px.png
+  - /img/symbol_darkblue_bgtransparent 2_web.png
 formcheckboxes:
   - Website
 gallery_id: 109989173467424472552

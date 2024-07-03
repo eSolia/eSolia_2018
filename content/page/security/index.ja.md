@@ -31,7 +31,7 @@ images:
   - /img/eSolia-Post-Slider-Security-02.jpg
   - /img/eSolia-Post-Slider-Security-03.jpg
   - /img/eSolia-Post-Slider-Security-04.jpg  
-  - /img/eSolia-Chicklet-Color-1024px.png
+  - /img/symbol_darkblue_bgtransparent 2_web.png
 resources:
   - src: eSolia-Post-Slider-Security-01.jpg
     title: 耐震システムラック

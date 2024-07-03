@@ -17,7 +17,7 @@ topics:
   - Summary
 images:
   - /img/eSolia-Post-Our-Solutions-Your-Challenges.png
-  - /img/eSolia-Chicklet-Color-1024px.png
+  - /img/symbol_darkblue_bgtransparent 2_web.png
 formcheckboxes:
   - Office move
   - Helpdesk

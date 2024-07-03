@@ -18,7 +18,7 @@ topics:
   - サマリー
 images:
   - /img/eSolia-Post-Our-Solutions-Your-Challenges.jp.png
-  - /img/eSolia-Chicklet-Color-1024px.png
+  - /img/symbol_darkblue_bgtransparent 2_web.png
 formcheckboxes:
   - オフィス構築
   - ヘルプデスク

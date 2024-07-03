@@ -24,7 +24,7 @@ authors:
   - イソリア
 images:
   - /img/eSolia-Post-Windows-10_orange.jpg
-  - /img/eSolia-Chicklet-Color-1024px.png
+  - /img/symbol_darkblue_bgtransparent 2_web.png
 ---
 
 {{< blogbox >}}

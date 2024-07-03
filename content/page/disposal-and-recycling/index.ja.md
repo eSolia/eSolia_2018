@@ -22,7 +22,7 @@ series:
 topics:
   - アウトソーシング
 images:
-  - /img/eSolia-Chicklet-Color-1024px.png
+  - /img/symbol_darkblue_bgtransparent 2_web.png
 formcheckboxes:
 - 廃棄処理
 gallery_idNO: 6159794668058542529

@@ -15,7 +15,7 @@ topics:
   - Summary
 images:
   - /img/eSolia-Post-Our-Solutions-Your-Challenges.png
-  - /img/eSolia-Chicklet-Color-1024px.png
+  - /img/symbol_darkblue_bgtransparent 2_web.png
 aliases:
   - /services/svc-sa/svc-sa-cnsl/
   - /services/svc-sa-cnsl.htm

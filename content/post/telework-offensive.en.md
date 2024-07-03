@@ -24,7 +24,7 @@ authors:
   - Ena Ishikawa
 images:
   - /img/eSolia-Post-Telework-01.png
-  - /img/eSolia-Chicklet-Color-1024px.png
+  - /img/symbol_darkblue_bgtransparent 2_web.png
 ---
 
 {{< blogbox >}}

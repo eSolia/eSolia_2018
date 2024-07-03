@@ -38,7 +38,7 @@ images:
   - /img/eSolia-Post-Slider-Home-Setup-01.jpg
   - /img/eSolia-Post-Slider-Home-Setup-02.jpg
   - /img/eSolia-Post-Slider-Home-Setup-03.jpg
-  - /img/eSolia-Chicklet-Color-1024px.png
+  - /img/symbol_darkblue_bgtransparent 2_web.png
 resources:
   - src: eSolia-Post-Slider-Home-Setup-01.jpg
     title: ブロードバンドルーター

@@ -32,7 +32,7 @@ images:
   - /img/eSolia-Post-Slider-Power-Outage-01.jpg
   - /img/eSolia-Post-Slider-Power-Outage-02.jpg
   - /img/eSolia-Post-Slider-Power-Outage-03.jpg
-  - /img/eSolia-Chicklet-Color-1024px.png
+  - /img/symbol_darkblue_bgtransparent 2_web.png
 formcheckboxes:
   - 定期停電ITシステム管理
 gallery_id: 6159794668058542529

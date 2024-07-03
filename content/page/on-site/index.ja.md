@@ -30,7 +30,7 @@ images:
   - /img/eSolia-Post-Slider-Onsite-01.jpg
   - /img/eSolia-Post-Slider-Onsite-02.jpg
   - /img/eSolia-Post-Slider-Onsite-03.jpg
-  - /img/eSolia-Chicklet-Color-1024px.png
+  - /img/symbol_darkblue_bgtransparent 2_web.png
 resources:
   - src: eSolia-Post-Slider-Onsite-01.jpg
     title: PCの設定、アップグレード

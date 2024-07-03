@@ -19,7 +19,7 @@ topics:
   - イソリア
   - eSolia
 images:
-  - /img/eSolia-Chicklet-Color-1024px.png
+  - /img/symbol_darkblue_bgtransparent 2_web.png
 aliases:
   - /request-info
   - /esolia-info-request

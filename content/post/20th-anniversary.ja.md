@@ -20,7 +20,7 @@ authors:
   - イソリア
 images:
   - /img/eSolia-20th-Lozenge-2019.png
-  - /img/eSolia-Chicklet-Color-1024px.png
+  - /img/symbol_darkblue_bgtransparent 2_web.png
 ---
 
 {{< blogbox >}}

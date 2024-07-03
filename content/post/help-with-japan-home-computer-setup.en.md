@@ -26,7 +26,7 @@ topics:
 authors:
   - Rick Cogley
 images:
-  - /img/eSolia-Chicklet-Color-1024px.png  
+  - /img/symbol_darkblue_bgtransparent 2_web.png  
 ---
 
 {{< blogbox >}}

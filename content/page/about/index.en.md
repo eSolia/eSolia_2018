@@ -20,7 +20,7 @@ title: About eSolia Inc.
 topics:
   - eSolia
 images:
-  - /img/eSolia-Chicklet-Color-1024px.png
+  - /img/symbol_darkblue_bgtransparent 2_web.png
 aliases:
   - /concept/cpt-vis/
   - /esolia-eng/about.htm

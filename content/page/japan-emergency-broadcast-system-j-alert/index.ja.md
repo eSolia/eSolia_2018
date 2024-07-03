@@ -23,7 +23,7 @@ topics:
   - 日本
 images:
   - /img/eSolia-J-ALERT-Overview.ja.png
-  - /img/eSolia-Chicklet-Color-1024px.png
+  - /img/symbol_darkblue_bgtransparent 2_web.png
 formcheckboxesNO:
   - 全国瞬時警報
 gallery_idNO: 6159794668058542529

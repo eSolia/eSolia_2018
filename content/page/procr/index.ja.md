@@ -38,7 +38,7 @@ images:
   - /img/SIP-PRINT-Logo.png
   - /img/eSolia-Post-Slider-SIP-Print-02.jpg
   - /img/eSolia-Post-Slider-SIP-Print-01.png
-  - /img/eSolia-Chicklet-Color-1024px.png
+  - /img/symbol_darkblue_bgtransparent 2_web.png
 resources:
   - src: eSolia-Post-Slider-SIP-Print-01.png
     title: 様々なプラットフォームをサポート

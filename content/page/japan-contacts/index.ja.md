@@ -21,7 +21,7 @@ tags:
 topics:
   - 日本
 images:
-  - /img/eSolia-Chicklet-Color-1024px.png
+  - /img/symbol_darkblue_bgtransparent 2_web.png
 menu:
   disastersub:
     Name: 日本緊急連絡先

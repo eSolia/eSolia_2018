@@ -32,7 +32,7 @@ images:
   - /img/eSolia-Post-Slider-Infra-03.jpg
   - /img/eSolia-Post-Slider-Infra-04.jpg
   - /img/eSolia-Post-Slider-Infra-05.jpg
-  - /img/eSolia-Chicklet-Color-1024px.png
+  - /img/symbol_darkblue_bgtransparent 2_web.png
 resources:
   - src: eSolia-Post-Slider-Infra-01.jpg
     title: System rack

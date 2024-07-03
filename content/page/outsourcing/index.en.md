@@ -16,7 +16,7 @@ topics:
 images:
   - /img/eSolia-Post-Outsource-Benefits-en.gif
   - /img/eSolia-Post-Our-Solutions-Your-Challenges-2.png
-  - /img/eSolia-Chicklet-Color-1024px.png
+  - /img/symbol_darkblue_bgtransparent 2_web.png
 aliases:
   - /services/svc-sa/svc-sa-out/
 formcheckboxes:

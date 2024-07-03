@@ -22,7 +22,7 @@ tags:
 topics:
   - 成功事例
 images:  
-  - /img/eSolia-Chicklet-Color-1024px.png
+  - /img/symbol_darkblue_bgtransparent 2_web.png
 formcheckboxes:
   - ソフト開発
 gallery_id: 109989173467424472552

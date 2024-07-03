@@ -23,7 +23,7 @@ authors:
   - Hidekazu Maezono
 images:
   - /img/eSolia-Post-Bill-Shock-01.jpg
-  - /img/eSolia-Chicklet-Color-1024px.png
+  - /img/symbol_darkblue_bgtransparent 2_web.png
 ---
 
 {{< blogbox >}}

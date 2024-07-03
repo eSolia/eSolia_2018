@@ -20,7 +20,7 @@ tags:
 topics:
   - Success Stories
 images:  
-  - /img/eSolia-Chicklet-Color-1024px.png
+  - /img/symbol_darkblue_bgtransparent 2_web.png
 formcheckboxes:
   - Due Diligence for M&A
   - ERP assessment

@@ -21,7 +21,7 @@ authors:
   - Ena Ishikawa
 images:
   - /img/eSolia-Post-Have-You-Tried-Restarting.gif
-  - /img/eSolia-Chicklet-Color-1024px.png
+  - /img/symbol_darkblue_bgtransparent 2_web.png
 ---
 
 {{< blogbox >}}

@@ -14,7 +14,7 @@ title: About eSolia
 topics:
   - Summary
 images:
-  - /img/eSolia-Chicklet-Color-1024px.png
+  - /img/symbol_darkblue_bgtransparent 2_web.png
 aliases:
   - /concept
 menu:

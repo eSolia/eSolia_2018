@@ -36,7 +36,7 @@ images:
   - /img/eSolia-Post-Slider-PROdb-07.png
   - /img/eSolia-Post-Slider-PROdb-08.png
   - /img/eSolia-Post-Slider-PROdb-09.png 
-  - /img/eSolia-Chicklet-Color-1024px.png
+  - /img/symbol_darkblue_bgtransparent 2_web.png
 resources:
   - src: eSolia-Post-Slider-PROdb-01.png
     title: PROdb welcome dash

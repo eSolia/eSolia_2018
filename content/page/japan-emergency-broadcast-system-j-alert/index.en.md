@@ -21,7 +21,7 @@ topics:
   - Japan
 images:
   - /img/eSolia-J-ALERT-Overview.en.png
-  - /img/eSolia-Chicklet-Color-1024px.png
+  - /img/symbol_darkblue_bgtransparent 2_web.png
 formcheckboxesNO:
   - Disaster Management
 gallery_idNO: 6159794668058542529

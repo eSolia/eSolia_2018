@@ -33,7 +33,7 @@ images:
   - /img/eSolia-Post-Slider-Process-01.png
   - /img/eSolia-Post-Slider-Process-02.png
   - /img/eSolia-Post-Slider-Process-03.png
-  - /img/eSolia-Chicklet-Color-1024px.png
+  - /img/symbol_darkblue_bgtransparent 2_web.png
 resources:
   - src: eSolia-Post-Slider-Process-01.png
     title: 新規プロジェクトスケジュール

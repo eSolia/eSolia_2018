@@ -26,7 +26,7 @@ topics:
   - eSolia
 images:
   - /img/eSolia-Post-Slider-Management-02.png
-  - /img/eSolia-Chicklet-Color-1024px.png
+  - /img/symbol_darkblue_bgtransparent 2_web.png
 aliases:
   - /work-at-esolia
 menu:

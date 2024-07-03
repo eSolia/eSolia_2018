@@ -19,7 +19,7 @@ authors:
   - イソリア
 images:
   - /img/eSolia-Post-Security-vs-Convenience.png
-  - /img/eSolia-Chicklet-Color-1024px.png
+  - /img/symbol_darkblue_bgtransparent 2_web.png
 ---
 
 {{< blogbox >}}

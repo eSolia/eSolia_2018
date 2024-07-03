@@ -21,7 +21,7 @@ topics:
   - eSolia
 layout: about
 images:
-  - /img/eSolia-Chicklet-Color-1024px.png
+  - /img/symbol_darkblue_bgtransparent 2_web.png
 formcheckboxes:
   - Office move
   - Helpdesk

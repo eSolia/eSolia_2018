@@ -15,11 +15,11 @@ title: 有難うございます
 topics:
   - お問い合わせ
 images:
-  - /img/eSolia-Chicklet-Color-1024px.png
+  - /img/symbol_darkblue_bgtransparent 2_web.png
 ---
 
 <div class="image-container">
-<img class="materialboxed right responsive-img" data-caption="Security vs Convenience" width="100" src="/img/eSolia-Chicklet-Color-1024px.png">
+<img class="materialboxed right responsive-img" data-caption="Security vs Convenience" width="100" src="/img/symbol_darkblue_bgtransparent 2_web.png">
 </div>
 
 ## お問い合わせを承りました
