@@ -11,7 +11,7 @@ title = "eSolia Bilingual IT Outsourcing"
 <!-- <span class="tag is-danger is-large">12月28日から1月4日まで年末年始休暇中。あけましておめでとうございます！ 🇯🇵㊗️</span><br><br>   -->
 <!-- <span class="tag is-danger is-large">年末年始休暇後、業務再開いたしました! 🇯🇵🎍</span><br> -->
 
-<span class="tag is-danger is-large">4月29日から5月6日まで、ゴールデンウィーク休暇中。Happy GW! 🇯🇵🎏</span><br><br>  
+<!-- <span class="tag is-danger is-large">4月29日から5月6日まで、ゴールデンウィーク休暇中。Happy GW! 🇯🇵🎏</span><br><br>   -->
 <!-- <span class="tag is-danger is-large">ゴールデンウィーク休暇後、業務再開いたしました! 🇯🇵🎏</span><br> -->
 
 <!-- <span class="tag is-danger is-large">8月16日までお盆休暇中。🇯🇵🪷</span><br> -->
