@@ -20,7 +20,7 @@ title = "eSolia Bilingual IT Outsourcing"
 <!-- <span class="tag is-danger is-large">To promote a paperless environment, eSolia is issuing commercial papers </span> -->
 <!-- <span class="tag is-danger is-large">such as quotes and invoices or reports in PDF format via email only. </span> -->
 <!-- <span class="tag is-danger is-large">We appreciate your understanding and cooperation in this matter. ♻️</span> -->
-<span class="tag is-danger is-large">Celebrating our 25th Anniversary on 7/7! 🥳</span>
+<span class="tag is-danger is-large">Celebrating our 25th Anniversary on 7/7! 🥳</span><br>
 <span class="tag is-danger is-large">Extending our Heartfelt Thanks!</span>
 
 <span class="tag is-danger is-large">ISO 27001 ISMS&nbsp;<a href="https://esolia.pro/ismsexecmemo" class="has-text-esolia-yellow-2">executive support statement</a>&nbsp;and&nbsp;<a href="https://esolia.pro/basesecpol" class="has-text-esolia-yellow-2">base security policy</a>&nbsp;🚀</span>

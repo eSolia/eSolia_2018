@@ -22,7 +22,7 @@ title = "eSolia Bilingual IT Outsourcing"
 <!-- <span class="tag is-danger is-large">レポートなどのPDFをメールの配信のみとさせて頂いております。</span> -->
 <!-- <span class="tag is-danger is-large">ご理解、ご協力の程、誠にありがとうございます。♻️</span> -->
 
-<span class="tag is-danger is-large">お陰様でイソリアは、7月7日に25周年を迎えることになります。 🥳</span>
+<span class="tag is-danger is-large">お陰様でイソリアは、7月7日に25周年を迎えることになります。 🥳</span><br>
 <span class="tag is-danger is-large">心より感謝しております。</span>
 
 <span class="tag is-danger is-large">弊社の ISO 27001に基づく <a href="https://esolia.pro/ismsexecmemo" class="has-text-esolia-yellow-2"> ISMSの実施の宣言メモ </a> 及び <a href="https://esolia.pro/basesecpol" class="has-text-esolia-yellow-2"> 情報セキュリティ基本⽅針書 </a> 🚀</span>
