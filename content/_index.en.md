@@ -20,10 +20,12 @@ title = "eSolia Bilingual IT Outsourcing"
 <!-- <span class="tag is-danger is-large">To promote a paperless environment, eSolia is issuing commercial papers </span> -->
 <!-- <span class="tag is-danger is-large">such as quotes and invoices or reports in PDF format via email only. </span> -->
 <!-- <span class="tag is-danger is-large">We appreciate your understanding and cooperation in this matter. ♻️</span> -->
+<span class="tag is-danger is-large">Celebrating our 25th Anniversary on 7/7! 🥳</span>
+<span class="tag is-danger is-large">Extending our Heartfelt Thanks!</span>
 
 <span class="tag is-danger is-large">ISO 27001 ISMS&nbsp;<a href="https://esolia.pro/ismsexecmemo" class="has-text-esolia-yellow-2">executive support statement</a>&nbsp;and&nbsp;<a href="https://esolia.pro/basesecpol" class="has-text-esolia-yellow-2">base security policy</a>&nbsp;🚀</span>
 
 
 <br><br>
-<i>Rely on eSolia to act as your virtual Japan IT department. Our professionals speak multiple languages, and have a wide range of IT skills to cover your needs. Thanks to you, we passed our <span class="has-text-esolia-yellow-2">24th Anniversary</span> on 7th July, and we are aiming for many more years in business. Trust us with your projects, and leverage our experience to help you succeed in Japan!</i> <br><br>
-Our sincere thoughts are with all of those who have been impacted by the global COVID-19 pandemic. [Read More](/post/covid-19-state-of-emergency-4/) about how we are providing support in the meantime.  
+<i>Rely on eSolia to act as your virtual Japan IT department. Our professionals speak multiple languages, and have a wide range of IT skills to cover your needs. Thanks to each of you, we will successfully pass our <span class="has-text-esolia-yellow-2">25th Anniversary</span> on 7th July, and are aiming for many more years in business. Trust us with your projects, and leverage our experience to help you succeed in Japan!</i> <br><br>
+ 
