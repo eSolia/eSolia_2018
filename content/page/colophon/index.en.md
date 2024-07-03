@@ -41,7 +41,7 @@ images:
 ## History
 
 <figure class="image is-128x128 is-pulled-left is-hidden-mobile">
-<img class="" data-caption="eSolia Logo" alt="Graphic of the eSolia Chicklet Logo" src="/img/eSolia-Chicklet-Color.svg" >
+<img class="" data-caption="eSolia Logo" alt="Graphic of the eSolia Chicklet Logo" src="/img/symbol_darkblue_bgtransparent 2.svg" >
 </figure>
 
 As they say, we "[stand on the shoulders of giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants "Wikipedia article about etymology of standing on the shoulders of giants")", and this site is certainly no exception. We have built previous eSolia sites in Rapidweaver, Wordpress and Typo3, and the last one using Hugo. 
@@ -49,7 +49,7 @@ As they say, we "[stand on the shoulders of giants](https://en.wikipedia.org/wik
 Other systems have their pluses of course, but for various reasons, each previous system we have used has had some fragility related to matters like upgrades or dependencies.
 
 <figure class="image is-256x256 is-hidden-tablet">
-<img class="" data-caption="eSolia Logo" alt="Graphic of the eSolia Chicklet Logo" src="/img/eSolia-Chicklet-Color.svg" >
+<img class="" data-caption="eSolia Logo" alt="Graphic of the eSolia Chicklet Logo" src="/img/symbol_darkblue_bgtransparent 2.svg" >
 </figure>
 
 ## Static Site Generators

@@ -57,13 +57,13 @@ menu:
 ### About eSolia: Our Vision
 
 <figure class="image is-128x128 is-pulled-left is-hidden-mobile">
-<img class="" data-caption="eSolia Logo" alt="Graphic of the eSolia Chicklet Logo" src="/img/eSolia-Chicklet-Color.svg" >
+<img class="" data-caption="eSolia Logo" alt="Graphic of the eSolia Chicklet Logo" src="/img/symbol_darkblue_bgtransparent 2.svg" >
 </figure>
 
 As a leader in our market for outsourced IT services, eSolia's vision is to consistently provide our clients with comprehensive, exemplary IT services unbiased by maker affiliation, designed and delivered with a keen awareness of business and culture. 
 
 <figure class="image is-256x256 is-hidden-tablet">
-<img class="" data-caption="eSolia Logo" alt="Graphic of the eSolia Chicklet Logo" src="/img/eSolia-Chicklet-Color.svg" >
+<img class="" data-caption="eSolia Logo" alt="Graphic of the eSolia Chicklet Logo" src="/img/symbol_darkblue_bgtransparent 2.svg" >
 </figure>
 
 Acting with the highest standards of ethics, professionalism and integrity, eSolia experts will help you grow the foundation for your business success.

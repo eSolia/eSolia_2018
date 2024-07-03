@@ -54,13 +54,13 @@ menu:
 ### ビジョン
 
 <figure class="image is-128x128 is-pulled-left is-hidden-mobile">
-<img class="" data-caption="イソリアロゴ" alt="イソリアロゴ画像" src="/img/eSolia-Chicklet-Color.svg" >
+<img class="" data-caption="イソリアロゴ" alt="イソリアロゴ画像" src="/img/symbol_darkblue_bgtransparent 2.svg" >
 </figure>
 
 イソリアが掲げるITサービスのビジョンは、ITアウトソーシング・ビジネスのマーケットリーダーとして、ビジネス・文化・即時性に対する強い認識を持ち、「分かりやすく」かつ「他の手本となる」ITサービスをお客様に提供することです。
 
 <figure class="image is-256x256 is-hidden-tablet">
-<img class="" data-caption="イソリアロゴ" alt="イソリアロゴ画像" src="/img/eSolia-Chicklet-Color.svg" >
+<img class="" data-caption="イソリアロゴ" alt="イソリアロゴ画像" src="/img/symbol_darkblue_bgtransparent 2.svg" >
 </figure>
 
 イソリアはプロフェッショナルとして、「倫理」「プロフェッショナリズム」「完全性」において高水準を保ちます。また特定の機器製造メーカーと提携関係を持たないことによって、考えられる限りの幅広い選択肢の中からお客様にとって最適なサービスを提案いたします。
