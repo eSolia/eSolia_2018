@@ -28,13 +28,13 @@ jobs:
 
     steps:
       - name: Clone repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           submodules: true # Fetch Hugo themes (true or recursive)
           fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
 
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+        uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: 'latest' # May fail if there's a breaking change, but just check logs for errors
           extended: 'true' # Need extended for anything fancy
@@ -58,7 +58,7 @@ jobs:
             rm -rf static/eSolia-Japan-Emergency-Contacts.ja.csv
             curl -k "https://pro.dbflex.net/secure/api/v2/15331/$PRODBTOKEN15331/Web%20Japan%20Contact%20and%20App/API%20List%20for%20CSV/select.csv" -o static/eSolia-Japan-Emergency-Contacts.en.csv
             curl -k "https://pro.dbflex.net/secure/api/v2/15331/$PRODBTOKEN15331/Web%20Japan%20Contact%20and%20App/API%20List%20for%20CSV%E2%80%A1/select.csv" -o static/eSolia-Japan-Emergency-Contacts.ja.csv
-            echo "=BUILD=" && hugo --panicOnWarning --gc --minify --verbose --ignoreCache -v -e=${{ github.ref_name || github.base_ref }}
+            echo "=BUILD=" && hugo --panicOnWarning --gc --minify --logLevel info --ignoreCache -v -e=${{ github.ref_name || github.base_ref }}
 
       - name: Check folder contents and output
         run: |
