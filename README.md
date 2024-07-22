@@ -1,6 +1,6 @@
 # eSolia Inc English & Japanese Sites
 
-README for our English <https://esolia.com> & 日本語 <https://esolia.co.jp> sites.
+README for our English <https://esolia.com> & 日本語 <https://esolia.co.jp> sites.　
  
 Circle CI Status: [![CircleCI](https://circleci.com/gh/RickCogley/eSolia_2018.svg?style=svg)](https://circleci.com/gh/RickCogley/eSolia_2018)
 
