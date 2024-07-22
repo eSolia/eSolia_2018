@@ -170,7 +170,7 @@
                         {{ $token := getenv "PRODBTOKEN15331" }}
                         {{ $bearertoken := printf "Bearer %s" $token }}
                         {{ $urlPre := "https://pro.dbflex.net" }}
-                        {{ $newsE := resources.GetRemote $urlPre "/secure/api/v2/15331/Web%20Information/API%20List%20All%20EN/select.json" (dict "Authorization" $bearertoken) }}
+                        {{ $newsE := resources.GetRemote "https://pro.dbflex.net/secure/api/v2/15331/Web%20Information/API%20List%20All%20EN/select.json" (dict "Authorization" $bearertoken) }}
                         {{ range first 8 $newsE }}
                            <tr>
                              <th class="has-text-right" style="white-space: nowrap;">{{ .Date }}</th>
