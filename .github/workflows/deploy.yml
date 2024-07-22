@@ -36,7 +36,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: 'latest' # May fail if there's a breaking change, but just check logs for errors
+          hugo-version: '0.122.0' # May fail if there's a breaking change, but just check logs for errors
           extended: 'true' # Need extended for anything fancy
       - name: Check
         run: |
