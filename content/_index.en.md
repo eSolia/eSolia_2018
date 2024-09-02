@@ -14,8 +14,8 @@ title = "eSolia Bilingual IT Outsourcing"
 <!-- <span class="tag is-danger is-large">It's the Golden Week Holiday from 29 April to 6 May 2024. Happy GW! 🇯🇵🎏</span><br><br>   -->
 <!-- <span class="tag is-danger is-large">We're back after the Golden Week break! 🇯🇵🎏</span><br> -->
 
-<!-- <span class="tag is-danger is-large">We're back after Obon Week! 🇯🇵🪷</span><br>  -->
-<span class="tag is-danger is-large">Obon Holiday 13-16 Aug. Happy Obon Week! 🇯🇵🪷</span><br>
+<span class="tag is-danger is-large">We're back after Obon Week! 🇯🇵🪷</span><br> 
+<!-- <span class="tag is-danger is-large">Obon Holiday 13-16 Aug. Happy Obon Week! 🇯🇵🪷</span><br> -->
 <!-- <a href="/post/20210222-esolia-office-move-to-shiodome/" class="button is-danger is-size-6-mobile is-medium">eSolia Has Moved! 🎉</a> -->
 <!-- <span class="tag is-danger is-large">To promote a paperless environment, eSolia is issuing commercial papers </span> -->
 <!-- <span class="tag is-danger is-large">such as quotes and invoices or reports in PDF format via email only. </span> -->
