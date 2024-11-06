@@ -14,7 +14,7 @@ title = "eSolia Bilingual IT Outsourcing"
 <!-- <span class="tag is-danger is-large">It's the Golden Week Holiday from 29 April to 6 May 2024. Happy GW! 🇯🇵🎏</span><br><br>   -->
 <!-- <span class="tag is-danger is-large">We're back after the Golden Week break! 🇯🇵🎏</span><br> -->
 
-<span class="tag is-danger is-large">We're back after Obon Week! 🇯🇵🪷</span><br> 
+<!-- <span class="tag is-danger is-large">We're back after Obon Week! 🇯🇵🪷</span><br>  -->
 <!-- <span class="tag is-danger is-large">Obon Holiday 13-16 Aug. Happy Obon Week! 🇯🇵🪷</span><br> -->
 <!-- <a href="/post/20210222-esolia-office-move-to-shiodome/" class="button is-danger is-size-6-mobile is-medium">eSolia Has Moved! 🎉</a> -->
 <!-- <span class="tag is-danger is-large">To promote a paperless environment, eSolia is issuing commercial papers </span> -->
@@ -22,6 +22,7 @@ title = "eSolia Bilingual IT Outsourcing"
 <!-- <span class="tag is-danger is-large">We appreciate your understanding and cooperation in this matter. ♻️</span> -->
 <!-- <span class="tag is-danger is-large">25th Anniversary on 7/7! 🥳</span><br> -->
 <!-- <span class="tag is-danger is-large">Extending our Heartfelt Thanks!</span> -->
+<span class="tag is-danger is-large">PROdb Maintenance: Sun 10 Nov from 18:00 JST</span><br>
 
 <span class="tag is-danger is-large">ISO 27001 ISMS&nbsp;<a href="https://esolia.pro/ismsexecmemo" class="has-text-esolia-yellow-2">executive support statement</a>&nbsp;and&nbsp;<a href="https://esolia.pro/basesecpol" class="has-text-esolia-yellow-2">base security policy</a>&nbsp;🚀</span>
 
