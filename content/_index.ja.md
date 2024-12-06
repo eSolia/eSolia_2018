@@ -1,5 +1,5 @@
 +++
-date = "2024-11-06T7:59:16+09:00"
+date = "2024-12-06T12:59:16+09:00"
 draft = "false"
 tags = ["イソリア"]
 title = "eSolia Bilingual IT Outsourcing"
@@ -8,7 +8,7 @@ title = "eSolia Bilingual IT Outsourcing"
   Priority = "1"
 +++
 
-<!-- <span class="tag is-danger is-large">12月28日から1月4日まで年末年始休暇中。あけましておめでとうございます！ 🇯🇵㊗️</span><br><br>   -->
+<span class="tag is-danger is-large">12月27日から1月5日まで年末年始休暇中。あけましておめでとうございます！ 🇯🇵㊗️</span><br><br>  
 <!-- <span class="tag is-danger is-large">年末年始休暇後、業務再開いたしました! 🇯🇵🎍</span><br> -->
 
 <!-- <span class="tag is-danger is-large">4月29日から5月6日まで、ゴールデンウィーク休暇中。Happy GW! 🇯🇵🎏</span><br><br>   -->
@@ -25,7 +25,7 @@ title = "eSolia Bilingual IT Outsourcing"
 <!-- <span class="tag is-danger is-large">お陰様でイソリアは、</span><br> -->
 <!-- <span class="tag is-danger is-large">7月7日に25周年を迎えることになります。 🥳</span><br> -->
 <!-- <span class="tag is-danger is-large">心より感謝しております。</span> -->
-<span class="tag is-danger is-large">PROdbメンテのお知らせ: 11月10日（日曜）、日本時間18:00より</span><br>
+<!-- <span class="tag is-danger is-large">PROdbメンテのお知らせ: 11月10日（日曜）、日本時間18:00より</span><br> -->
 
 <span class="tag is-danger is-large">弊社の ISO 27001に基づく <a href="https://esolia.pro/ismsexecmemo" class="has-text-esolia-yellow-2"> ISMSの実施の宣言メモ </a> 及び <a href="https://esolia.pro/basesecpol" class="has-text-esolia-yellow-2"> 情報セキュリティ基本⽅針書 </a> 🚀</span>
 
