@@ -1,5 +1,5 @@
 +++
-date = "2025-01-06T08:59:16+09:00"
+date = "2025-05-07T08:59:16+09:00"
 draft = "false"
 tags = ["イソリア"]
 title = "eSolia Bilingual IT Outsourcing"
@@ -9,8 +9,8 @@ title = "eSolia Bilingual IT Outsourcing"
 +++
 
 <!-- <span class="tag is-danger is-large">12月27日から1月5日まで年末年始休暇中。あけましておめでとうございます！ 🇯🇵㊗️</span><br><br>   -->
-<span class="tag is-danger is-large">年末年始休暇後、業務再開いたしました! 🇯🇵🎍</span><br>
-
+<!-- <span class="tag is-danger is-large">年末年始休暇後、業務再開いたしました! 🇯🇵🎍</span><br> -->
+<span class="tag is-danger is-large">ゴールデンウィーク休暇後、業務再開いたしました！ 🇯🇵🎏</span><br>
 <!-- <span class="tag is-danger is-large">4月29日から5月6日まで、ゴールデンウィーク休暇中。Happy GW! 🇯🇵🎏</span><br><br>   -->
 <!-- <span class="tag is-danger is-large">ゴールデンウィーク休暇後、業務再開いたしました! 🇯🇵🎏</span><br> -->
 

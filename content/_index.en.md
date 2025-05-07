@@ -1,5 +1,5 @@
 +++
-date = "2025-01-06T08:59:16+09:00"
+date = "2025-05-07T08:59:16+09:00"
 draft = "false"
 tags = ["eSolia"]
 title = "eSolia Bilingual IT Outsourcing"
@@ -9,8 +9,8 @@ title = "eSolia Bilingual IT Outsourcing"
 +++
 
 <!-- <span class="tag is-danger is-large">On Holiday from noon 27 Dec through 5 Jan 2025. Happy New Year! 🇯🇵㊗️</span><br><br>   -->
-<span class="tag is-danger is-large">Back after the New Year break! 🇯🇵🎍</span><br><br>
-
+<!-- <span class="tag is-danger is-large">Back after the New Year break! 🇯🇵🎍</span><br><br> -->
+<span class="tag is-danger is-large">Back after the Golden Week Holiday! 🇯🇵🎏</span><br>
 <!-- <span class="tag is-danger is-large">It's the Golden Week Holiday from 29 April to 6 May 2024. Happy GW! 🇯🇵🎏</span><br><br>   -->
 <!-- <span class="tag is-danger is-large">We're back after the Golden Week break! 🇯🇵🎏</span><br> -->
 
