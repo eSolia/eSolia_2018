@@ -24,6 +24,42 @@ app.use(async (ctx, next) => {
   ctx.response.headers.set("Permissions-Policy", "accelerometer=(), ambient-light-sensor=*, autoplay=(self), battery=(self), camera=(), cross-origin-isolated=*, fullscreen=*, geolocation=(self), gyroscope=(), magnetometer=(), microphone=(), midi=(), payment=(), picture-in-picture=(), usb=()");
 });
 
+// Redirect middleware
+app.use(async (ctx, next) => {
+  const path = ctx.request.url.pathname;
+
+  // Specific page redirects
+  const redirects: Record<string, string> = {
+    "/privacy": "https://esolia.co.jp/en/privacy",
+    "/esolia-code-of-conduct": "https://esolia.co.jp/en/coc",
+  };
+
+  if (redirects[path]) {
+    ctx.response.redirect(redirects[path]);
+    ctx.response.status = 301;
+    return; // Stop processing, don't call next()
+  }
+
+  // Homepage redirect
+  if (path === "/") {
+    ctx.response.redirect("https://esolia.co.jp/en/");
+    ctx.response.status = 301;
+    return;
+  }
+
+  // Pages to serve as-is (optional - just document them)
+  // If a file exists, it will be served by the static handler below
+  // Examples: /terms.html, /privacy.html, /legacy-docs/guide.html
+
+  // For catch-all redirect of everything else, uncomment these lines:
+  // ctx.response.redirect(`https://esolia.co.jp/en${path}`);
+  // ctx.response.status = 301;
+  // return;
+
+  // Otherwise, continue to static file handler
+  await next();
+});
+
 app.use(async (ctx) => {
   try {
     await ctx.send({
