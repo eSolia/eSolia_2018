@@ -30,8 +30,8 @@ app.use(async (ctx, next) => {
 
   // Specific page redirects
   const redirects: Record<string, string> = {
-    "/privacy": "https://esolia.co.jp/en/privacy",
-    "/esolia-code-of-conduct": "https://esolia.co.jp/en/coc",
+    "/privacy/": "https://esolia.co.jp/en/privacy",
+    "/esolia-code-of-conduct/": "https://esolia.co.jp/en/coc",
   };
 
   if (redirects[path]) {
