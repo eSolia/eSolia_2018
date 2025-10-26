@@ -28,10 +28,15 @@ app.use(async (ctx, next) => {
 app.use(async (ctx, next) => {
   const path = ctx.request.url.pathname;
 
-  // Specific page redirects
+  // Normalize: remove trailing slash for comparison
+  const normalizedPath = path.endsWith('/') && path.length > 1
+    ? path.slice(0, -1)
+    : path;
+
+  // Specific page redirects NO TRAILING SLASH IN KEYS!
   const redirects: Record<string, string> = {
-    "/privacy/": "https://esolia.co.jp/en/privacy",
-    "/esolia-code-of-conduct/": "https://esolia.co.jp/en/coc",
+    "/privacy": "https://esolia.co.jp/en/privacy",
+    "/esolia-code-of-conduct": "https://esolia.co.jp/en/coc",
   };
 
   if (redirects[path]) {
