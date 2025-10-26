@@ -68,7 +68,7 @@ jobs:
             tree public
             echo "====== STEPS ======"
             echo '${{ toJSON(steps) }}'
-      
+
       - name: Deploy JA site to Deno Deploy
         id: deploy1 # needed to be able to get outputs from this step below
         uses: denoland/deployctl@v1
@@ -93,9 +93,9 @@ jobs:
             echo "====== STEPS ======"
             echo '${{ toJSON(steps) }}'
 
-      - name: Ping Slack esolia-websites channel
-        uses: bryannice/gitactions-slack-notification@2.0.0
-        env:
-          SLACK_INCOMING_WEBHOOK: ${{ secrets.SLACK_INCOMING_WEBHOOK }}
-          SLACK_TITLE: 'Deno Deploy eSolia.com and .co.jp'
-          SLACK_MESSAGE: 'Git Commit: ${{ github.sha }} on ${{ github.ref }} from ${{ github.repository }}. Deployment URL: ${{ steps.deploy.outputs.url }}'
+      # - name: Ping Slack esolia-websites channel
+      #   uses: bryannice/gitactions-slack-notification@2.0.0
+      #   env:
+      #     SLACK_INCOMING_WEBHOOK: ${{ secrets.SLACK_INCOMING_WEBHOOK }}
+      #     SLACK_TITLE: 'Deno Deploy eSolia.com and .co.jp'
+      #     SLACK_MESSAGE: 'Git Commit: ${{ github.sha }} on ${{ github.ref }} from ${{ github.repository }}. Deployment URL: ${{ steps.deploy.outputs.url }}'
