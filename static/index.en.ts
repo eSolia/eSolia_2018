@@ -57,8 +57,8 @@ app.use(async (ctx, next) => {
     "/disposal-and-recycling": "https://esolia.co.jp/en/services/infrastructure/disposal-and-recycling/",
   };
 
-  if (redirects[path]) {
-    ctx.response.redirect(redirects[path]);
+  if (redirects[normalizedPath]) {
+    ctx.response.redirect(redirects[normalizedPath]);
     ctx.response.status = 301;
     return; // Stop processing, don't call next()
   }
