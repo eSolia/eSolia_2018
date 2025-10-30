@@ -35,8 +35,26 @@ app.use(async (ctx, next) => {
 
   // Specific page redirects NO TRAILING SLASH IN KEYS!
   const redirects: Record<string, string> = {
-    "/privacy": "https://esolia.co.jp/en/privacy",
+    "/about-us": "https://esolia.co.jp/en/about/",
+    "/about": "https://esolia.co.jp/en/about/company-overview/",
+    "/why-esolia": "https://esolia.co.jp/en/about/philosophy/",
+    "/employment": "https://esolia.co.jp/en/about/employment/",
     "/esolia-code-of-conduct": "https://esolia.co.jp/en/coc",
+    "/info-request": "https://esolia.co.jp/en/info-request/",
+    "/privacy": "https://esolia.co.jp/en/privacy",
+    "/license": "https://esolia.co.jp/en/license/",
+    "/colophon": "https://esolia.co.jp/en/colophon/",
+    "/services": "https://esolia.co.jp/en/services/",
+    "/sitemap": "https://esolia.co.jp/sitemap.xml",
+    "/solutions": "https://esolia.co.jp/en/solutions/",
+    "/consulting": "https://esolia.co.jp/en/services/consulting/",
+    "/outsourcing": "https://esolia.co.jp/en/services/outsourcing/",
+    "/management": "https://esolia.co.jp/en/services/consulting/project-and-program-management/",
+    "/project-management": "https://esolia.co.jp/en/services/consulting/project-and-program-management/",
+    "/helpdesk": "https://esolia.co.jp/en/services/helpdesk/",
+    "/infrastructure": "https://esolia.co.jp/en/services/infrastructure/",
+    "/website-design": "https://esolia.co.jp/en/services/website-design/",
+    "/disposal-and-recycling": "https://esolia.co.jp/en/services/infrastructure/disposal-and-recycling/",
   };
 
   if (redirects[path]) {
