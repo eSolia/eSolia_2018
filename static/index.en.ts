@@ -57,7 +57,7 @@ app.use(async (ctx, next) => {
     "/training": "https://esolia.co.jp/en/services/outsourcing/training/",
     "/helpdesk": "https://esolia.co.jp/en/services/outsourcing/helpdesk/",
     "/infrastructure": "https://esolia.co.jp/en/services/infrastructure/",
-    "/security", "https://esolia.co.jp/en/services/infrastructure/physical-security/",
+    "/security": "https://esolia.co.jp/en/services/infrastructure/physical-security/",
     "/telephone": "https://esolia.co.jp/en/services/infrastructure/telephone/",
     "/website-design": "https://esolia.co.jp/en/services/outsourcing/website-design/",
     "/localization": "https://esolia.co.jp/en/services/outsourcing/localization/",
