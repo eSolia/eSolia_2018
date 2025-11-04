@@ -40,7 +40,7 @@ app.use(async (ctx, next) => {
     "/why-esolia": "https://esolia.co.jp/en/about/philosophy/",
     "/employment": "https://esolia.co.jp/en/about/employment/",
     "/esolia-code-of-conduct": "https://esolia.co.jp/en/coc",
-    "/info-request": "https://esolia.co.jp/en/info-request/",
+    "/info-request": "https://esolia.co.jp/en/about/info-request/",
     "/privacy": "https://esolia.co.jp/en/legal/privacy",
     "/license": "https://esolia.co.jp/en/legal/license/",
     "/colophon": "https://esolia.co.jp/en/colophon/",
