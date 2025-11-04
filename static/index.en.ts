@@ -53,6 +53,7 @@ app.use(async (ctx, next) => {
     "/office-moves": "https://esolia.co.jp/en/services/office-moves/",
     "/management": "https://esolia.co.jp/en/services/consulting/project-and-program-management/",
     "/management-team": "https://esolia.co.jp/en/about/team/",
+    "/message-from-esolia": "https://esolia.co.jp/en/about/greetings/",
     "/project-management": "https://esolia.co.jp/en/services/consulting/project-and-program-management/",
     "/process": "https://esolia.co.jp/en/services/consulting/process-management/",
     "/training": "https://esolia.co.jp/en/services/outsourcing/training/",
