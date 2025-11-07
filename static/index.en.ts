@@ -70,6 +70,7 @@ app.use(async (ctx, next) => {
     "/prodb-security-and-privacy": "https://esolia.co.jp/en/solutions/prodb/security-and-privacy/",
     "/prodb-commercial-disclosure": "https://esolia.co.jp/en/solutions/prodb/commercial-disclosure/",
     "/japan-expat-home-setup": "https://esolia.co.jp/en/solutions/japan-expat-home-setup/",
+    "/success-stories": "https://esolia.co.jp/en/success/",
   };
 
   if (redirects[normalizedPath]) {
