@@ -71,6 +71,10 @@ app.use(async (ctx, next) => {
     "/prodb-commercial-disclosure": "https://esolia.co.jp/en/solutions/prodb/commercial-disclosure/",
     "/japan-expat-home-setup": "https://esolia.co.jp/en/solutions/japan-expat-home-setup/",
     "/success-stories": "https://esolia.co.jp/en/success/",
+    "/japan-disaster": "https://esolia.co.jp/en/resources/japan/emergency/",
+    "/japan-contacts": "https://esolia.co.jp/en/resources/japan/contacts/",
+    "/japan-apps": "https://esolia.co.jp/en/resources/japan/apps/",
+    "/japan-emergency-broadcast-system-j-alert/": "https://esolia.co.jp/en/resources/japan/j-alert/",
   };
 
   if (redirects[normalizedPath]) {
